@@ -1,0 +1,4232 @@
+[
+  {
+    "id": "internal_qt_ch03_0001",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "《矛盾论》是关于（ ）的哲学著作",
+    "options": [
+      "A. 唯物辩证法对立统一规律",
+      "B. 唯物辩证法质量互变规律",
+      "C. 唯物辩证法否定之否定规律",
+      "D. 唯物辩证法联系的观点"
+    ],
+    "answer": "A",
+    "explanation": "“《矛盾论》是毛泽东论述马克思主义的唯物辩证法关于矛盾规律的重要哲学著 作。从理论上讲，是对唯物辩证法的对立统一规律的极为系统和深刻的发挥”，在3.1 矛盾论部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0002",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "唯物辩证法最根本的规律是( )",
+    "options": [
+      "A. 质量互变规律",
+      "B. 否定之否定规律",
+      "C. 对立统一规律",
+      "D. 普遍联系规律"
+    ],
+    "answer": "C",
+    "explanation": "“矛盾法则(规律)即对立统一规律，是唯物辩证法最根本的规律，是唯物辩证法 的实质和核心”，出自3.1.1 矛盾论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0003",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "形而上学的发展观认为事物变化的原因是( )",
+    "options": [
+      "A. 事物内部矛盾",
+      "B. 外力推动",
+      "C. 事物自身的运动",
+      "D. 数量的增减和场所的变更"
+    ],
+    "answer": "B",
+    "explanation": "“这种发展观把世界一切事物……如果说有变化，也只是数量的增减和场所的变 更。而这种增减和变更的原因，不在事物的内部而在事物的外部，即是由于外力的推动”， 在3.1.1 矛盾论主要思想中关于形而上学发展观描述部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0004",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "唯物辩证法认为事物发展的根本原因是( )",
+    "options": [
+      "A. 外因",
+      "B. 内因",
+      "C. 内外因共同作用",
+      "D. 环境因素"
+    ],
+    "answer": "B",
+    "explanation": "“唯物辩证法认为外因是变化的条件，内因是变化的根据，外因通过内因而起作 用”，在3.1.1 矛盾论主要思想中关于唯物辩证法发展观部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0005",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "矛盾的普遍性是指( )",
+    "options": [
+      "A. 矛盾存在于部分事物中",
+      "B. 矛盾存在于一切事物和过程中",
+      "C. 矛盾只存在于主观思维中",
+      "D. 矛盾只存在于客观现象中"
+    ],
+    "answer": "B",
+    "explanation": "“按照辩证唯物论的观点看来，矛盾存在于一切客观事物和主观思维的过程中， 矛盾贯穿于一切过程的始终，这是矛盾的普遍性和绝对性”，在3.1.1 矛盾论主要思 想中矛盾的普遍性和特殊性部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0006",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "矛盾的特殊性主要表现在（ ）个方面",
+    "options": [
+      "A. 一",
+      "B. 二",
+      "C. 三",
+      "D. 四"
+    ],
+    "answer": "C",
+    "explanation": "“矛盾的特殊性主要表现在三个方面：①每一种运动形式中的矛盾都具有特殊 性……②每一个事物的发展过程中的矛盾都具有特殊性……③每一个事物中的矛盾及 其不同方面的地位都具有特殊性”，在3.1.1 矛盾论主要思想中矛盾的普遍性和特 殊性部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0007",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在矛盾体系中，起领导作用的矛盾是( )",
+    "options": [
+      "A. 次要矛盾",
+      "B. 主要矛盾",
+      "C. 矛盾的次要方面",
+      "D. 矛盾的主要方面"
+    ],
+    "answer": "B",
+    "explanation": "“在许多矛盾构成的体系中，起领导作用并规定和影响其他矛盾的存在和发展的 是主要矛盾”，在3.1.1 矛盾论主要思想中主要矛盾、主要的矛盾方面和矛盾的诸方 面的同一性部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0008",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "矛盾的主要方面决定( )",
+    "options": [
+      "A. 事物的发展方向",
+      "B. 事物的发展速度",
+      "C. 事物的性质",
+      "D. 事物的变化过程"
+    ],
+    "answer": "C",
+    "explanation": "“矛盾的主要方面指在一个矛盾中起主导作用的方面，它决定了一个事物的性 质”，在3.1.1 矛盾论主要思想中主要矛盾、主要的矛盾方面和矛盾的诸方面的同一 性部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0009",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息系统规划与管理中需求与资源的矛盾是指( )",
+    "options": [
+      "A. 需求少，资源多",
+      "B. 需求多，资源少",
+      "C. 需求稳定，资源变化",
+      "D. 需求和资源都不变"
+    ],
+    "answer": "B",
+    "explanation": "“信息系统规划与管理过程中，需要分析组织当前的内外部环境，为组织分析并 解决如下主要矛盾。●需求与资源的矛盾。组织面临不断变化和增长的用户需求，而 资源有限，如何在有限资源下满足不断变化的需求”，在3.1.2 矛盾论在系统规划 与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0010",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息系统规划与管理中敏态与稳态的矛盾是指( )",
+    "options": [
+      "A. 系统只需要稳定",
+      "B. 系统只需要灵活",
+      "C. 系统需稳定支持业务，又需灵活适应变化",
+      "D. 系统稳定和灵活都不需要"
+    ],
+    "answer": "C",
+    "explanation": "“信息系统需保持稳定以支持日常业务，同时需保持一定的灵活性以快速适应未 来的变化”，在3.1.2 矛盾论在系统规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0011",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "《实践论》主要研究的是( )",
+    "options": [
+      "A. 辩证法",
+      "B. 认识论",
+      "C. 方法论",
+      "D. 世界观"
+    ],
+    "answer": "B",
+    "explanation": "“《矛盾论》是讲辩证法的，而《实践论》是研究认识论的”，在3.2 实践论 部分开头。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0012",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "认识的规律是( )",
+    "options": [
+      "A. 实践- 认识",
+      "B. 认识- 实践",
+      "C. 实践- 认识- 再实践- 再认识循环反复至无穷",
+      "D. 认识- 实践- 再认识- 再实践一次完成"
+    ],
+    "answer": "C",
+    "explanation": "“实践论认为认识的规律为：实践一认识一再实践一再认识循环反复至无穷的过 程”，在3.2.1 实践论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0013",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "一切真知最终来源于( )",
+    "options": [
+      "A. 理论学习",
+      "B. 实践",
+      "C. 他人经验",
+      "D. 书本知识"
+    ],
+    "answer": "B",
+    "explanation": "“一切真知最终都是来源于实践”，在3.2.1 实践论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0014",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "实践是认识的( )",
+    "options": [
+      "A. 来源之一",
+      "B. 动力之一",
+      "C. 唯一来源、动力、目的和检验标准",
+      "D. 目的之一"
+    ],
+    "answer": "C",
+    "explanation": "“实践是认识的来源，是认识发展的动力，是认识的目的，是检验认识的标准， 二者不能分开来讲”，在3.2.1 实践论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0015",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "从感性认识上升到理性认识是认识过程的( )",
+    "options": [
+      "A. 第一次能动的飞跃",
+      "B. 第二次能动的飞跃",
+      "C. 最终阶段",
+      "D. 不需要实践验证的阶段"
+    ],
+    "answer": "A",
+    "explanation": "“ 由实践到认识的过程，即在实践基础上从感性认识上升到理性认识，这是认识 过程的第一次能动的飞跃”，在3.2.1 实践论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0016",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "经过实践得到的理性认识，还须( )",
+    "options": [
+      "A. 再次实践",
+      "B. 回到实践中去",
+      "C. 进行理论总结",
+      "D. 与他人交流"
+    ],
+    "answer": "B",
+    "explanation": "“经过实践得到的理性认识，还须再回到实践中去，这是认识过程的第二次能动 的飞跃，是更重要的飞跃”，在3.2.1 实践论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0017",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "实践论认为检验真理的唯一标准是( )",
+    "options": [
+      "A. 多数人的意见",
+      "B. 实践",
+      "C. 权威观点",
+      "D. 理论推导"
+    ],
+    "answer": "B",
+    "explanation": "“通过分析相对真理和绝对真理的对立统一关系，实践论说明了实践与真理的关 系，即相对真理和绝对真理相互统一的基础是实践，实践是检验真理的唯一标准”， 在3.2.1 实践论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0018",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在系统规划与管理中，实践论要求遵循( )",
+    "options": [
+      "A. 理论性原则",
+      "B. 实践性原则",
+      "C. 创新性原则",
+      "D. 稳定性原则"
+    ],
+    "answer": "B",
+    "explanation": "“在系统规划与管理中，应遵循实践性原则，以实际问题为导向，注重实践经验， 积累实践经验”，在3.2.2 实践论在系统规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0019",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统论、控制论和信息论被合称为( )",
+    "options": [
+      "A. “新三论”",
+      "B. “老三论”",
+      "C. “科学三论”",
+      "D. “哲学三论”"
+    ],
+    "answer": "B",
+    "explanation": "“系统论、控制论和信息论是20 世纪40 年代先后创立并获得迅猛发展的系统 理论的三门分支学科。它们被合称为‘老三论’”，在3.3 系统论部分开头。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0020",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统论研究系统不包括( )",
+    "options": [
+      "A. 系统的结构",
+      "B. 系统的历史",
+      "C. 系统的行为",
+      "D. 系统间的联系"
+    ],
+    "answer": "B",
+    "explanation": "“系统论研究系统的结构、特点、行为、动态、原则、规律以及系统间的联系， 并对其功能进行数学描述”，在3.3.1 系统论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0021",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统论的核心思想是( )",
+    "options": [
+      "A. 系统的局部观念",
+      "B. 系统的整体观念",
+      "C. 系统的要素观念",
+      "D. 系统的层次观念"
+    ],
+    "answer": "B",
+    "explanation": "“系统论的核心思想是系统的整体观念，强调任何系统都是一个有机的整体”， 在3.3.1 系统论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0022",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统的整体性原理表明( )",
+    "options": [
+      "A. 整体功能等于各要素功能之和",
+      "B. 整体功能小于各要素功能之和",
+      "C. 整体功能大于各要素功能之和",
+      "D. 整体功能与各要素功能无关"
+    ],
+    "answer": "C",
+    "explanation": "“系统是由若干要素组成的具有一定新功能的有机整体，各个作为系统子单元的 要素一旦组成系统整体，就具有独立要素所不具有的性质和功能，形成了新的系统的质 的规定性，从而表现出整体的性质和功能，不等于各个要素的性质和功能的简单加和”， 在3.3.1 系统论主要思想中系统整体性原理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0023",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统层次性原理中，系统层次( )",
+    "options": [
+      "A. 是有限的",
+      "B. 是不可穷尽的",
+      "C. 只有两个层次",
+      "D. 最多三个层次"
+    ],
+    "answer": "B",
+    "explanation": "“客观世界是无限的，因此系统层次也是不可穷尽的”，在3.3.1 系统论主要 思想中系统层次性原理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0024",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统开放性原理中，系统向环境开放是( )",
+    "options": [
+      "A. 系统稳定存在的条件",
+      "B. 系统发展的阻碍",
+      "C. 可有可无的",
+      "D. 只对大型系统有意义"
+    ],
+    "answer": "A",
+    "explanation": "“系统具有不断地与外界环境进行物质、能量、信息交换的性质和功能，系统向 环境开放是系统得以向上发展的前提，也是系统得以稳定存在的条件”，在3.3.1 系 统论主要思想中系统开放性原理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0025",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统目的性原理指系统发展变化( )",
+    "options": [
+      "A. 受所有条件变化影响",
+      "B. 不受任何条件变化影响",
+      "C. 在一定范围内不受或少受条件变化影响",
+      "D. 只受内部条件影响"
+    ],
+    "answer": "C",
+    "explanation": "“系统目的性原理指的是，系统在与环境的相互作用中，在一定的范围内，其发 展变化不受或少受条件变化或途径经历的影响，坚持表现出某种趋向预先确定的状态的 特性”，在3.3.1 系统论主要思想中系统目的性原理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0026",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统突变性原理中，系统质变的基本形式是( )",
+    "options": [
+      "A. 渐变",
+      "B. 突变",
+      "C. 量变",
+      "D. 平衡"
+    ],
+    "answer": "B",
+    "explanation": "“系统突变性原理指的是，系统通过失稳，从一种状态进入另一种状态的一种突 变过程，它是系统质变的一种基本形式”，在3.3.1 系统论主要思想中系统突变性原 理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0027",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统稳定性原理中，系统的稳定性是( )",
+    "options": [
+      "A. 绝对的",
+      "B. 动态中的稳定性",
+      "C. 静态中的稳定性",
+      "D. 不会被破坏的"
+    ],
+    "answer": "B",
+    "explanation": "“系统的稳定性是系统在发展和演化之中的稳定性，是动态中的稳定性，而非绝 对意义上的稳定性”，在3.3.1 系统论主要思想中系统稳定性原理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0028",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统自组织原理中，系统自组织的依据是( )",
+    "options": [
+      "A. 系统外部矛盾",
+      "B. 系统内部矛盾",
+      "C. 系统环境",
+      "D. 外部干预"
+    ],
+    "answer": "B",
+    "explanation": "“ 自组织表示系统的运动是自发的、不受特定外来干预的进行，其自发运动是以 系统内部的矛盾为根据，以系统的环境为条件的系统内部以及系统与环境的交叉作用的 结果”，在3.3.1 系统论主要思想中系统自组织原理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0029",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统相似性原理中，系统相似性的根本原因是( )",
+    "options": [
+      "A. 系统结构相同",
+      "B. 世界的物质统一性",
+      "C. 系统功能相同",
+      "D. 系统演化方式相同"
+    ],
+    "answer": "B",
+    "explanation": "“系统具有相似性，最根本原因在于世界的物质统一性”，在3.3.1 系统论主要 思想中系统相似性原理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0030",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在信息系统规划与管理中，系统论提供了( )",
+    "options": [
+      "A. 从局部思考问题的维度",
+      "B. 从整体全局思考问题的维度",
+      "C. 从技术角度思考问题的维度",
+      "D. 从人员角度思考问题的维度"
+    ],
+    "answer": "B",
+    "explanation": "“信息系统是一个复杂度很高的系统，系统论提供了一种从整体全局思考问题的 维度”，在3.3.2 系统论在系统规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0031",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论是运用什么方法研究信息等问题的学科？( )",
+    "options": [
+      "A. 微积分与线性代数",
+      "B. 概率论与数理统计",
+      "C. 抽象代数与拓扑学",
+      "D. 数论与组合数学"
+    ],
+    "answer": "B",
+    "explanation": "“信息论(Information Theory)是‘老三论’之一，是运用概率论与数理统计的 方法研究信息、信息熵、通信系统、数据传输、密码学、数据压缩等问题的学科”， 在3.4 信息论部分开头。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0032",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论诞生于哪一年？( )",
+    "options": [
+      "A. 1946 年",
+      "B. 1948 年",
+      "C. 1950 年",
+      "D. 1952 年"
+    ],
+    "answer": "B",
+    "explanation": "“信息论诞生于1948 年，创始人为香农”，在3.4 信息论部分开头。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0033",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "广义信息论研究信息的范围( )",
+    "options": [
+      "A. 仅通信技术",
+      "B. 超出通信技术范围",
+      "C. 只涉及信息传输",
+      "D. 只关注信息存储"
+    ],
+    "answer": "B",
+    "explanation": "“广义信息论也被称为信息科学，则超出了通信技术的范围来研究信息问题”， 在3.4.1 信息论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0034",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息通过什么在通信系统中传递？( )",
+    "options": [
+      "A. 信号",
+      "B. 消息",
+      "C. 信源",
+      "D. 信宿"
+    ],
+    "answer": "A",
+    "explanation": "“信号是消息的载体，是物理量。信息通过信号在通信系统中传递”，在3.4.1 信息论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0035",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论中，信息量是( )",
+    "options": [
+      "A. 信息价值的量度",
+      "B. 信息多少的量度",
+      "C. 信息重要性的量度",
+      "D. 信息准确性的量度"
+    ],
+    "answer": "B",
+    "explanation": "“信息量是信息多少的量度”，在3.4.1 信息论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0036",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信源是( )",
+    "options": [
+      "A. 信息的接收者",
+      "B. 消息的来源",
+      "C. 传递信息的通道",
+      "D. 信息处理的设备"
+    ],
+    "answer": "B",
+    "explanation": "“信源即消息的来源。信息一般以符号的形式发出，自然界的一切物体都可以成 为信源”，在3.4.1 信息论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0037",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息的特性不包括( )",
+    "options": [
+      "A. 不可传递性",
+      "B. 共享性",
+      "C. 依附性",
+      "D. 时效性"
+    ],
+    "answer": "A",
+    "explanation": "信息具有传递性、共享性、依附性和可处理性、价值相对性、时效性、真伪性等 特性，不包括不可传递性，在3.4.1 信息论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0038",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息的传递性体现在( )",
+    "options": [
+      "A. 信息不能在不同人之间传递",
+      "B. 信息只能通过书信传递",
+      "C. 信息可以通过多种方式传递",
+      "D. 信息传递不需要载体"
+    ],
+    "answer": "C",
+    "explanation": "文中举例烽火告急、飞鸽传书等说明信息可以通过多种方式传递，在3.4.1 信息 论主要思想中信息特性部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0039",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息的共享性是( )",
+    "options": [
+      "A. 绝对的",
+      "B. 有条件的",
+      "C. 只针对思想信息",
+      "D. 只针对物质信息"
+    ],
+    "answer": "B",
+    "explanation": "文中提到“信息就像苹果和思想，也是可以共享的。不过信息的共享并不是绝对 的，而是有条件的”，位于3.4.1 信息论主要思想中信息特性部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0040",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息的依附性是指信息( )",
+    "options": [
+      "A. 可以独立存在",
+      "B. 必须依附于一定的载体",
+      "C. 只依附于硬件设备",
+      "D. 不需要任何载体"
+    ],
+    "answer": "B",
+    "explanation": "“信息要进行存储则需要转化为信号写入存储器中，信息要进行展示必须使用显 示器或者其他设备，这就是信息的依附性”，在3.4.1 信息论主要思想中信息特性部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0041",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息的价值相对性意味着( )",
+    "options": [
+      "A. 信息价值固定不变",
+      "B. 信息价值因人而异、因时而异",
+      "C. 信息价值只与时间有关",
+      "D. 信息价值只与人有关"
+    ],
+    "answer": "B",
+    "explanation": "“信息是否有价值因人而异、因时而异，其是相对的”，在3.4.1 信息论主要 思想中信息特性部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0042",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息的时效性体现在( )",
+    "options": [
+      "A. 信息永远有效",
+      "B. 信息在特定时间段有效",
+      "C. 信息只在过去有效",
+      "D. 信息只在未来有效"
+    ],
+    "answer": "B",
+    "explanation": "“还以红绿灯为例，道路是否可以通行的信息在按照一定的时间间隔而发生变化， 且仅对当时那个时间段有效，一旦时间过去，信息就不再有效了”，在3.4.1 信息论 主要思想中信息特性部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0043",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论方法的特点之一是( )",
+    "options": [
+      "A. 对事物整体结构进行剖析性分析",
+      "B. 完全撇开对象的具体运动形态",
+      "C. 只研究系统内具体物质形态",
+      "D. 不考虑系统与外界的关系"
+    ],
+    "answer": "B",
+    "explanation": "“信息论方法有两个主要特点：①它完全撇开对象的具体运动形态，把系统的运 动过程抽象为信息过程，在不考虑系统内具体物质形态、不打开机器或活体的条件下研 究系统与外界之间的输入与输出的关系”，在3.4.1 信息论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0044",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在系统需求分析中，因为信息的（ ），所以需要进行权限管理。",
+    "options": [
+      "A. 共享性和真伪性",
+      "B. 价值相对性",
+      "C. 依附性和可处理性",
+      "D. 时效性"
+    ],
+    "answer": "A",
+    "explanation": "“ 以系统需求分析为例，由于认识到信息具有的共享性和真伪性，所以需要专门 处理数据安全并进行权限管理”，在3.4.2 信息论在系统规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0045",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "1948 年，美国数学家罗伯特·维纳把控制论定义为( )",
+    "options": [
+      "A. 动物和机器中控制和通信的科学",
+      "B. 自然科学和社会科学方法论",
+      "C. 信息的传输和利用的科学",
+      "D. 工程控制的科学"
+    ],
+    "answer": "A",
+    "explanation": "“ 1948 年，美国数学家罗伯特·维纳把控制论(Control Theory)定义为动物 和机器中控制和通信的科学”，在3.5 控制论部分开头。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0046",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "控制论的研究对象是( )",
+    "options": [
+      "A. 单一类型的系统",
+      "B. 各种各样的系统",
+      "C. 仅工程对象",
+      "D. 仅生物体"
+    ],
+    "answer": "B",
+    "explanation": "“控制论的研究对象是各种各样的系统，包括生物体、生物群、机器装置类的工 程对象、人类社会、经济实体等”，在3.5 控制论部分开头。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0047",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "控制系统一般由（ ）组成。",
+    "options": [
+      "A. 传感器和控制器",
+      "B. 控制器和执行器",
+      "C. 传感器、控制器和执行器",
+      "D. 被控对象和传感器"
+    ],
+    "answer": "C",
+    "explanation": "“控制部分一般由传感器(sensor)、控制器(controller)和执行器(actuator) 组 成”，在3.5 控制论部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0048",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "控制的目的是( )",
+    "options": [
+      "A. 使系统输出信号随意变化",
+      "B. 使系统输出信号跟随设定信号变化或保持在设定值附近",
+      "C. 使系统输出信号与设定信号无关",
+      "D. 使系统输出信号只受内部因素影响"
+    ],
+    "answer": "B",
+    "explanation": "“一般情况下，控制的目的是使系统输出信号跟随某个设定的信号进行变化，称 为伺服控制问题。如果要求系统输出信号保持在某个设定的固定值附近，则称为调节控 制问题”，在3.5 控制论部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0049",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "开环控制系统的特点是( )",
+    "options": [
+      "A. 控制器形成控制信号依赖于系统输出信号",
+      "B. 控制器形成控制信号不依赖于系统输出信号",
+      "C. 对所有系统都有很好的控制效果",
+      "D. 结构复杂"
+    ],
+    "answer": "B",
+    "explanation": "“所谓开环控制系统，是指控制器形成控制信号时不依赖于系统输出信号”，在",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0050",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "闭环控制系统的特点是( )",
+    "options": [
+      "A. 控制器形成控制信号不依赖于系统输出信号",
+      "B. 对所有系统都不适用",
+      "C. 控制器形成控制信号依赖于系统输出信号",
+      "D. 结构简单"
+    ],
+    "answer": "C",
+    "explanation": "“大多数控制系统的控制器在形成控制信号时要依赖于系统输出信号，这是一种 ‘顾及后果’的客观控制方式，称为闭环控制系统”，在3.5.1 控制论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0051",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "反馈是指( )",
+    "options": [
+      "A. 将系统的输入信号和输出信号进行比较",
+      "B. 将系统的实际输出和期望输出进行比较而形成的误差信号",
+      "C. 系统的输入信号",
+      "D. 系统的输出信号"
+    ],
+    "answer": "B",
+    "explanation": "“所谓反馈是指将系统的实际输出和期望输出进行比较而形成的误差信号”，在",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0052",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "负反馈是指( )",
+    "options": [
+      "A. 反馈信息使系统输出的误差逐渐增大",
+      "B. 反馈信息使系统输出的误差逐渐减少",
+      "C. 对系统没有影响的反馈",
+      "D. 使系统不稳定的反馈"
+    ],
+    "answer": "B",
+    "explanation": "“如果反馈信息(系统实际输出)使得系统输出的误差逐渐减少，则称为负反馈”， 在3.5.1 控制论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0053",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "通过闭合负反馈环路，系统可以( )",
+    "options": [
+      "A. 变得不稳定",
+      "B. 具有鲁棒性、抗干扰能力，改善响应性能",
+      "C. 对系统参数变化更敏感",
+      "D. 增大系统对测量误差的敏感性"
+    ],
+    "answer": "B",
+    "explanation": "“通过闭合负反馈环路，可以获得几个重要的特征使系统达到稳定(最重要的特 征);可以使系统具有鲁棒性，即减小了系统输出对系统参数变化(系统元件老化或系统 内部干扰)的敏感度，减小了系统对测量误差(测量噪声)的敏感性；可以使系统具有抗 干扰能力，即减小了外部干扰对系统输出的影响，可以改善系统输出的响应性能”， 在3.5.1 控制论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0054",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "综合自动化系统追求的是( )",
+    "options": [
+      "A. 局部最优",
+      "B. 总体最优",
+      "C. 技术最优",
+      "D. 管理最优"
+    ],
+    "answer": "B",
+    "explanation": "“综合自动化追求的是总体最优，而不是局部最优”，在3.5.2 控制论在系统 规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0055",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "计算机集成制造系统是综合自动化系统在（ ）的重要成果。",
+    "options": [
+      "A. 离散型工业",
+      "B. 连续型工业",
+      "C. 服务业",
+      "D. 农业"
+    ],
+    "answer": "A",
+    "explanation": "“在离散型工业中，综合自动化的一个重要成果是计算机集成制造系统(Computer Integrated Manufacturing System,CIMS)”，在3.5.2 控制论在系统规划与管理中 的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0056",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "一个基本的计算机集成制造系统至少包括（ ）部分。",
+    "options": [
+      "A. 两",
+      "B. 三",
+      "C. 四",
+      "D. 五"
+    ],
+    "answer": "C",
+    "explanation": "“一个基本的计算机集成制造系统，至少有自动化设计系统、自动化制造系 统、 计算机辅助质量保障系统以及管理与决策支持系统四大部分”，在3.5.2 控制论在系 统规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0057",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "网络化控制系统是（ ）相结合的产物。",
+    "options": [
+      "A. 通信网络和控制系统",
+      "B. 计算机技术和通信技术",
+      "C. 自动化技术和计算机技术",
+      "D. 管理技术和控制技术"
+    ],
+    "answer": "A",
+    "explanation": "“ 网络化控制系统(Networked Control System,NCS) 是一种分布式的实时反馈 控制系统，通过数字网络实现控制功能，控制器、传感器，执行器是同等的网络节点， 它们均共享相同的网络”，表明它是通信网络和控制系统相结合的产物，在3.5.2 控 制论在系统规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0058",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "网络化控制系统中，数据采集与控制作用( )",
+    "options": [
+      "A. 一定是等周期的",
+      "B. 不能确保是等周期的",
+      "C. 与网络调度算法无关",
+      "D. 只受控制算法影响"
+    ],
+    "answer": "B",
+    "explanation": "“在网络化控制系统中，数据采集与控制作用都不能确保是等周期的”，在3.5.2 控制论在系统规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0059",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "耗散结构理论是由（ ）提出的。",
+    "options": [
+      "A. 普里戈金教授",
+      "B. 哈肯",
+      "C. 托姆",
+      "D. 维纳"
+    ],
+    "answer": "A",
+    "explanation": "“ 1969 年，比利时布鲁塞尔自由大学的普里戈金教授提出了耗散结构理论”， 在3.6 耗散结构理论部分开头。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0060",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "耗散结构主要研究( )",
+    "options": [
+      "A. 封闭系统在平衡态的演化",
+      "B. 开放系统在远离平衡态的非线性区从无序向有序的演化",
+      "C. 开放系统在平衡态的结构",
+      "D. 封闭系统在远离平衡态的线性区的变化"
+    ],
+    "answer": "B",
+    "explanation": "“耗散结构主要研究一个开放系统在远离平衡态的非线性区如何从无序向有序的 组织结构进行演化的机理、过程和规律”，在3.6 耗散结构理论部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0061",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "耗散结构形成的条件不包括( )",
+    "options": [
+      "A. 开放性",
+      "B. 平衡态",
+      "C. 非线性耦合",
+      "D. 涨落现象"
+    ],
+    "answer": "B",
+    "explanation": "耗散结构形成和维持的条件包括开放性、远离平衡态、非线性耦合、涨落现象， 不包括平衡态，在3.6.1 耗散结构理论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0062",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统形成耗散结构时，系统的熵( )",
+    "options": [
+      "A. 增加",
+      "B. 减少",
+      "C. 不变",
+      "D. 先增加后减少"
+    ],
+    "answer": "B",
+    "explanation": "“普里戈金从热力学出发，根据平衡系统中熵减少相当于有序度增加的概念，认 为非平衡系统形成有序结构时系统的熵应该减少”，在3.6.1 耗散结构理论主要思想 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0063",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统的熵变化方程中，des 表示( )",
+    "options": [
+      "A. 系统内部自发产生的熵变化",
+      "B. 系统从外界流入的熵流",
+      "C. 系统的总熵变化",
+      "D. 系统的熵增"
+    ],
+    "answer": "B",
+    "explanation": "“其中，des 表示系统从外界流入的熵流，它的大小是由外界控制的”，在3.6.1 耗散结构理论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0064",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统走上有序的唯一可能性是( )",
+    "options": [
+      "A. des/dt>0",
+      "B. des/dt<0",
+      "C. dis/dt<0",
+      "D. dis/dt>0"
+    ],
+    "answer": "B",
+    "explanation": "“系统走上有序的唯一可能性是des/dt<0，即外界供给系统一个负流，也就是输 入的是有序度较高的高品质的物质能量流，而输出的是低品质的物质能量流”，在3.6.1 耗散结构理论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0065",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在物流网络中，熵流流入的过程是( )",
+    "options": [
+      "A. 增加成本、增加时间、降低效率",
+      "B. 减少成本、节省时间、提高效率",
+      "C. 不改变成本、时间和效率",
+      "D. 只改变成本，不改变时间和效率"
+    ],
+    "answer": "B",
+    "explanation": "“在物流网络中，任何一个减少成本、节省时间、提高效率的有效组织或优化策 略的执行都是熵流流入的过程”，在3.6.2 耗散结构理论在系统规划与管理中的应用 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0066",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "企业管理信息系统要增强抗熵能力，必须( )",
+    "options": [
+      "A. 减少与外界的信息交流",
+      "B. 完善系统各部件的功能，及时从外界输入信息",
+      "C. 保持系统的封闭性",
+      "D. 只关注内部信息，不考虑外界环境"
+    ],
+    "answer": "B",
+    "explanation": "“要增强系统的抗熵能力，必须完善系统各部件的功能，及时地从外界输入信息， 并根据信息不断地改变企业的信息结构，使之适应外界环境的变化和发展”，在3.6.2 耗散结构理论在系统规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0067",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "协同论是研究（ ）的学科。",
+    "options": [
+      "A. 不同事物的差异及其竞争机理",
+      "B. 不同事物的共同特征及其协同机理",
+      "C. 单一事物的发展规律",
+      "D. 事物的简单组合规律"
+    ],
+    "answer": "B",
+    "explanation": "“协同论亦称协同学或协和学，是研究不同事物的共同特征及其协同机理的学 科”，在3.7 协同论部分开头。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0068",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "协同论的创始人是( )",
+    "options": [
+      "A. 普里戈金",
+      "B. 哈肯",
+      "C. 托姆",
+      "D. 维纳"
+    ],
+    "answer": "B",
+    "explanation": "“协同论的创始人哈肯说过，他把这个学科称为‘协同学’”，在3.7 协同论 部分开头。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0069",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "协同论研究的是开放系统从( )",
+    "options": [
+      "A. 有序到无序的转变",
+      "B. 无序到有序的转变",
+      "C. 平衡到不平衡的转变",
+      "D. 稳定到不稳定的转变"
+    ],
+    "answer": "B",
+    "explanation": "“协同论主要研究远离平衡态的开放系统在与外界有物质或能量交换的情况 下， 如何通过自己内部协同作用，自发地出现时间、空间和功能上的有序结构”，在3.7 协同论部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0070",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "协同论中，序参量是( )",
+    "options": [
+      "A. 描述系统局部行为的参量",
+      "B. 描述系统整体行为的宏观参量",
+      "C. 与系统演化无关的参量",
+      "D. 外部强加给系统的参量"
+    ],
+    "answer": "B",
+    "explanation": "“序参量是指不论什么系统，如果某个参量在系统演化中从无到有地变化并能指 示出新结构的形成，它就是序参量。序参量是描述系统整体行为的宏观参量”，在3.7.1 协同论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0071",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "协同论的不稳定原理揭示( )",
+    "options": [
+      "A. 系统稳定的重要性",
+      "B. 不稳定性具有消极作用",
+      "C. 一种模式的形成意味着原来的状态不再能够维持",
+      "D. 系统不会发生状态变化"
+    ],
+    "answer": "C",
+    "explanation": "“不稳定原理揭示的是一种模式的形成意味着原来的状态不再能够维持，从而变 为不稳定的”，在3.7.1 协同论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0072",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "协同论的支配原理中，慢变量( )",
+    "options": [
+      "A. 主宰系统演化进程",
+      "B. 对系统演化无影响",
+      "C. 随时间变化很快",
+      "D. 代表系统的稳定模"
+    ],
+    "answer": "A",
+    "explanation": "“慢变量则主宰着演化进程，支配着快变量的行为，快变量跟随慢变量的变化而 变化”，在3.7.1 协同论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0073",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "协同论中，序参量原理认为序参量的形成( )",
+    "options": [
+      "A. 是外部作用强加于系统的",
+      "B. 来源在系统内部",
+      "C. 与子系统无关",
+      "D. 只在系统稳定时出现"
+    ],
+    "answer": "B",
+    "explanation": "“序参量的形成，不是外部作用强加于系统的，它的来源在系统内部”，在3.7.1 协同论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0074",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在信息系统规划中，协同论的应用可以( )",
+    "options": [
+      "A. 降低信息系统的整体性能",
+      "B. 优化各要素之间的协作关系",
+      "C. 增加信息系统的复杂性",
+      "D. 减少信息系统的功能"
+    ],
+    "answer": "B",
+    "explanation": "“在信息系统规划中，协同论的应用可以帮助人们更好地理解和分析信息系统的 各个组成部分，优化各要素之间的协作关系，从而提高信息系统的整体性能”，在3.7.2 协同论在系统规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0075",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "突变论最早出现于( )",
+    "options": [
+      "A. 物理学研究领域",
+      "B. 数学研究领域",
+      "C. 生物学研究领域",
+      "D. 经济学研究领域"
+    ],
+    "answer": "B",
+    "explanation": "“关于突变论的最早研究出现于数学研究领域，由法国数学家托姆提出”，在",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0076",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "突变论研究的主要问题是( )",
+    "options": [
+      "A. 量变产生的路径",
+      "B. 质变产生的路径",
+      "C. 渐变的过程",
+      "D. 飞跃的过程"
+    ],
+    "answer": "B",
+    "explanation": "“突变论研究的主要问题是质变产生的路径”，在3.8.1 突变论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0077",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "突变论认为质变( )",
+    "options": [
+      "A. 只能通过飞跃的方式实现",
+      "B. 只能通过渐变的方式实现",
+      "C. 既可通过飞跃，也可通过渐变的方式实现",
+      "D. 与控制条件无关"
+    ],
+    "answer": "C",
+    "explanation": "“突变论认为质变既可通过飞跃的方式实现，也可通过渐变的方式实现”，位于",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0078",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "突变论的数学基础是( )",
+    "options": [
+      "A. 微积分和线性代数",
+      "B. 奇点理论和分岔理论",
+      "C. 概率论和数理统计",
+      "D. 抽象代数和数论"
+    ],
+    "answer": "B",
+    "explanation": "“突变论的数学基础是奇点理论和分岔理论”，在3.8.1 突变论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0079",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "奇点理论主要用于描述( )",
+    "options": [
+      "A. 系统中的渐变现象",
+      "B. 系统中的突变或飞跃现象",
+      "C. 系统的稳定状态",
+      "D. 系统的平衡状态"
+    ],
+    "answer": "B",
+    "explanation": "“奇点理论主要用来描述系统中的突变或飞跃现象，即从一个状态转变为另一个 状态的情况”，在3.8.1 突变论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0080",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "分岔理论主要研究( )",
+    "options": [
+      "A. 系统从一个稳定状态转变为另一个稳定状态的过程",
+      "B. 系统的初始状态",
+      "C. 系统的最终状态",
+      "D. 系统的平衡条件"
+    ],
+    "answer": "A",
+    "explanation": "“分岔现象是指系统在某些特定条件下，从一个稳定状态转变为另一个稳定状态 的过程。分岔理论主要用于研究这种转变的过程和规律”，在3.8.1 突变论主要思想 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0081",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "突变论解决的哲学难题是( )",
+    "options": [
+      "A. 量变与质变的关系",
+      "B. 质变究竟是通过飞跃还是通过渐变来实现的",
+      "C. 矛盾的普遍性与特殊性",
+      "D. 事物发展的动力问题"
+    ],
+    "answer": "B",
+    "explanation": "“突变论解决了哲学上的一个难题：质变究竟是通过飞跃还是通过渐变来实现 的”，在3.8.1 突变论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0082",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在系统稳定性分析领域，突变论的相关思想用于( )",
+    "options": [
+      "A. 增加系统的不稳定性",
+      "B. 探讨奇点预测系统在不同条件下的行为和变化趋势",
+      "C. 降低系统的安全性",
+      "D. 减少系统的功能"
+    ],
+    "answer": "B",
+    "explanation": "“系统规划人员通过数学模型来探讨奇点预测系统在不同条件下的行为和变化趋 势，了解系统的特性和变化规律，从而更好地控制系统的变化，为系统规划提供稳定性 分析的依据”，在3.8.2 突变论在系统规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0083",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在人工智能和机器学习领域，突变论可用于( )",
+    "options": [
+      "A. 降低模型的稳定性",
+      "B. 优化模型的训练过程",
+      "C. 增加模型训练的不收敛性",
+      "D. 减少模型的精度"
+    ],
+    "answer": "B",
+    "explanation": "“将突变论应用于模型训练过程中，可以通过分析模型参数对训练结果的影响， 优化模型的训练过程，提高模型的稳定性和精度”，在3.8.2 突变论在系统规划与管理 中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0084",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "复杂系统论兴起于( )",
+    "options": [
+      "A. 20 世纪初期",
+      "B. 20 世纪中期",
+      "C. 20 世纪末期",
+      "D. 21 世纪初期"
+    ],
+    "answer": "B",
+    "explanation": "“复杂系统论于20 世纪中期兴起”，在3.9 复杂系统论部分开头。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0085",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "复杂系统论认为导致复杂性出现的核心原因是( )",
+    "options": [
+      "A. 局部互动可测",
+      "B. 局部互动不可测",
+      "C. 整体互动可测",
+      "D. 整体互动不可测"
+    ],
+    "answer": "B",
+    "explanation": "“复杂系统论认为，导致复杂性出现的核心原因是局部互动不可测”，在3.9.1 复杂系统论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0086",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "复杂系统具备的能力不包括( )",
+    "options": [
+      "A. 自我学习能力",
+      "B. 自我破坏能力",
+      "C. 适应能力",
+      "D. 自我进化能力"
+    ],
+    "answer": "B",
+    "explanation": "“应用复杂系统论认为复杂系统具备自我学习和适应能力”，同时还提到具有自 我进化能力，不包括自我破坏能力，在3.9.1 复杂系统论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0087",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "复杂系统中异质性的作用是( )",
+    "options": [
+      "A. 降低系统稳定性",
+      "B. 保证系统稳定运行",
+      "C. 使系统对新变量反应剧烈",
+      "D. 增加系统的同质性"
+    ],
+    "answer": "B",
+    "explanation": "“异质性是保证复杂系统稳定运行的关键特性”，在3.9.1 复杂系统论主要思 想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0088",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在复杂系统的研究中，接受随机性( )",
+    "options": [
+      "A. 降低研究能力",
+      "B. 可有效提升研究能力",
+      "C. 对研究无影响",
+      "D. 使系统只能获得局部最优解"
+    ],
+    "answer": "B",
+    "explanation": "“接受随机性可有效提升人们研究复杂系统的能力”，在3.9.1 复杂系统论主 要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0089",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在系统规划与管理中，复杂系统论要求从（ ）出发",
+    "options": [
+      "A. 局部视角",
+      "B. 整体视角",
+      "C. 技术视角",
+      "D. 人员视角"
+    ],
+    "answer": "B",
+    "explanation": "“复杂系统具有多层次、多子系统的特点，因此需要从整体视角出发，全面考虑 系统的各个组成部分以及它们之间的相互作用”，在3.9.2 复杂系统论在系统规划与 管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0090",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "复杂系统是（ ）的",
+    "options": [
+      "A. 静态不变",
+      "B. 动态演化",
+      "C. 固定结构",
+      "D. 无适应性"
+    ],
+    "answer": "B",
+    "explanation": "“复杂系统是动态演化的，具有自组织和适应环境变化的能力”，在3.9.2 复杂 系统论在系统规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0091",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "复杂系统中各个组成部分之间的相互作用呈现( )",
+    "options": [
+      "A. 线性关系",
+      "B. 非线性关系",
+      "C. 简单关系",
+      "D. 单一关系"
+    ],
+    "answer": "B",
+    "explanation": "“复杂系统中的各个组成部分之间相互作用，往往呈现出非线性的关系”，在",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0092",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在系统规划与管理中，应充分考虑复杂系统中的( )",
+    "options": [
+      "A. 单一性",
+      "B. 多样性",
+      "C. 同质性",
+      "D. 单调性"
+    ],
+    "answer": "B",
+    "explanation": "“复杂系统中的个体和群体具有多样性，这种多样性可以促进系统的稳定性和适 应性。在系统规划与管理中，应该充分考虑系统中存在的多样性”，在3.9.2 复杂系 统论在系统规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0093",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "复杂系统需要具备( )",
+    "options": [
+      "A. 固定性和单一性",
+      "B. 适应性和灵活性",
+      "C. 稳定性和不变性",
+      "D. 独立性和封闭性"
+    ],
+    "answer": "B",
+    "explanation": "“复杂系统是不断变化的，需要具备适应性和灵活性”，在3.9.2 复杂系统论 在系统规划与管理中的应用部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0094",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统论、控制论和信息论被合称为“老三论”，其中信息论研究运用的方法是( )",
+    "options": [
+      "A. 微积分与几何分析",
+      "B. 概率论与数理统计",
+      "C. 代数方程求解",
+      "D. 拓扑结构分析"
+    ],
+    "answer": "B",
+    "explanation": "“信息论(Information Theory)是‘老三论’之一，是运用概率论与数理统计的 方法研究信息、信息熵、通信系统、数据传输、密码学、数据压缩等问题的学科”， 在3.4 信息论部分开头。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0095",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "协同论中，系统从无序变为有序时，起关键作用的是( )",
+    "options": [
+      "A. 所有子系统同时作用",
+      "B. 子系统之间的协同作用",
+      "C. 外部力量强制干预",
+      "D. 系统的自我修复能力"
+    ],
+    "answer": "B",
+    "explanation": "“协同论主要研究远离平衡态的开放系统在与外界有物质或能量交换的情况下， 如何通过自己内部协同作用，自发地出现时间、空间和功能上的有序结构”，表明子 系统之间的协同作用起关键作用，在3.7 协同论部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0096",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "耗散结构理论中，系统形成有序结构的关键是( )",
+    "options": [
+      "A. 与外界无物质和能量交换",
+      "B. 外界供给系统一个负熵流",
+      "C. 系统内部熵不断增加",
+      "D. 系统处于平衡态"
+    ],
+    "answer": "B",
+    "explanation": "“系统走上有序的唯一可能性是des/dt&lt;0，即外界供给系统一个负流（负熵 流），也就是输入的是有序度较高的高品质的物质能量流，而输出的是低品质的物质能 量流”，在3.6.1 耗散结构理论主要思想部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0097",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "突变论在系统规划与管理中的应用不包括( )",
+    "options": [
+      "A. 为系统规划提供思想体系",
+      "B. 降低系统的稳定性",
+      "C. 为算法设计提供支撑",
+      "D. 帮助理解系统中的复杂现象"
+    ],
+    "answer": "B",
+    "explanation": "突变论在系统规划与管理中可以为系统规划提供思想体系，提升系统的性能、稳 定性及安全性，为算法设计及实际问题的求解提供有效支撑，帮助人们理解和描述系统 中的复杂现象，不包括降低系统稳定性，在3.8.2 突变论在系统规划与管理中的应用 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0098",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "复杂系统论强调在系统规划与管理中采用非线性思维，是因为( )",
+    "options": [
+      "A. 复杂系统组成部分间相互作用呈非线性关系",
+      "B. 线性思维过于简单",
+      "C. 非线性思维更具创新性",
+      "D. 非线性思维是新的研究热点"
+    ],
+    "answer": "A",
+    "explanation": "“复杂系统中的各个组成部分之间相互作用，往往呈现出非线性的关系。在系统 规划与管理中，应该采用非线性思维，分析系统中存在的各种反馈机制和相互作用，以 便更好地理解和预测系统的行为”，在3.9.2 复杂系统论在系统规划与管理中的应用 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0099",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统科学的研究对象是（ ）。",
+    "options": [
+      "A. 简单系统",
+      "B. 不同领域的复杂系统",
+      "C. 自然系统",
+      "D. 人工系统"
+    ],
+    "answer": "B",
+    "explanation": "3.1 节中提到“它以不同领域的复杂系统为研究对象”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0100",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "哲学的本质是（ ）。",
+    "options": [
+      "A. 对特定领域进行研究",
+      "B. 为人们认识世界和改造世界提供具体方法",
+      "C. 对世界基本和普遍的问题研究的学科",
+      "D. 关于方法论的理论体系"
+    ],
+    "answer": "C",
+    "explanation": "3.1 节中提到“哲学本质上是对世界基本和普遍的问题研究的学科”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0101",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "《矛盾论》是关于（ ）的重要哲学著作。",
+    "options": [
+      "A. 唯物辩证法关于矛盾规律",
+      "B. 认识论",
+      "C. 系统论",
+      "D. 控制论"
+    ],
+    "answer": "A",
+    "explanation": "3.1.1 节中提到“《矛盾论》是毛泽东论述马克思主义的唯物辩证法关于矛盾规 律的重要哲学著作”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0102",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "唯物辩证法最根本的规律是（ ）。",
+    "options": [
+      "A. 质量互变规律",
+      "B. 对立统一规律",
+      "C. 否定之否定规律",
+      "D. 普遍联系规律"
+    ],
+    "answer": "B",
+    "explanation": "3.1.1 节中提到“矛盾法则(规律)即对立统一规律，是唯物辩证法最根本的规 律”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0103",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "形而上学的发展观认为事物变化的原因是（ ）。",
+    "options": [
+      "A. 事物内部的矛盾性",
+      "B. 外力的推动",
+      "C. 数量的增减",
+      "D. 场所的变更"
+    ],
+    "answer": "B",
+    "explanation": "3.1.1 节中提到“这种增减和变更的原因，不在事物的内部而在事物的外部，即 是由于外力的推动”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0104",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "矛盾的普遍性是指（ ）。",
+    "options": [
+      "A. 矛盾存在于部分客观事物和主观思维过程中",
+      "B. 矛盾存在于一切客观事物和主观思维的过程中，且贯穿于一切过程的始终",
+      "C. 矛盾着的事物及其每一个侧面各有其特点",
+      "D. 矛盾只存在于事物发展的特定阶段"
+    ],
+    "answer": "B",
+    "explanation": "3.1.1 节中提到“矛盾存在于一切客观事物和主观思维的过程中，矛盾贯穿于一 切过程的始终，这是矛盾的普遍性和绝对性”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0105",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "矛盾的特殊性主要表现在几个方面？( )",
+    "options": [
+      "A. 2 个",
+      "B. 3 个",
+      "C. 4 个",
+      "D. 5 个"
+    ],
+    "answer": "B",
+    "explanation": "3.1.1 节中提到“矛盾的特殊性主要表现在三个方面”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0106",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在许多矛盾构成的体系中，起领导作用并规定和影响其他矛盾的存在和发展的是 ( ) 。",
+    "options": [
+      "A. 次要矛盾",
+      "B. 矛盾的次要方面",
+      "C. 主要矛盾",
+      "D. 矛盾的主要方面"
+    ],
+    "answer": "C",
+    "explanation": "3.1.1 节中提到“在许多矛盾构成的体系中，起领导作用并规定和影响其他矛盾 的存在和发展的是主要矛盾”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0107",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "矛盾的主要方面决定了（ ）。",
+    "options": [
+      "A. 事物的发展方向",
+      "B. 事物的性质",
+      "C. 事物的运动状态",
+      "D. 事物的变化过程"
+    ],
+    "answer": "B",
+    "explanation": "3.1.1 节中提到“矛盾的主要方面指在一个矛盾中起主导作用的方面，它决定了 一个事物的性质”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0108",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在信息系统规划与管理过程中，需求与资源的矛盾体现为（ ）。",
+    "options": [
+      "A. 组织需求稳定但资源过多",
+      "B. 组织面临不断变化和增长的用户需求，而资源有限",
+      "C. 资源充足但需求不足",
+      "D. 需求和资源都不稳定"
+    ],
+    "answer": "B",
+    "explanation": "3.1.2 节中提到“组织面临不断变化和增长的用户需求，而资源有限，如何在有 限资源下满足不断变化的需求”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0109",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "《实践论》主要研究的是（ ）。",
+    "options": [
+      "A. 辩证法",
+      "B. 认识论",
+      "C. 系统论",
+      "D. 控制论"
+    ],
+    "answer": "B",
+    "explanation": "3.2 节中提到“《实践论》是研究认识论的”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0110",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "认识的规律是（ ）。",
+    "options": [
+      "A. 实践- 认识- 再实践- 再认识循环反复至无穷的过程",
+      "B. 认识- 实践- 再认识- 再实践循环反复至无穷的过程",
+      "C. 实践- 认识- 实践循环反复至无穷的过程",
+      "D. 认识- 实践- 认识循环反复至无穷的过程"
+    ],
+    "answer": "A",
+    "explanation": "3.2.1 节中提到“实践论认为认识的规律为：实践一认识一再实践一再认识循环 反复至无穷的过程”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0111",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "一切真知最终来源于（ ）。",
+    "options": [
+      "A. 理论学习",
+      "B. 实践",
+      "C. 经验积累",
+      "D. 他人传授"
+    ],
+    "answer": "B",
+    "explanation": "3.2.1 节中提到“一切真知最终都是来源于实践”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0112",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "认识过程的第一次能动的飞跃是（ ）。",
+    "options": [
+      "A. 从理性认识上升到实践",
+      "B. 从实践到理性认识",
+      "C. 从感性认识上升到理性认识",
+      "D. 从理性认识到感性认识"
+    ],
+    "answer": "C",
+    "explanation": "3.2.1 节中提到“ 由实践到认识的过程，即在实践基础上从感性认识上升到理性 认识，这是认识过程的第一次能动的飞跃”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0113",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "认识过程的第二次能动的飞跃是（ ）。",
+    "options": [
+      "A. 从实践到感性认识",
+      "B. 从感性认识到理性认识",
+      "C. 从理性认识回到实践中去",
+      "D. 从实践到理性认识"
+    ],
+    "answer": "C",
+    "explanation": "3.2.1 节中提到“经过实践得到的理性认识，还须再回到实践中去，这是认识过 程的第二次能动的飞跃”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0114",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在系统规划与管理中，应遵循的原则是（ ）。",
+    "options": [
+      "A. 理论性原则",
+      "B. 实践性原则",
+      "C. 创新性原则",
+      "D. 系统性原则"
+    ],
+    "answer": "B",
+    "explanation": "3.2.2 节中提到“在系统规划与管理中，应遵循实践性原则”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0115",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统论、控制论和信息论被合称为（ ）。",
+    "options": [
+      "A. “新三论”",
+      "B. “老三论”",
+      "C. “SCI 论”",
+      "D. “AB 论”"
+    ],
+    "answer": "B",
+    "explanation": "3.3 节中提到“系统论、控制论和信息论是20 世纪40 年代先后创立并获得迅 猛发展的系统理论的三门分支学科。它们被合称为‘老三论’”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0116",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统论的核心思想是（ ）。",
+    "options": [
+      "A. 系统的整体观念",
+      "B. 系统的层次性观念",
+      "C. 系统的开放性观念",
+      "D. 系统的目的性观念"
+    ],
+    "answer": "A",
+    "explanation": "3.3.1 节中提到“系统论的核心思想是系统的整体观念”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0117",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统整体性原理表明（ ）。",
+    "options": [
+      "A. 系统整体性质和功能等于各个要素的性质和功能的简单加和",
+      "B. 系统整体性质和功能不等于各个要素的性质和功能的简单加和",
+      "C. 系统要素之间相互独立",
+      "D. 系统整体对要素没有制约作用"
+    ],
+    "answer": "B",
+    "explanation": "3.3.1 节中提到“系统整体性原理指的是，系统是由若干要素组成的具有一定新 功能的有机整体，……从而表现出整体的性质和功能，不等于各个要素的性质和功能的 简单加和”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0118",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统层次性原理体现了系统组织的（ ）。",
+    "options": [
+      "A. 等级秩序性",
+      "B. 无序性",
+      "C. 单一性",
+      "D. 稳定性"
+    ],
+    "answer": "A",
+    "explanation": "3.3.1 节中提到“系统的层次性原理指的是，由于组成系统诸要素的种种差 异，……从而使系统组织在地位与作用、结构与功能上表现出等级秩序性”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0119",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统开放性原理中，系统向环境开放是（ ）。",
+    "options": [
+      "A. 系统得以向上发展的前提，也是系统得以稳定存在的条件",
+      "B. 系统发展的阻碍",
+      "C. 无关紧要的因素",
+      "D. 系统退化的原因"
+    ],
+    "answer": "A",
+    "explanation": "3.3.1 节中提到“系统的开放性原理指的是，系统具有不断地与外界环境进行物 质、能量、信息交换的性质和功能，系统向环境开放是系统得以向上发展的前提，也是 系统得以稳定存在的条件”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0120",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统目的性原理中，系统发展变化不受或少受条件变化影响，坚持表现出某种趋向 预先确定状态的特性，这与系统的（ ）相联系。",
+    "options": [
+      "A. 开放性",
+      "B. 稳定性",
+      "C. 层次性",
+      "D. 自组织性"
+    ],
+    "answer": "A",
+    "explanation": "3.3.1 节中提到“系统的目的性，在系统的发展变化之中表现出来，是与系统的 开放性相联系的”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0121",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统突变性原理中，系统质变的一种基本形式是（ ）。",
+    "options": [
+      "A. 渐变",
+      "B. 突变",
+      "C. 量变",
+      "D. 平衡"
+    ],
+    "answer": "B",
+    "explanation": "3.3.1 节中提到“系统突变性原理指的是，系统通过失稳，从一种状态进入另一 种状态的一种突变过程，它是系统质变的一种基本形式”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0122",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统稳定性原理中，开放系统在外界作用下具有一定的自我稳定能力，关键在于其 中的（ ）。",
+    "options": [
+      "A. 正反馈机制",
+      "B. 负反馈机制",
+      "C. 自组织机制",
+      "D. 协同机制"
+    ],
+    "answer": "B",
+    "explanation": "3.3.1 节中提到“一个组织系统之所以具有受到干扰后能够迅速排除偏差、恢复 到正常的稳定状态的能力，关键在于其中的负反馈机制”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0123",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统自组织原理中，开放系统在系统内外两方面因素的复杂、非线性相互作用下， 会( ) 。",
+    "options": [
+      "A. 从有序到无序",
+      "B. 从无序到有序",
+      "C. 保持原状态不变",
+      "D. 逐渐退化"
+    ],
+    "answer": "B",
+    "explanation": "3.3.1 节中提到“系统的自组织原理指的是，开放系统在系统内外两方面因素的 复杂、非线性相互作用下，内部要素的某些偏离系统稳定状态的情况可能得以放大，从 而在系统中产生更大范围、更强烈的相关影响，系统会自发组织起来，使系统从无序到 有序”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0124",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统相似性原理中，系统具有相似性的最根本原因是（ ）。",
+    "options": [
+      "A. 系统结构的相似性",
+      "B. 系统功能的相似性",
+      "C. 世界的物质统一性",
+      "D. 系统演化方式的相似性"
+    ],
+    "answer": "C",
+    "explanation": "3.3.1 节中提到“系统具有相似性，最根本原因在于世界的物质统一性”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0125",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在系统规划与管理中，系统论提供了（ ）。",
+    "options": [
+      "A. 从局部思考问题的维度",
+      "B. 从整体全局思考问题的维度",
+      "C. 从技术层面思考问题的维度",
+      "D. 从理论层面思考问题的维度"
+    ],
+    "answer": "B",
+    "explanation": "3.3.2 节中提到“系统论提供了一种从整体全局思考问题的维度”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0126",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "以IT 服务规划设计为例，在系统论思想的指导下，首先要找出规划流程中的（ ）。",
+    "options": [
+      "A. 关键技术",
+      "B. 主要活动",
+      "C. 重要资源",
+      "D. 核心人员"
+    ],
+    "answer": "B",
+    "explanation": "3.3.2 节中提到“ 以IT 服务规划设计为例，在系统论思想的指导下，首先找 出规划流程中的主要活动”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0127",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论是运用（ ）的方法研究信息等问题的学科。",
+    "options": [
+      "A. 概率论与数理统计",
+      "B. 微积分",
+      "C. 线性代数",
+      "D. 拓扑学"
+    ],
+    "answer": "A",
+    "explanation": "3.4 节中提到“信息论是运用概率论与数理统计的方法研究信息、信息熵、通信 系统、数据传输、密码学、数据压缩等问题的学科”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0128",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论的创始人是（ ）。",
+    "options": [
+      "A. 香农",
+      "B. 维纳",
+      "C. 普里戈金",
+      "D. 哈肯"
+    ],
+    "answer": "A",
+    "explanation": "3.4 节中提到“信息论诞生于1948 年，创始人为香农”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0129",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "狭义信息论是关于（ ）的理论。",
+    "options": [
+      "A. 通信技术",
+      "B. 信息技术",
+      "C. 计算机技术",
+      "D. 网络技术"
+    ],
+    "answer": "A",
+    "explanation": "3.4 节中提到“狭义信息论是关于通信技术的理论，它是以数学方法研究通信技 术中关于信息的传输和变换规律的一门科学”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0130",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "广义信息论研究信息的（ ）。",
+    "options": [
+      "A. 传输和变换规律",
+      "B. 本质和特点，以及信息的取得、计量、传输、储存、处理、控制和利用的一般规律",
+      "C. 编码和译码规律",
+      "D. 信息量的计算方法"
+    ],
+    "answer": "B",
+    "explanation": "3.4 节中提到“广义信息论也被称为信息科学，则超出了通信技术的范围来研究 信息问题，它以各种系统、各门科学中的信息为对象，广泛地研究信息的本质和特点， 以及信息的取得、计量、传输、储存、处理、控制和利用的一般规律”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0131",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论中，信号是（ ）。",
+    "options": [
+      "A. 消息的载体",
+      "B. 信息的量度",
+      "C. 消息的来源",
+      "D. 信息的接收者"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节中提到“信号是消息的载体，是物理量”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0132",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论中，信息量是（ ）。",
+    "options": [
+      "A. 信息多少的量度",
+      "B. 消息的载体",
+      "C. 消息的来源",
+      "D. 信息的接收者"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节中提到“信息量是信息多少的量度”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0133",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论中，信源是（ ）。",
+    "options": [
+      "A. 消息的载体",
+      "B. 信息的量度",
+      "C. 消息的来源",
+      "D. 信息的接收者"
+    ],
+    "answer": "C",
+    "explanation": "3.4.1 节中提到“信源即消息的来源”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0134",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论中，信宿是（ ）。",
+    "options": [
+      "A. 消息的载体",
+      "B. 信息的量度",
+      "C. 消息的来源",
+      "D. 信息的接收者"
+    ],
+    "answer": "D",
+    "explanation": "3.4.1 节中提到“信宿是信息的接收者，它能够接收消息并使消息再现”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0135",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论中，信道是（ ）。",
+    "options": [
+      "A. 信源和信宿之间传递信息的通道",
+      "B. 信息的载体",
+      "C. 消息的来源",
+      "D. 信息的接收者"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节中提到“信道是信源和信宿之间存在着传递信息的通道”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0136",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论中，信道容量是指（ ）。",
+    "options": [
+      "A. 信道传输信息的多少以及速度",
+      "B. 信道的物理长度",
+      "C. 信道的带宽",
+      "D. 信道的数量"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节中提到“信道容量是指信道传输信息的多少以及速度”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0137",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论中，编码是（ ）。",
+    "options": [
+      "A. 将信号还原为信息的过程",
+      "B. 使用特定符号、特定顺序将信息变成信号的过程",
+      "C. 信息的接收过程",
+      "D. 信息的存储过程"
+    ],
+    "answer": "B",
+    "explanation": "3.4.1 节中提到“编码即使用特定符号、特定顺序将信息变成信号的过程”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0138",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论中，译码是（ ）。",
+    "options": [
+      "A. 将信号还原为信息的过程",
+      "B. 使用特定符号、特定顺序将信息变成信号的过程",
+      "C. 信息的发送过程",
+      "D. 信息的处理过程"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节中提到“译码是编码的逆过程，将信号还原为信息”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0139",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息的特性不包括（ ）。",
+    "options": [
+      "A. 不可传递性",
+      "B. 共享性",
+      "C. 依附性和可处理性",
+      "D. 价值相对性"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节中提到信息具有传递性、共享性、依附性和可处理性、价值相对性、时 效性、真伪性等特性，未提及不可传递性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0140",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息具有传递性，下列示例不能说明这一特性的是（ ）。",
+    "options": [
+      "A. 烽火戏诸侯",
+      "B. 飞鸽传书",
+      "C. 网络视频连线",
+      "D. 专利技术分享受限"
+    ],
+    "answer": "D",
+    "explanation": "3.4.1 节中，烽火戏诸侯、飞鸽传书、网络视频连线体现信息传递性，专利技术 分享受限体现信息共享的条件性，非传递性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0141",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息的共享性是（ ）。",
+    "options": [
+      "A. 绝对的",
+      "B. 无条件的",
+      "C. 有条件的",
+      "D. 与物质共享相同"
+    ],
+    "answer": "C",
+    "explanation": "3.4.1 节中提到“信息的共享并不是绝对的，而是有条件的”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0142",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息要进行存储则需要转化为信号写入存储器中，这体现了信息的（ ）。",
+    "options": [
+      "A. 传递性",
+      "B. 共享性",
+      "C. 依附性",
+      "D. 价值相对性"
+    ],
+    "answer": "C",
+    "explanation": "教材P84 提及：信息要进行存储则需要转化为信号写入存储器中，信息要进行展 示必须使用显示器或者其他设备，这就是信息的依附性。例如，红绿灯显示了道路是否 可以通行的信息，也就是说道路是否可以通行的信息依附于红绿灯来展示。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0143",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息可以通过各种手段进行更改，这体现了信息的（ ）。",
+    "options": [
+      "A. 时效性",
+      "B. 可处理性",
+      "C. 真伪性",
+      "D. 传递性"
+    ],
+    "answer": "B",
+    "explanation": "3.4.1 节中提到“信息是可以通过各种手段进行更改的，这就是信息的可处理 性”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0144",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "中国古老的造纸术，随着技术的进步其价值不再是生产技术而是历史记忆，这体现 了信息的（ ）。",
+    "options": [
+      "A. 价值相对性",
+      "B. 时效性",
+      "C. 共享性",
+      "D. 依附性"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节中提到“信息是否有价值因人而异、因时而异，其是相对的。例如，中 国古老的造纸术，随着技术的进步已经成为文化遗产，它的价值不再是生产的技术而是 历史的记忆”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0145",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "道路是否可以通行的信息在按照一定时间间隔变化，且仅对当时时间段有效，这体 现了信息的（ ）。",
+    "options": [
+      "A. 时效性",
+      "B. 真伪性",
+      "C. 共享性",
+      "D. 传递性"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节中提到“还以红绿灯为例，道路是否可以通行的信息在按照一定的时间 间隔而发生变化，且仅对当时那个时间段有效，一旦时间过去，信息就不再有效了”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0146",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "烽火戏诸侯的典故体现了信息的（ ）。",
+    "options": [
+      "A. 传递性",
+      "B. 共享性",
+      "C. 真伪性",
+      "D. 时效性"
+    ],
+    "answer": "C",
+    "explanation": "3.4.1 节中提到“正如前文提到的烽火戏诸侯典故所述，信息是客观存在的但并 不全都是真实情况的反映”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0147",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论的方法是通过对（ ）的考察，达到对复杂系统运动过程规律性认识。",
+    "options": [
+      "A. 信息流程",
+      "B. 系统结构",
+      "C. 系统功能",
+      "D. 系统组成"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节中提到“信息论的方法是普适的，它是指通过对信息的观察来考察系统 的行为结构和功能，通过对信息的获取、传递、存储、加工过程的分析，达到对某个复 杂系统运动过程的规律性认识”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0148",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论方法的特点之一是完全撇开对象的具体运动形态，把系统的运动过程抽象为 ( ) 。",
+    "options": [
+      "A. 物质过程",
+      "B. 能量过程",
+      "C. 信息过程",
+      "D. 控制过程"
+    ],
+    "answer": "C",
+    "explanation": "3.4.1 节中提到“信息论方法有两个主要特点：①它完全撇开对象的具体运动形 态，把系统的运动过程抽象为信息过程”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0149",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在系统需求分析中，因为信息具有（ ），所以需要专门处理数据安全并进行权限 管理。",
+    "options": [
+      "A. 共享性和真伪性",
+      "B. 价值相对性",
+      "C. 依附性和可处理性",
+      "D. 时效性"
+    ],
+    "answer": "A",
+    "explanation": "3.4.2 节中提到“ 以系统需求分析为例，由于认识到信息具有的共享性和真伪性， 所以需要专门处理数据安全并进行权限管理”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0150",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在系统需求分析中，由于信息存在（ ），收集需求时必须抓住核心，解决客户真 正的痛点问题。",
+    "options": [
+      "A. 共享性和真伪性",
+      "B. 价值相对性",
+      "C. 依附性和可处理性",
+      "D. 时效性"
+    ],
+    "answer": "B",
+    "explanation": "3.4.2 节中提到“ 由于信息存在价值相对性，收集需求时必须抽丝剥茧地抓住核 心，解决客户真正的痛点问题”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0151",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在信息编码时，需要在（ ）之间找到平衡点。",
+    "options": [
+      "A. 准确性与简洁性",
+      "B. 准确性与复杂性",
+      "C. 简洁性与高效性",
+      "D. 高效性与复杂性"
+    ],
+    "answer": "A",
+    "explanation": "3.4.2 节中提到“在信息编码时需在准确性与简洁性之间找到一个平衡点，通过 添加有限的冗余信息来确保信息编码的准确性和抗噪能力”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0152",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "1948 年，美国数学家罗伯特·维纳把控制论定义为（ ）中控制和通信的科学。",
+    "options": [
+      "A. 动物和机器",
+      "B. 人类社会",
+      "C. 工程技术",
+      "D. 自然科学"
+    ],
+    "answer": "A",
+    "explanation": "3.5 节中提到“ 1948 年，美国数学家罗伯特·维纳把控制论(Control Theory) 定义为动物和机器中控制和通信的科学”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0153",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "钱学森于1954 年在美国出版的（ ），是控制论领域最具权威性的学术著作之一。",
+    "options": [
+      "A. 《控制论》",
+      "B. 《工程控制论》",
+      "C. 《信息论》",
+      "D. 《系统论》"
+    ],
+    "answer": "B",
+    "explanation": "3.5 节中提到“钱学森于1954 年在美国出版的《工程控制论》，也是该领域最 具权威性的学术著作之一”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0154",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "控制论研究的对象是（ ）。",
+    "options": [
+      "A. 单一系统",
+      "B. 各种各样的系统",
+      "C. 自然系统",
+      "D. 人工系统"
+    ],
+    "answer": "B",
+    "explanation": "3.5 节中提到“控制论提供了一种方法论，它的研究对象是各种各样的系统”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0155",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "控制系统的控制部分一般由（ ）组成。",
+    "options": [
+      "A. 传感器、控制器和执行器",
+      "B. 传感器和控制器",
+      "C. 控制器和执行器",
+      "D. 传感器和执行器"
+    ],
+    "answer": "A",
+    "explanation": "3.5 节中提到“控制部分一般由传感器(sensor)、控制器(controller)和执行器 (actuator)组成”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0156",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "传感器的作用是（ ）。",
+    "options": [
+      "A. 加工信息和产生控制信号",
+      "B. 将控制器产生的控制信号进行放大和变换",
+      "C. 采集信息，并把它变换到合适的形式，传送到控制器",
+      "D. 控制被控对象的运行"
+    ],
+    "answer": "C",
+    "explanation": "3.5 节中提到“传感器用来采集信息，并把它变换到合适的形式，传送到控制器”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0157",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "控制器的作用是（ ）。",
+    "options": [
+      "A. 采集信息",
+      "B. 加工信息和产生控制信号",
+      "C. 将控制信号施加到被控对象上",
+      "D. 放大和变换控制信号"
+    ],
+    "answer": "B",
+    "explanation": "3.5 节中提到“控制器用来加工信息和产生控制信号，这是控制系统的核心”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0158",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "执行器的作用是（ ）。",
+    "options": [
+      "A. 采集信息",
+      "B. 加工信息",
+      "C. 将控制器产生的控制信号进行放大和变换，施加到被控对象上",
+      "D. 产生控制信号"
+    ],
+    "answer": "C",
+    "explanation": "3.5 节中提到“执行器则将控制器产生的控制信号进行放大和变换，以此产生控 制作用，最终施加到被控对象上”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0159",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "控制系统的输出也称为（ ）。",
+    "options": [
+      "A. 系统输入",
+      "B. 系统响应",
+      "C. 控制信号",
+      "D. 误差信号"
+    ],
+    "answer": "B",
+    "explanation": "3.5 节中提到“控制系统的输出也称为系统响应”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0160",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "控制的目的是使系统输出信号跟随某个设定的信号进行变化，称为（ ）。",
+    "options": [
+      "A. 调节控制问题",
+      "B. 伺服控制问题",
+      "C. 开环控制问题",
+      "D. 闭环控制问题"
+    ],
+    "answer": "B",
+    "explanation": "3.5 节中提到“一般情况下，控制的目的是使系统输出信号跟随某个设定的信号 进行变化，称为伺服控制问题”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0161",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "要求系统输出信号保持在某个设定的固定值附近，称为（ ）。",
+    "options": [
+      "A. 调节控制问题",
+      "B. 伺服控制问题",
+      "C. 开环控制问题",
+      "D. 闭环控制问题"
+    ],
+    "answer": "A",
+    "explanation": "3.5 节中提到“如果要求系统输出信号保持在某个设定的固定值附近，则称为调 节控制问题”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0162",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "开环控制系统的特点是（ ）。",
+    "options": [
+      "A. 控制器形成控制信号时依赖于系统输出信号",
+      "B. 控制器形成控制信号时不依赖于系统输出信号",
+      "C. 对所有系统都具有很好的控制效果",
+      "D. 结构复杂"
+    ],
+    "answer": "B",
+    "explanation": "3.5.1 节中提到“所谓开环控制系统，是指控制器形成控制信号时不依赖于系统 输出信号”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0163",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "闭环控制系统的特点是（ ）。",
+    "options": [
+      "A. 控制器形成控制信号时不依赖于系统输出信号",
+      "B. 控制器形成控制信号时依赖于系统输出信号",
+      "C. 结构简单",
+      "D. 对所有系统都不适用"
+    ],
+    "answer": "B",
+    "explanation": "3.5.1 节中提到“大多数控制系统的控制器在形成控制信号时要依赖于系统输出 信号，这是一种‘顾及后果’的客观控制方式，称为闭环控制系统”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0164",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "反馈是指（ ）。",
+    "options": [
+      "A. 将系统的实际输出和期望输出进行比较而形成的误差信号",
+      "B. 系统的输入信号",
+      "C. 系统的输出信号",
+      "D. 控制器产生的控制信号"
+    ],
+    "answer": "A",
+    "explanation": "3.5.1 节中提到“所谓反馈是指将系统的实际输出和期望输出进行比较而形成的 误差信号”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0165",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "反馈控制系统中，控制器在形成控制信号时依赖于（ ）。",
+    "options": [
+      "A. 系统输入信号",
+      "B. 系统输出信号",
+      "C. 误差信号",
+      "D. 控制信号"
+    ],
+    "answer": "C",
+    "explanation": "3.5.1 节中提到“控制器在形成控制信号时要依赖于这个误差信号”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0166",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "开环控制系统必定是（ ）。",
+    "options": [
+      "A. 程序控制系统",
+      "B. 反馈控制系统",
+      "C. 闭环控制系统",
+      "D. 自适应控制系统"
+    ],
+    "answer": "A",
+    "explanation": "3.5.1 节中提到“开环控制系统必定是程序控制系统，它按事先规定的顺序或逻 辑进行控制”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0167",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "反馈闭环系统一般情况下依赖于（ ）。",
+    "options": [
+      "A. 系统的数学模型",
+      "B. 设定信号和控制器参数",
+      "C. 系统的初始条件",
+      "D. 系统的输入信号"
+    ],
+    "answer": "B",
+    "explanation": "3.5.1 节中提到“对于反馈闭环系统而言，一般情况下并不严格地依赖于系统的 数学模型，而对于设定信号和控制器参数的依赖程度是很高的”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0168",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "如果反馈信息使得系统输出的误差逐渐减少，称为（ ）。",
+    "options": [
+      "A. 正反馈",
+      "B. 负反馈",
+      "C. 前馈",
+      "D. 反馈"
+    ],
+    "answer": "B",
+    "explanation": "3.5.1 节中提到“如果反馈信息(系统实际输出)使得系统输出的误差逐渐减少， 则称为负反馈”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0169",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "负反馈是反馈的（ ）。",
+    "options": [
+      "A. 特殊形式",
+      "B. 基本形式",
+      "C. 唯一形式",
+      "D. 无效形式"
+    ],
+    "answer": "B",
+    "explanation": "3.5.1 节中提到“负反馈是反馈的基本形式”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0170",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "通过闭合负反馈环路，可以使系统不具备以下哪种特征（ ）。",
+    "options": [
+      "A. 稳定性",
+      "B. 鲁棒性",
+      "C. 抗干扰能力",
+      "D. 发散性"
+    ],
+    "answer": "D",
+    "explanation": "3.5.1 节中提到“通过闭合负反馈环路，可以获得几个重要的特征使系统达到稳 定(最重要的特征);可以使系统具有鲁棒性……可以使系统具有抗干扰能力”，未提及 发散性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0171",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "综合自动化系统追求的是（ ）。",
+    "options": [
+      "A. 局部最优",
+      "B. 总体最优",
+      "C. 技术最优",
+      "D. 成本最优"
+    ],
+    "answer": "B",
+    "explanation": "3.5.2 节中提到“综合自动化追求的是总体最优，而不是局部最优”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0172",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "综合自动化系统依赖的是（ ）。",
+    "options": [
+      "A. 简单的生产技术集成",
+      "B. 信息集成",
+      "C. 人员集成",
+      "D. 设备集成"
+    ],
+    "answer": "B",
+    "explanation": "3.5.2 节中提到“依赖的是信息集成，而不是简单的生产技术集成”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0173",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "计算机集成制造系统是综合自动化在（ ）中的重要成果。",
+    "options": [
+      "A. 离散型工业",
+      "B. 连续型工业",
+      "C. 服务业",
+      "D. 农业"
+    ],
+    "answer": "A",
+    "explanation": "3.5.2 节中提到“在离散型工业中，综合自动化的一个重要成果是计算机集成制 造系统(Computer Integrated Manufacturing System,CIMS) ”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0174",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "一个基本的计算机集成制造系统，至少有（ ）大部分。",
+    "options": [
+      "A. 三",
+      "B. 四",
+      "C. 五",
+      "D. 六"
+    ],
+    "answer": "B",
+    "explanation": "3.5.2 节中提到“一个基本的计算机集成制造系统，至少有自动化设计系统、自 动化制造系统、计算机辅助质量保障系统以及管理与决策支持系统四大部分”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0175",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "自动化设计系统不包括以下哪个部分（ ）。",
+    "options": [
+      "A. 计算机辅助设计(CA",
+      "B. 计算机辅助制造(CAM)",
+      "C. 计算机辅助质量保障系统",
+      "D. 计算机辅助工艺设计(CAPP)"
+    ],
+    "answer": "C",
+    "explanation": "3.5.2 节中提到自动化设计系统包括计算机辅助设计(CAD)、计算机辅助制造 (CAM)、计算机辅助工程(CAE) 、计算机辅助工艺设计(CAPP)等，不包括计算机辅助 质量保障系统。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0176",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "计算机辅助质量保障系统的主要功能是（ ）。",
+    "options": [
+      "A. 采集、储存、评价与处理在设计、生产及使用过程中与质量有关的数据",
+      "B. 制订中、长期的生产计划",
+      "C. 实现物料流与信息流的高度统一",
+      "D. 进行自动化设计"
+    ],
+    "answer": "A",
+    "explanation": "3.5.2 节中提到“计算机辅助质量保障系统属于重要的辅助系统，主要功能是采 集、储存、评价与处理在设计、生产及使用过程中与质量有关的数据”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0177",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "管理与决策支持系统的主要功能不包括（ ）。",
+    "options": [
+      "A. 制订中、长期的生产计划",
+      "B. 实现库存控制",
+      "C. 进行自动化制造",
+      "D. 市场预测及制订长期发展战略计划"
+    ],
+    "answer": "C",
+    "explanation": "3.5.2 节中提到管理与决策支持系统主要功能包括制订中、长期的生产计划等， 不包括进行自动化制造。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0178",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "网络化控制系统是一种（ ）。",
+    "options": [
+      "A. 集中式的实时反馈控制系统",
+      "B. 分布式的实时反馈控制系统",
+      "C. 集中式的非实时控制系统",
+      "D. 分布式的非实时控制系统"
+    ],
+    "answer": "B",
+    "explanation": "3.5.2 节中提到“ 网络化控制系统(Networked Control System,NCS) 是一种分 布式的实时反馈控制系统”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0179",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "网络化控制系统中，数据采集与控制作用（ ）确保是等周期的。",
+    "options": [
+      "A. 一定",
+      "B. 不一定",
+      "C. 不可能",
+      "D. 总是"
+    ],
+    "answer": "B",
+    "explanation": "3.5.2 节中提到“在网络化控制系统中，数据采集与控制作用都不能确保是等周 期的”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0180",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "网络化控制系统中，控制品质与性能受到（ ）的影响。",
+    "options": [
+      "A. 控制算法",
+      "B. 网络调度算法",
+      "C. 控制算法和网络调度算法",
+      "D. 系统硬件"
+    ],
+    "answer": "C",
+    "explanation": "3.5.2 节中提到“在网络化控制系统中，控制品质与性能不再仅依赖于控制算法， 同时也受到网络调度算法的影响”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0181",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "网络化控制系统中，控制系统中的传感器、控制器和执行器通过网络传输信息，会 导致（ ）。",
+    "options": [
+      "A. 网络传导时延",
+      "B. 系统性能提升",
+      "C. 系统稳定增强",
+      "D. 数据包时序不乱"
+    ],
+    "answer": "A",
+    "explanation": "3.5.2 节中提到“控制系统中的传感器、控制器和执行器通过网络传输信息，必 然会导致网络的传导时延”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0182",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "耗散结构主要研究（ ）。",
+    "options": [
+      "A. 一个开放系统在平衡态的线性区如何从无序向有序的组织结构进行演化",
+      "B. 一个开放系统在远离平衡态的非线性区如何从无序向有序的组织结构进行演化",
+      "C. 一个封闭系统在平衡态的线性区如何从无序向有序的组织结构进行演化",
+      "D. 一个封闭系统在远离平衡态的非线性区如何从无序向有序的组织结构进行演化"
+    ],
+    "answer": "B",
+    "explanation": "3.6 节中提到“耗散结构主要研究一个开放系统在远离平衡态的非线性区如何从 无序向有序的组织结构进行演化的机理、过程和规律”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0183",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "耗散结构理论认为，非平衡系统形成有序结构时系统的熵应该（ ）。",
+    "options": [
+      "A. 增加",
+      "B. 减少",
+      "C. 不变",
+      "D. 先增加后减少"
+    ],
+    "answer": "B",
+    "explanation": "3.6 节中提到“普里戈金从热力学出发，根据平衡系统中熵减少相当于有序度增 加的概念，认为非平衡系统形成有序结构时系统的熵应该减少”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0184",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "耗散结构形成和维持的条件不包括（ ）。",
+    "options": [
+      "A. 开放性",
+      "B. 接近平衡态",
+      "C. 非线性耦合",
+      "D. 涨落现象"
+    ],
+    "answer": "B",
+    "explanation": "3.6.1 节中提到耗散结构形成和维持的条件包括开放性、远离平衡态、非线性耦 合、涨落现象，不包括接近平衡态。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0185",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "一个系统要实现远离平衡态，需要（ ）。",
+    "options": [
+      "A. 与外界进行交换，且系统各部分均匀一致",
+      "B. 与外界进行交换，且系统各部分差异越大越好",
+      "C. 与外界隔绝，且系统各部分均匀一致",
+      "D. 与外界隔绝，且系统各部分差异越大越好"
+    ],
+    "answer": "B",
+    "explanation": "3.6.1 节中提到“一个系统要想实现远离平衡态的目标，需要与外界进行交换； 需要研究系统的各个组成部分是否是均匀一致的，系统各个部分之间差异越大，系统就 离平衡态越远” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0186",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在物流网络中，以下哪种情况属于熵流流入的过程（ ）。",
+    "options": [
+      "A. 增加成本",
+      "B. 浪费时间",
+      "C. 提高效率",
+      "D. 降低服务质量"
+    ],
+    "answer": "C",
+    "explanation": "3.6.2 节中提到“在物流网络中，任何一个减少成本、节省时间、提高效率的有 效组织或优化策略的执行都是熵流流入的过程” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0187",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "目前我国不少企业管理信息系统是一种封闭系统，维持着低水平的稳定有序状态， 这种结构被称为（ ）。",
+    "options": [
+      "A. “活”结构",
+      "B. “死”结构",
+      "C. 平衡结构",
+      "D. 耗散结构"
+    ],
+    "answer": "B",
+    "explanation": "3.6.2 节中提到“ 目前，我国不少企业管理信息系统都是一种封闭系统……这种 结构是一种‘死’结构” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0188",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "企业管理信息系统的干扰来自（ ）。",
+    "options": [
+      "A. 内部",
+      "B. 外部",
+      "C. 内外两个方面",
+      "D. 系统本身"
+    ],
+    "answer": "C",
+    "explanation": "3.6.2 节中提到“企业管理信息系统的干扰来自内外两个方面，内部干扰是信息 系统部件产生的噪声……外部干扰是由于外界的正熵输入” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0189",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "协同论的创始人是（ ）。",
+    "options": [
+      "A. 普里戈金",
+      "B. 哈肯",
+      "C. 托姆",
+      "D. 维纳"
+    ],
+    "answer": "B",
+    "explanation": "3.7 节中提到“协同论的创始人哈肯说过，他把这个学科称为‘协同学’” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0190",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "协同论着重探讨各种系统从无序变为有序时的（ ）。",
+    "options": [
+      "A. 差异性",
+      "B. 相似性",
+      "C. 稳定性",
+      "D. 突变性"
+    ],
+    "answer": "B",
+    "explanation": "3.7 节中提到“协同论着重探讨各种系统从无序变为有序时的相似性” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0191",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "协同论研究的是开放系统怎样从原始均匀的无序态发展为（ ）。",
+    "options": [
+      "A. 无序结构",
+      "B. 稳定的无序结构",
+      "C. 有序结构",
+      "D. 新的无序态"
+    ],
+    "answer": "C",
+    "explanation": "3.7.1 节中提到“协同学研究的是开放系统怎样从原始均匀的无序态发展为有序 结构，或从一种有序结构转变为另一种有序结构” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0192",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "协同论中，序参量的大小可以用来标志（ ）。",
+    "options": [
+      "A. 微观有序的程度",
+      "B. 宏观有序的程度",
+      "C. 系统变化的程度",
+      "D. 系统稳定的程度"
+    ],
+    "answer": "B",
+    "explanation": "3.7.1 节中提到“序参量的大小可以用来标志宏观有序的程度，当系统是无序时， 序参量为零” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0193",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "协同论的不稳定原理揭示了（ ）。",
+    "options": [
+      "A. 一种模式的形成意味着原来的状态更稳定",
+      "B. 不稳定性没有积极作用",
+      "C. 不稳定性充当了新旧结构演替的媒介",
+      "D. 系统不会发生结构变化"
+    ],
+    "answer": "C",
+    "explanation": "3.7.1 节中提到“不稳定原理揭示的是一种模式的形成意味着原来的状态不再能 够维持，从而变为不稳定的。协同论承认不稳定性具有积极的建设性作用，不稳定性充 当了新旧结构演替的媒介” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0194",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "支配原理中，慢变量代表（ ）。",
+    "options": [
+      "A. 稳定模",
+      "B. 不稳定模",
+      "C. 快变量",
+      "D. 系统的全部变量"
+    ],
+    "answer": "B",
+    "explanation": "3.7.1 节中提到“在接近临界点时，前一类变量随时间变化很慢……称为慢变量。 慢变量在接近临界点时不是迅速衰减而是缓慢增长，代表不稳定模” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0195",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "支配原理认为，系统演化进程由（ ）主宰。",
+    "options": [
+      "A. 快变量",
+      "B. 慢变量",
+      "C. 所有变量",
+      "D. 外部因素"
+    ],
+    "answer": "B",
+    "explanation": "3.7.1 节中提到“慢变量则主宰着演化进程，支配着快变量的行为，快变量跟随 慢变量的变化而变化” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0196",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "序参量的形成来源于（ ）。",
+    "options": [
+      "A. 外部作用强加于系统",
+      "B. 系统内部",
+      "C. 系统的子系统独立运动",
+      "D. 系统与外部的随机作用"
+    ],
+    "answer": "B",
+    "explanation": "3.7.1 节中提到“序参量的形成，不是外部作用强加于系统的，它的来源在系统 内部” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0197",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在信息系统规划中，协同论可以帮助（ ）。",
+    "options": [
+      "A. 优化各要素之间的协作关系，提高信息系统整体性能",
+      "B. 增加系统的复杂性",
+      "C. 降低系统的稳定性",
+      "D. 减少系统的功能"
+    ],
+    "answer": "A",
+    "explanation": "3.7.2 节中提到“在信息系统规划中，协同论的应用可以帮助人们更好地理解和 分析信息系统的各个组成部分，优化各要素之间的协作关系，从而提高信息系统的整体 性能” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0198",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "突变论最早出现于（ ）研究领域。",
+    "options": [
+      "A. 数学",
+      "B. 物理学",
+      "C. 生物学",
+      "D. 经济学"
+    ],
+    "answer": "A",
+    "explanation": "3.8 节中提到“关于突变论的最早研究出现于数学研究领域，由法国数学家托姆 提出” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0199",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "突变论研究的主要问题是（ ）。",
+    "options": [
+      "A. 量变产生的路径",
+      "B. 质变产生的路径",
+      "C. 渐变的规律",
+      "D. 平衡的维持"
+    ],
+    "answer": "B",
+    "explanation": "3.8.1 节中提到“突变论研究的主要问题是质变产生的路径” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0200",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "突变论认为质变可以通过（ ）方式实现。",
+    "options": [
+      "A. 飞跃",
+      "B. 渐变",
+      "C. 飞跃或渐变",
+      "D. 既不是飞跃也不是渐变"
+    ],
+    "answer": "C",
+    "explanation": "3.8.1 节中提到“该理论认为质变既可通过飞跃的方式实现，也可通过渐变的方 式实现” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0201",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "突变论的数学基础是（ ）。",
+    "options": [
+      "A. 微积分和线性代数",
+      "B. 奇点理论和分岔理论",
+      "C. 概率论和数理统计",
+      "D. 拓扑学和群论"
+    ],
+    "answer": "B",
+    "explanation": "3.8.1 节中提到“突变论的数学基础是奇点理论和分岔理论” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0202",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在系统稳定性分析领域，突变论的相关思想被用于（ ）。",
+    "options": [
+      "A. 探讨奇点预测系统在不同条件下的行为和变化趋势",
+      "B. 增加系统的不稳定性",
+      "C. 忽略系统的变化规律",
+      "D. 简化系统结构"
+    ],
+    "answer": "A",
+    "explanation": "3.8.2 节中提到“系统规划人员通过数学模型来探讨奇点预测系统在不同条件下 的行为和变化趋势，了解系统的特性和变化规律，从而更好地控制系统的变化，为系统 规划提供稳定性分析的依据” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0203",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "复杂系统论认为导致复杂性出现的核心原因是（ ）。",
+    "options": [
+      "A. 整体互动可测",
+      "B. 局部互动不可测",
+      "C. 系统结构单一",
+      "D. 系统要素固定"
+    ],
+    "answer": "B",
+    "explanation": "3.9.1 节中提到“复杂系统论认为，导致复杂性出现的核心原因是局部互动不可 测” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0204",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "复杂系统论中，复杂系统具备的能力不包括（ ）。",
+    "options": [
+      "A. 自我学习能力",
+      "B. 线性运算能力",
+      "C. 适应能力",
+      "D. 自我进化能力"
+    ],
+    "answer": "B",
+    "explanation": "3.9.1 节中提到复杂系统具备自我学习和适应能力、自我进化能力，由于存在局 部不互动、不可测的原因，观测复杂系统不可通过线性运算方法进行测量，所以线性运 算能力不属于复杂系统具备的能力。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0205",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "复杂系统论强调研究应着眼于（ ）。",
+    "options": [
+      "A. 局部性",
+      "B. 整体性",
+      "C. 个体性",
+      "D. 单一性"
+    ],
+    "answer": "B",
+    "explanation": "3.9.1 节中提到“复杂系统研究须着眼于整体性，强调‘整体大于部分之和’”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0206",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在复杂系统中，异质性的作用是（ ）。",
+    "options": [
+      "A. 保证系统稳定运行",
+      "B. 导致系统不稳定",
+      "C. 使系统失去适应性",
+      "D. 降低系统的多样性"
+    ],
+    "answer": "A",
+    "explanation": "3.9.1 节中提到“异质性是保证复杂系统稳定运行的关键特性”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0207",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在复杂系统研究中，接受随机性可以（ ）。",
+    "options": [
+      "A. 降低研究能力",
+      "B. 使系统只能获得局部最优解",
+      "C. 帮助复杂系统获得整体最优解",
+      "D. 增加系统的确定性"
+    ],
+    "answer": "C",
+    "explanation": "3.9.1 节中提到“在复杂系统的研究中，让渡控制权，去理解和利用系统的自组 织和自适应能力，接受随机性甚至引入错误概念，可帮助复杂系统获得整体最优解”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0208",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在系统规划与管理中运用复杂系统论，需要采用的思维方式是（ ）。",
+    "options": [
+      "A. 线性思维",
+      "B. 非线性思维",
+      "C. 单一思维",
+      "D. 固定思维"
+    ],
+    "answer": "B",
+    "explanation": "3.9.2 节中提到“复杂系统中的各个组成部分之间相互作用，往往呈现出非线性 的关系。在系统规划与管理中，应该采用非线性思维”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0209",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "运用复杂系统论进行系统规划与管理时，需要考虑系统的（ ）。",
+    "options": [
+      "A. 历史、现状，无需考虑未来趋势",
+      "B. 历史、现状和未来趋势",
+      "C. 现状和未来趋势，无需考虑历史",
+      "D. 仅考虑现状"
+    ],
+    "answer": "B",
+    "explanation": "3.9.2 节中提到“在系统规划与管理中，需要考虑系统的历史、现状和未来趋势， 分析系统在不同阶段的特点和规律，以便制定出更加符合实际情况的方案与措施”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0210",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在系统规划与管理中，基于复杂系统论的多样性原则，应该（ ）。",
+    "options": [
+      "A. 避免不同策略、方案等的融合",
+      "B. 充分考虑系统中存在的多样性，鼓励不同的策略、方案等的融合",
+      "C. 强调系统的一致性，消除多样性",
+      "D. 只关注系统的主要部分，忽略多样性"
+    ],
+    "answer": "B",
+    "explanation": "3.9.2 节中提到“在系统规划与管理中，应该充分考虑系统中存在的多样性，鼓 励不同的策略、方案、方法和技术的融合，以便更好地应对复杂多变的情况”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0211",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "复杂系统论认为科学研究将进入（ ）。",
+    "options": [
+      "A. 简单科学研究时代",
+      "B. 复杂科学研究时代",
+      "C. 经典科学研究时代",
+      "D. 传统科学研究时代"
+    ],
+    "answer": "B",
+    "explanation": "3.9.2 节中提到“复杂系统论提出的背景及时代都表明了科学研究将进入复杂科 学研究时代”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0212",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "借助复杂系统论进行系统规划与管理时，从整体视角出发需要（ ）。",
+    "options": [
+      "A. 只分析系统内部结构，不考虑外部环境",
+      "B. 只考虑外部环境，不分析系统内部结构",
+      "C. 分析系统内部结构和外部环境",
+      "D. 忽略系统内部结构和外部环境的联系"
+    ],
+    "answer": "C",
+    "explanation": "3.9.2 节中提到“在系统规划与管理时，应将系统视为一个整体，分析其内部结 构和外部环境，以便更好地理解和解决系统中的问题”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0213",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "以下哪种系统特性与复杂系统论中适应性策略相关（ ）。",
+    "options": [
+      "A. 系统的稳定性",
+      "B. 系统的动态演化性",
+      "C. 系统的层次性",
+      "D. 系统的相似性"
+    ],
+    "answer": "B",
+    "explanation": "3.9.2 节中提到“复杂系统是动态演化的，需要具备适应性和灵活性。在系统规 划与管理中，应该制定适应性策略，根据系统在不同阶段的特点和需求及时调整方案和 方法”，所以与适应性策略相关的是系统的动态演化性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0214",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统科学研究的对象是（ ）。",
+    "options": [
+      "A. 单一简单系统",
+      "B. 不同领域的复杂系统",
+      "C. 自然科学领域的系统",
+      "D. 社会科学领域的系统"
+    ],
+    "answer": "B",
+    "explanation": "3.1 节提到系统科学“ 以不同领域的复杂系统为研究对象”，故答案为B。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0215",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "哲学的本质是关于（ ）的理论体系。",
+    "options": [
+      "A. 世界观",
+      "B. 方法论",
+      "C. 具体科学",
+      "D. 自然科学"
+    ],
+    "answer": "A",
+    "explanation": "3.1 节指出“哲学本质上是对世界基本和普遍的问题研究的学科，是关于世界观 的理论体系”，所以选A。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0216",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "《矛盾论》是对唯物辩证法（ ）的系统和深刻发挥。",
+    "options": [
+      "A. 质量互变规律",
+      "B. 对立统一规律",
+      "C. 否定之否定规律",
+      "D. 联系和发展观点"
+    ],
+    "answer": "B",
+    "explanation": "3.1.1 节表明“《矛盾论》是对唯物辩证法的对立统一规律的极为系统和深刻的 发挥”，答案是B。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0217",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "每一种运动形式中的矛盾都具有特殊性，这体现了矛盾的（ ）。",
+    "options": [
+      "A. 普遍性",
+      "B. 特殊性",
+      "C. 同一性",
+      "D. 斗争性"
+    ],
+    "answer": "B",
+    "explanation": "3.1.1 节提到矛盾特殊性的表现之一是“每一种运动形式中的矛盾都具有特殊 性”，所以选B。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0218",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在矛盾体系中，起领导作用并规定和影响其他矛盾的是（ ）。",
+    "options": [
+      "A. 次要矛盾",
+      "B. 矛盾的次要方面",
+      "C. 主要矛盾",
+      "D. 矛盾的主要方面"
+    ],
+    "answer": "C",
+    "explanation": "3.1.1 节指出“在许多矛盾构成的体系中，起领导作用并规定和影响其他矛盾的 存在和发展的是主要矛盾”，C 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0219",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息系统规划与管理中，需求与资源的矛盾表现为（ ）。",
+    "options": [
+      "A. 需求稳定资源充足",
+      "B. 需求变化但资源有限",
+      "C. 需求少资源多",
+      "D. 需求和资源都不稳定"
+    ],
+    "answer": "B",
+    "explanation": "3.1.2 节提到“组织面临不断变化和增长的用户需求，而资源有限”，B 选项符 合。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0220",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "认识过程的第一次能动飞跃是（ ）。",
+    "options": [
+      "A. 从实践到感性认识",
+      "B. 从感性认识上升到理性认识",
+      "C. 从理性认识到实践",
+      "D. 从理性认识到感性认识"
+    ],
+    "answer": "B",
+    "explanation": "3.2.1 节提到“ 由实践到认识的过程，即在实践基础上从感性认识上升到理性认 识，这是认识过程的第一次能动的飞跃”，B 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0221",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "认识过程的第二次能动飞跃是（ ）。",
+    "options": [
+      "A. 从实践到感性认识",
+      "B. 从感性认识到理性认识",
+      "C. 从理性认识回到实践中去",
+      "D. 从实践到理性认识"
+    ],
+    "answer": "C",
+    "explanation": "3.2.1 节表明“经过实践得到的理性认识，还须再回到实践中去，这是认识过程 的第二次能动的飞跃”，C 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0222",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统整体性原理表明系统整体性质和功能（ ）。",
+    "options": [
+      "A. 等于各要素性质和功能之和",
+      "B. 大于各要素性质和功能之和",
+      "C. 小于各要素性质和功能之和",
+      "D. 与各要素性质和功能无关"
+    ],
+    "answer": "B",
+    "explanation": "3.3.1 节提到“整体的性质和功能，不等于各个要素的性质和功能的简单加和”， 意味着系统整体性质和功能大于各要素性质和功能之和，B 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0223",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统目的性原理中，系统发展变化趋向（ ）。",
+    "options": [
+      "A. 随机状态",
+      "B. 预先确定的状态",
+      "C. 混乱状态",
+      "D. 平衡状态"
+    ],
+    "answer": "B",
+    "explanation": "3.3.1 节指出“系统在与环境的相互作用中……坚持表现出某种趋向预先确定的 状态的特性”，B 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0224",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统突变性原理中，系统质变的基本形式是（ ）。",
+    "options": [
+      "A. 渐变",
+      "B. 突变",
+      "C. 量变",
+      "D. 平衡"
+    ],
+    "answer": "B",
+    "explanation": "3.3.1 节提到“系统突变性原理指的是，系统通过失稳，从一种状态进入另一种 状态的一种突变过程，它是系统质变的一种基本形式”，B 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0225",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统稳定性原理中，开放系统保持稳定的关键在于（ ）。",
+    "options": [
+      "A. 正反馈机制",
+      "B. 负反馈机制",
+      "C. 自组织机制",
+      "D. 协同机制"
+    ],
+    "answer": "B",
+    "explanation": "3.3.1 节表明“一个组织系统之所以具有受到干扰后能够迅速排除偏差、恢复到 正常的稳定状态的能力，关键在于其中的负反馈机制”，B 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0226",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统自组织原理中，开放系统在内外因素作用下会（ ）。",
+    "options": [
+      "A. 从有序到无序",
+      "B. 从无序到有序",
+      "C. 保持原状态不变",
+      "D. 逐渐退化"
+    ],
+    "answer": "B",
+    "explanation": "3.3.1 节提到“系统会自发组织起来，使系统从无序到有序，从低级有序到高级 有序”，B 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0227",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "系统相似性原理的根本原因是（ ）。",
+    "options": [
+      "A. 系统结构相似",
+      "B. 系统功能相似",
+      "C. 世界的物质统一性",
+      "D. 系统演化方式相似"
+    ],
+    "answer": "C",
+    "explanation": "3.3.1 节指出“系统具有相似性，最根本原因在于世界的物质统一性”，C 选项 正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0228",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "在系统规划与管理中，系统论提供的思考维度是（ ）。",
+    "options": [
+      "A. 从局部思考",
+      "B. 从整体全局思考",
+      "C. 从技术层面思考",
+      "D. 从理论层面思考"
+    ],
+    "answer": "B",
+    "explanation": "3.3.2 节提到“系统论提供了一种从整体全局思考问题的维度”，B 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0229",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "以IT 服务规划设计为例，在系统论思想指导下首先要找出规划流程中的（ ）。",
+    "options": [
+      "A. 关键技术",
+      "B. 主要活动",
+      "C. 重要资源",
+      "D. 核心人员"
+    ],
+    "answer": "B",
+    "explanation": "3.3.2 节提到“ 以IT 服务规划设计为例，在系统论思想的指导下，首先找出 规划流程中的主要活动”，B 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0230",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论是运用（ ）方法研究信息问题的学科。",
+    "options": [
+      "A. 概率论与数理统计",
+      "B. 微积分",
+      "C. 线性代数",
+      "D. 拓扑学"
+    ],
+    "answer": "A",
+    "explanation": "3.4 节提到“信息论是运用概率论与数理统计的方法研究信息……等问题的学 科”，A 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0231",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息具有多种特性，其中烽火戏诸侯体现了信息的（ ）。",
+    "options": [
+      "A. 传递性",
+      "B. 共享性",
+      "C. 真伪性",
+      "D. 时效性"
+    ],
+    "answer": "C",
+    "explanation": "3.4.1 节提到“正如前文提到的烽火戏诸侯典故所述，信息是客观存在的但并不 全都是真实情况的反映”，体现了信息的真伪性，C 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0232",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息要进行存储需转化为信号写入存储器，这体现了信息的（ ）。",
+    "options": [
+      "A. 传递性",
+      "B. 共享性",
+      "C. 依附性",
+      "D. 价值相对性"
+    ],
+    "answer": "C",
+    "explanation": "3.4.1 节提到“信息要进行存储则需要转化为信号写入存储器中……这就是信息 的依附性”，C 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0233",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "中国古老造纸术价值随时间变化，体现了信息的（ ）。",
+    "options": [
+      "A. 价值相对性",
+      "B. 时效性",
+      "C. 共享性",
+      "D. 依附性"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节提到“信息是否有价值因人而异、因时而异，其是相对的。例如，中国 古老的造纸术……”，体现了信息的价值相对性，A 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0234",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "道路通行信息按时间变化，仅在特定时间段有效，体现了信息的（ ）。",
+    "options": [
+      "A. 时效性",
+      "B. 真伪性",
+      "C. 共享性",
+      "D. 传递性"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节提到“还以红绿灯为例，道路是否可以通行的信息在按照一定的时间间 隔而发生变化，且仅对当时那个时间段有效…… ”，体现了信息的时效性，A 选项正 确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch03_0235",
+    "chapter": "第3章",
+    "chapter_no": 3,
+    "chapter_title": "系统科学与哲学方法论",
+    "question": "信息论的方法是通过对（ ）的考察来认识复杂系统。",
+    "options": [
+      "A. 信息流程",
+      "B. 系统结构",
+      "C. 系统功能",
+      "D. 系统组成"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节提到“信息论的方法是普适的，它是指通过对信息的观察来考察系统的 行为结构和功能……达到对某个复杂系统运动过程的规律性认识”，强调对信息流程的 考察，A 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "status": "candidate"
+  }
+]

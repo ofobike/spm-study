@@ -1,0 +1,22 @@
+{
+  "id": "case_study_20260525_134711_053f0f",
+  "type": "case_study",
+  "created_at": "2026-05-25T13:47:11",
+  "params": {
+    "chapters": "12",
+    "count": 1,
+    "difficulty": null,
+    "seed": null,
+    "source": "recitation"
+  },
+  "answers_template": {
+    "cs_recite_ch12_q1": "",
+    "cs_recite_ch12_q2": "",
+    "cs_recite_ch12_q3": "",
+    "cs_recite_ch12_q4": "",
+    "cs_recite_ch12_q5": ""
+  },
+  "case_ids": [
+    "cs_recite_ch12"
+  ]
+}

@@ -1,0 +1,1674 @@
+[
+  {
+    "id": "ch19_q001",
+    "question": "智慧园区的定义中，以下哪项不是智慧园区的特征？（）",
+    "options": [
+      "A. 设备设施智能化",
+      "B. 运营管理高效化",
+      "C. 产业生态封闭化",
+      "D. 信息数据共享化"
+    ],
+    "answer": "C",
+    "explanation": "智慧园区的特征包括设备设施智能化、运营管理高效化、产业服务便捷化、信息数据共享化、产业生态体系化、双碳发展科学化等。\"产业生态封闭化\"不是智慧园区的特征，智慧园区强调的是开放、共建、共享。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q002",
+    "question": "我国智慧园区建设与发展的三个阶段依次为（）。",
+    "options": [
+      "A. 平台化发展阶段、单项应用阶段、全要素融合阶段",
+      "B. 单项应用阶段、平台化发展阶段、全要素融合阶段",
+      "C. 全要素融合阶段、单项应用阶段、平台化发展阶段",
+      "D. 单项应用阶段、全要素融合阶段、平台化发展阶段"
+    ],
+    "answer": "B",
+    "explanation": "我国智慧园区建设与发展大致经历了三个阶段：单项应用阶段（提升工作效率、实施体力替代）、平台化发展阶段（业务融合创新、数据价值挖掘）、全要素融合阶段（全要素聚合、全场景智慧）。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q003",
+    "question": "在智慧园区投资运营模式中，（）模式最大的特点是具有自主权，受到的制约因素较少，投资建设较灵活，也是目前最受推崇的模式。",
+    "options": [
+      "A. 由园区管委会推动",
+      "B. 由运营商推动",
+      "C. 由各种厂商推动",
+      "D. 在园区管委会支持下组建专业第三方公司推动"
+    ],
+    "answer": "D",
+    "explanation": "在园区管委会支持下组建专业第三方公司推动的模式具有自主权，受到的制约因素较少，投资建设较灵活，是目前最受推崇的模式。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "投资运营模式",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#投资运营模式",
+    "tags": [
+      "智慧园区",
+      "投资运营模式"
+    ]
+  },
+  {
+    "id": "ch19_q004",
+    "question": "以下关于智慧园区发展面临的主要问题，描述不正确的是（）。",
+    "options": [
+      "A. 技术模型和总体规划不足",
+      "B. 数据孤岛问题普遍存在",
+      "C. 智慧园区建设标准统一完善",
+      "D. 信息安全和法律法规不健全"
+    ],
+    "answer": "C",
+    "explanation": "智慧园区发展面临的问题包括：技术模型和总体规划不足、数据孤岛问题普遍存在、\"千园一面\"未能因地制宜、信息安全和法律法规不健全、缺乏标准化规范指导。\"标准统一完善\"与实际相反。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q005",
+    "question": "智慧园区评价指标体系中，（）主要评价园区与城市融合发展方面的智慧化程度。",
+    "options": [
+      "A. 组织战略",
+      "B. 产城融合",
+      "C. 产业服务",
+      "D. 运营管理"
+    ],
+    "answer": "B",
+    "explanation": "产城融合主要评价园区与城市融合发展方面的智慧化程度，重点关注政务协同、专项治理、专项监督、政策应用、园区效能等方面。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "产城融合",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合",
+    "tags": [
+      "智慧园区",
+      "产城融合"
+    ]
+  },
+  {
+    "id": "ch19_q006",
+    "question": "零碳智慧园区建设中，来自建筑物的温室气体排放量占所有温室气体排放量的近（），成为各种类型园区中的主要碳排放来源之一。",
+    "options": [
+      "A. 20%",
+      "B. 30%",
+      "C. 40%",
+      "D. 50%"
+    ],
+    "answer": "C",
+    "explanation": "根据世界绿色建筑协会相关数据，来自建筑物的温室气体排放量占所有温室气体排放量的近40%，成为各种类型园区中的主要碳排放来源之一。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q007",
+    "question": "智慧园区数智化能力提升主要体现在四个方面，以下不属于这四个方面的是（）。",
+    "options": [
+      "A. 基础设施集约化",
+      "B. 运营管理精细化",
+      "C. 安全防护等级化",
+      "D. 产业发展数字化"
+    ],
+    "answer": "C",
+    "explanation": "智慧园区数智化能力提升主要体现在四个方面：基础设施集约化、运营管理精细化、园区服务平台化、产业发展数字化。\"安全防护等级化\"不属于这四个方面。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q008",
+    "question": "智慧园区应用架构中，（）是指在智慧园区场景中，采用GIS技术对园区实现可视化动态管理，成为园区的报告中心、指挥中心、统一入口。",
+    "options": [
+      "A. 综合安防",
+      "B. 便捷通行",
+      "C. 智能运营中心",
+      "D. 设施管理"
+    ],
+    "answer": "C",
+    "explanation": "园区智能运营中心是指在智慧园区场景中，采用GIS技术对园区实现可视化动态管理，成为园区的报告中心、指挥中心、统一入口，建立从运营状态可视、业务分析和预警、辅助决策、执行的能力。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "应用架构",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#应用架构",
+    "tags": [
+      "智慧园区",
+      "应用架构"
+    ]
+  },
+  {
+    "id": "ch19_q009",
+    "question": "园区是指国家或地区政府根据经济发展阶段和自身经济发展要求，通过行政、市场等手段，聚集各种生产要素，使之成为功能布局优化、层次结构合理、产业特色鲜明的企业集聚的（）。",
+    "options": [
+      "A. 行政区域",
+      "B. 经济特区",
+      "C. 生活社区",
+      "D. 文化区域"
+    ],
+    "answer": "B",
+    "explanation": "园区是指国家或地区政府根据经济发展阶段和自身经济发展要求，通过行政、市场等手段，聚集各种生产要素，并在一定空间范围内进行科学整合，使之成为功能布局优化、层次结构合理、产业特色鲜明的企业集聚的经济特区。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "园区指国家或地区政府经济",
+    "source_ref": "references/第19章_智慧园区发展规划.md#发展整体环境",
+    "tags": [
+      "园区指国家或地区政府经济",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch19_q010",
+    "question": "从区域分布来看，我国已经形成\"东部沿海集聚、中部沿江联动、西部特色发展\"的智慧园区空间格局。（）地区成为全国智慧园区建设的三大聚集区。",
+    "options": [
+      "A. 东北、华北、华南",
+      "B. 环渤海、长三角、珠三角",
+      "C. 中部、西部、东部",
+      "D. 华北、华东、华中"
+    ],
+    "answer": "B",
+    "explanation": "从地理位置上来说，我国已经形成\"东部沿海集聚、中部沿江联动、西部特色发展\"的智慧园区空间格局。环渤海、长三角和珠三角地区成为全国智慧园区建设的三大聚集区。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q011",
+    "question": "智慧园区投资模式不包括以下哪项？（）",
+    "options": [
+      "A. 政府投资类",
+      "B. 平台公司投资",
+      "C. 政府和社会资本合作共建",
+      "D. 国际组织援助"
+    ],
+    "answer": "D",
+    "explanation": "目前，智慧园区投资模式主要有政府投资类、平台公司类、政府和社会资本合作共建等。国际组织援助不属于智慧园区的投资模式。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q012",
+    "question": "PPP项目运作方式中，BOT是指（）。",
+    "options": [
+      "A. 委托运营",
+      "B. 管理合同",
+      "C. 建设-运营-移交",
+      "D. 建设-拥有-运营"
+    ],
+    "answer": "C",
+    "explanation": "BOT（Build-Operate-Transfer）是指建设-运营-移交。O&M是委托运营，MC是管理合同，BOO是建设-拥有-运营。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "PPP",
+    "source_ref": "references/第19章_智慧园区发展规划.md#发展整体环境",
+    "tags": [
+      "PPP",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch19_q013",
+    "question": "智慧园区的主要场景不包括以下哪项？（）",
+    "options": [
+      "A. 招引建设",
+      "B. 经济监测",
+      "C. 独立防御",
+      "D. 绿色园区"
+    ],
+    "answer": "C",
+    "explanation": "智慧园区的主要场景包括招引建设、经济监测、园区运行、公共安全、产城融合、绿色园区、关键评价指标等方面。独立防御不属于智慧园区的主要场景。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "招引建设",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#招引建设",
+    "tags": [
+      "智慧园区",
+      "招引建设"
+    ]
+  },
+  {
+    "id": "ch19_q014",
+    "question": "在招商引资过程中，产业定位的精准程度起着决定性作用。以下不属于招商引资主要涉及的方面的是（）。",
+    "options": [
+      "A. 产业定位",
+      "B. 招商目标",
+      "C. 专用战略",
+      "D. 营销推广"
+    ],
+    "answer": "C",
+    "explanation": "招商引资主要涉及园区产业定位、招商目标、优惠政策、服务定价、营销推广和便捷运营等方面的工作。专用战略不属于招商引资的范畴。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "发展整体环境",
+    "source_ref": "references/第19章_智慧园区发展规划.md#发展整体环境",
+    "tags": [
+      "招商",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch19_q015",
+    "question": "企业画像是园区对入园企业各类情况的客观刻画和表达。企业画像可以基于企业发展全生命周期开展，以下不属于企业发展生命周期阶段的是（）。",
+    "options": [
+      "A. 注册",
+      "B. 孵化",
+      "C. 集中化",
+      "D. 成熟"
+    ],
+    "answer": "C",
+    "explanation": "企业画像可以基于企业发展全生命周期开展，即注册、开业、孵化、成长、成熟、拓展等过程。集中化不属于企业发展生命周期阶段。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "企业画像园区对入园企业各",
+    "source_ref": "references/第19章_智慧园区发展规划.md#发展整体环境",
+    "tags": [
+      "企业画像园区对入园企业各",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch19_q016",
+    "question": "园区智慧管理重点可以体现在多个方面，以下不属于智慧管理内容的是（）。",
+    "options": [
+      "A. 设备管理",
+      "B. 商户管理",
+      "C. 业务管理",
+      "D. 财务管理"
+    ],
+    "answer": "C",
+    "explanation": "园区智慧管理重点可以体现在设备管理、商户管理、物业管理、合同管理、招商管理、访客管理、财务管理等方面。业务管理不属于园区智慧管理的内容。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "发展整体环境",
+    "source_ref": "references/第19章_智慧园区发展规划.md#发展整体环境",
+    "tags": [
+      "招商",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch19_q017",
+    "question": "园区智慧环保重点可以体现在多个方面，以下不属于智慧环保内容的是（）。",
+    "options": [
+      "A. 环境监测",
+      "B. 节能减排",
+      "C. 专用侦察",
+      "D. 环境预警"
+    ],
+    "answer": "C",
+    "explanation": "园区智慧环保重点可以体现在环境监测、节能减排、废物管理、环境预警等方面。专用侦察不属于园区智慧环保的内容。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "园区智慧环保重点可以体现",
+    "source_ref": "references/第19章_智慧园区发展规划.md#发展整体环境",
+    "tags": [
+      "园区智慧环保重点可以体现",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch19_q018",
+    "question": "在公共安全领域，智慧园区的综合安全不包括以下哪项？（）",
+    "options": [
+      "A. 周界防范",
+      "B. 视频监控",
+      "C. 安全巡检",
+      "D. 人员培训"
+    ],
+    "answer": "D",
+    "explanation": "智慧园区的综合安全领域往往需要关注周界防范、视频监控和安全巡检等。人员培训不属于园区综合安全的范畴。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "公共安全",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#公共安全",
+    "tags": [
+      "智慧园区",
+      "公共安全"
+    ]
+  },
+  {
+    "id": "ch19_q019",
+    "question": "在公共安全领域的人员管理中，以下不属于特殊人员管理内容的是（）。",
+    "options": [
+      "A. 管控重点人员",
+      "B. 陌生人员管理",
+      "C. 高频人员管理",
+      "D. 业务人员管理"
+    ],
+    "answer": "D",
+    "explanation": "特殊人员管理面向园区管控重点人员、陌生人员、高频人员等特殊人员，以人脸识别技术为核心，实现视频中人脸的自动识别、抓拍及管理。业务人员管理不属于园区特殊人员管理的范畴。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "公共安全",
+    "knowledge_point": "公共安全",
+    "source_ref": "references/第19章_智慧园区发展规划.md#公共安全",
+    "tags": [
+      "在公共安全领域的人员管理",
+      "公共安全"
+    ]
+  },
+  {
+    "id": "ch19_q020",
+    "question": "产城融合是通过推动城市和园区的融合发展，实现以产兴城、以城带产。以下不属于产城融合内容的是（）。",
+    "options": [
+      "A. 产业结构调整",
+      "B. 生产经营配套",
+      "C. 基础设施建设",
+      "D. 区域交通优化"
+    ],
+    "answer": "C",
+    "explanation": "产城融合的内容包括产业结构调整、生产经营配套、公共生活配套、区域交通优化、精准集合营销等。基础设施建设不属于产城融合的内容。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合",
+    "knowledge_point": "产城融合通过推动城市和园",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合",
+    "tags": [
+      "产城融合通过推动城市和园",
+      "产城融合"
+    ]
+  },
+  {
+    "id": "ch19_q021",
+    "question": "零碳智慧园区建设中，从控制碳排放和加大碳吸收两方面入手，同时建立碳交易市场，加强智慧管控。以下不属于零碳生产主要途径的是（）。",
+    "options": [
+      "A. 优化产业链布局以提升集群内循环效率",
+      "B. 工艺优化以提升能源产出效率",
+      "C. 增加化石能源使用",
+      "D. 利用负碳技术降低终端排放"
+    ],
+    "answer": "C",
+    "explanation": "零碳生产的主要途径包括：优化产业链布局、工艺优化、通过电气化以及清洁能源利用降低生产过程直接排放、利用负碳技术降低终端排放。增加化石能源使用与零碳目标相悖。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q022",
+    "question": "智慧园区评价指标体系框架中，以下不属于评价维度的是（）。",
+    "options": [
+      "A. 产城融合",
+      "B. 信息安全",
+      "C. 绿色环保",
+      "D. 信息与应用"
+    ],
+    "answer": "B",
+    "explanation": "智慧园区评价指标体系包括产城融合、组织战略、运营管理、产业服务、社群服务、绿色环保、安全应急、运行管理、信息与应用等维度。信息安全不属于评价维度。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合",
+    "tags": [
+      "智慧园区",
+      "产城融合"
+    ]
+  },
+  {
+    "id": "ch19_q023",
+    "question": "在智慧园区评价指标体系中，（）是指园区发展过程中，对智慧化能力建设相关的各项工作统筹及规划情况。",
+    "options": [
+      "A. 产城融合",
+      "B. 组织战略",
+      "C. 运营管理",
+      "D. 产业服务"
+    ],
+    "answer": "B",
+    "explanation": "组织战略是指园区发展过程中，对智慧化能力建设相关的各项工作统筹及规划情况，重点关注战略管理、数字能力、创新驱动等方面。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合",
+    "tags": [
+      "智慧园区",
+      "产城融合"
+    ]
+  },
+  {
+    "id": "ch19_q024",
+    "question": "在智慧园区评价指标体系中，运营管理不包括以下哪项内容？（）",
+    "options": [
+      "A. 招商管理",
+      "B. 财务管理",
+      "C. 业务管理",
+      "D. 资产管理"
+    ],
+    "answer": "C",
+    "explanation": "运营管理重点关注招商管理、计划调度、财务管理、物业管理、人员管理、资产管理、知识管理、停车管理、满意度管理等方面。业务管理不属于运营管理的内容。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例",
+      "招商"
+    ]
+  },
+  {
+    "id": "ch19_q025",
+    "question": "在智慧园区评价指标体系中，产业服务不包括以下哪项内容？（）",
+    "options": [
+      "A. 产业运行",
+      "B. 营商环境",
+      "C. 人员培训",
+      "D. 数字经济"
+    ],
+    "answer": "C",
+    "explanation": "产业服务重点关注产业运行、营商环境、企业发展、数字经济、共享融合等方面。人员培训不属于产业服务的内容。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q026",
+    "question": "在智慧园区评价指标体系中，（）是指园区为园区从业人员提供各类服务的智慧化情况。",
+    "options": [
+      "A. 产业服务",
+      "B. 社群服务",
+      "C. 运营管理",
+      "D. 绿色环保"
+    ],
+    "answer": "B",
+    "explanation": "社群服务是指园区为园区从业人员提供各类服务的智慧化情况，重点关注培训服务、就业服务、特殊帮扶、商业配套等方面。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q027",
+    "question": "在智慧园区建设中，基础设施集约化需要坚持的原则不包括（）。",
+    "options": [
+      "A. 统一设计",
+      "B. 统一规划",
+      "C. 分散建设",
+      "D. 统一建设"
+    ],
+    "answer": "C",
+    "explanation": "基础设施集约化需坚持\"统一设计、统一规划、统一建设\"的原则，构建泛基础设施、厚平台支撑的智慧园区一体化建设格局。不是分散建设。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q028",
+    "question": "智慧园区中，通过构建集感知监测、综合管理、智能处理、科学决策等能力于一体的智能化环境管理体系，这属于（）。",
+    "options": [
+      "A. 智慧管理",
+      "B. 智慧环保",
+      "C. 智慧水务",
+      "D. 智慧安防"
+    ],
+    "answer": "B",
+    "explanation": "园区智慧环保即构建集感知监测、综合管理、智能处理、科学决策等能力于一体的智能化环境管理体系，对园区内的环境数据进行感知、收集、分析和管理。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q029",
+    "question": "在园区智慧水务中，（）是基于地表产汇流、排水管网模型及空间GIS技术，建立集监测预警、模拟预报、业务管理、应急指挥与会商决策于一体的管控与应急能力。",
+    "options": [
+      "A. 水资源环境评价预警",
+      "B. 水资源环境数据治理",
+      "C. 水资源管控应急一体化",
+      "D. 水资源监测"
+    ],
+    "answer": "C",
+    "explanation": "水资源管控应急一体化是以水文、气象、物资、人员、视频、排水设施、水利工程等信息为基础，基于地表产汇流、排水管网模型及空间GIS技术，建立集监测预警、模拟预报、业务管理、应急指挥与会商决策于一体的管控与应急能力。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "发展整体环境",
+    "source_ref": "references/第19章_智慧园区发展规划.md#发展整体环境",
+    "tags": [
+      "在园区智慧水务中",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch19_q030",
+    "question": "在公共安全领域的应急指挥中，（）将园区GIS地图、地图定位、突发事件管理、风险隐患、应急力量、应急物资等应用集成到一张图中。",
+    "options": [
+      "A. 综合分析研判",
+      "B. 协同会商",
+      "C. 应急一张图",
+      "D. 辅助决策"
+    ],
+    "answer": "C",
+    "explanation": "应急一张图是将园区GIS地图、地图定位、范围查询、任务书管理、突发事件管理、风险隐患、应急力量、应急物资、值班信息、灾害应急处置等应用集成到应急一张图中，实现园区应急指挥调度一体化应用。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "公共安全",
+    "knowledge_point": "公共安全",
+    "source_ref": "references/第19章_智慧园区发展规划.md#公共安全",
+    "tags": [
+      "在公共安全领域的应急指挥",
+      "公共安全"
+    ]
+  },
+  {
+    "id": "ch19_q031",
+    "question": "零碳交通的核心是实现交通工具电气化，通过合理规划、有序建设（）等配套设施，以电能代替化石燃料实现交通过程的零碳排放。",
+    "options": [
+      "A. 加油站",
+      "B. 充电站",
+      "C. 天然气站",
+      "D. 氢气站"
+    ],
+    "answer": "B",
+    "explanation": "园区实现零碳交通，首先需要以新能源汽车为核心，实现交通工具电气化，通过合理规划、有序建设充电站等配套设施，做好充电设施预留接口与停车场区域总体布局。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "发展整体环境",
+    "source_ref": "references/第19章_智慧园区发展规划.md#发展整体环境",
+    "tags": [
+      "零碳交通的核心实现交通工",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch19_q032",
+    "question": "以下关于智慧园区建设特点的描述中，不正确的是（）。",
+    "options": [
+      "A. 开放、共建、共享",
+      "B. 服务均等化",
+      "C. 发展特色化",
+      "D. 模式统一化"
+    ],
+    "answer": "D",
+    "explanation": "智慧园区的建设特点主要体现在：开放、共建、共享；服务均等化；发展特色化。智慧园区将推动园区特色化建设，驱动智慧园区的相关建设采用\"一园一案\"的方式进行，\"大而统\"的发展模式可能会削弱园区本身的独特性。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q033",
+    "question": "在智慧园区投资模式中，（）项目完全由政府财政主导投资建设，项目建设完成后所有权归政府所有。",
+    "options": [
+      "A. 平台公司投资",
+      "B. 政府投资类",
+      "C. 政府和社会资本合作共建",
+      "D. 企业自建"
+    ],
+    "answer": "B",
+    "explanation": "政府投资类项目完全由政府财政主导投资建设，项目建设完成后所有权归政府所有。该模式主要适用于前期投资大、涉及政府部门较多，且后期无法带来明确商业价值的建设项目。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q034",
+    "question": "在智慧园区的经济监测中，（）是园区对入园企业各类情况的客观刻画和表达。",
+    "options": [
+      "A. 企业画像",
+      "B. 经营总览",
+      "C. 产业分析",
+      "D. 市场调研"
+    ],
+    "answer": "A",
+    "explanation": "企业画像是园区对入园企业各类情况的客观刻画和表达。通过企业画像，园区可以全局把握企业的发展情况、资源与服务需求等。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "经济监测",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#经济监测",
+    "tags": [
+      "智慧园区",
+      "经济监测"
+    ]
+  },
+  {
+    "id": "ch19_q035",
+    "question": "在智慧园区的绿色园区建设中，构建低碳绿色园区的根本入手点不包括（）。",
+    "options": [
+      "A. 控制碳排放",
+      "B. 加大碳吸收",
+      "C. 增加化石能源使用",
+      "D. 建立碳交易市场"
+    ],
+    "answer": "C",
+    "explanation": "构建低碳绿色园区，根本上应从控制碳排放和加大碳吸收两方面入手，同时建立碳交易市场，加强智慧管控。增加化石能源使用与低碳目标相悖。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "绿色园区",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#绿色园区",
+    "tags": [
+      "智慧园区",
+      "绿色园区",
+      "低碳"
+    ]
+  },
+  {
+    "id": "ch19_q036",
+    "question": "在智慧园区评价指标体系中，安全应急不包括以下哪项内容？（）",
+    "options": [
+      "A. 安全生产",
+      "B. 防灾减灾",
+      "C. 专用演练",
+      "D. 应急管理"
+    ],
+    "answer": "C",
+    "explanation": "安全应急重点关注安全生产、防灾减灾、应急管理等方面。专用演练不属于园区安全应急的内容。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q037",
+    "question": "在智慧园区评价指标体系中，信息与应用不包括以下哪项内容？（）",
+    "options": [
+      "A. 信息治理",
+      "B. 数据治理",
+      "C. 专用通信",
+      "D. 物联感知"
+    ],
+    "answer": "C",
+    "explanation": "信息与应用重点关注信息治理、数据治理、物联感知、网络传输、数据中心、计算资源、应用建设、数据部署、运行维护等方面。专用通信不属于园区信息与应用的内容。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q038",
+    "question": "在智慧园区的公共安全领域，安消一体不包括以下哪项内容？（）",
+    "options": [
+      "A. 规范管理",
+      "B. 报警预警",
+      "C. 独立防御",
+      "D. 消防一张图"
+    ],
+    "answer": "C",
+    "explanation": "智慧园区在安消一体方面往往需要关注规范管理、报警预警、消防一张图等。独立防御不属于园区安消一体的内容。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "公共安全",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#公共安全",
+    "tags": [
+      "智慧园区",
+      "公共安全"
+    ]
+  },
+  {
+    "id": "ch19_q039",
+    "question": "在智慧园区的车辆管理中，（）是通过对园区进出大门、室内外停车场的车辆进行车牌识别，实现出入车辆控制管理高度智能化。",
+    "options": [
+      "A. 车辆防冲撞",
+      "B. 进出管理",
+      "C. 行驶轨迹",
+      "D. 车辆调度"
+    ],
+    "answer": "B",
+    "explanation": "车辆进出管理是通过对园区进出大门、室内外停车场的车辆进行车牌识别，适应各类出入口场景，实现出入车辆控制管理高度智能化，准确记录识别车牌号码。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q040",
+    "question": "在智慧园区的精准集合营销中，主要覆盖的层面不包括（）。",
+    "options": [
+      "A. 利用城市公共媒体资源的城市产业推介",
+      "B. 利用园区公共空间开展集中展示和公共推介",
+      "C. 业务宣传",
+      "D. 公共资讯信息的精准推送"
+    ],
+    "answer": "C",
+    "explanation": "精准集合营销主要覆盖4个层面：利用城市公共媒体资源的城市产业推介、利用园区公共空间开展集中展示和公共推介、通过集合舆情治理提升企业应对能力、公共资讯信息的精准推送。业务宣传不属于精准集合营销的内容。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q041",
+    "question": "在智慧园区的生产经营配套中，园区可以通过（）的模式，为企业提供办公配套服务，如智能考勤、智能门禁、智能会议室等。",
+    "options": [
+      "A. 集中化管理",
+      "B. 云服务",
+      "C. 传统人工",
+      "D. 纸质办公"
+    ],
+    "answer": "B",
+    "explanation": "园区可以通过智慧化建设，以云服务的模式，为企业提供办公配套服务，如智能考勤、智能门禁、智能会议室等。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q042",
+    "question": "在智慧园区的公共生活配套中，园区公共生活配套的智慧化不包括以下哪个层次？（）",
+    "options": [
+      "A. 园区范围内相关公共服务配套的智能化",
+      "B. 园区范围内相关公共服务配套与城市公共配套的资源融合",
+      "C. 专用设施配套",
+      "D. 与城市一起进行一体化统筹和智慧化规划"
+    ],
+    "answer": "C",
+    "explanation": "园区公共生活配套的智慧化包括4个主要层次：园区范围内相关公共服务配套的智能化、园区范围内相关公共服务配套与城市公共配套的资源融合、园区周边一定范围内的公共生活配套通过智能化系统融合到园区的整体服务体系中、与城市一起进行一体化统筹和智慧化规划。专用设施配套不属于这些层次。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q043",
+    "question": "在智慧园区的绿色园区建设中，零碳建筑的碳排放来源分为内含碳排放和运营碳排放。以下属于内含碳排放来源的是（）。",
+    "options": [
+      "A. 暖通空调",
+      "B. 生活热水",
+      "C. 建筑材料的生产和运输",
+      "D. 照明及电梯"
+    ],
+    "answer": "C",
+    "explanation": "来源于钢铁、水泥、玻璃等建筑材料的生产和运输，以及现场施工过程的碳排放称为建筑的内含碳排放。来源于建筑运行阶段，包括暖通空调、生活热水、照明及电梯、燃气等能源消耗产生的碳排放为建筑的运营碳排放。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "绿色园区",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#绿色园区",
+    "tags": [
+      "智慧园区",
+      "绿色园区"
+    ]
+  },
+  {
+    "id": "ch19_q044",
+    "question": "在智慧园区的投资模式中，政府和社会资本合作共建的PPP模式中，（）是指公共私营合作制。",
+    "options": [
+      "A. BOT",
+      "B. BOO",
+      "C. PPP",
+      "D. TOT"
+    ],
+    "answer": "C",
+    "explanation": "PPP（Public-Private-Partnership）是指公共私营合作制，是政府按照一定的程序，吸引社会资本以政府购买服务合同、特许经营协议为基础，明确双方权利和义务，发挥双方优势，由社会资本出资建设。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q045",
+    "question": "在智慧园区的经济监测中，经营总览为园区管理者、企业经营者提供一图总览的全局看板。以下不属于经营总览功能的是（）。",
+    "options": [
+      "A. 信息资源整合",
+      "B. 企业经营风险预警",
+      "C. 独立指挥调度",
+      "D. 企业信用评级"
+    ],
+    "answer": "C",
+    "explanation": "经营总览的功能包括：信息资源整合、对企业经营风险进行预警、结合企业经营的底层数据搭建企业信用评级模型等。独立指挥调度不属于经营总览的功能。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "经济监测",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#经济监测",
+    "tags": [
+      "智慧园区",
+      "经济监测"
+    ]
+  },
+  {
+    "id": "ch19_q046",
+    "question": "在智慧园区评价指标体系中，绿色环保不包括以下哪项内容？（）",
+    "options": [
+      "A. 环保管理",
+      "B. 能源管理",
+      "C. 业务管理",
+      "D. 双碳发展"
+    ],
+    "answer": "C",
+    "explanation": "绿色环保重点关注环保管理、能源管理、双碳发展、绿色能源等方面。业务管理不属于绿色环保的内容。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q047",
+    "question": "在智慧园区的招引建设中，全程监管主要涉及信用体系打造和（）等。",
+    "options": [
+      "A. 专用侦察",
+      "B. 履约风险监测",
+      "C. 人员考勤",
+      "D. 车辆管理"
+    ],
+    "answer": "B",
+    "explanation": "招引建设的全过程需要通过有效的监管才能确保其价值的有效发挥，全过程监管主要涉及信用体系打造和履约风险监测等。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "招引建设",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#招引建设",
+    "tags": [
+      "智慧园区",
+      "招引建设"
+    ]
+  },
+  {
+    "id": "ch19_q048",
+    "question": "在智慧园区的园区运行中，（）是利用互联网、物联网等多元网络手段，推动园区的各项数据的全面接入，打通经营管理分割、设备设施离散数据等信息壁垒。",
+    "options": [
+      "A. 智慧管理",
+      "B. 智慧环保",
+      "C. 智慧水务",
+      "D. 智慧安防"
+    ],
+    "answer": "A",
+    "explanation": "智慧管理是利用互联网、物联网等多元网络手段，推动园区的各项数据的全面接入，打通经营管理分割、设备设施离散数据等信息壁垒，实现所有软硬件系统一体化集成至智能集控中心统筹管理。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "园区运行",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#园区运行",
+    "tags": [
+      "智慧园区",
+      "园区运行"
+    ]
+  },
+  {
+    "id": "ch19_q049",
+    "question": "在智慧园区的绿色园区建设中，零碳交通的常见减排方式不包括（）。",
+    "options": [
+      "A. 减少出行",
+      "B. 改变出行方式",
+      "C. 增加私家车使用",
+      "D. 提升路网通行效率"
+    ],
+    "answer": "C",
+    "explanation": "常见的交通减排方式包括减少出行、改变出行方式以及使用零排放的交通工具、选择使用更加清洁的能源、提升交通工具能源使用效率、提升路网通行效率等。增加私家车使用会增加碳排放。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "绿色园区",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#绿色园区",
+    "tags": [
+      "智慧园区",
+      "绿色园区"
+    ]
+  },
+  {
+    "id": "ch19_q050",
+    "question": "以下关于智慧园区发展趋势的描述中，不正确的是（）。",
+    "options": [
+      "A. 园区正在从传统园区向智慧园区过渡",
+      "B. 在形式上呈现从低级向高级、从单一向综合园区发展的趋势",
+      "C. 在智慧园区阶段，注重服务平台打造，强化后期运营增值服务",
+      "D. 智慧园区建设不需要考虑园区自身产业结构"
+    ],
+    "answer": "D",
+    "explanation": "智慧园区的建设与发展源于园区自身产业结构，各园区的发展都有其独特性，智慧园区将进一步推动园区特色化建设，驱动智慧园区的相关建设采用\"一园一案\"的方式进行。",
+    "chapter": "第19章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "产城融合智慧园区案例",
+    "knowledge_point": "智慧园区",
+    "source_ref": "references/第19章_智慧园区发展规划.md#产城融合智慧园区案例",
+    "tags": [
+      "智慧园区",
+      "产城融合智慧园区案例"
+    ]
+  },
+  {
+    "id": "ch19_q051",
+    "question": "智慧园区的产城融合中，精准集合营销覆盖的层面不包括（ ）。",
+    "options": [
+      "A. 利用城市公共媒体资源的城市产业推介",
+      "B. 利用园区公共空间开展园区产业、企业产品与服务的集中展示",
+      "C. 通过集合舆情治理，提升企业面对公共风险事件的应对能力",
+      "D. 对园区企业进行集中培训"
+    ],
+    "answer": "D",
+    "explanation": "19.2.5 产城融合中提到精准集合营销覆盖利用城市公共媒体资源的城市产业推 介、利用园区公共空间展示、集合舆情治理、公共资讯信息精准推送等层面，不包括对 园区企业进行集中培训。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0032"
+  },
+  {
+    "id": "ch19_q052",
+    "question": "智慧园区绿色园区建设中，零碳交通实现交通工具电气化的关键是（ ）。",
+    "options": [
+      "A. 合理规划、有序建设充电站等配套设施",
+      "B. 优先发展园区公共交通",
+      "C. 完善智能交通体系",
+      "D. 推广新能源汽车"
+    ],
+    "answer": "A",
+    "explanation": "19.2.6 绿色园区提到，园区实现零碳交通，首先需要以新能源汽车为核心，实现 交通工具电气化，通过合理规划、有序建设充电站等配套设施，做好充电设施预留接口 与停车场区域总体布局，以电能代替化石燃料实现交通过程的零碳排放。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0096"
+  },
+  {
+    "id": "ch19_q053",
+    "question": "智慧园区发展现状中，从投资模式来看，由运营商推动的“智慧园区”建设属于 ( ) 。",
+    "options": [
+      "A. 政府投资类",
+      "B. 平台公司投资类",
+      "C. 政府和社会资本合作共建类",
+      "D. 智慧园区投资模式之一"
+    ],
+    "answer": "D",
+    "explanation": "19.1.2 发展现状与路径中提到智慧园区投资模式主要包括由园区管委会推动、 运营商推动等多种，由运营商推动属于智慧园区投资模式之一，不属于政府投资类、平 台公司投资类、政府和社会资本合作共建类中的特定某一类。由于内容较多，暂时无 法一次性生成110 道，以下为继续为你生成的20 道单项选择题及答案解析，如需更 多，请随时告知。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0030"
+  },
+  {
+    "id": "ch19_q054",
+    "question": "智慧园区经济监测企业画像基于企业发展全生命周期打造，成长阶段不包括（ ）。",
+    "options": [
+      "A. 产品开始研发",
+      "B. 企业规模扩大",
+      "C. 市场份额增加",
+      "D. 盈利能力提升"
+    ],
+    "answer": "A",
+    "explanation": "企业成长阶段是在产品研发之后，通常表现为企业规模扩大、市场份额增加、盈 利能力提升等，产品开始研发属于企业发展前期阶段，不属于成长阶段特征，对应19.2.2 经济监测相关内容。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0170"
+  },
+  {
+    "id": "ch19_q055",
+    "question": "智慧园区发展现状从投资模式看，运营商推动的建设属于（ ）。",
+    "options": [
+      "A. 政府投资类",
+      "B. 平台公司投资类",
+      "C. 政府和社会资本合作共建类",
+      "D. 智慧园区投资模式之一"
+    ],
+    "answer": "D",
+    "explanation": "19.1.2 发展现状与路径中提到智慧园区投资模式主要包括由园区管委会推动、 运营商推动等多种，由运营商推动属于智慧园区投资模式之一，不属于政府投资类、平 台公司投资类、政府和社会资本合作共建类中的特定某一类。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0136"
+  },
+  {
+    "id": "ch19_q056",
+    "question": "智慧园区投资运营模式中，平台公司投资的领域不包括（ ）。",
+    "options": [
+      "A. 园区内企业的核心技术研发",
+      "B. 运营维护服务",
+      "C. 数字经济",
+      "D. 基础支撑平台"
+    ],
+    "answer": "A",
+    "explanation": "19.1.3 投资运营模式提到，平台公司通过自筹基金的方式在园区全领域进行投 资建设，包括运营维护服务、政务服务、数字经济、数字社会、基础支撑平台和数字基 础设施，不涉及园区内企业的核心技术研发。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0090"
+  },
+  {
+    "id": "ch19_q057",
+    "question": "从区域分布看，我国智慧园区三大聚集区不包括（ ）。",
+    "options": [
+      "A. 京津冀地区",
+      "B. 长三角地区",
+      "C. 珠三角地区",
+      "D. 成渝地区"
+    ],
+    "answer": "D",
+    "explanation": "依据19.1.2 发展现状与路径，环渤海（含京津冀）、长三角和珠三角地区是智 慧园区三大聚集区，不包括成渝地区。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0191"
+  },
+  {
+    "id": "ch19_q058",
+    "question": "智慧园区产城融合精准集合营销覆盖层面，不包括（ ）。",
+    "options": [
+      "A. 对园区企业进行集中培训",
+      "B. 利用城市公共媒体资源的城市产业推介",
+      "C. 利用园区公共空间开展展示",
+      "D. 通过集合舆情治理提升企业应对能力"
+    ],
+    "answer": "A",
+    "explanation": "19.2.5 产城融合中提到精准集合营销覆盖利用城市公共媒体资源的城市产业推 介、利用园区公共空间展示、集合舆情治理、公共资讯信息精准推送等层面，不包括对 园区企业进行集中培训。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0138"
+  },
+  {
+    "id": "ch19_q059",
+    "question": "智慧园区数据架构中，数据使能组件的作用是（ ）。",
+    "options": [
+      "A. 向下提供已接入子系统应用的数据集成接口",
+      "B. 向上提供数据服务、计算能力接口给智慧应用系统",
+      "C. 完成各异构子系统和业务应用系统的数据集中建模管理和使用",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "19.4.2 数据架构中表明数据使能组件向下提供已接入子系统应用的数据集成接 口，向上提供数据服务、计算能力接口给智慧应用系统，同时完成各异构子系统和业务 应用系统的数据集中建模管理和使用。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0058"
+  },
+  {
+    "id": "ch19_q060",
+    "question": "智慧园区信息与应用网络传输关注的能力不包括（ ）。",
+    "options": [
+      "A. 数据处理能力",
+      "B. 覆盖区域",
+      "C. 资源容量",
+      "D. 利用效率"
+    ],
+    "answer": "A",
+    "explanation": "19.2.7 关键评价指标中提到网络传输关注园区在互联网等方面覆盖区域、资源 容量、利用效率等能力情况，数据处理能力不属于网络传输关注范畴。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0158"
+  },
+  {
+    "id": "ch19_q061",
+    "question": "智慧园区投资模式中，目前最受推崇的模式是（ ）。",
+    "options": [
+      "A. 由园区管委会推动的“智慧园区”建设",
+      "B. 由运营商推动的“智慧园区”建设",
+      "C. 由各种厂商推动的“智慧园区”的建设",
+      "D. 在园区管委会支持下组建专业第三方公司推动的“智慧园区”建设"
+    ],
+    "answer": "D",
+    "explanation": "19.1.2 发展现状与路径中提到在园区管委会支持下组建专业第三方公司推动的 “智慧园区”建设模式最大的特点是具有自主权，受到的制约因素较少，投资建设较 灵活，是目前最受推崇的模式。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0006"
+  },
+  {
+    "id": "ch19_q062",
+    "question": "智慧园区信息与应用的信息治理范畴，不包括（ ）。",
+    "options": [
+      "A. 对园区运行过程中的各类信息资源进行汇集",
+      "B. 实施信息与应用管控的战略",
+      "C. 信息与应用管控的组织能力",
+      "D. 信息与应用管控的导向和原则"
+    ],
+    "answer": "A",
+    "explanation": "19.2.7 关键评价指标中提到信息治理涉及园区实施信息与应用管控的战略、组 织、导向和原则等方面能力，对信息资源汇集属于数据治理内容。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0123"
+  },
+  {
+    "id": "ch19_q063",
+    "question": "智慧园区建设发展可持续方面，加强科研创新促进成果转化，科技创新与制度创新 的关系是（ ）。",
+    "options": [
+      "A. 只需要科技创新",
+      "B. 只需要制度创新",
+      "C. 两者相互独立，互不影响",
+      "D. 两者相辅相成，共同推动智慧园区发展"
+    ],
+    "answer": "D",
+    "explanation": "19.3.2 建设发展可持续中表明在园区智慧化进程中，科技创新与制度创新两个 轮子一起转，才能创造出新的智慧园区模式，说明两者相辅相成。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0054"
+  },
+  {
+    "id": "ch19_q064",
+    "question": "智慧园区评价指标体系社群服务重点关注方面，不包括（ ）。",
+    "options": [
+      "A. 园区规划服务",
+      "B. 培训服务",
+      "C. 就业服务",
+      "D. 特殊帮扶"
+    ],
+    "answer": "A",
+    "explanation": "19.2.7 关键评价指标中提到社群服务重点关注培训服务、就业服务、特殊帮扶、 商业配套等方面，未提及园区规划服务。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0140"
+  },
+  {
+    "id": "ch19_q065",
+    "question": "智慧园区建设的基础设施集约化需坚持的原则不包括（ ）。",
+    "options": [
+      "A. 统一施工",
+      "B. 统一设计",
+      "C. 统一规划",
+      "D. 统一建设"
+    ],
+    "answer": "A",
+    "explanation": "19.3.1 数智化转型提升提到基础设施需坚持“统一设计、统一规划、统一建设”， 未提及统一施工。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0205"
+  },
+  {
+    "id": "ch19_q066",
+    "question": "智慧园区产城融合精准集合营销覆盖层面不包括（ ）。",
+    "options": [
+      "A. 对园区企业进行集中培训",
+      "B. 利用城市公共媒体资源的城市产业推介",
+      "C. 利用园区公共空间开展展示",
+      "D. 通过集合舆情治理提升企业应对能力"
+    ],
+    "answer": "A",
+    "explanation": "19.2.5 产城融合中精准集合营销覆盖产业推介、空间展示、舆情治理等，不包括 企业集中培训。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0212"
+  },
+  {
+    "id": "ch19_q067",
+    "question": "智慧园区评价指标体系社群服务重点关注方面不包括（ ）。",
+    "options": [
+      "A. 园区规划服务",
+      "B. 培训服务",
+      "C. 就业服务",
+      "D. 特殊帮扶"
+    ],
+    "answer": "A",
+    "explanation": "19.2.7 关键评价指标中社群服务关注培训、就业、特殊帮扶等，未提及园区规划 服务。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0214"
+  },
+  {
+    "id": "ch19_q068",
+    "question": "智慧园区信息与应用的信息治理范畴不包括（ ）。",
+    "options": [
+      "A. 对园区运行过程中的各类信息资源进行汇集",
+      "B. 实施信息与应用管控的战略",
+      "C. 信息与应用管控的组织能力",
+      "D. 信息与应用管控的导向和原则"
+    ],
+    "answer": "A",
+    "explanation": "19.2.7 关键评价指标中信息治理涉及管控战略等，信息资源汇集属于数据治理。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0201"
+  },
+  {
+    "id": "ch19_q069",
+    "question": "智慧园区绿色园区建设零碳建筑的碳排放来源不包括（ ）。",
+    "options": [
+      "A. 建筑设计阶段的碳排放",
+      "B. 建筑材料的生产和运输",
+      "C. 现场施工过程的碳排放",
+      "D. 建筑运行阶段的能源消耗"
+    ],
+    "answer": "A",
+    "explanation": "在智慧园区绿色园区建设中零碳建筑是一个重要的目标之一。要实现零碳建筑需 要全面考虑建筑的碳排放来源并采取相应的措施进行减排。然而建筑设计阶段的碳排放 并不是零碳建筑需要考虑的主要碳排放来源之一因为建筑设计阶段本身并不产生实际 的碳排放量。相反建筑材料的生产和运输、现场施工过程的碳排放以及建筑运行阶段的 能源消耗等才是零碳建筑需要重点关注和减排的碳排放来源之一。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0213"
+  },
+  {
+    "id": "ch19_q070",
+    "question": "智慧园区建设发展可持续方面，提升管理能力建设效能园区，利用规划、建设阶段 预置的传感设备，不能实现的功能是（ ）。",
+    "options": [
+      "A. 对园区内企业的生产过程进行控制",
+      "B. 对地下排水、供水、燃气管网等进行实时监测",
+      "C. 敏捷掌控园区安全、应急等突发事件",
+      "D. 实现事前预防与控制"
+    ],
+    "answer": "A",
+    "explanation": "19.3.2 建设发展可持续提到，利用规划、建设阶段预置的传感设备，对地下排水、 供水、燃气管网等园区生命线、生态环境和洪涝灾害等进行实时监测，敏捷掌控园区安 全、应急、生态环境等突发事件，实现事前预防与控制，但不会对园区内企业的生产过 程进行控制。",
+    "chapter": "第19章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧园区发展规划",
+    "knowledge_point": "智慧园区发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第19章",
+    "tags": [
+      "智慧园区发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch19_0081"
+  }
+]

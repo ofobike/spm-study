@@ -1,0 +1,26 @@
+{
+  "id": "practice_20260525_134546_d51d40",
+  "type": "practice",
+  "created_at": "2026-05-25T13:45:46",
+  "question_ids": [
+    "ch02_q051",
+    "ch02_q061",
+    "ch02_q065"
+  ],
+  "params": {
+    "chapters": [
+      2
+    ],
+    "count": 3,
+    "difficulty": null,
+    "knowledge_point": null,
+    "section": null,
+    "tag": "正式入库",
+    "seed": null
+  },
+  "answers_template": {
+    "ch02_q051": "",
+    "ch02_q061": "",
+    "ch02_q065": ""
+  }
+}

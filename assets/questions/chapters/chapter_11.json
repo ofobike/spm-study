@@ -1,0 +1,1673 @@
+[
+  {
+    "id": "ch11_q001",
+    "question": "IT治理的主要目标不包括以下哪项？",
+    "options": [
+      "A. 与业务目标一致",
+      "B. 有效利用信息与数据资源",
+      "C. 成本最小化",
+      "D. 风险管理"
+    ],
+    "answer": "C",
+    "explanation": "IT治理的主要目标包括三个方面：与业务目标一致、有效利用信息与数据资源、风险管理。成本最小化不是IT治理的主要目标，IT治理关注的是价值交付和风险控制。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务",
+      "风险管理"
+    ]
+  },
+  {
+    "id": "ch11_q002",
+    "question": "IT治理的管理层次大致可分为几层？",
+    "options": [
+      "A. 两层",
+      "B. 三层",
+      "C. 四层",
+      "D. 五层"
+    ],
+    "answer": "B",
+    "explanation": "IT治理的管理层次大致可分为三层：最高管理层、执行管理层、业务与服务执行层。最高管理层集中在董事会和执行管理层，负责证实IT战略与业务战略是否一致等。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务"
+    ]
+  },
+  {
+    "id": "ch11_q003",
+    "question": "COBIT框架中，治理目标被列入哪个领域？",
+    "options": [
+      "A. 调整、规划和组织（APO）",
+      "B. 评估、指导和监控（EDM）",
+      "C. 内部构建、外部采购和实施（BAI）",
+      "D. 交付、服务和支持（DSS）"
+    ],
+    "answer": "B",
+    "explanation": "在COBIT中，治理目标被列入评估、指导和监控（EDM）领域。管理目标分为APO（调整、规划和组织）、BAI（内部构建、外部采购和实施）、DSS（交付、服务和支持）、MEA（监控、评价和评估）4个领域。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": ".1",
+    "knowledge_point": "COBIT",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "COBIT",
+      ".1"
+    ]
+  },
+  {
+    "id": "ch11_q004",
+    "question": "ISO/IEC 38500标准规定的治理机构应通过哪三个主要任务来治理IT？",
+    "options": [
+      "A. 规划、执行、评估",
+      "B. 评估、指导、监督",
+      "C. 设计、实施、检查",
+      "D. 计划、控制、改进"
+    ],
+    "answer": "B",
+    "explanation": "ISO/IEC 38500标准规定治理机构应通过评估、指导和监督三个主要任务来治理IT。评估是审查和判断当前和未来的IT使用；指导是负责战略和政策的编制和执行；监督是监测IT的表现。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": ".1",
+    "knowledge_point": "ISO/IEC",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "ISO/IEC",
+      ".1"
+    ]
+  },
+  {
+    "id": "ch11_q005",
+    "question": "IT审计风险主要包括固有风险、控制风险、检查风险和总体审计风险。其中固有风险的特点是什么？",
+    "options": [
+      "A. 与内部控制制度执行的有效性有关",
+      "B. 审计人员可以控制或影响",
+      "C. 是IT活动本身所具有的，审计人员只能评估",
+      "D. 可以通过审计程序完全消除"
+    ],
+    "answer": "C",
+    "explanation": "固有风险是IT活动本身所具有的，审计人员只能评估，却无法控制或影响它。固有风险的衡量是主观的、复杂的，不同的IT活动其固有风险水平不同。控制风险才与内部控制制度执行的有效性有关。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计",
+      "内部控制"
+    ]
+  },
+  {
+    "id": "ch11_q006",
+    "question": "IT治理的活动定义为统筹、评估、指导和监督，以下哪项不属于IT治理的主要任务聚焦方面？",
+    "options": [
+      "A. 全局统筹",
+      "B. 价值导向",
+      "C. 技术研发",
+      "D. 机制保障"
+    ],
+    "answer": "C",
+    "explanation": "组织开展IT治理活动的主要任务聚焦在5个方面：全局统筹、价值导向、机制保障、创新发展、文化助推。技术研发不属于IT治理任务的聚焦方面。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务"
+    ]
+  },
+  {
+    "id": "ch11_q007",
+    "question": "IT审计流程一般分为几个阶段？",
+    "options": [
+      "A. 2个",
+      "B. 3个",
+      "C. 4个",
+      "D. 5个"
+    ],
+    "answer": "C",
+    "explanation": "广义的IT审计流程是指审计机构和审计人员对审计项目从开始到结束的整个过程，一般分为审计准备、审计实施、审计终结及后续审计4个阶段。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计"
+    ]
+  },
+  {
+    "id": "ch11_q008",
+    "question": "GB/T 34960.1定义的IT治理框架包含三大治理域，以下哪项不属于这三大治理域？",
+    "options": [
+      "A. 顶层设计",
+      "B. 管理体系",
+      "C. 资源",
+      "D. 绩效评估"
+    ],
+    "answer": "D",
+    "explanation": "GB/T 34960.1定义的IT治理框架包含信息技术顶层设计、管理体系和资源三大治理域。绩效评估不属于三大治理域，它是IT治理核心内容中的一个方面。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": ".1",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "IT治理",
+      ".1",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch11_q009",
+    "question": "IT治理的五项关键决策不包括以下哪项？",
+    "options": [
+      "A. IT原则",
+      "B. IT架构",
+      "C. IT投资",
+      "D. IT开发工具"
+    ],
+    "answer": "D",
+    "explanation": "IT治理的五项关键决策包括：IT原则、IT架构、IT投资、IT应用、IT基础设施。IT开发工具不属于IT治理的关键决策范畴。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务"
+    ]
+  },
+  {
+    "id": "ch11_q010",
+    "question": "COBIT框架总共定义了多少项治理管理目标？",
+    "options": [
+      "A. 20项",
+      "B. 30项",
+      "C. 40项",
+      "D. 50项"
+    ],
+    "answer": "C",
+    "explanation": "COBIT框架总共定义了40项治理管理目标，分布在5个领域中。其中EDM领域有5项治理目标，APO、BAI、DSS、MEA四个领域共有35项管理目标。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": ".1",
+    "knowledge_point": "COBIT",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "COBIT",
+      ".1"
+    ]
+  },
+  {
+    "id": "ch11_q011",
+    "question": "ISO/IEC 38500标准包含几项治理原则？",
+    "options": [
+      "A. 4项",
+      "B. 5项",
+      "C. 6项",
+      "D. 8项"
+    ],
+    "answer": "C",
+    "explanation": "ISO/IEC 38500标准包含6项治理原则：职责、战略、获取、绩效、合规、人员行为。这6项原则为组织的IT治理提供了指导框架。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务",
+      "合规"
+    ]
+  },
+  {
+    "id": "ch11_q012",
+    "question": "IT审计中，控制风险的特点是什么？",
+    "options": [
+      "A. 是IT活动本身所具有的",
+      "B. 与内部控制制度执行的有效性有关",
+      "C. 审计人员可以完全控制",
+      "D. 不受人为因素影响"
+    ],
+    "answer": "B",
+    "explanation": "控制风险与内部控制制度执行的有效性有关。即使建立了内部控制制度，如果执行不力或存在缺陷，仍可能导致错误或舞弊无法被及时发现和防止。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计",
+      "内部控制"
+    ]
+  },
+  {
+    "id": "ch11_q013",
+    "question": "以下关于IT治理与IT管理关系的描述，不正确的是？",
+    "options": [
+      "A. IT治理关注做什么，IT管理关注怎么做",
+      "B. IT治理是IT管理的基础和前提",
+      "C. IT治理和IT管理是完全相同的概念",
+      "D. IT治理确保IT管理的方向正确"
+    ],
+    "answer": "C",
+    "explanation": "IT治理和IT管理是不同的概念。IT治理关注做什么（What），决定IT战略方向和优先级；IT管理关注怎么做（How），负责IT战略的执行和日常运营。IT治理是IT管理的基础和前提。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch11_q014",
+    "question": "COBIT框架中，APO领域的全称是什么？",
+    "options": [
+      "A. 评估、指导和监控",
+      "B. 调整、规划和组织",
+      "C. 内部构建、外部采购和实施",
+      "D. 交付、服务和支持"
+    ],
+    "answer": "B",
+    "explanation": "APO是Align, Plan and Organise的缩写，即调整、规划和组织。APO领域关注IT战略与业务战略的对齐、IT规划和组织架构的设计。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": ".1",
+    "knowledge_point": "COBIT",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "COBIT",
+      ".1"
+    ]
+  },
+  {
+    "id": "ch11_q015",
+    "question": "IT审计中，检查风险的特点是什么？",
+    "options": [
+      "A. 是IT活动本身所具有的",
+      "B. 与内部控制制度执行的有效性有关",
+      "C. 审计人员可以通过审计程序进行控制",
+      "D. 不受审计方法影响"
+    ],
+    "answer": "C",
+    "explanation": "检查风险是审计人员可以通过审计程序进行控制的风险。检查风险与审计程序的设计和执行有关，审计人员可以通过增加审计程序的范围和深度来降低检查风险。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计",
+      "内部控制"
+    ]
+  },
+  {
+    "id": "ch11_q016",
+    "question": "IT治理的主要任务聚焦的5个方面不包括以下哪项？",
+    "options": [
+      "A. 全局统筹",
+      "B. 价值导向",
+      "C. 成本控制",
+      "D. 文化助推"
+    ],
+    "answer": "C",
+    "explanation": "IT治理的主要任务聚焦在5个方面：全局统筹、价值导向、机制保障、创新发展、文化助推。成本控制不属于IT治理任务的聚焦方面。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务"
+    ]
+  },
+  {
+    "id": "ch11_q017",
+    "question": "以下关于IT审计证据的描述，不正确的是？",
+    "options": [
+      "A. 审计证据应具有充分性和适当性",
+      "B. 审计证据包括实物证据、书面证据和口头证据",
+      "C. 口头证据的证明力最强",
+      "D. 审计证据是形成审计结论的基础"
+    ],
+    "answer": "C",
+    "explanation": "口头证据的证明力不是最强的。在各类审计证据中，实物证据的证明力最强，书面证据次之，口头证据的证明力最弱。审计证据应具有充分性和适当性。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计"
+    ]
+  },
+  {
+    "id": "ch11_q018",
+    "question": "COBIT框架中，DSS领域的全称是什么？",
+    "options": [
+      "A. 调整、规划和组织",
+      "B. 内部构建、外部采购和实施",
+      "C. 交付、服务和支持",
+      "D. 监控、评价和评估"
+    ],
+    "answer": "C",
+    "explanation": "DSS是Deliver, Service and Support的缩写，即交付、服务和支持。DSS领域关注IT服务的交付、日常运维支持和服务管理。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": ".1",
+    "knowledge_point": "COBIT",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "COBIT",
+      ".1"
+    ]
+  },
+  {
+    "id": "ch11_q019",
+    "question": "IT治理中，价值导向的核心含义是什么？",
+    "options": [
+      "A. 降低IT投入成本",
+      "B. 确保IT投资能够为组织创造价值",
+      "C. 增加IT部门的预算",
+      "D. 采用最新的IT技术"
+    ],
+    "answer": "B",
+    "explanation": "价值导向的核心含义是确保IT投资能够为组织创造价值。IT治理需要确保IT投资与业务战略对齐，优化IT投资组合，最大化IT对业务的贡献。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务"
+    ]
+  },
+  {
+    "id": "ch11_q020",
+    "question": "IT审计中，总体审计风险与各风险要素的关系是什么？",
+    "options": [
+      "A. 总体审计风险等于各风险要素之和",
+      "B. 总体审计风险等于各风险要素之积",
+      "C. 总体审计风险等于固有风险加控制风险",
+      "D. 总体审计风险与各风险要素无关"
+    ],
+    "answer": "B",
+    "explanation": "总体审计风险等于固有风险、控制风险和检查风险三者的乘积。即：总体审计风险 = 固有风险 x 控制风险 x 检查风险。审计人员可以通过控制检查风险来影响总体审计风险。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计"
+    ]
+  },
+  {
+    "id": "ch11_q021",
+    "question": "以下关于IT审计底稿的描述，不正确的是？",
+    "options": [
+      "A. 审计底稿是审计工作的记录",
+      "B. 审计底稿是形成审计结论的依据",
+      "C. 审计底稿可以随意修改和删除",
+      "D. 审计底稿应妥善保管"
+    ],
+    "answer": "C",
+    "explanation": "审计底稿不能随意修改和删除。审计底稿是审计工作的记录和形成审计结论的依据，应保持其原始性和完整性。如需修改，应按照规定程序进行，并保留修改痕迹。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计"
+    ]
+  },
+  {
+    "id": "ch11_q022",
+    "question": "IT治理中，机制保障的主要内容是什么？",
+    "options": [
+      "A. 制定IT战略规划",
+      "B. 建立健全IT治理的制度和流程",
+      "C. 评估IT投资回报",
+      "D. 监督IT项目执行"
+    ],
+    "answer": "B",
+    "explanation": "机制保障的主要内容是建立健全IT治理的制度和流程，包括组织架构、职责分工、决策机制、沟通机制、考核机制等，确保IT治理的有效运行。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务"
+    ]
+  },
+  {
+    "id": "ch11_q023",
+    "question": "ISO/IEC 38500标准中，\"职责\"原则的核心要求是什么？",
+    "options": [
+      "A. IT战略应与业务战略对齐",
+      "B. 业务人员和IT人员的角色与职责应明确",
+      "C. IT投资应产生合理的回报",
+      "D. IT系统应符合法律法规要求"
+    ],
+    "answer": "B",
+    "explanation": "ISO/IEC 38500的\"职责\"原则要求业务人员和IT人员的角色与职责应明确。每个参与IT活动的人员都应了解并承担其职责，治理机构应确保职责的明确分配。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": ".1",
+    "knowledge_point": "ISO/IEC",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "ISO/IEC",
+      ".1",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch11_q024",
+    "question": "COBIT框架中，MEA领域的全称是什么？",
+    "options": [
+      "A. 调整、规划和组织",
+      "B. 内部构建、外部采购和实施",
+      "C. 交付、服务和支持",
+      "D. 监控、评价和评估"
+    ],
+    "answer": "D",
+    "explanation": "MEA是Monitor, Evaluate and Assess的缩写，即监控、评价和评估。MEA领域关注IT绩效的监控、IT目标的达成度评估和IT治理的有效性评估。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": ".1",
+    "knowledge_point": "COBIT",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "COBIT",
+      ".1",
+      "IT治理"
+    ]
+  },
+  {
+    "id": "ch11_q025",
+    "question": "IT审计中，审计准备阶段的主要工作不包括以下哪项？",
+    "options": [
+      "A. 确定审计目标和范围",
+      "B. 组建审计团队",
+      "C. 收集审计证据",
+      "D. 制定审计计划"
+    ],
+    "answer": "C",
+    "explanation": "收集审计证据是审计实施阶段的工作，不属于审计准备阶段。审计准备阶段的主要工作包括确定审计目标和范围、组建审计团队、制定审计计划、发出审计通知书等。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计"
+    ]
+  },
+  {
+    "id": "ch11_q026",
+    "question": "以下关于IT治理创新发展的描述，不正确的是？",
+    "options": [
+      "A. 创新发展要求组织持续关注新技术",
+      "B. 创新发展要求组织建立创新机制",
+      "C. 创新发展意味着必须采用所有新技术",
+      "D. 创新发展应与业务需求相结合"
+    ],
+    "answer": "C",
+    "explanation": "创新发展并不意味着必须采用所有新技术。创新发展要求组织持续关注新技术发展趋势，建立创新机制，但技术选择应与业务需求相结合，评估技术的适用性和风险。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch11_q027",
+    "question": "IT审计中，审计实施阶段的主要工作是什么？",
+    "options": [
+      "A. 确定审计目标和范围",
+      "B. 制定审计计划",
+      "C. 收集和分析审计证据",
+      "D. 发出审计报告"
+    ],
+    "answer": "C",
+    "explanation": "审计实施阶段的主要工作是收集和分析审计证据。审计人员根据审计计划，采用各种审计方法和技术，收集充分、适当的审计证据，并对其进行分析和评价。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计"
+    ]
+  },
+  {
+    "id": "ch11_q028",
+    "question": "以下关于COBIT框架的描述，不正确的是？",
+    "options": [
+      "A. COBIT是由ISACA发布的",
+      "B. COBIT是一个IT治理和管理框架",
+      "C. COBIT只适用于大型企业",
+      "D. COBIT支持IT治理目标的实现"
+    ],
+    "answer": "C",
+    "explanation": "COBIT不仅适用于大型企业，也适用于中小型组织。COBIT是由ISACA发布的IT治理和管理框架，提供了一套通用的治理管理目标，支持各类组织实现IT治理目标。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": ".1",
+    "knowledge_point": "COBIT",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "COBIT",
+      ".1",
+      "IT治理",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch11_q029",
+    "question": "ISO/IEC 38500标准中，\"战略\"原则的核心要求是什么？",
+    "options": [
+      "A. IT投资应产生合理的回报",
+      "B. IT战略应与当前和未来的业务需求对齐",
+      "C. IT系统应采用最新技术",
+      "D. IT部门应独立制定战略"
+    ],
+    "answer": "B",
+    "explanation": "ISO/IEC 38500的\"战略\"原则要求IT战略应与当前和未来的业务需求对齐。治理机构应确保IT战略支持业务战略的实现，IT规划应考虑业务发展的需要。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": ".1",
+    "knowledge_point": "ISO/IEC",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "ISO/IEC",
+      ".1",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch11_q030",
+    "question": "IT审计中，审计终结阶段的主要工作是什么？",
+    "options": [
+      "A. 收集审计证据",
+      "B. 分析审计发现",
+      "C. 形成审计报告",
+      "D. 制定审计计划"
+    ],
+    "answer": "C",
+    "explanation": "审计终结阶段的主要工作是形成审计报告。审计人员对审计证据进行汇总分析，形成审计结论，撰写审计报告，向相关方报告审计结果和建议。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计"
+    ]
+  },
+  {
+    "id": "ch11_q031",
+    "question": "以下关于IT治理文化助推的描述，不正确的是？",
+    "options": [
+      "A. 文化助推要求建立IT治理的文化氛围",
+      "B. 文化助推要求全员参与IT治理",
+      "C. 文化助推只需要高层管理者的支持",
+      "D. 文化助推要求持续改进IT治理实践"
+    ],
+    "answer": "C",
+    "explanation": "文化助推不仅需要高层管理者的支持，还需要全员参与。IT治理文化应渗透到组织的各个层面，使每个员工都认识到IT治理的重要性，并积极参与IT治理实践。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch11_q032",
+    "question": "COBIT框架中，BAI领域的全称是什么？",
+    "options": [
+      "A. 调整、规划和组织",
+      "B. 内部构建、外部采购和实施",
+      "C. 交付、服务和支持",
+      "D. 监控、评价和评估"
+    ],
+    "answer": "B",
+    "explanation": "BAI是Build, Acquire and Implement的缩写，即内部构建、外部采购和实施。BAI领域关注IT解决方案的获取、开发和实施，以及IT基础设施的建设。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": ".1",
+    "knowledge_point": "COBIT",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "COBIT",
+      ".1"
+    ]
+  },
+  {
+    "id": "ch11_q033",
+    "question": "IT审计方法中，访谈法的主要优点是什么？",
+    "options": [
+      "A. 可以获取大量的书面证据",
+      "B. 可以深入了解被审计单位的情况",
+      "C. 可以完全替代其他审计方法",
+      "D. 不需要审计人员具备沟通能力"
+    ],
+    "answer": "B",
+    "explanation": "访谈法的主要优点是可以深入了解被审计单位的情况。通过与相关人员面对面交流，审计人员可以获取详细的信息和背景，了解内部控制的实际执行情况。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计",
+      "内部控制"
+    ]
+  },
+  {
+    "id": "ch11_q034",
+    "question": "以下关于IT投资治理的描述，正确的是？",
+    "options": [
+      "A. IT投资只需要考虑技术因素",
+      "B. IT投资应与业务战略对齐，追求价值最大化",
+      "C. IT投资的决策权应完全交给IT部门",
+      "D. IT投资不需要进行风险评估"
+    ],
+    "answer": "B",
+    "explanation": "IT投资应与业务战略对齐，追求价值最大化。IT投资决策需要考虑业务需求、技术可行性、风险因素、成本效益等多方面因素，不应由IT部门单独决定。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理任务",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT",
+      "IT治理任务"
+    ]
+  },
+  {
+    "id": "ch11_q035",
+    "question": "IT审计中，后续审计的主要目的是什么？",
+    "options": [
+      "A. 重新执行全部审计程序",
+      "B. 跟踪审计发现问题的整改情况",
+      "C. 更换审计团队重新审计",
+      "D. 扩大审计范围"
+    ],
+    "answer": "B",
+    "explanation": "后续审计的主要目的是跟踪审计发现问题的整改情况。审计人员在审计报告发出后，需要对被审计单位的整改情况进行跟踪，确保审计建议得到有效落实。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计"
+    ]
+  },
+  {
+    "id": "ch11_q036",
+    "question": "ISO/IEC 38500标准中，\"合规\"原则的核心要求是什么？",
+    "options": [
+      "A. IT投资应产生合理的回报",
+      "B. IT系统应符合法律法规和合同要求",
+      "C. IT战略应与业务战略对齐",
+      "D. IT人员应具备专业能力"
+    ],
+    "answer": "B",
+    "explanation": "ISO/IEC 38500的\"合规\"原则要求IT系统应符合法律法规和合同要求。治理机构应确保IT活动符合适用的法律、法规、合同义务和内部政策。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": ".1",
+    "knowledge_point": "ISO/IEC 38500合规原则",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "ISO/IEC 38500合规原则",
+      "合规",
+      ".1",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch11_q037",
+    "question": "以下关于IT治理顶层设计的描述，不正确的是？",
+    "options": [
+      "A. 顶层设计包括IT战略规划",
+      "B. 顶层设计包括IT架构设计",
+      "C. 顶层设计只关注技术层面",
+      "D. 顶层设计应与业务战略对齐"
+    ],
+    "answer": "C",
+    "explanation": "顶层设计不仅关注技术层面，还关注业务层面。顶层设计包括IT战略规划、IT架构设计、IT治理组织设计等，需要确保IT战略与业务战略对齐。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch11_q038",
+    "question": "IT审计技术中，代码审查的主要目的是什么？",
+    "options": [
+      "A. 评估代码的美观程度",
+      "B. 发现代码中的安全漏洞和质量问题",
+      "C. 计算代码行数",
+      "D. 评估开发人员的技术水平"
+    ],
+    "answer": "B",
+    "explanation": "代码审查的主要目的是发现代码中的安全漏洞和质量问题。通过审查源代码，可以发现潜在的安全风险、编码规范问题、性能问题等，提高软件质量。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计"
+    ]
+  },
+  {
+    "id": "ch11_q039",
+    "question": "ISO/IEC 38500标准中，\"获取\"原则的核心要求是什么？",
+    "options": [
+      "A. IT投资应产生合理的回报",
+      "B. IT获取应满足业务需求",
+      "C. IT系统应采用最新技术",
+      "D. IT部门应自行开发所有系统"
+    ],
+    "answer": "B",
+    "explanation": "ISO/IEC 38500的\"获取\"原则要求IT获取应满足业务需求。治理机构应确保IT的获取（包括自建和外包）能够满足业务需求，投资决策应基于合理的商业论证。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": ".1",
+    "knowledge_point": "ISO/IEC",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "ISO/IEC",
+      ".1"
+    ]
+  },
+  {
+    "id": "ch11_q040",
+    "question": "以下关于IT审计范围的描述，不正确的是？",
+    "options": [
+      "A. IT审计范围包括IT治理审计",
+      "B. IT审计范围包括信息系统审计",
+      "C. IT审计范围包括IT项目审计",
+      "D. IT审计范围不包括信息安全审计"
+    ],
+    "answer": "D",
+    "explanation": "IT审计范围包括信息安全审计。IT审计的范围广泛，包括IT治理审计、信息系统审计、IT项目审计、信息安全审计、IT运维审计等多个方面。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计",
+      "IT治理"
+    ]
+  },
+  {
+    "id": "ch11_q041",
+    "question": "ISO/IEC 38500标准中，\"绩效\"原则的核心要求是什么？",
+    "options": [
+      "A. IT系统应符合法律法规要求",
+      "B. IT投资应支持业务并提供所需的服务质量",
+      "C. IT战略应与业务战略对齐",
+      "D. IT人员应具备专业能力"
+    ],
+    "answer": "B",
+    "explanation": "ISO/IEC 38500的\"绩效\"原则要求IT投资应支持业务并提供所需的服务质量。治理机构应确保IT资源得到充分利用，IT服务能够满足业务需求。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": ".1",
+    "knowledge_point": "ISO/IEC",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "ISO/IEC",
+      ".1"
+    ]
+  },
+  {
+    "id": "ch11_q042",
+    "question": "IT审计中，以下哪种审计技术用于验证系统是否按照预期运行？",
+    "options": [
+      "A. 访谈法",
+      "B. 观察法",
+      "C. 测试法",
+      "D. 文档审查法"
+    ],
+    "answer": "C",
+    "explanation": "测试法用于验证系统是否按照预期运行。审计人员通过设计测试用例，对系统的功能、性能、安全性等进行测试，验证系统是否满足设计要求和业务需求。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计"
+    ]
+  },
+  {
+    "id": "ch11_q043",
+    "question": "以下关于IT治理体系的描述，不正确的是？",
+    "options": [
+      "A. IT治理体系应包括组织架构",
+      "B. IT治理体系应包括制度流程",
+      "C. IT治理体系只需要IT部门参与",
+      "D. IT治理体系应包括绩效评估机制"
+    ],
+    "answer": "C",
+    "explanation": "IT治理体系不仅需要IT部门参与，还需要业务部门、高层管理者等多方参与。IT治理体系应包括组织架构、制度流程、绩效评估机制等，是一个跨部门的治理框架。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务"
+    ]
+  },
+  {
+    "id": "ch11_q044",
+    "question": "ISO/IEC 38500标准中，\"人员行为\"原则的核心要求是什么？",
+    "options": [
+      "A. IT人员应具备专业资格认证",
+      "B. IT治理应考虑人员行为因素",
+      "C. IT人员应接受定期培训",
+      "D. IT人员的薪酬应与绩效挂钩"
+    ],
+    "answer": "B",
+    "explanation": "ISO/IEC 38500的\"人员行为\"原则要求IT治理应考虑人员行为因素。治理机构应认识到人员行为对IT治理的影响，确保IT治理考虑到人的因素。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务"
+    ]
+  },
+  {
+    "id": "ch11_q045",
+    "question": "IT审计中，以下哪种方法不属于常用的审计技术？",
+    "options": [
+      "A. 抽样审计",
+      "B. 穿行测试",
+      "C. 压力测试",
+      "D. 代码编译"
+    ],
+    "answer": "D",
+    "explanation": "代码编译不属于IT审计的常用技术。IT审计常用技术包括抽样审计、穿行测试、代码审查、渗透测试、数据分析等。压力测试可用于评估系统性能。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计"
+    ]
+  },
+  {
+    "id": "ch11_q046",
+    "question": "以下关于IT治理全局统筹的描述，不正确的是？",
+    "options": [
+      "A. 全局统筹要求从组织整体角度考虑IT治理",
+      "B. 全局统筹要求协调IT与业务的关系",
+      "C. 全局统筹意味着所有IT决策都由高层做出",
+      "D. 全局统筹要求建立统一的IT治理框架"
+    ],
+    "answer": "C",
+    "explanation": "全局统筹并不意味着所有IT决策都由高层做出。全局统筹要求从组织整体角度考虑IT治理，建立统一的治理框架，但具体的IT决策应根据授权和职责分工进行。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务"
+    ]
+  },
+  {
+    "id": "ch11_q047",
+    "question": "IT审计中，以下哪种证据的证明力最强？",
+    "options": [
+      "A. 口头证据",
+      "B. 书面证据",
+      "C. 实物证据",
+      "D. 推断证据"
+    ],
+    "answer": "C",
+    "explanation": "实物证据的证明力最强。实物证据是审计人员通过实地观察或检查获得的证据，如系统日志、硬件设备等。书面证据次之，口头证据和推断证据的证明力较弱。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计"
+    ]
+  },
+  {
+    "id": "ch11_q048",
+    "question": "以下关于IT审计报告的描述，不正确的是？",
+    "options": [
+      "A. 审计报告应包括审计目标和范围",
+      "B. 审计报告应包括审计发现和建议",
+      "C. 审计报告可以不包含审计结论",
+      "D. 审计报告应提交给相关利益方"
+    ],
+    "answer": "C",
+    "explanation": "审计报告必须包含审计结论。审计报告是审计工作的最终成果，应包括审计目标和范围、审计方法、审计发现、审计结论和审计建议等内容。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "IT审计",
+    "knowledge_point": "IT审计",
+    "source_ref": "references/第11章_信息系统治理.md#IT审计",
+    "tags": [
+      "IT审计"
+    ]
+  },
+  {
+    "id": "ch11_q049",
+    "question": "以下关于ITSS标准的描述，不正确的是？",
+    "options": [
+      "A. ITSS是信息技术服务标准体系",
+      "B. ITSS由我国自主制定",
+      "C. ITSS只包含服务管理标准",
+      "D. ITSS涵盖人员、过程、技术和资源四个要素"
+    ],
+    "answer": "C",
+    "explanation": "ITSS不仅包含服务管理标准，还包括服务产品、服务运营、服务外包等多个方面的标准。ITSS是信息技术服务标准体系，由我国自主制定，涵盖人员、过程、技术和资源四个要素。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": ".1",
+    "knowledge_point": "ITSS",
+    "source_ref": "references/第11章_信息系统治理.md#.1",
+    "tags": [
+      "ITSS",
+      ".1"
+    ]
+  },
+  {
+    "id": "ch11_q050",
+    "question": "IT治理中，IT原则的核心内容是什么？",
+    "options": [
+      "A. 定义IT部门的组织架构",
+      "B. 定义IT对业务的核心价值主张",
+      "C. 定义IT项目的开发方法",
+      "D. 定义IT系统的运维流程"
+    ],
+    "answer": "B",
+    "explanation": "IT原则的核心内容是定义IT对业务的核心价值主张。IT原则阐明了组织对IT的基本信念和期望，指导IT战略、架构、投资等决策的制定。",
+    "chapter": "第11章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "IT治理任务",
+    "knowledge_point": "IT治理",
+    "source_ref": "references/第11章_信息系统治理.md#IT治理任务",
+    "tags": [
+      "IT治理",
+      "IT治理任务"
+    ]
+  },
+  {
+    "id": "ch11_q051",
+    "question": "IT 审计人员在利用外部专家服务时，需要与外部专家签订书面协议，目的不包括 ( ) 。",
+    "options": [
+      "A. 约束外部专家的行为",
+      "B. 明确双方的权利和义务",
+      "C. 为了遵守审计流程规定",
+      "D. 方便审计人员随意指挥外部专家"
+    ],
+    "answer": "D",
+    "explanation": "11.2.1 中指出，IT 审计人员利用外部专家服务时，与外部专家签订书面协议 是 为了约束外部专家行为，明确双方权利义务，也是审计规范流程的要求，而不是方便审 计人员随意指挥外部专家，D 选项符合题意。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0266"
+  },
+  {
+    "id": "ch11_q052",
+    "question": "IT 治理的目标价值中，有效利用信息与数据资源，需要解决当前存在的诸多问题， 其中不包括（ ）。",
+    "options": [
+      "A. 信息系统工程按时完成",
+      "B. IT 客户的需求未满足",
+      "C. 数据开发利用效能与价值不高",
+      "D. 信息技术与业务发展融合深度不够"
+    ],
+    "answer": "A",
+    "explanation": "11.1.1 中提到，当前存在信息系统工程超期、IT 客户的需求没有满足、IT 平台 不支持业务应用、数据开发利用效能与价值不高、信息技术与业务发展融合深度不够等 问题，A 选项信息系统工程按时完成不属于需要解决的问题，符合题意。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0327"
+  },
+  {
+    "id": "ch11_q053",
+    "question": "IT 治理在组织数字化转型中，主要统筹的方面不包括（ ）。",
+    "options": [
+      "A. 统筹组织的财务规划",
+      "B. 统筹IT 战略和组织规划",
+      "C. 统筹管理和绩效的实施计划",
+      "D. 统筹IT 治理的目标范围"
+    ],
+    "answer": "A",
+    "explanation": "11.1.3 中提到，组织的IT 治理活动定义为统筹、评估、指导和监督，其中统筹 包括统筹现在和未来的IT 战略和组织规划、管理和绩效的实施计划、策略，以及统筹 规划IT 治理的目标范围等，不涉及统筹组织的财务规划，A 选项符合题意。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0134"
+  },
+  {
+    "id": "ch11_q054",
+    "question": "在我国信息技术服务标准（ITSS）库中的IT 治理系列标准中，GB/T 34960.2 规定 的IT 治理实施过程不包括（ ）。",
+    "options": [
+      "A. 设计与开发",
+      "B. 统筹和规划",
+      "C. 监督和评估",
+      "D. 改进和优化"
+    ],
+    "answer": "A",
+    "explanation": "11.1.4 中指出，GB/T 34960.2 规定的IT 治理实施过程包括统筹和规划、构建 和运行、监督和评估、改进和优化，不包括设计与开发，A 选项符合题意。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0082"
+  },
+  {
+    "id": "ch11_q055",
+    "question": "IT 治理中，组织实施IT 治理的使命不包括（ ）。",
+    "options": [
+      "A. 保持IT 与业务目标不一致",
+      "B. 推动业务发展",
+      "C. 促使收益最大化",
+      "D. 合理利用IT 资源"
+    ],
+    "answer": "A",
+    "explanation": "11.1.1 中表明，组织实施IT 治理的使命通常包括保持IT 与业务目标一致， 推动业务发展，促使收益最大化，合理利用IT 资源，恰当厘清与IT 相关的风险等， A 选项 “保持IT 与业务目标不一致”不属于其使命，A 选项符合题意。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0258"
+  },
+  {
+    "id": "ch11_q056",
+    "question": "组织开展IT 治理活动的主要任务中，全局统筹的内容不包括（ ）。",
+    "options": [
+      "A. 只关注IT 治理的短期目标",
+      "B. 制定满足可持续发展的IT 蓝图",
+      "C. 建立适应内外部信息环境变化的持续改进和创新机制",
+      "D. 实施科学决策、集约管理的策略"
+    ],
+    "answer": "A",
+    "explanation": "11.1.3 中指出，全局统筹需要关注IT 发展的规划、实施、检查和改进全过 程， 制定可持续发展的IT 蓝图，建立改进创新机制，实施科学决策和集约管理策略，不是 只关注短期目标，A 选项符合题意。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0116"
+  },
+  {
+    "id": "ch11_q057",
+    "question": "以下哪项不属于IT 治理的关键决策内容？( )",
+    "options": [
+      "A. IT 组织文化建设决策",
+      "B. IT 原则决策",
+      "C. IT 架构决策",
+      "D. IT 投资和优先顺序决策"
+    ],
+    "answer": "A",
+    "explanation": "11.1.2 中指出，有效的IT 治理必须关注5 项关键决策，包括IT 原则、IT 架 构、IT 基础设施、业务应用需求、IT 投资和优先顺序，不包括IT 组织文化建设决策， A 选项符合题意。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0355"
+  },
+  {
+    "id": "ch11_q058",
+    "question": "在我国信息技术服务标准（ITSS）库中的IT 治理系列标准中，GB/T 34960.1 规 定的IT 治理框架中，顶层设计治理域包含（ ）。",
+    "options": [
+      "A. 信息技术的战略，以及支撑战略的组织和架构",
+      "B. 质量管理、项目管理、投资管理等",
+      "C. 信息技术相关的基础设施、应用系统和数据",
+      "D. IT 治理基本规范、IT 治理实施参照等"
+    ],
+    "answer": "A",
+    "explanation": "在我国信息技术服务标准（ITSS）库中的IT 治理系列标准中，GB/T 34960.1 规 定的IT 治理框架中，顶层设计治理域主要包含信息技术的战略以及支撑战略的组织和 架构等内容。它关注于组织在IT 方面的整体规划和布局，以确保IT 与业务战略的一 致性和协同性。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0147"
+  },
+  {
+    "id": "ch11_q059",
+    "question": "在我国信息技术服务标准（ITSS）库中的IT 治理系列标准中，GB/T 34960.1 规 定的IT 治理模型中，治理主体通过（ ）指导管理者对信息技术及其应用的管理体系 进行完善。",
+    "options": [
+      "A. 信息技术战略和方针的统筹",
+      "B. 直接干预管理者的工作",
+      "C. 制定详细的操作手册",
+      "D. 更换管理者"
+    ],
+    "answer": "A",
+    "explanation": "11.1.4 中提到，治理主体通过信息技术战略和方针的统筹，指导管理者对信息技 术及其应用的管理体系进行完善，并对信息技术相关的方案和规划进行评估，对信息技 术应用的绩效和符合性进行监督，A 选项正确。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0191"
+  },
+  {
+    "id": "ch11_q060",
+    "question": "在我国信息技术服务标准（ITSS）库中的IT 治理系列标准中，GB/T 34960.1 规 定的IT 治理模型中，治理主体通过（ ）对信息技术相关的方案和规划进行评估。",
+    "options": [
+      "A. 信息技术战略和方针的统筹",
+      "B. 随意的主观判断",
+      "C. 与被评估方协商",
+      "D. 不参考任何依据"
+    ],
+    "answer": "A",
+    "explanation": "11.1.4 中表明，治理主体通过信息技术战略和方针的统筹，指导管理者对信息技 术及其应用的管理体系进行完善，并对信息技术相关的方案和规划进行评估，对信息技 术应用的绩效和符合性进行监督，A 选项正确。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0322"
+  },
+  {
+    "id": "ch11_q061",
+    "question": "ISO/IEC 38500 标准中，治理机构治理IT 的评估任务要求考虑多种因素，其中不 包括( ) 。",
+    "options": [
+      "A. 组织内部人员的兴趣爱好",
+      "B. 技术变革",
+      "C. 监管义务",
+      "D. 合法的利益相关者期望"
+    ],
+    "answer": "A",
+    "explanation": "11.1.4 中提到，评估任务要求治理机构审查和判断当前和未来的IT 使用，考虑 作用于组织的外部或内部压力，如技术变革、经济和社会趋势、监管义务、合法的利益 相关者期望和政治影响，以及当前和未来的业务需要，不包括组织内部人员的兴趣爱好， A 选项符合题意。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0360"
+  },
+  {
+    "id": "ch11_q062",
+    "question": "IT 治理核心内容中，通过追踪和监视IT 战略、IT 项目的实施等，确保组织战略 目标实现的是（ ）。",
+    "options": [
+      "A. 绩效管理",
+      "B. 价值交付",
+      "C. 风险管理",
+      "D. 资源管理"
+    ],
+    "answer": "A",
+    "explanation": "11.1.2 中表明，绩效管理主要是追踪和监视IT 战略、IT 项目的实施、信息资 源的使用、IT 服务的提供以及业务流程的绩效，所采用的工具（如平衡计分卡）可以 将组织的战略目标转化成各个职能部门或团队具体的业务活动的目标，从而保证组织 战略目标",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0079"
+  },
+  {
+    "id": "ch11_q063",
+    "question": "IT 治理核心内容中，确保用户对组织的应用系统和基础设施有良好理解和应用属于 ( ) 。",
+    "options": [
+      "A. 资源管理",
+      "B. 价值交付",
+      "C. 绩效管理",
+      "D. 风险管理"
+    ],
+    "answer": "A",
+    "explanation": "11.1.2 中提到，资源管理的主要功能是确保用户对组织的应用系统和基础设施 都有良好的理解和应用，优化IT 投资、IT 资源（人、应用系统、信息、基础设施） 的分 配，做好人员的培训、发展计划，以满足组织的业务需求，A 选项正确。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0058"
+  },
+  {
+    "id": "ch11_q064",
+    "question": "建立IT 治理机制时，机制鼓励那些处于最佳位置的个人去制定特定的决策，这一 原则带来的好处不包括（ ）。",
+    "options": [
+      "A. 降低决策的合理性",
+      "B. 提高决策效率",
+      "C. 使决策更符合实际情况",
+      "D. 充分发挥个人优势"
+    ],
+    "answer": "A",
+    "explanation": "建立IT 治理机制时，鼓励处于最佳位置的个人去制定特定的决策可以提高决策 效率、使决策更符合实际情况并充分发挥个人优势。然而，这一原则并不会降低决策的 合理性，相反，它有助于确保决策的科学性和有效性。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0332"
+  },
+  {
+    "id": "ch11_q065",
+    "question": "IT 治理核心内容中，优化IT 投资、IT 资源分配，并做好人员培训计划的是（ ）。",
+    "options": [
+      "A. 资源管理",
+      "B. 价值交付",
+      "C. 绩效管理",
+      "D. 风险管理"
+    ],
+    "answer": "A",
+    "explanation": "11.1.2 中提到，资源管理的主要功能是确保用户对组织的应用系统和基础设施 有良好理解和应用，优化IT 投资、IT 资源（人、应用系统、信息、基础设施）的分 配，做好人员的培训、发展计划，以满足组织的业务需求，A 选项正确。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0144"
+  },
+  {
+    "id": "ch11_q066",
+    "question": "IT 治理的内涵中，通过对IT 的综合开发利用，为组织战略规划提供技术或控制 方面支持的是（ ）。",
+    "options": [
+      "A. IT 治理强调数字目标与组织战略目标一致",
+      "B. IT 治理保护利益相关者权益",
+      "C. IT 治理是一种制度和机制",
+      "D. IT 治理由组织治理层或高级管理层负责"
+    ],
+    "answer": "A",
+    "explanation": "11.1.1 中表明，IT 治理强调数字目标与组织战略目标保持一致，通过对IT 的 综合开发利用，为组织战略规划提供技术或控制方面的支持，以保证相关建设能够真正 落实并贯彻组织业务战略和目标，A 选项正确。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0168"
+  },
+  {
+    "id": "ch11_q067",
+    "question": "IT 治理核心内容中，通过对IT 项目全生命周期的管理，确保IT 能够按照组织 战略实现预期的业务价值，这属于（ ）。",
+    "options": [
+      "A. 价值交付",
+      "B. 风险管理",
+      "C. 绩效管理",
+      "D. 资源管理"
+    ],
+    "answer": "A",
+    "explanation": "价值交付是IT 治理核心内容之一，它强调通过对IT 项目全生命周期的管理， 确保IT 能够按照组织战略实现预期的业务价值。这有助于提升组织的竞争力和创新能 力，实现组织的长期发展目标。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0212"
+  },
+  {
+    "id": "ch11_q068",
+    "question": "审计流程广义上的审计终结阶段，审计人员需要完成多项工作，其中不包括（ ）。",
+    "options": [
+      "A. 开展新的审计项目",
+      "B. 整理与复核审计工作底稿",
+      "C. 评价相关IT 控制目标的实现",
+      "D. 出具审计报告"
+    ],
+    "answer": "A",
+    "explanation": "审计流程广义上的审计终结阶段，审计人员需要完成多项工作，如整理与复核审 计工作底稿、评价相关IT 控制目标的实现、出具审计报告等。而开展新的审计项目则 属于下一个审计周期的准备工作，不属于审计终结阶段的工作内容。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0315"
+  },
+  {
+    "id": "ch11_q069",
+    "question": "在我国信息技术服务标准（ITSS）库中的IT 治理系列标准中，GB/T 34960.1 规定 的IT 治理模型包含多个部分，其中治理主体的驱动力不包括（ ）。",
+    "options": [
+      "A. 组织的盈利目标",
+      "B. 组织章程",
+      "C. 监管职责",
+      "D. 利益相关方期望"
+    ],
+    "answer": "A",
+    "explanation": "11.1.4 中提到，治理主体以组织章程、监管职责、利益相关方期望、业务压力和 业务要求为驱动力，不包括组织的盈利目标，A 选项符合题意。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0061"
+  },
+  {
+    "id": "ch11_q070",
+    "question": "高质量IT 治理对组织的重要性体现在多个方面，其中不包括（ ）。",
+    "options": [
+      "A. 使IT 管理和应用决策与业务目标相悖",
+      "B. 确保组织IT 投资的有效性",
+      "C. 推动组织充分理解IT 价值",
+      "D. 促进组织各领域高质量发展"
+    ],
+    "answer": "A",
+    "explanation": "11.1.1 中指出，高质量的IT 治理能够使组织的IT 管理和应用决策与组织期 望的行为和业务目标相一致，A 选项错误。良好的IT 治理可确保IT 投资有效、推 动组织理 解IT 价值、为各领域高质量发展提供基础，B、C、D 选项正确。",
+    "chapter": "第11章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统治理",
+    "knowledge_point": "信息系统治理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第11章",
+    "tags": [
+      "信息系统治理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch11_0232"
+  }
+]

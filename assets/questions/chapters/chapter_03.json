@@ -1,0 +1,1659 @@
+[
+  {
+    "id": "ch03_q001",
+    "question": "根据《矛盾论》，唯物辩证法认为事物发展的根本原因是？",
+    "options": [
+      "A. 外因的作用",
+      "B. 事物内部的矛盾性",
+      "C. 量变的积累",
+      "D. 外部环境的变化"
+    ],
+    "answer": "B",
+    "explanation": "《矛盾论》指出，事物内部的这种矛盾性是事物发展的根本原因，一事物和他事物的互相联系和互相影响则是事物发展的第二位的原因。外因是变化的条件，内因是变化的根据。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "矛盾论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q002",
+    "question": "《实践论》认为认识的规律为？",
+    "options": [
+      "A. 理论—实践—理论",
+      "B. 实践—认识—再实践—再认识循环反复至无穷",
+      "C. 感性认识—理性认识—决策",
+      "D. 假设—验证—结论"
+    ],
+    "answer": "B",
+    "explanation": "实践论认为认识的规律为：实践—认识—再实践—再认识循环反复至无穷的过程。由实践到认识是第一次能动的飞跃，由认识到实践是第二次能动的飞跃。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "实践论",
+    "knowledge_point": "实践论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#实践论",
+    "tags": [
+      "实践论"
+    ]
+  },
+  {
+    "id": "ch03_q003",
+    "question": "系统论、控制论和信息论被合称为\"老三论\"，以下关于系统论八大基本原理的描述，不正确的是？",
+    "options": [
+      "A. 系统整体性原理强调系统整体功能等于各要素功能的简单加和",
+      "B. 系统层次性原理指出系统组织表现出等级秩序性",
+      "C. 系统开放性原理强调系统与外界环境进行物质、能量、信息交换",
+      "D. 系统自组织原理描述系统从无序到有序的自发组织过程"
+    ],
+    "answer": "A",
+    "explanation": "系统整体性原理强调系统的整体功能是各要素在孤立状态下所没有的性质，整体的性质和功能不等于各个要素的性质和功能的简单加和。A选项的描述与原文相反。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统论",
+    "knowledge_point": "系统论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#系统论",
+    "tags": [
+      "系统论",
+      "控制论",
+      "信息论"
+    ]
+  },
+  {
+    "id": "ch03_q004",
+    "question": "信息论诞生于1948年，其创始人是？",
+    "options": [
+      "A. 冯·诺依曼",
+      "B. 香农",
+      "C. 图灵",
+      "D. 维纳"
+    ],
+    "answer": "B",
+    "explanation": "信息论诞生于1948年，创始人为香农。维纳是控制论的创始人。信息论可以分成狭义信息论和广义信息论两种。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息论",
+    "knowledge_point": "信息论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#信息论",
+    "tags": [
+      "信息论",
+      "控制论"
+    ]
+  },
+  {
+    "id": "ch03_q005",
+    "question": "耗散结构理论由普里戈金教授于1969年提出，以下哪项不是耗散结构形成和维持的条件？",
+    "options": [
+      "A. 线性耦合",
+      "B. 远离平衡态",
+      "C. 开放性",
+      "D. 涨落现象"
+    ],
+    "answer": "A",
+    "explanation": "耗散结构形成和维持的条件包括：开放性、远离平衡态、非线性耦合和涨落现象。注意是\"非线性耦合\"而非\"线性耦合\"，线性系统不具有形成耗散结构的可能性。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "耗散结构理论",
+    "knowledge_point": "耗散结构",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#耗散结构理论",
+    "tags": [
+      "耗散结构",
+      "耗散结构理论"
+    ]
+  },
+  {
+    "id": "ch03_q006",
+    "question": "协同论的三大基本原理是不稳定原理、支配原理和？",
+    "options": [
+      "A. 序参量原理",
+      "B. 负反馈原理",
+      "C. 对立统一原理",
+      "D. 熵增原理"
+    ],
+    "answer": "A",
+    "explanation": "协同论由三大基本原理构成，即不稳定原理、支配原理和序参量原理。序参量是指在系统演化中从无到有地变化并能指示出新结构形成的参量。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "协同论",
+    "knowledge_point": "协同论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#协同论",
+    "tags": [
+      "协同论"
+    ]
+  },
+  {
+    "id": "ch03_q007",
+    "question": "控制论中，将系统的实际输出和期望输出进行比较而形成的误差信号来控制系统的控制方式称为？",
+    "options": [
+      "A. 开环控制",
+      "B. 反馈控制",
+      "C. 程序控制",
+      "D. 前馈控制"
+    ],
+    "answer": "B",
+    "explanation": "所谓反馈是指将系统的实际输出和期望输出进行比较而形成的误差信号，控制器在形成控制信号时要依赖于这个误差信号，这称为反馈控制，属于闭环控制系统。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "控制论",
+    "knowledge_point": "控制论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#控制论",
+    "tags": [
+      "控制论"
+    ]
+  },
+  {
+    "id": "ch03_q008",
+    "question": "突变论在系统科学领域与耗散结构论、协同论并称什么？",
+    "options": [
+      "A. 老三论",
+      "B. 新三论",
+      "C. SCI论",
+      "D. 系统动力学"
+    ],
+    "answer": "B",
+    "explanation": "突变论在系统科学领域与耗散结构论、协同论并称\"新三论\"。而系统论、控制论和信息论被称为\"老三论\"（SCI论）。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统论",
+    "knowledge_point": "耗散结构",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#系统论",
+    "tags": [
+      "耗散结构",
+      "系统论",
+      "控制论",
+      "信息论",
+      "协同论"
+    ]
+  },
+  {
+    "id": "ch03_q009",
+    "question": "《矛盾论》中，矛盾的特殊性主要表现在几个方面？",
+    "options": [
+      "A. 两个",
+      "B. 三个",
+      "C. 四个",
+      "D. 五个"
+    ],
+    "answer": "B",
+    "explanation": "矛盾的特殊性主要表现在三个方面：①每一种运动形式中的矛盾都具有特殊性；②每一个事物的发展过程中的矛盾都具有特殊性；③每一个事物中的矛盾及其不同方面的地位都具有特殊性。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "矛盾论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q010",
+    "question": "在矛盾体系中，起领导作用并规定和影响其他矛盾的存在和发展的矛盾称为？",
+    "options": [
+      "A. 次要矛盾",
+      "B. 主要矛盾",
+      "C. 根本矛盾",
+      "D. 非根本矛盾"
+    ],
+    "answer": "B",
+    "explanation": "在许多矛盾构成的体系中，起领导作用并规定和影响其他矛盾的存在和发展的是主要矛盾。在矛盾体系中，主要矛盾以外的其他非主要矛盾，都是次要矛盾。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "矛盾论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "在矛盾体系中",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q011",
+    "question": "以下关于唯物辩证法与形而上学的描述，不正确的是？",
+    "options": [
+      "A. 唯物辩证法认为外因是变化的根据，内因是变化的条件",
+      "B. 形而上学把世界一切事物看成是永远彼此孤立和永远不变化的",
+      "C. 唯物辩证法和形而上学是两种根本对立的发展观",
+      "D. 唯物辩证法主张从事物的内部研究事物的发展"
+    ],
+    "answer": "A",
+    "explanation": "唯物辩证法认为外因是变化的条件，内因是变化的根据，外因通过内因而起作用。C选项将内因和外因的关系说反了。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "唯物辩证法与形而上学的",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "唯物辩证法与形而上学的",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q012",
+    "question": "在系统规划与管理中，矛盾论可以应用于以下哪些方面？",
+    "options": [
+      "A. 仅用于分析问题",
+      "B. 分析问题、确定目标、制定方案、决策与权衡",
+      "C. 仅用于决策",
+      "D. 仅用于制定方案"
+    ],
+    "answer": "B",
+    "explanation": "矛盾论在系统规划与管理过程中可以应用于分析问题、确定目标、制定方案、决策与权衡等诸多方面，帮助提高系统规划的科学性和有效性。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "矛盾论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q013",
+    "question": "实践论中，由实践到认识的过程称为认识过程的第几次能动的飞跃？",
+    "options": [
+      "A. 第一次",
+      "B. 第二次",
+      "C. 第三次",
+      "D. 第四次"
+    ],
+    "answer": "A",
+    "explanation": "由实践到认识的过程，即在实践基础上从感性认识上升到理性认识，这是认识过程的第一次能动的飞跃。由认识到实践是第二次能动的飞跃，是更重要的飞跃。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "实践论",
+    "knowledge_point": "实践论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#实践论",
+    "tags": [
+      "实践论"
+    ]
+  },
+  {
+    "id": "ch03_q014",
+    "question": "以下关于实践论在系统规划中应用的描述，不正确的是？",
+    "options": [
+      "A. 系统规划可以一蹴而就，不需要反复验证",
+      "B. 系统规划必须遵循\"认知—实践\"反复循环的原理多次迭代完成",
+      "C. 应避免惯向思维，不能走入经验主义或教条主义的误区",
+      "D. 出现无法确认的问题时，可以用原型法来快速验证"
+    ],
+    "answer": "A",
+    "explanation": "实践论强调系统规划必须要遵循\"认知—实践\"反复循环的原理多次迭代完成，而不能也不可能一蹴而就。每一个关键活动都要有实际验证的过程。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "实践论",
+    "knowledge_point": "实践论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#实践论",
+    "tags": [
+      "实践论",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch03_q015",
+    "question": "系统论中，按与环境的关系划分，系统可分为开放系统、封闭系统和？",
+    "options": [
+      "A. 孤立系统",
+      "B. 静态系统",
+      "C. 动态系统",
+      "D. 复杂系统"
+    ],
+    "answer": "A",
+    "explanation": "按与环境的关系划分为开放系统、封闭系统、孤立系统。开放系统与环境有物质和能量交换，封闭系统与环境只有能量交换没有物质交换，孤立系统与环境没有任何交换。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统论",
+    "knowledge_point": "系统论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#系统论",
+    "tags": [
+      "系统论"
+    ]
+  },
+  {
+    "id": "ch03_q016",
+    "question": "系统目的性原理指的是系统在与环境的相互作用中表现出什么特性？",
+    "options": [
+      "A. 随机性",
+      "B. 趋向预先确定的状态",
+      "C. 完全被动响应",
+      "D. 无规律变化"
+    ],
+    "answer": "B",
+    "explanation": "系统目的性原理指的是，系统在与环境的相互作用中，在一定的范围内，其发展变化不受或少受条件变化或途径经历的影响，坚持表现出某种趋向预先确定的状态的特性。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "系统性原理指系统在与环境",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "系统性原理指系统在与环境",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q017",
+    "question": "系统稳定性原理中，一个组织系统之所以能够迅速恢复到正常稳定状态，关键在于其中的什么机制？",
+    "options": [
+      "A. 正反馈机制",
+      "B. 负反馈机制",
+      "C. 自组织机制",
+      "D. 突变机制"
+    ],
+    "answer": "B",
+    "explanation": "一个组织系统之所以具有受到干扰后能够迅速排除偏差、恢复到正常的稳定状态的能力，关键在于其中的负反馈机制。通过负反馈机制，系统得以消除偏离系统稳定状态的失稳因素。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "系统稳定性原理中",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "系统稳定性原理中",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q018",
+    "question": "信息的特性不包括以下哪项？",
+    "options": [
+      "A. 永恒不变性",
+      "B. 共享性",
+      "C. 传递性",
+      "D. 时效性"
+    ],
+    "answer": "A",
+    "explanation": "信息的特性包括传递性、共享性、依附性和可处理性、价值相对性、时效性、真伪性。信息不是永恒不变的，它具有时效性，且可以通过各种手段进行更改处理。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "矛盾论",
+    "knowledge_point": "信息的特性",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "信息的特性",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q019",
+    "question": "人类社会经历的四次信息技术革命中，第二次信息技术革命是？",
+    "options": [
+      "A. 语言和文字的创造",
+      "B. 造纸和印刷技术的出现",
+      "C. 电报、电话、电视的发明和应用",
+      "D. 电子计算机和现代通信技术的应用"
+    ],
+    "answer": "B",
+    "explanation": "第二次信息技术革命是造纸和印刷技术的出现，结束了人们单纯依靠手抄、篆刻文献的时代。第一次是语言和文字的创造，第三次是电报电话电视等，第四次是电子计算机和现代通信技术。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "人类社会经历的四次信息技",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "人类社会经历的四次信息技",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q020",
+    "question": "控制论的创始人是？",
+    "options": [
+      "A. 香农",
+      "B. 罗伯特·维纳",
+      "C. 普里戈金",
+      "D. 哈肯"
+    ],
+    "answer": "B",
+    "explanation": "1948年，美国数学家罗伯特·维纳把控制论定义为动物和机器中控制和通信的科学。香农是信息论创始人，普里戈金提出耗散结构理论，哈肯是协同论创始人。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息论",
+    "knowledge_point": "控制论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#信息论",
+    "tags": [
+      "控制论",
+      "信息论",
+      "耗散结构",
+      "协同论"
+    ]
+  },
+  {
+    "id": "ch03_q021",
+    "question": "控制系统中，传感器的主要功能是？",
+    "options": [
+      "A. 加工信息和产生控制信号",
+      "B. 采集信息并变换到合适形式传送到控制器",
+      "C. 将控制信号进行放大和变换产生控制作用",
+      "D. 接收控制信号并执行操作"
+    ],
+    "answer": "B",
+    "explanation": "传感器用来采集信息，并把它变换到合适的形式，传送到控制器。控制器用来加工信息和产生控制信号，执行器将控制器产生的控制信号进行放大和变换。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "控制系统中",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "控制系统中",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q022",
+    "question": "以下关于开环控制系统的描述，正确的是？",
+    "options": [
+      "A. 控制器形成控制信号时不依赖于系统输出信号",
+      "B. 是一种\"顾及后果\"的客观控制方式",
+      "C. 控制器形成控制信号时依赖于系统输出信号",
+      "D. 必定是反馈控制系统"
+    ],
+    "answer": "A",
+    "explanation": "开环控制系统是指控制器形成控制信号时不依赖于系统输出信号。这是一种\"不计后果\"的主观控制方式，但对一些具有明确先验知识的系统仍然具有很好的控制效果。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "矛盾论",
+    "knowledge_point": "开环控制系统的",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "开环控制系统的",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q023",
+    "question": "反馈信息使得系统输出的误差逐渐减少，这种反馈称为？",
+    "options": [
+      "A. 正反馈",
+      "B. 负反馈",
+      "C. 前馈",
+      "D. 程序反馈"
+    ],
+    "answer": "B",
+    "explanation": "如果反馈信息（系统实际输出）使得系统输出的误差逐渐减少，则称为负反馈；反之，称为正反馈。负反馈是反馈的基本形式。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "反馈信息使得系统输出的误",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "反馈信息使得系统输出的误",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q024",
+    "question": "计算机集成制造系统（CIMS）至少包含四大部分，以下哪项不是其中之一？",
+    "options": [
+      "A. 自动化设计系统",
+      "B. 自动化制造系统",
+      "C. 计算机辅助质量保障系统",
+      "D. 人工智能决策系统"
+    ],
+    "answer": "D",
+    "explanation": "CIMS至少有自动化设计系统、自动化制造系统、计算机辅助质量保障系统以及管理与决策支持系统四大部分。人工智能决策系统不是CIMS的基本组成部分。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "计算机集成制造系统至少包",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "计算机集成制造系统至少包",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q025",
+    "question": "耗散结构理论中，系统走上有序的唯一可能性是？",
+    "options": [
+      "A. des/dt > 0",
+      "B. des/dt < 0",
+      "C. dis/dt = 0",
+      "D. des/dt = dis/dt"
+    ],
+    "answer": "B",
+    "explanation": "系统走上有序的唯一可能性是des/dt < 0，即外界供给系统一个负熵流，输入的是有序度较高的高品质的物质能量流，而输出的是低品质的物质能量流。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "耗散结构理论",
+    "knowledge_point": "耗散结构",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#耗散结构理论",
+    "tags": [
+      "耗散结构",
+      "耗散结构理论"
+    ]
+  },
+  {
+    "id": "ch03_q026",
+    "question": "以下关于耗散结构的描述，不正确的是？",
+    "options": [
+      "A. 平衡结构比耗散结构更具活力",
+      "B. 耗散结构的存在需要同环境做物质和能量的交换",
+      "C. 耗散结构是一种动态的\"活\"结构",
+      "D. 耗散结构是非平衡是有序之源的体现"
+    ],
+    "answer": "A",
+    "explanation": "如果平衡结构是一种\"死\"结构（因其必须同环境隔绝才能维持其存在），那么耗散结构则是一种动态的\"活\"结构。C选项的描述与原文相反。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "耗散结构理论",
+    "knowledge_point": "耗散结构",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#耗散结构理论",
+    "tags": [
+      "耗散结构",
+      "耗散结构理论"
+    ]
+  },
+  {
+    "id": "ch03_q027",
+    "question": "协同论中，序参量为零时表示系统处于什么状态？",
+    "options": [
+      "A. 有序状态",
+      "B. 无序状态",
+      "C. 临界状态",
+      "D. 平衡状态"
+    ],
+    "answer": "B",
+    "explanation": "序参量的大小可以用来标志宏观有序的程度，当系统是无序时，序参量为零。当到达临界点时，序参量增长到最大，此时出现了一种宏观有序的有组织的结构。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "协同论",
+    "knowledge_point": "协同论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#协同论",
+    "tags": [
+      "协同论"
+    ]
+  },
+  {
+    "id": "ch03_q028",
+    "question": "协同论的支配原理中，主宰着演化进程、支配着快变量行为的是？",
+    "options": [
+      "A. 快变量",
+      "B. 慢变量",
+      "C. 序参量",
+      "D. 控制参量"
+    ],
+    "answer": "B",
+    "explanation": "支配原理认为快变量不会左右系统演化的进程，慢变量则主宰着演化进程，支配着快变量的行为，快变量跟随慢变量的变化而变化。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "协同论",
+    "knowledge_point": "协同论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#协同论",
+    "tags": [
+      "协同论"
+    ]
+  },
+  {
+    "id": "ch03_q029",
+    "question": "突变论的数学基础是奇点理论和？",
+    "options": [
+      "A. 集合论",
+      "B. 分岔理论",
+      "C. 群论",
+      "D. 拓扑学"
+    ],
+    "answer": "B",
+    "explanation": "突变论的数学基础是奇点理论和分岔理论。奇点理论主要用来描述系统中的突变或飞跃现象，分岔理论主要用于研究从一个稳定状态转变为另一个稳定状态的过程和规律。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "突变论",
+    "knowledge_point": "突变论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#突变论",
+    "tags": [
+      "突变论"
+    ]
+  },
+  {
+    "id": "ch03_q030",
+    "question": "以下关于突变论的描述，不正确的是？",
+    "options": [
+      "A. 突变论认为质变只能通过飞跃来实现",
+      "B. 突变论的最早研究出现于数学研究领域",
+      "C. 突变论认为质变既可通过飞跃的方式实现，也可通过渐变的方式实现",
+      "D. 突变论由法国数学家托姆提出"
+    ],
+    "answer": "A",
+    "explanation": "突变论认为质变既可通过飞跃的方式实现，也可通过渐变的方式实现。同时提出，只要改变控制条件，一个飞跃过程可以转化为渐变，而一个渐变过程又可转化为飞跃。C选项的描述与原文相反。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "突变论",
+    "knowledge_point": "突变论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#突变论",
+    "tags": [
+      "突变论"
+    ]
+  },
+  {
+    "id": "ch03_q031",
+    "question": "复杂系统论认为，导致复杂性出现的核心原因是？",
+    "options": [
+      "A. 系统规模过大",
+      "B. 局部互动不可测",
+      "C. 外部环境变化",
+      "D. 信息传递延迟"
+    ],
+    "answer": "B",
+    "explanation": "复杂系统论认为，导致复杂性出现的核心原因是局部互动不可测。即在整个系统中，各组成部分之间的局部互动难以预测和控制。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统论",
+    "knowledge_point": "系统论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#系统论",
+    "tags": [
+      "系统论"
+    ]
+  },
+  {
+    "id": "ch03_q032",
+    "question": "复杂系统论是对经典科学什么理论的修正？",
+    "options": [
+      "A. 进化论",
+      "B. 还原论",
+      "C. 相对论",
+      "D. 量子论"
+    ],
+    "answer": "B",
+    "explanation": "复杂系统论是对于经典科学\"还原论\"的修正。还原论将高层的、复杂的对象分解为较低层的、简单的对象来处理，而复杂系统论客观承认世界的多样性、无序性及非线性。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统论",
+    "knowledge_point": "系统论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#系统论",
+    "tags": [
+      "系统论"
+    ]
+  },
+  {
+    "id": "ch03_q033",
+    "question": "我国最早研究复杂系统论的科学家是？",
+    "options": [
+      "A. 华罗庚",
+      "B. 钱学森",
+      "C. 钱三强",
+      "D. 邓稼先"
+    ],
+    "answer": "B",
+    "explanation": "我国最早研究复杂系统论的科学家是钱学森教授，他基于复杂系统论思想提出了开放的复杂巨系统理论。钱学森也是《工程控制论》的作者。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统论",
+    "knowledge_point": "系统论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#系统论",
+    "tags": [
+      "系统论",
+      "控制论"
+    ]
+  },
+  {
+    "id": "ch03_q034",
+    "question": "在系统规划与管理中，信息系统规划过程需要分析的主要矛盾不包括以下哪项？",
+    "options": [
+      "A. 需求与资源的矛盾",
+      "B. 敏态与稳态的矛盾",
+      "C. 安全与效率的矛盾",
+      "D. 理论与实践的矛盾"
+    ],
+    "answer": "D",
+    "explanation": "信息系统规划过程中需要分析的主要矛盾包括：需求与资源的矛盾、敏态与稳态的矛盾、安全与效率的矛盾、文化与技术的矛盾。理论与实践的矛盾不是文中提到的主要矛盾。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "在系统规划与管理中的应用",
+    "knowledge_point": "系统规划主要矛盾分析",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#在系统规划与管理中的应用",
+    "tags": [
+      "系统规划主要矛盾分析",
+      "在系统规划与管理中",
+      "在系统规划与管理中的应用"
+    ]
+  },
+  {
+    "id": "ch03_q035",
+    "question": "系统论中，系统的相似性最根本原因在于？",
+    "options": [
+      "A. 人类的认知共性",
+      "B. 世界的物质统一性",
+      "C. 数学规律的普遍性",
+      "D. 物理定律的一致性"
+    ],
+    "answer": "B",
+    "explanation": "系统具有相似性，最根本原因在于世界的物质统一性。系统的相似性不仅仅是指系统存在方式的相似性，也指系统演化方式的相似性。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "系统论",
+    "knowledge_point": "系统论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#系统论",
+    "tags": [
+      "系统论"
+    ]
+  },
+  {
+    "id": "ch03_q036",
+    "question": "信息论中，将符号转换成为信道所要求的信号的过程称为？",
+    "options": [
+      "A. 信源编码",
+      "B. 信道编码",
+      "C. 译码",
+      "D. 调制"
+    ],
+    "answer": "B",
+    "explanation": "编码分为信源编码和信道编码。用符号来表达消息称为信源编码；将符号转换成为信道所要求的信号称为信道编码。译码是编码的逆过程。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息论",
+    "knowledge_point": "信息论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#信息论",
+    "tags": [
+      "信息论"
+    ]
+  },
+  {
+    "id": "ch03_q037",
+    "question": "以下关于信息共享性的描述，正确的是？",
+    "options": [
+      "A. 信息的共享是绝对的，没有任何限制",
+      "B. 信息的共享是有条件的，例如专利技术不能随便分享",
+      "C. 信息不能被多人同时使用",
+      "D. 信息共享会导致信息丢失"
+    ],
+    "answer": "B",
+    "explanation": "信息的共享并不是绝对的，而是有条件的。例如，如果是专利技术，就不能随便分享，必须在一定的规则下使用。信息可以被多人同时使用而不丢失。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "信息共享性的",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "信息共享性的",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q038",
+    "question": "网络化控制系统的特点不包括以下哪项？",
+    "options": [
+      "A. 网络传输不会产生时延",
+      "B. 控制品质受到网络调度算法的影响",
+      "C. 数据采集与控制作用不能确保是等周期的",
+      "D. 可能出现数据包丢失的现象"
+    ],
+    "answer": "A",
+    "explanation": "网络化控制系统中，控制系统中的传感器、控制器和执行器通过网络传输信息，必然会导致网络的传导时延，不但会降低系统性能，还会导致系统的不稳定。C选项说不会产生时延是不正确的。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "矛盾论",
+    "knowledge_point": "网络化控制系统的特点",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "网络化控制系统的特点",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q039",
+    "question": "协同论中，慢变量在接近临界点时的行为特征是？",
+    "options": [
+      "A. 迅速衰减",
+      "B. 缓慢增长",
+      "C. 保持不变",
+      "D. 随机波动"
+    ],
+    "answer": "B",
+    "explanation": "慢变量在接近临界点时不是迅速衰减而是缓慢增长，代表不稳定模。快变量由于阻尼很大，以指数形式迅速衰减，弛豫时间很短，代表系统的稳定模。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "协同论",
+    "knowledge_point": "协同论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#协同论",
+    "tags": [
+      "协同论"
+    ]
+  },
+  {
+    "id": "ch03_q040",
+    "question": "系统突变性原理中，系统突变有两个层次，以下哪项不是其中之一？",
+    "options": [
+      "A. 环境层次的突变",
+      "B. 系统层次的突变",
+      "C. 系统要素层次的突变",
+      "D. 以上都不是"
+    ],
+    "answer": "A",
+    "explanation": "系统的突变有两个层次：一层是在系统要素层次的突变（如基因突变），另一层是在系统层次的突变（系统整体的变化造成系统层级的突变）。环境层次的突变不是系统突变的层次。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "系统突变性原理中",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "系统突变性原理中",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q041",
+    "question": "《矛盾论》中，矛盾普遍性的两种含义是？",
+    "options": [
+      "A. 矛盾存在于一切过程中；矛盾存在于每一事物过程始终",
+      "B. 矛盾是特殊的；矛盾是相对的",
+      "C. 矛盾是对立的；矛盾是统一的",
+      "D. 矛盾是客观的；矛盾是主观的"
+    ],
+    "answer": "A",
+    "explanation": "矛盾普遍性的两种含义：①矛盾是普遍存在的，矛盾存在于一切过程中；②矛盾存在于每一事物过程始终。任何差异都是矛盾，差异往往是指矛盾的初始阶段。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "矛盾论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q042",
+    "question": "迭代式开发模式符合矛盾论中的哪个指导方针？",
+    "options": [
+      "A. 抓住主要矛盾和矛盾的主要方面",
+      "B. 矛盾的特殊性",
+      "C. 矛盾的普遍性",
+      "D. 矛盾的同一性"
+    ],
+    "answer": "A",
+    "explanation": "迭代式开发模式理论上完全符合抓住主要矛盾和矛盾的主要方面这个指导方针。迭代开发首先设计最小原型，就是要抓住系统的核心，首先考虑解决系统的主要问题。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "矛盾论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q043",
+    "question": "协同论研究的核心问题是？",
+    "options": [
+      "A. 系统如何从有序变为无序",
+      "B. 系统如何从无序变为有序",
+      "C. 系统如何保持平衡",
+      "D. 系统如何消除矛盾"
+    ],
+    "answer": "B",
+    "explanation": "协同论主要研究远离平衡态的开放系统在与外界有物质或能量交换的情况下，如何通过自己内部协同作用，自发地出现时间、空间和功能上的有序结构。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "协同论",
+    "knowledge_point": "协同论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#协同论",
+    "tags": [
+      "协同论"
+    ]
+  },
+  {
+    "id": "ch03_q044",
+    "question": "以下关于系统开放性原理的描述，不正确的是？",
+    "options": [
+      "A. 封闭系统可以与外界进行充分的物质和能量交换",
+      "B. 系统向高层次开放使得系统可以与环境发生相互作用",
+      "C. 系统向环境开放是系统得以向上发展的前提",
+      "D. 系统向低层次开放使得系统内部可能发生多层次的协同作用"
+    ],
+    "answer": "A",
+    "explanation": "封闭系统与外界不进行物质交换（或只有少量交换），不能进行充分的物质和能量交换。系统的开放性原理强调系统具有不断地与外界环境进行物质、能量、信息交换的性质和功能。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "矛盾论",
+    "knowledge_point": "系统开放性原理的",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#矛盾论",
+    "tags": [
+      "系统开放性原理的",
+      "矛盾论"
+    ]
+  },
+  {
+    "id": "ch03_q045",
+    "question": "信息论方法的两个主要特点中，以下哪项描述是正确的？",
+    "options": [
+      "A. 需要对事物的整体结构进行剖析性分析",
+      "B. 完全撇开对象的具体运动形态，把系统的运动过程抽象为信息过程",
+      "C. 是为了说明客观对象本身",
+      "D. 必须打开机器或活体来研究系统"
+    ],
+    "answer": "B",
+    "explanation": "信息论方法的两个主要特点：①完全撇开对象的具体运动形态，把系统的运动过程抽象为信息过程，在不考虑系统内具体物质形态的条件下研究系统；②不是为了说明客观对象，而是为了说明客观对象的过程。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息论",
+    "knowledge_point": "信息论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#信息论",
+    "tags": [
+      "信息论"
+    ]
+  },
+  {
+    "id": "ch03_q046",
+    "question": "钱学森于1954年出版的关于控制论的著作是？",
+    "options": [
+      "A. 《系统工程论》",
+      "B. 《工程控制论》",
+      "C. 《信息论基础》",
+      "D. 《复杂系统理论》"
+    ],
+    "answer": "B",
+    "explanation": "钱学森于1954年在美国出版的《工程控制论》是控制论领域最具权威性的学术著作之一，有着非常广泛的影响。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息论",
+    "knowledge_point": "控制论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#信息论",
+    "tags": [
+      "控制论",
+      "信息论"
+    ]
+  },
+  {
+    "id": "ch03_q047",
+    "question": "耗散结构理论中，涨落的作用是？",
+    "options": [
+      "A. 系统稳定的保障",
+      "B. 系统形成耗散结构的触发器",
+      "C. 系统无序化的根源",
+      "D. 系统平衡的维持者"
+    ],
+    "answer": "B",
+    "explanation": "涨落是指微小偏差的发生，是系统形成耗散结构的触发器。涨落的发生是随机的、不可预测的，只有当涨落出现在远离平衡态的区域中时，才能起到触发器的作用。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "耗散结构理论",
+    "knowledge_point": "耗散结构",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#耗散结构理论",
+    "tags": [
+      "耗散结构",
+      "耗散结构理论"
+    ]
+  },
+  {
+    "id": "ch03_q048",
+    "question": "在协同论中，以下哪项不是自组织系统在信息系统中的表现？",
+    "options": [
+      "A. 自适应能力",
+      "B. 自我修复能力",
+      "C. 自我进化能力",
+      "D. 完全自主决策能力"
+    ],
+    "answer": "D",
+    "explanation": "自组织系统在信息系统中的表现包括自适应能力、自我修复能力和自我进化能力。完全自主决策能力不是文中提到的自组织系统的表现。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "协同论",
+    "knowledge_point": "协同论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#协同论",
+    "tags": [
+      "协同论"
+    ]
+  },
+  {
+    "id": "ch03_q049",
+    "question": "系统论中，三脑理论将人的大脑分为三个层次，最外层的新皮层主要与什么相联系？",
+    "options": [
+      "A. 理智和智慧",
+      "B. 感情和情绪",
+      "C. 机体的生理活动",
+      "D. 本能反应"
+    ],
+    "answer": "A",
+    "explanation": "最外层的新皮层与理智和智慧相联系，调节着认识、学习、意志、抽象、预见等高级的反映意识活动。最内层的原始脑涉及生理活动，次内层的边缘系统涉及感情和情绪。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统论",
+    "knowledge_point": "系统论",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#系统论",
+    "tags": [
+      "系统论"
+    ]
+  },
+  {
+    "id": "ch03_q050",
+    "question": "以下关于\"老三论\"和\"新三论\"的描述，正确的是？",
+    "options": [
+      "A. \"老三论\"是系统论、控制论和信息论",
+      "B. \"新三论\"包括耗散结构论、控制论和突变论",
+      "C. \"老三论\"包括系统论、协同论和信息论",
+      "D. \"新三论\"是系统论、耗散结构论和协同论"
+    ],
+    "answer": "A",
+    "explanation": "\"老三论\"是系统论、控制论和信息论（SCI论）。\"新三论\"是耗散结构论、协同论和突变论。A选项将协同论误列入老三论，B选项将控制论误列入新三论，D选项将系统论误列入新三论。",
+    "chapter": "第3章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统论",
+    "knowledge_point": "耗散结构",
+    "source_ref": "references/第3章_系统科学与哲学方法论.md#系统论",
+    "tags": [
+      "耗散结构",
+      "系统论",
+      "控制论",
+      "信息论",
+      "协同论"
+    ]
+  },
+  {
+    "id": "ch03_q051",
+    "question": "通过闭合负反馈环路，可以使系统不具备以下哪种特征（ ）。",
+    "options": [
+      "A. 稳定性",
+      "B. 鲁棒性",
+      "C. 抗干扰能力",
+      "D. 发散性"
+    ],
+    "answer": "D",
+    "explanation": "3.5.1 节中提到“通过闭合负反馈环路，可以获得几个重要的特征使系统达到稳 定(最重要的特征);可以使系统具有鲁棒性……可以使系统具有抗干扰能力”，未提及 发散性。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0170"
+  },
+  {
+    "id": "ch03_q052",
+    "question": "网络化控制系统是（ ）相结合的产物。",
+    "options": [
+      "A. 通信网络和控制系统",
+      "B. 计算机技术和通信技术",
+      "C. 自动化技术和计算机技术",
+      "D. 管理技术和控制技术"
+    ],
+    "answer": "A",
+    "explanation": "“ 网络化控制系统(Networked Control System,NCS) 是一种分布式的实时反馈 控制系统，通过数字网络实现控制功能，控制器、传感器，执行器是同等的网络节点， 它们均共享相同的网络”，表明它是通信网络和控制系统相结合的产物，在3.5.2 控 制论在系统规划与管理中的应用部分。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0057"
+  },
+  {
+    "id": "ch03_q053",
+    "question": "信息具有传递性，下列示例不能说明这一特性的是（ ）。",
+    "options": [
+      "A. 烽火戏诸侯",
+      "B. 飞鸽传书",
+      "C. 网络视频连线",
+      "D. 专利技术分享受限"
+    ],
+    "answer": "D",
+    "explanation": "3.4.1 节中，烽火戏诸侯、飞鸽传书、网络视频连线体现信息传递性，专利技术 分享受限体现信息共享的条件性，非传递性。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0140"
+  },
+  {
+    "id": "ch03_q054",
+    "question": "复杂系统论强调在系统规划与管理中采用非线性思维，是因为( )",
+    "options": [
+      "A. 复杂系统组成部分间相互作用呈非线性关系",
+      "B. 线性思维过于简单",
+      "C. 非线性思维更具创新性",
+      "D. 非线性思维是新的研究热点"
+    ],
+    "answer": "A",
+    "explanation": "“复杂系统中的各个组成部分之间相互作用，往往呈现出非线性的关系。在系统 规划与管理中，应该采用非线性思维，分析系统中存在的各种反馈机制和相互作用，以 便更好地理解和预测系统的行为”，在3.9.2 复杂系统论在系统规划与管理中的应用 部分。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0098"
+  },
+  {
+    "id": "ch03_q055",
+    "question": "信息论中，信宿是（ ）。",
+    "options": [
+      "A. 消息的载体",
+      "B. 信息的量度",
+      "C. 消息的来源",
+      "D. 信息的接收者"
+    ],
+    "answer": "D",
+    "explanation": "3.4.1 节中提到“信宿是信息的接收者，它能够接收消息并使消息再现”。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0134"
+  },
+  {
+    "id": "ch03_q056",
+    "question": "计算机集成制造系统是综合自动化系统在（ ）的重要成果。",
+    "options": [
+      "A. 离散型工业",
+      "B. 连续型工业",
+      "C. 服务业",
+      "D. 农业"
+    ],
+    "answer": "A",
+    "explanation": "“在离散型工业中，综合自动化的一个重要成果是计算机集成制造系统(Computer Integrated Manufacturing System,CIMS)”，在3.5.2 控制论在系统规划与管理中 的应用部分。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0055"
+  },
+  {
+    "id": "ch03_q057",
+    "question": "在系统稳定性分析领域，突变论的相关思想被用于（ ）。",
+    "options": [
+      "A. 探讨奇点预测系统在不同条件下的行为和变化趋势",
+      "B. 增加系统的不稳定性",
+      "C. 忽略系统的变化规律",
+      "D. 简化系统结构"
+    ],
+    "answer": "A",
+    "explanation": "3.8.2 节中提到“系统规划人员通过数学模型来探讨奇点预测系统在不同条件下 的行为和变化趋势，了解系统的特性和变化规律，从而更好地控制系统的变化，为系统 规划提供稳定性分析的依据” 。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0202"
+  },
+  {
+    "id": "ch03_q058",
+    "question": "在系统需求分析中，因为信息的（ ），所以需要进行权限管理。",
+    "options": [
+      "A. 共享性和真伪性",
+      "B. 价值相对性",
+      "C. 依附性和可处理性",
+      "D. 时效性"
+    ],
+    "answer": "A",
+    "explanation": "“ 以系统需求分析为例，由于认识到信息具有的共享性和真伪性，所以需要专门 处理数据安全并进行权限管理”，在3.4.2 信息论在系统规划与管理中的应用部分。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0044"
+  },
+  {
+    "id": "ch03_q059",
+    "question": "在信息系统规划中，协同论可以帮助（ ）。",
+    "options": [
+      "A. 优化各要素之间的协作关系，提高信息系统整体性能",
+      "B. 增加系统的复杂性",
+      "C. 降低系统的稳定性",
+      "D. 减少系统的功能"
+    ],
+    "answer": "A",
+    "explanation": "3.7.2 节中提到“在信息系统规划中，协同论的应用可以帮助人们更好地理解和 分析信息系统的各个组成部分，优化各要素之间的协作关系，从而提高信息系统的整体 性能” 。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0197"
+  },
+  {
+    "id": "ch03_q060",
+    "question": "信息的特性不包括( )",
+    "options": [
+      "A. 不可传递性",
+      "B. 共享性",
+      "C. 依附性",
+      "D. 时效性"
+    ],
+    "answer": "A",
+    "explanation": "信息具有传递性、共享性、依附性和可处理性、价值相对性、时效性、真伪性等 特性，不包括不可传递性，在3.4.1 信息论主要思想部分。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0037"
+  },
+  {
+    "id": "ch03_q061",
+    "question": "信息的特性不包括（ ）。",
+    "options": [
+      "A. 不可传递性",
+      "B. 共享性",
+      "C. 依附性和可处理性",
+      "D. 价值相对性"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节中提到信息具有传递性、共享性、依附性和可处理性、价值相对性、时 效性、真伪性等特性，未提及不可传递性。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0139"
+  },
+  {
+    "id": "ch03_q062",
+    "question": "中国古老的造纸术，随着技术的进步其价值不再是生产技术而是历史记忆，这体现 了信息的（ ）。",
+    "options": [
+      "A. 价值相对性",
+      "B. 时效性",
+      "C. 共享性",
+      "D. 依附性"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节中提到“信息是否有价值因人而异、因时而异，其是相对的。例如，中 国古老的造纸术，随着技术的进步已经成为文化遗产，它的价值不再是生产的技术而是 历史的记忆”。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0144"
+  },
+  {
+    "id": "ch03_q063",
+    "question": "信息论的方法是通过对（ ）的考察，达到对复杂系统运动过程规律性认识。",
+    "options": [
+      "A. 信息流程",
+      "B. 系统结构",
+      "C. 系统功能",
+      "D. 系统组成"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节中提到“信息论的方法是普适的，它是指通过对信息的观察来考察系统 的行为结构和功能，通过对信息的获取、传递、存储、加工过程的分析，达到对某个复 杂系统运动过程的规律性认识”。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0147"
+  },
+  {
+    "id": "ch03_q064",
+    "question": "道路是否可以通行的信息在按照一定时间间隔变化，且仅对当时时间段有效，这体 现了信息的（ ）。",
+    "options": [
+      "A. 时效性",
+      "B. 真伪性",
+      "C. 共享性",
+      "D. 传递性"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节中提到“还以红绿灯为例，道路是否可以通行的信息在按照一定的时间 间隔而发生变化，且仅对当时那个时间段有效，一旦时间过去，信息就不再有效了”。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0145"
+  },
+  {
+    "id": "ch03_q065",
+    "question": "计算机集成制造系统是综合自动化在（ ）中的重要成果。",
+    "options": [
+      "A. 离散型工业",
+      "B. 连续型工业",
+      "C. 服务业",
+      "D. 农业"
+    ],
+    "answer": "A",
+    "explanation": "3.5.2 节中提到“在离散型工业中，综合自动化的一个重要成果是计算机集成制 造系统(Computer Integrated Manufacturing System,CIMS) ”。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0173"
+  },
+  {
+    "id": "ch03_q066",
+    "question": "系统开放性原理中，系统向环境开放是( )",
+    "options": [
+      "A. 系统稳定存在的条件",
+      "B. 系统发展的阻碍",
+      "C. 可有可无的",
+      "D. 只对大型系统有意义"
+    ],
+    "answer": "A",
+    "explanation": "“系统具有不断地与外界环境进行物质、能量、信息交换的性质和功能，系统向 环境开放是系统得以向上发展的前提，也是系统得以稳定存在的条件”，在3.3.1 系 统论主要思想中系统开放性原理部分。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0024"
+  },
+  {
+    "id": "ch03_q067",
+    "question": "系统开放性原理中，系统向环境开放是（ ）。",
+    "options": [
+      "A. 系统得以向上发展的前提，也是系统得以稳定存在的条件",
+      "B. 系统发展的阻碍",
+      "C. 无关紧要的因素",
+      "D. 系统退化的原因"
+    ],
+    "answer": "A",
+    "explanation": "3.3.1 节中提到“系统的开放性原理指的是，系统具有不断地与外界环境进行物 质、能量、信息交换的性质和功能，系统向环境开放是系统得以向上发展的前提，也是 系统得以稳定存在的条件”。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0119"
+  },
+  {
+    "id": "ch03_q068",
+    "question": "信息论的方法是通过对（ ）的考察来认识复杂系统。",
+    "options": [
+      "A. 信息流程",
+      "B. 系统结构",
+      "C. 系统功能",
+      "D. 系统组成"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节提到“信息论的方法是普适的，它是指通过对信息的观察来考察系统的 行为结构和功能……达到对某个复杂系统运动过程的规律性认识”，强调对信息流程的 考察，A 选项正确。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0235"
+  },
+  {
+    "id": "ch03_q069",
+    "question": "道路通行信息按时间变化，仅在特定时间段有效，体现了信息的（ ）。",
+    "options": [
+      "A. 时效性",
+      "B. 真伪性",
+      "C. 共享性",
+      "D. 传递性"
+    ],
+    "answer": "A",
+    "explanation": "3.4.1 节提到“还以红绿灯为例，道路是否可以通行的信息在按照一定的时间间 隔而发生变化，且仅对当时那个时间段有效…… ”，体现了信息的时效性，A 选项正 确。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0234"
+  },
+  {
+    "id": "ch03_q070",
+    "question": "系统目的性原理中，系统发展变化不受或少受条件变化影响，坚持表现出某种趋向 预先确定状态的特性，这与系统的（ ）相联系。",
+    "options": [
+      "A. 开放性",
+      "B. 稳定性",
+      "C. 层次性",
+      "D. 自组织性"
+    ],
+    "answer": "A",
+    "explanation": "3.3.1 节中提到“系统的目的性，在系统的发展变化之中表现出来，是与系统的 开放性相联系的”。",
+    "chapter": "第3章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "系统科学与哲学方法论",
+    "knowledge_point": "系统科学与哲学方法论",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第3章",
+    "tags": [
+      "系统科学与哲学方法论",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch03_0120"
+  }
+]

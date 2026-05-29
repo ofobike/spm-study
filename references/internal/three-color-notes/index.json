@@ -1,0 +1,270 @@
+{
+  "category": "notes",
+  "name": "三色笔记",
+  "items": [
+    {
+      "chapter": 1,
+      "chapter_title": "信息系统与信息技术发展",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第1章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第1章.pdf",
+      "source_type": ".pdf",
+      "page_count": 45,
+      "size_bytes": 28543187,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第1章.md",
+      "asset": null
+    },
+    {
+      "chapter": 2,
+      "chapter_title": "数字中国与数智化发展",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第2章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第2章.pdf",
+      "source_type": ".pdf",
+      "page_count": 27,
+      "size_bytes": 19033864,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第2章.md",
+      "asset": null
+    },
+    {
+      "chapter": 3,
+      "chapter_title": "系统科学与哲学方法论",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第3章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第3章.pdf",
+      "source_type": ".pdf",
+      "page_count": 25,
+      "size_bytes": 14251182,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第3章.md",
+      "asset": null
+    },
+    {
+      "chapter": 4,
+      "chapter_title": "信息系统规划",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第4章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第4章【耗时整理‖免费分享：CUNlove.CN】.pdf",
+      "source_type": ".pdf",
+      "page_count": 38,
+      "size_bytes": 27531185,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第4章.md",
+      "asset": null
+    },
+    {
+      "chapter": 5,
+      "chapter_title": "应用系统规划",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第5章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第5章【手动整理‖免费开放：cunlove.cn】.pdf",
+      "source_type": ".pdf",
+      "page_count": 51,
+      "size_bytes": 30563075,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第5章.md",
+      "asset": null
+    },
+    {
+      "chapter": 6,
+      "chapter_title": "云资源规划",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第6章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第6章【耗时整理‖免费分享：CuNlOve.cn】.pdf",
+      "source_type": ".pdf",
+      "page_count": 23,
+      "size_bytes": 12629614,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第6章.md",
+      "asset": null
+    },
+    {
+      "chapter": 7,
+      "chapter_title": "网络环境规划",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第7章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第7章.pdf",
+      "source_type": ".pdf",
+      "page_count": 28,
+      "size_bytes": 17980029,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第7章.md",
+      "asset": null
+    },
+    {
+      "chapter": 8,
+      "chapter_title": "数据资源规划",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第8章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第8章【不易整理‖请关注：CunWorkNotes】.pdf",
+      "source_type": ".pdf",
+      "page_count": 37,
+      "size_bytes": 22862286,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第8章.md",
+      "asset": null
+    },
+    {
+      "chapter": 9,
+      "chapter_title": "信息安全规划",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第9章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第9章【持续更新‖免费提供：cunlove.cn】.pdf",
+      "source_type": ".pdf",
+      "page_count": 23,
+      "size_bytes": 13688575,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第9章.md",
+      "asset": null
+    },
+    {
+      "chapter": 10,
+      "chapter_title": "云原生系统规划",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第10章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第10章.pdf",
+      "source_type": ".pdf",
+      "page_count": 21,
+      "size_bytes": 12334748,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第10章.md",
+      "asset": null
+    },
+    {
+      "chapter": 11,
+      "chapter_title": "信息系统治理",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第11章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第11章【花费时间‖免费开放：cunlove.cn】.pdf",
+      "source_type": ".pdf",
+      "page_count": 26,
+      "size_bytes": 19890688,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第11章.md",
+      "asset": null
+    },
+    {
+      "chapter": 12,
+      "chapter_title": "信息系统服务管理",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第12章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第12章.pdf",
+      "source_type": ".pdf",
+      "page_count": 45,
+      "size_bytes": 23024581,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第12章.md",
+      "asset": null
+    },
+    {
+      "chapter": 13,
+      "chapter_title": "人员管理",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第13章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第13章.pdf",
+      "source_type": ".pdf",
+      "page_count": 34,
+      "size_bytes": 20817645,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第13章.md",
+      "asset": null
+    },
+    {
+      "chapter": 14,
+      "chapter_title": "规范与过程管理",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第14章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第14章.pdf",
+      "source_type": ".pdf",
+      "page_count": 17,
+      "size_bytes": 10675720,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第14章.md",
+      "asset": null
+    },
+    {
+      "chapter": 15,
+      "chapter_title": "技术与研发管理",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第15章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第15章.pdf",
+      "source_type": ".pdf",
+      "page_count": 18,
+      "size_bytes": 9261822,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第15章.md",
+      "asset": null
+    },
+    {
+      "chapter": 16,
+      "chapter_title": "资源与工具管理",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第16章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第16章.pdf",
+      "source_type": ".pdf",
+      "page_count": 25,
+      "size_bytes": 16716275,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第16章.md",
+      "asset": null
+    },
+    {
+      "chapter": 17,
+      "chapter_title": "信息系统项目管理",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第17章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第17章.pdf",
+      "source_type": ".pdf",
+      "page_count": 43,
+      "size_bytes": 26457448,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第17章.md",
+      "asset": null
+    },
+    {
+      "chapter": 18,
+      "chapter_title": "智慧城市发展规划",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第18章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第18章.pdf",
+      "source_type": ".pdf",
+      "page_count": 39,
+      "size_bytes": 33457307,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第18章.md",
+      "asset": null
+    },
+    {
+      "chapter": 19,
+      "chapter_title": "智慧园区发展规划",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第19章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第19章.pdf",
+      "source_type": ".pdf",
+      "page_count": 36,
+      "size_bytes": 27421601,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第19章.md",
+      "asset": null
+    },
+    {
+      "chapter": 20,
+      "chapter_title": "数字乡村发展规划",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第20章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第20章.pdf",
+      "source_type": ".pdf",
+      "page_count": 38,
+      "size_bytes": 27376298,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第20章.md",
+      "asset": null
+    },
+    {
+      "chapter": 21,
+      "chapter_title": "企业数字化转型发展规划",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第21章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第21章.pdf",
+      "source_type": ".pdf",
+      "page_count": 41,
+      "size_bytes": 32773467,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第21章.md",
+      "asset": null
+    },
+    {
+      "chapter": 22,
+      "chapter_title": "智能制造发展规划",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第22章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第22章【耗时整理‖免费分享：CuNlOVE.cn】.pdf",
+      "source_type": ".pdf",
+      "page_count": 31,
+      "size_bytes": 19478795,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第22章.md",
+      "asset": null
+    },
+    {
+      "chapter": 23,
+      "chapter_title": "新型消费系统规划",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第23章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第23章【耗时整理‖免费分享：CUNLOvE.CN】.pdf",
+      "source_type": ".pdf",
+      "page_count": 29,
+      "size_bytes": 18366555,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第23章.md",
+      "asset": null
+    },
+    {
+      "chapter": 24,
+      "chapter_title": "法律法规和标准规范",
+      "title": "《系统规划与管理师教程》第2版-三色笔记-第24章",
+      "source": "03.2025系规三色笔记（第2版）\\《系统规划与管理师教程》第2版-三色笔记-第24章.pdf",
+      "source_type": ".pdf",
+      "page_count": 35,
+      "size_bytes": 19777035,
+      "markdown": "references\\internal\\three-color-notes\\《系统规划与管理师教程》第2版-三色笔记-第24章.md",
+      "asset": null
+    }
+  ]
+}

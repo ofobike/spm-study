@@ -1,0 +1,32 @@
+{
+  "exam_name": "系统规划与管理师 模拟考试",
+  "subjects": [
+    {
+      "name": "综合知识",
+      "type": "single_choice",
+      "total_questions": 75,
+      "time_minutes": 150,
+      "pass_score": 45,
+      "distribution": [
+        {"chapters": [1, 2, 3], "questions_each": 3, "subtotal": 9},
+        {"chapters": [4, 5, 6, 7, 8, 9, 10], "questions_each": 3, "subtotal": 21},
+        {"chapters": [11, 12, 13, 14, 15, 16, 17], "questions_each": 3, "subtotal": 21},
+        {"chapters": [18, 19, 20, 21, 22, 23], "questions_each": 3, "subtotal": 18},
+        {"chapters": [24], "questions_each": 6, "subtotal": 6}
+      ],
+      "difficulty_distribution": {
+        "easy": 0.3,
+        "medium": 0.5,
+        "hard": 0.2
+      }
+    },
+    {
+      "name": "案例分析",
+      "type": "case_study",
+      "total_cases": 3,
+      "time_minutes": 90,
+      "pass_score": 45,
+      "source_file": "case_studies.json"
+    }
+  ]
+}

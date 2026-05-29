@@ -1,0 +1,6248 @@
+[
+  {
+    "id": "internal_qt_ch12_0001",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务管理面临诸多新挑战，其中不包括（ ）。",
+    "options": [
+      "A. 技术架构日趋复杂",
+      "B. 管理规模日渐增大",
+      "C. 业务需求稳定不变",
+      "D. 业务需求快速迭代"
+    ],
+    "answer": "C",
+    "explanation": "根据文章内容“随着5G、人工智能、物联网、大数据等代表性的新一代信息技术 的不断涌现，信息系统服务管理面临技术架构日趋复杂、管理规模日渐增大、业务需求 快速迭代等新挑战”可知，业务需求是快速迭代的，并非稳定不变，C 选项符合题意。 答 案选C。出自第12 章引言部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0002",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务战略规划的主要目的是（ ）。",
+    "options": [
+      "A. 识别客户的服务需求并形成服务级别协议",
+      "B. 提高服务人员的技术水平",
+      "C. 增加服务的种类",
+      "D. 降低服务成本"
+    ],
+    "answer": "A",
+    "explanation": "文中提到“服务战略规划可以帮助信息系统服务供方识别客户的服务需求，并对 其进行全面分析，最终形成服务级别协议(SLA) ”，A 选项正确。答案选A。出自12.1 服务战略规划部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0003",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务目录管理过程中，成立管理小组的成员至少应包括（ ）。",
+    "options": [
+      "A. 市场销售人员、系统规划与管理人员、信息系统服务工程师",
+      "B. 市场销售人员、技术支持人员、操作岗人员",
+      "C. 系统规划与管理人员、质量经理、信息系统服务工程师",
+      "D. 市场销售人员、系统规划与管理人员、质量经理"
+    ],
+    "answer": "A",
+    "explanation": "“服务目录管理小组成员至少应包括市场销售人员、系统规划与管理人员、信息 系统服务工程师，以确保在制、修订服务目录时的视角是全面的”，A 选项符合要求。 答案选A。出自12.1.2 服务目录管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0004",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务目录管理活动中，服务目录在通过（ ）后，可正式发布。",
+    "options": [
+      "A. 外部评审",
+      "B. 内部评审",
+      "C. 客户评审",
+      "D. 第三方评审"
+    ],
+    "answer": "B",
+    "explanation": "“服务目录在通过内部评审后，就可正式发布，作为供方服务交付和服务管理的 基准”，明确指出是内部评审，B 选项正确。答案选B。出自12.1.2 服务目录管理 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0005",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "客户对信息系统服务的需求一般不包括（ ）。",
+    "options": [
+      "A. 可用性需求",
+      "B. 美观性需求",
+      "C. 服务能力需求",
+      "D. 信息安全需求"
+    ],
+    "answer": "B",
+    "explanation": "“客户对信息系统服务的需求一般可划分为可用性需求、连续性需求、服务能力 需求、信息安全需求、价格需求及服务报告需求”，未提及美观性需求，B 选项符合 题意。答案选B。出自12.1.3 服务需求识别部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0006",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在可用性需求识别过程中，平均无故障时间（MTBF）的计算公式是（ ）。",
+    "options": [
+      "A. 平均无故障时间=系统运行时间/系统在运行时间的故障次数",
+      "B. 平均无故障时间=系统故障耗时/故障次数",
+      "C. 平均无故障时间=平均故障修复时间+平均故障间隔",
+      "D. 平均无故障时间=系统运行时间×系统在运行时间的故障次数"
+    ],
+    "answer": "A",
+    "explanation": "“平均无故障时间=系统运行时间/系统在运行时间的故障次数”，A 选项正确。 答案选A。出自12.1.3 服务需求识别部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0007",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "进行连续性需求识别时，通过（ ）来确定可能造成信息系统中断的潜在威胁。",
+    "options": [
+      "A. 风险评估",
+      "B. 漏洞扫描",
+      "C. 性能测试",
+      "D. 安全审计"
+    ],
+    "answer": "A",
+    "explanation": "“在进行连续性需求识别时，可以通过风险评估来确定可能造成信息系统中断的 潜在威胁”，A 选项正确。答案选A。出自12.1.3 服务需求识别部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0008",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务能力是指（ ）。",
+    "options": [
+      "A. 以最及时、最有效的方式满足客户当前及未来的服务级别需求的能力",
+      "B. 服务供方具备的技术能力",
+      "C. 服务人员的业务能力",
+      "D. 服务团队的协作能力"
+    ],
+    "answer": "A",
+    "explanation": "“服务能力是指以最及时、最有效的方式满足客户当前及未来的服务级别需求的 能力”，A 选项符合定义。答案选A。出自12.1.3 服务需求识别部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0009",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息安全需求主要包括机密性、完整性和（ ）。",
+    "options": [
+      "A. 可靠性",
+      "B. 可用性",
+      "C. 稳定性",
+      "D. 可扩展性"
+    ],
+    "answer": "B",
+    "explanation": "“通常来看，信息安全需求主要包括如下三方面：机密性(或保密性)、完整性、 可用性”，B 选项正确。答案选B。出自12.1.3 服务需求识别部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0010",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务级别设计的结果在确认后通常会形成（ ）。",
+    "options": [
+      "A. 运营级别协议",
+      "B. 支持合同",
+      "C. 服务级别协议",
+      "D. 服务目录"
+    ],
+    "answer": "C",
+    "explanation": "“服务级别设计的结果在确认后通常会形成服务级别协议”，C 选项正确。答案 选C。出自12.1.4 服务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0011",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "一个完整的服务级别协议（SLA）不包括（ ）。",
+    "options": [
+      "A. 涉及的当事人",
+      "B. 协定条款",
+      "C. 违约的处罚",
+      "D. 服务团队成员名单"
+    ],
+    "answer": "D",
+    "explanation": "“一个完整的SLA 也是一个合法的文档，包括涉及的当事人、协定条款(包含 应 用程序和支持的服务)、违约的处罚、费用和仲裁机构、政策、修改条款、报告形式和 双 方的义务等”，未提及服务团队成员名单，D 选项符合题意。答案选D。出自12.1.4 服务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0012",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "运营级别协议（OLA）是与（ ）就某项信息系统服务所签订的后台协议。",
+    "options": [
+      "A. 外部信息服务部门",
+      "B. 内部信息服务部门",
+      "C. 客户",
+      "D. 供应商"
+    ],
+    "answer": "B",
+    "explanation": "“运营级别协议(Operational Level Agreement,OLA)是与某个内部信息服务 部 门就某项信息系统服务所签订的后台协议”，B 选项正确。答案选B。出自12.1.4 服 务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0013",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "支持合同（UC）主要由（ ）的内容加上法律条文中的责任、权利和义务构成。",
+    "options": [
+      "A. 服务目录",
+      "B. 服务级别协议",
+      "C. 运营级别协议",
+      "D. 服务需求"
+    ],
+    "answer": "B",
+    "explanation": "“从内容上看，UC 主要由SLA 的内容加上法律条文中的责任、权利和义务构成”， B 选项正确。答案选B。出自12.1.4 服务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0014",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务设计实现的目的是（ ）。",
+    "options": [
+      "A. 构建符合服务设计要求的资源、计划、方案",
+      "B. 设计服务模式",
+      "C. 管理服务过程",
+      "D. 兑现对客户的服务承诺"
+    ],
+    "answer": "D",
+    "explanation": "“服务设计实现是以兑现对客户的服务承诺为目的，对信息系统服务进行整体设 计”，D 选项正确。答案选D。出自12.2 服务设计实现部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0015",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "常见的信息系统服务模式一般分为（ ）。",
+    "options": [
+      "A. 远程服务和现场服务",
+      "B. 基础服务和增值服务",
+      "C. 硬件服务和软件服务",
+      "D. 技术服务和管理服务"
+    ],
+    "answer": "A",
+    "explanation": "信息系统服务模式通常根据服务提供的方式和特点进行分类。常见的分类包括 远程服务和现场服务，其中远程服务通过远程技术提供支持，现场服务则需要服务人员 到现场进行支持。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0016",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "远程服务的方式包括（ ）。",
+    "options": [
+      "A. 远程集中监控和远程技术支持",
+      "B. 上门技术支持和驻场技术支持",
+      "C. 远程集中监控和上门技术支持",
+      "D. 远程技术支持和驻场技术支持"
+    ],
+    "answer": "A",
+    "explanation": "“远程服务的方式包括远程集中监控和远程技术支持”，A 选项正确。答案选A。 出自12.2.1 服务模式设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0017",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在信息系统服务模式的设计过程中，不需要考虑的是（ ）。",
+    "options": [
+      "A. 选择的服务模式与客户可用性、连续性、安全性等方面的服务需求相一致",
+      "B. 服务供方的人员和资源配置与所设计的服务模式相匹配",
+      "C. 服务供方具备同时提供多种服务模式的能力",
+      "D. 服务模式的创新性"
+    ],
+    "answer": "D",
+    "explanation": "在信息系统服务模式设计时需考虑A、B、C 选项内容，文中未提及服务模式的创 新性，D 选项符合题意。答案选D。出自12.2.1 服务模式设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0018",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务供方要根据客户的需求或潜在需求适当地配置服务人员，人员要素设计过程中 不包括（ ）。",
+    "options": [
+      "A. 人员岗位和职责设计",
+      "B. 人员绩效方案设计",
+      "C. 人员薪酬方案设计",
+      "D. 人员培训方案设计"
+    ],
+    "answer": "C",
+    "explanation": "人员要素设计过程包括人员岗位和职责、人员绩效、人员培训三方面设计，不包 括人员薪酬方案设计，C 选项符合题意。答案选C。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0019",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务团队中，管理岗的职责主要有两个方面，一是对需方信息系统服务需 求的管理，二是（ ）。",
+    "options": [
+      "A. 对服务团队人员的管理",
+      "B. 对信息系统服务过程和结果的管理",
+      "C. 对服务资源的管理",
+      "D. 对服务技术的管理"
+    ],
+    "answer": "B",
+    "explanation": "“管理岗的职责主要有两个方面：一是对需方信息系统服务需求的管理；二是对 信息系统服务过程和结果的管理”，B 选项正确。答案选B。出自12.2.2 人员要素 设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0020",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "技术支持岗在信息系统服务过程中提供技术支持，其能力要求重点在于（ ）。",
+    "options": [
+      "A. 专业技术能力和对服务需求的响应支持能力",
+      "B. 沟通能力和团队协作能力",
+      "C. 管理能力和决策能力",
+      "D. 创新能力和学习能力"
+    ],
+    "answer": "A",
+    "explanation": "“技术支持人员的能力要求重点在于专业技术能力和对服务需求的响应支持能 力”，A 选项正确。答案选A。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0021",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "操作岗按照信息系统服务规范和操作手册，执行服务交付的各个过程，以下属于操 作岗的是（ ）。",
+    "options": [
+      "A. 服务总监",
+      "B. 网络工程师",
+      "C. 呼叫中心热线工程师",
+      "D. 质量经理"
+    ],
+    "answer": "C",
+    "explanation": "“操作岗按照信息系统服务规范和操作手册，执行服务交付的各个过程。例如， 呼叫中心热线工程师、系统监控工程师、机房值守人员等”，C 选项正确。答案选C。 出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0022",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员绩效考核是服务供方针对其成员所承担工作的实际效果及贡献或价值进行核定、 评价与评估，确定绩效指标依据的是（ ）。",
+    "options": [
+      "A. 人员岗位和职责",
+      "B. 人员的学历和经验",
+      "C. 人员的工作态度",
+      "D. 人员的工作时间"
+    ],
+    "answer": "A",
+    "explanation": "“依据信息系统服务人员岗位职责的不同，定义不同的绩效管理目标”，确定绩 效指标依据人员岗位和职责，A 选项正确。答案选A。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0023",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员绩效方案设计中，明确考核信息来源后，下一步是（ ）。",
+    "options": [
+      "A. 确定绩效指标",
+      "B. 制定绩效指标计算方法",
+      "C. 定义绩效考核周期",
+      "D. 设计绩效考核策略"
+    ],
+    "answer": "B",
+    "explanation": "人员绩效方案设计流程为确定绩效指标、明确考核信息来源、制定绩效指标计算 方法、定义绩效考核周期、设计绩效考核策略，B 选项正确。答案选B。出自12.2.2 人 员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0024",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员培训方案设计中，培训需求分析通过（ ）了解各层面员工的培训需求。",
+    "options": [
+      "A. 内部调查和高层访谈",
+      "B. 问卷调查和考试",
+      "C. 课堂表现和实际操作",
+      "D. 培训效果评价"
+    ],
+    "answer": "A",
+    "explanation": "“通过内部调查了解各层面员工需要什么培训、什么时候需要、对培训的关注程 度、需要什么形式的授课。通过高层访谈和参与管理层会议的形式，了解管理层所需要 收获的能力”，A 选项正确。答案选A。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0025",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员培训方案设计中，培训内容设计不包括（ ）。",
+    "options": [
+      "A. 管理培训",
+      "B. 销售培训",
+      "C. 技术培训",
+      "D. 工具培训"
+    ],
+    "answer": "B",
+    "explanation": "培训内容设计包括管理培训、技术培训、工具培训、过程培训、交付和应急培训， 不包括销售培训，B 选项符合题意。答案选B。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0026",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在信息系统服务活动中，培训要想达到好的效果，（ ）的选择非常重要。",
+    "options": [
+      "A. 培训讲师",
+      "B. 培训内容",
+      "C. 培训形式",
+      "D. 培训地点"
+    ],
+    "answer": "C",
+    "explanation": "“在信息系统服务活动中，培训要想达到好的效果，形式的选择非常重要”，C 选项正确。答案选C。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0027",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "资源要素设计主要包括对服务工具、服务台、备件库以及（ ）的设计。",
+    "options": [
+      "A. 知识库",
+      "B. 数据库",
+      "C. 服务器",
+      "D. 网络设备"
+    ],
+    "answer": "A",
+    "explanation": "“资源要素设计主要包括对服务工具、服务台、备件库、知识库的设计”，A 选 项正确。答案选A。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0028",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "常见的信息系统服务工具包括监控类工具、过程管理类工具和（ ）。",
+    "options": [
+      "A. 开发类工具",
+      "B. 测试类工具",
+      "C. 其他工具",
+      "D. 安全类工具"
+    ],
+    "answer": "C",
+    "explanation": "“常见的信息系统服务工具包括监控类工具、过程管理类工具和其他工具”，C 选项正确。答案选C。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0029",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务台的目的是为用户和信息系统服务供方提供一个（ ）。",
+    "options": [
+      "A. 服务过程",
+      "B. 统一联系点",
+      "C. 服务平台",
+      "D. 沟通渠道"
+    ],
+    "answer": "B",
+    "explanation": "“服务台不是一个服务过程，而是一个服务职能，目的是为用户和信息系统服务 供方提供一个统一联系点”，B 选项正确。答案选B。出自12.2.3 资源要素设计部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0030",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师在进行服务台设计时，应注意设置专门的沟通渠道作为与需方的 联络点，沟通渠道不包括（ ）。",
+    "options": [
+      "A. 热线电话",
+      "B. 社交媒体",
+      "C. 网站",
+      "D. 电子邮箱"
+    ],
+    "answer": "B",
+    "explanation": "沟通渠道可以是热线电话、传真、网站、电子邮箱等，未提及社交媒体，B 选项 符合题意。答案选B。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0031",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "备件库主要是为信息系统服务的客户提供设备备件，系统规划与管理师在对备件库 进行设计时，不需要考虑的是（ ）。",
+    "options": [
+      "A. 备件响应方式和级别定义",
+      "B. 备件供应商管理",
+      "C. 备件的品牌和型号",
+      "D. 备件可用性管理"
+    ],
+    "answer": "C",
+    "explanation": "对备件库设计需考虑A、B、D 选项内容，备件的品牌和型号并非设计时主要考虑 因素，C 选项符合题意。答案选C。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0032",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "知识库设计时，应针对常见问题的描述、分析和解决方法建立知识库，还应确保 ( ) 。",
+    "options": [
+      "A. 知识的准确性",
+      "B. 整个组织内的知识是可用的、可共享的",
+      "C. 知识的专业性",
+      "D. 知识的创新性"
+    ],
+    "answer": "B",
+    "explanation": "“系统规划与管理师在对知识库进行设计时，应注意以下几点：针对常见问题的 描述、分析和解决方法建立知识库；确保整个组织内的知识是可用的、可共享的”，B 选项正确。答案选B。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0033",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务供方在提供信息系统服务过程中，系统规划与管理师在对技术要素进行设计时， 应从技术研发、发现问题的技术以及（ ）三个方面来进行考量。",
+    "options": [
+      "A. 应用新技术的技术",
+      "B. 解决问题的技术",
+      "C. 风险控制的技术",
+      "D. 技术储备的技术"
+    ],
+    "answer": "B",
+    "explanation": "“系统规划与管理师在对技术要素进行设计时，应从技术研发、发现问题的技术、 解决问题的技术三个方面来进行考量”，B 选项正确。答案选B。出自12.2.4 技术 要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0034",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在设计实现阶段，系统规划与管理师应对技术研发成本进行估算，组织编制技术研 发预算，为（ ）的技术研发活动提供资金方面的保障。",
+    "options": [
+      "A. 设计阶段",
+      "B. 运营阶段",
+      "C. 服务战略规划阶段",
+      "D. 服务退役终止阶段"
+    ],
+    "answer": "B",
+    "explanation": "“在设计实现阶段，系统规划与管理师应对技术研发成本进行估算，组织编制技 术研发预算，为运营阶段的技术研发活动提供资金方面的保障”，B 选项正确。答案 选B。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0035",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "制定测试环境建设计划，是为了（ ）。",
+    "options": [
+      "A. 降低测试成本",
+      "B. 验证技术的可行性和可靠性",
+      "C. 提高测试效率",
+      "D. 规范测试流程"
+    ],
+    "answer": "B",
+    "explanation": "仿真测试环境通过模拟真实应用系统环境中的场景，为各类测试和分析提供必要 的条件，以验证技术的可行性和可靠性。答案选B。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0036",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "解决问题的技术中，制定技术活动标准操作流程的目的是（ ）。",
+    "options": [
+      "A. 提高技术水平",
+      "B. 降低风险、提高效率",
+      "C. 规范技术人员行为",
+      "D. 便于技术管理"
+    ],
+    "answer": "B",
+    "explanation": "制定技术活动标准操作流程，指导信息系统服务人员进行标准化的操作，以降低 风险、提高效率。答案选B。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0037",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "为避免重大突发事件对信息系统服务运营产生严重影响，应建立相应的（ ）。",
+    "options": [
+      "A. 风险评估机制",
+      "B. 应急预案及演练计划",
+      "C. 监控机制",
+      "D. 预警机制"
+    ],
+    "answer": "B",
+    "explanation": "由自然灾害、基础设施故障等引发的重大突发事件，将对信息系统服务的运营产 生严重影响，为避免此类情况或出现后及时恢复，应建立相应的应急预案及演练计划。 答案选B。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0038",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在设计实现阶段，完成知识转移是为了（ ）。",
+    "options": [
+      "A. 提升团队知识水平",
+      "B. 为运营阶段的服务交付活动提供知识保障",
+      "C. 促进知识共享",
+      "D. 提高服务质量"
+    ],
+    "answer": "B",
+    "explanation": "在设计实现阶段，应识别过往信息系统服务中产生和使用的资料，并完整地转移 到现有的服务团队中，为运营阶段的服务交付活动提供知识保障。答案选B。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0039",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "常见的信息系统服务管理过程不包括（ ）。",
+    "options": [
+      "A. 服务级别管理过程",
+      "B. 服务营销管理过程",
+      "C. 事件管理过程",
+      "D. 配置管理过程"
+    ],
+    "answer": "B",
+    "explanation": "常见的信息系统服务管理过程包括服务级别管理过程、服务报告管理过程、事件 管理过程、问题管理过程、配置管理过程、变更管理过程、发布管理过程、信息安全管 理过程，不包括服务营销管理过程。答案选B。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0040",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师在对服务级别管理过程进行设计时，不包括以下哪项活动（ ）。",
+    "options": [
+      "A. 建立服务目录，签订服务级别协议",
+      "B. 建立服务报告模板",
+      "C. 建立SLA 考核评估机制",
+      "D. 制定改进及跟踪验证机制"
+    ],
+    "answer": "B",
+    "explanation": "服务级别管理过程设计的主要活动包括建立服务目录，签订服务级别协议；建立 SLA 考核评估机制；制定改进及跟踪验证机制。建立服务报告模板属于服务报告管理过 程设计的活动。答案选B。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0041",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务级别管理的关键指标包括服务目录定义的完整性、签订服务级别协议文件的规 范性以及（ ）。",
+    "options": [
+      "A. SLA 考核评估机制的有效性和完整性",
+      "B. 服务报告的及时性",
+      "C. 事件解决评估机制的有效性",
+      "D. 配置管理过程的完整性"
+    ],
+    "answer": "A",
+    "explanation": "服务级别管理的关键指标包括服务目录定义的完整性、签订服务级别协议文件的 规范性以及SLA 考核评估机制的有效性和完整性。答案选A。出自12.2.5 过程要素 设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0042",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师在对服务报告管理过程进行设计时，应根据（ ）设计报告的内 容和频度。",
+    "options": [
+      "A. 服务需求和项目干系人的需要",
+      "B. 服务级别协议",
+      "C. 服务成本",
+      "D. 服务质量"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师在对服务报告管理过程进行设计时，应根据服务需求和项目干 系人的需要，设计报告的内容和频度。答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0043",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务报告管理过程设计的主要活动不包括（ ）。",
+    "options": [
+      "A. 确定与服务报告过程一致的活动",
+      "B. 制定服务级别协议",
+      "C. 制订服务报告计划",
+      "D. 建立服务报告模板"
+    ],
+    "answer": "B",
+    "explanation": "服务报告管理过程设计的主要活动包括确定与服务报告过程一致的活动、制订服 务报告计划、建立服务报告模板。制定服务级别协议属于服务级别管理相关内容。答案 选B。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0044",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务报告管理的关键指标包括服务报告过程的完整性，服务报告的及时性、准确性 以及（ ）。",
+    "options": [
+      "A. 数据来源的可靠性",
+      "B. 计算公式的合理性",
+      "C. 数据准确性的校验机制有效性",
+      "D. 报告内容的完整性"
+    ],
+    "answer": "C",
+    "explanation": "服务报告管理的关键指标包括服务报告过程的完整性，服务报告的及时性、准确 性等，还包括数据准确性的校验机制有效性。答案选C。出自12.2.5 过程要素设计部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0045",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师在对事件管理过程进行设计时，应根据（ ）对事件进行分类和 分级。",
+    "options": [
+      "A. 服务对象的技术特性和资源配备情况",
+      "B. 事件的严重程度",
+      "C. 事件的发生频率",
+      "D. 服务级别协议"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师在对事件管理过程进行设计时，应根据服务对象的技术特性和 资源配备情况对事件进行分类和分级。答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0046",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "事件管理过程设计的主要活动包括确定与事件管理过程一致的活动，以下不属于这 些活动的是（ ）。",
+    "options": [
+      "A. 事件受理",
+      "B. 建立配置数据库管理机制",
+      "C. 建立事件升级机制",
+      "D. 建立事件满意度调查机制"
+    ],
+    "answer": "B",
+    "explanation": "建立配置数据库管理机制属于配置管理过程设计的活动，事件管理过程设计的主 要活动包括事件受理、分类分级、初步支持等，不包括建立配置数据库管理机制。答案 选B。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0047",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "事件管理的关键指标包括事件管理过程的完整性、有效性，以及（ ）。",
+    "options": [
+      "A. 事件解决评估机制的有效性",
+      "B. 问题解决评估机制的有效性",
+      "C. 变更管理过程的完整性",
+      "D. 发布管理过程的完整性"
+    ],
+    "answer": "A",
+    "explanation": "事件管理的关键指标包括事件管理过程的完整性、有效性，事件解决评估机制的 有效性等。答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0048",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师在对问题管理过程进行设计时，应重点关注（ ）。",
+    "options": [
+      "A. 事件与问题转换的处理方式",
+      "B. 问题的分类和分级",
+      "C. 问题管理活动的顺序",
+      "D. 问题解决评估机制"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师在对问题管理过程进行设计时，应重点关注事件与问题转换的 处理方式。答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0049",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "问题管理过程设计的主要活动不包括（ ）。",
+    "options": [
+      "A. 确定与问题管理过程一致的活动",
+      "B. 建立事件分类、分级机制",
+      "C. 建立问题分类管理机制",
+      "D. 建立问题导入知识库机制"
+    ],
+    "answer": "B",
+    "explanation": "建立事件分类、分级机制属于事件管理过程设计的活动，问题管理过程设计的主 要活动包括确定与问题管理过程一致的活动、建立问题分类管理机制、建立问题导入知 识库机制等。答案选B。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0050",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "问题管理的关键指标包括问题管理过程的完整性，以及（ ）。",
+    "options": [
+      "A. 问题解决评估机制的有效性",
+      "B. 事件解决评估机制的有效性",
+      "C. 配置管理过程的完整性",
+      "D. 变更管理过程的完整性"
+    ],
+    "answer": "A",
+    "explanation": "问题管理的关键指标包括问题管理过程的完整性、问题解决评估机制的有效性等。 答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0051",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师在对配置管理过程进行设计时，应根据（ ）设计配置管理的范 围和颗粒度。",
+    "options": [
+      "A. 提供的信息系统服务特性以及相关资产的管理权限",
+      "B. 服务需求和项目干系人的需要",
+      "C. 服务级别协议",
+      "D. 服务成本"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师在对配置管理过程进行设计时，应根据提供的信息系统服务特 性以及相关资产的管理权限，设计配置管理的范围和颗粒度。答案选A。出自12.2.5 过 程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0052",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "配置管理过程设计的主要活动包括确定与配置管理过程一致的活动，以下属于这些 活动的是（ ）。",
+    "options": [
+      "A. 确定与配置管理过程一致的活动",
+      "B. 建立变更类型和范围的管理机制",
+      "C. 建立事件升级机制",
+      "D. 建立发布类型和范围的管理机制"
+    ],
+    "answer": "A",
+    "explanation": "配置管理过程设计的主要活动包括确定与配置管理过程一致的活动，如识别、记 录、更新和审计等；建立配置数据库管理机制；建立配置项审计机制。B 选项属于变更 管理过程设计活动，C 选项属于事件管理过程设计活动，D 选项属于发布管理过程设计 活动。答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0053",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "配置管理的关键指标包括配置管理过程的完整性，配置数据的准确、完整、有效、 可用、可追溯，以及（ ）。",
+    "options": [
+      "A. 配置项审计机制的有效性",
+      "B. 变更管理过程的完整性",
+      "C. 事件管理过程的完整性",
+      "D. 发布管理过程的完整性"
+    ],
+    "answer": "A",
+    "explanation": "配置管理的关键指标包括配置管理过程的完整性，配置数据的准确、完整、有效、 可用、可追溯，配置项审计机制的有效性等。答案选A。出自12.2.5 过程要素设计部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0054",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师在对变更管理过程进行设计时，应根据（ ）定义变更管理的控 制范围。",
+    "options": [
+      "A. 服务模式的特征",
+      "B. 服务需求和项目干系人的需要",
+      "C. 服务级别协议",
+      "D. 服务成本"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师在对变更管理过程进行设计时，应根据服务模式的特征，定义 变更管理的控制范围。答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0055",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "变更管理过程设计的主要活动不包括（ ）。",
+    "options": [
+      "A. 确定与变更管理过程一致的活动",
+      "B. 建立配置数据库管理机制",
+      "C. 建立变更类型和范围的管理机制",
+      "D. 建立变更过程和结果的评估机制"
+    ],
+    "answer": "B",
+    "explanation": "建立配置数据库管理机制属于配置管理过程设计的活动，变更管理过程设计的主 要活动包括确定与变更管理过程一致的活动、建立变更类型和范围的管理机制、建立变 更过程和结果的评估机制等。答案选B。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0056",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "变更管理的关键指标包括变更管理过程的完整性，以及（ ）。",
+    "options": [
+      "A. 变更记录的完整性",
+      "B. 问题解决评估机制的有效性",
+      "C. 事件解决评估机制的有效性",
+      "D. 配置管理过程的完整性"
+    ],
+    "answer": "A",
+    "explanation": "变更管理的关键指标包括变更管理过程的完整性、变更记录的完整性等。答案选 A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0057",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师在对发布管理过程进行设计时，应根据（ ）设计发布管理的范 围、分类、分级和活动顺序。",
+    "options": [
+      "A. 变更管理的设计、资源的配置情况和对信息系统资产的管理权限",
+      "B. 服务需求和项目干系人的需要",
+      "C. 服务级别协议",
+      "D. 服务成本"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师在对发布管理过程进行设计时，应根据变更管理的设计、资源 的配置情况（如备件库、专用工具、最终软件库等）和对信息系统资产的管理权限，设 计发布管理的范围、分类、分级和活动顺序。答案选A。出自12.2.5 过程要素设计部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0058",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "发布管理过程设计的主要活动包括确定与发布管理过程一致的活动，以下不属于这 些活动的是（ ）。",
+    "options": [
+      "A. 确定与发布管理过程一致的活动",
+      "B. 建立事件分类、分级机制",
+      "C. 制定完整的方案",
+      "D. 建立发布过程和结果的评估机制"
+    ],
+    "answer": "B",
+    "explanation": "建立事件分类、分级机制属于事件管理过程设计的活动，发布管理过程设计的主 要活动包括确定与发布管理过程一致的活动、建立发布类型和范围的管理机制、制定完 整的方案、建立发布过程和结果的评估机制等。答案选B。出自12.2.5 过程要素设计 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0059",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "发布管理的关键指标包括发布管理过程的完整性以及（ ）。",
+    "options": [
+      "A. 发布过程记录的完整性、准确性",
+      "B. 变更管理过程的完整性",
+      "C. 事件管理过程的完整性",
+      "D. 配置管理过程的完整性"
+    ],
+    "answer": "A",
+    "explanation": "发布管理的关键指标包括发布管理过程的完整性以及发布过程记录的完整性、准 确性等。答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0060",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师在对信息安全管理过程进行设计时，应根据（ ）识别服务中的 信息安全风险。",
+    "options": [
+      "A. 客户业务特征和服务管理要求",
+      "B. 服务需求和项目干系人的需要",
+      "C. 服务级别协议",
+      "D. 服务成本"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师在对信息安全管理过程进行设计时，应根据客户业务特征和服 务管理要求，识别服务中的信息安全风险。答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0061",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息安全管理过程设计的主要活动不包括（ ）。",
+    "options": [
+      "A. 确定与信息安全管理过程一致的活动",
+      "B. 建立服务目录",
+      "C. 建立与信息系统服务要求一致的信息安全策略、方针和措施",
+      "D. 识别服务中的信息安全风险"
+    ],
+    "answer": "B",
+    "explanation": "建立服务目录属于服务级别管理过程设计的活动，信息安全管理过程设计的主要 活动包括确定与信息安全管理过程一致的活动、识别服务中的信息安全风险、建立与信 息系统服务要求一致的信息安全策略、方针和措施等。答案选B。出自12.2.5 过程要 素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0062",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息安全管理的关键指标是信息的保密性、可用性和（ ）。",
+    "options": [
+      "A. 完整性",
+      "B. 可靠性",
+      "C. 稳定性",
+      "D. 可扩展性"
+    ],
+    "answer": "A",
+    "explanation": "信息安全管理的关键指标信息的保密性、可用性和完整性等。答案选A。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0063",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务运营提升的目的不包括（ ）。",
+    "options": [
+      "A. 持续改进服务质量",
+      "B. 增加服务成本",
+      "C. 改善需方服务感受",
+      "D. 提升服务效率"
+    ],
+    "answer": "B",
+    "explanation": "服务运营提升是以持续改进服务质量、改善需方服务感受或降低服务成本、提升 服务效率为目的，不包括增加服务成本。答案选B。出自12.3 服务运营提升部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0064",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在信息系统服务运营中，客户关系管理的目标主要是（ ）。",
+    "options": [
+      "A. 服务并管理好客户需求，与客户建立长期和有效的业务关系",
+      "B. 提高服务价格",
+      "C. 增加服务种类",
+      "D. 减少客户投诉"
+    ],
+    "answer": "A",
+    "explanation": "客户关系管理的目标主要是服务并管理好客户需求，培养客户对服务更积极的评 价和应用，与客户建立长期和有效的业务关系，实现共赢发展。答案选A。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0065",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在信息系统服务运营过程中，系统规划与管理师通过定期沟通提升与客户的关系， 定期沟通的主要内容不包括（ ）。",
+    "options": [
+      "A. 供需双方对服务达成情况的总结回顾",
+      "B. 市场动态分析",
+      "C. 重点问题的协商处理",
+      "D. 确立后续改进计划"
+    ],
+    "answer": "B",
+    "explanation": "定期沟通的主要内容包括供需双方对服务达成情况的总结回顾，重点问题的协商 处理及确立后续改进计划等，不包括市场动态分析。答案选B。出自12.3.1 业务关系 管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0066",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在信息系统服务运营过程中，高层拜访的目的不包括（ ）。",
+    "options": [
+      "A. 让客户高层了解所提供服务的价值",
+      "B. 挖掘、引导客户高层对服务的需求和期望",
+      "C. 提高服务团队的知名度",
+      "D. 及时处理重要支持事件、投诉等"
+    ],
+    "answer": "C",
+    "explanation": "高层拜访是为了及时让客户高层了解所提供服务的价值，挖掘、引导客户高层对 服务的需求和期望，把握重要支持事件、投诉处理等时机，不包括提高服务团队的知名 度。答案选C。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0067",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "投诉管理属于应急处理机制，重视客户投诉的好处不包括（ ）。",
+    "options": [
+      "A. 更好地提升客户对服务的感知",
+      "B. 增加与客户之间的亲切感",
+      "C. 促进客户对服务更积极的评价",
+      "D. 降低服务成本"
+    ],
+    "answer": "D",
+    "explanation": "重视客户投诉，对投诉进行及时有效的处理甚至可以更好地提升客户对服务的感 知，增加与客户之间的亲切感，促进客户对服务更积极的评价，不包括降低服务成本。 答案选D。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0068",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "满意度调查包括Case by Case 满意度调查和公开调查，其中公开调查是以（ ）等 方式了解客户对信息系统服务各方面的认知和感受。",
+    "options": [
+      "A. 电话、问卷、网站、走访面谈",
+      "B. 电话、邮件、短信",
+      "C. 问卷、网站、社交媒体",
+      "D. 走访面谈、内部会议、电话"
+    ],
+    "answer": "A",
+    "explanation": "公开调查是以电话、问卷、网站、走访面谈等方式了解客户对信息系统服务各方 面的认知和感受，进而总结相关优秀经验，改进服务中的不足。答案选A。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0069",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "增值服务通常能保持客户对服务的认可和感知，增值服务需要把握的原则不包括 ( ) 。",
+    "options": [
+      "A. 可以影响现有协议约定的服务内容",
+      "B. 增值服务贴合客户需要",
+      "C. 增值服务投入在可接受的范围内",
+      "D. 本身有能力对增值服务内容进行引申"
+    ],
+    "answer": "A",
+    "explanation": "增值服务不能影响现有协议约定的服务内容，还需贴合客户需要、投入在可接受 范围内且本身有能力对增值服务内容进行引申。答案选A。出自12.3.1 业务关系管理 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0070",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在客户关系管理过程中，未能了解客户真正需求，特别是关键客户的需求，可能导 致的影响不包括（ ）。",
+    "options": [
+      "A. 服务不符合客户期望",
+      "B. 得到客户认可",
+      "C. 团队士气受到影响",
+      "D. 服务难以标准化"
+    ],
+    "answer": "B",
+    "explanation": "未能了解客户真正需求会导致服务不符合客户期望、团队士气受到影响、服务难 以标准化等问题，但并不会得到客户认可。了解需求是获得客户认可的前提。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0071",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "供应商关系管理的目标不包括（ ）。",
+    "options": [
+      "A. 与供应商建立互信、有效的协作关系",
+      "B. 降低采购成本",
+      "C. 与供应商建立长期、紧密的业务关系",
+      "D. 实现与供应商的合作共赢"
+    ],
+    "answer": "B",
+    "explanation": "供应商关系管理的目标主要包括与供应商建立互信、有效的协作关系；整合资源， 共同开拓保持客户；与供应商建立长期、紧密的业务关系；实现与供应商的合作共赢， 未提及降低采购成本。答案选B。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0072",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师选择供应商时，可参考的原则不包括（ ）。",
+    "options": [
+      "A. 供应商注册资本",
+      "B. 供应商的地理位置",
+      "C. 供应商已有客户规模",
+      "D. 供应商信息系统服务、信息安全相关资质"
+    ],
+    "answer": "B",
+    "explanation": "选择供应商可参考供应商注册资本、人员规模、已有客户规模、相关资质等原则， 未提及供应商的地理位置。答案选B。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0073",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "定期对供应商进行审核评估，确保供应商具备配套的能力要求，供应商的审核可从 多个方面考虑，其中不包括（ ）。",
+    "options": [
+      "A. 响应能力",
+      "B. 员工福利水平",
+      "C. 问题解决能力",
+      "D. 人员稳定性"
+    ],
+    "answer": "B",
+    "explanation": "供应商的审核可从响应能力、问题解决能力、问题解决效率、人员稳定性、客户 反馈、合作氛围等6 个方面考虑，不包括员工福利水平。答案选B。出自12.3.1 业 务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0074",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在供应商关系管理过程中，多供应商之间的配合问题可能导致的影响是（ ）。",
+    "options": [
+      "A. 服务不符合客户期望，得不到客户认可",
+      "B. 供应商积极性不高",
+      "C. 无法从供应商持续获得服务",
+      "D. 服务质量降低，知识流失"
+    ],
+    "answer": "A",
+    "explanation": "多供应商之间的配合问题会使服务不符合客户期望，得不到客户认可，团队士气 受到影响。答案选A。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0075",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "第三方关系管理的目标是（ ）。",
+    "options": [
+      "A. 培养发展长期、互信、良性的第三方业务合作关系",
+      "B. 降低服务成本",
+      "C. 增加服务种类",
+      "D. 提高服务质量"
+    ],
+    "answer": "A",
+    "explanation": "第三方关系管理的目标是通过相关活动，培养发展长期、互信、良性的第三方业 务合作关系，进而更好地获得客户认可，实现与客户建立长期和有效的业务关系。答案 选A。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0076",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师提升与第三方的关系，通过信息收集分享活动，应按照（ ）原则， 确立与第三方的信息共享内容及范围等。",
+    "options": [
+      "A. 5W1",
+      "B. B.4W2",
+      "C. C.3W3",
+      "D. D.6W"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师按照5W1H（原因Why、对象What、地点Where、时间When、人 员Who、方法How）原则，确立与第三方的信息共享内容及范围、信息共享流程等。答 案 选A。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0077",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在第三方关系管理过程中，沟通不顺畅可能导致的影响是（ ）。",
+    "options": [
+      "A. 与第三方配合不顺畅，进而影响服务的交付或服务不符合客户期望",
+      "B. 第三方配合积极性不高",
+      "C. 最终工作无法得到有效认可",
+      "D. 服务质量降低，知识流失"
+    ],
+    "answer": "A",
+    "explanation": "沟通不顺畅会导致与第三方配合不顺畅，进而影响服务的交付或服务不符合客户 期望。这是因为在合作过程中，有效的沟通是确保双方理解和协作的关键。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0078",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务营销过程分为4 个阶段，其中启动准备阶段包括营销准备和（ ）。",
+    "options": [
+      "A. 营销计划",
+      "B. 做好需求调研",
+      "C. 做好产品展示",
+      "D. 达成服务协议"
+    ],
+    "answer": "A",
+    "explanation": "服务营销启动准备阶段包括营销准备和营销计划。答案选A。出自12.3.2 服务 营销管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0079",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务营销准备活动中，系统规划与管理师做好目标客户的营销准备，目标客户包括 ( ) 。",
+    "options": [
+      "A. 当前正在服务的客户",
+      "B. 潜在客户",
+      "C. 竞争对手的客户",
+      "D. 所有可能的客户"
+    ],
+    "answer": "A",
+    "explanation": "目标客户包括当前正在服务的客户，做好目标客户考察，熟悉客户相关的资料。 答案选A。出自12.3.2 服务营销管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0080",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务营销计划活动中，营销计划的制订内容不涉及（ ）。",
+    "options": [
+      "A. 服务项目预算",
+      "B. 服务人员培训计划",
+      "C. 营销成本估算",
+      "D. 立项计划"
+    ],
+    "answer": "B",
+    "explanation": "营销计划的制订针对所有对应的服务营销对象（客户群）制订营销计划，内容涉 及服务项目预算、营销成本估算、售前支持人员、立项计划等，不涉及服务人员培训计 划。答案选B。出自12.3.2 服务营销管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0081",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "调研交流阶段的主要活动包括做好需求调研和（ ）。",
+    "options": [
+      "A. 写好解决方案",
+      "B. 做好产品展示",
+      "C. 保持持续沟通",
+      "D. 达成服务协议"
+    ],
+    "answer": "A",
+    "explanation": "调研交流阶段的主要活动包括做好需求调研和写好解决方案。答案选A。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0082",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务营销需求调研活动中，高层领导访谈的目的不包括（ ）。",
+    "options": [
+      "A. 了解高层对未来三五年内组织发展的总体战略设想",
+      "B. 引导客户对组织进行信息系统规划",
+      "C. 收集客户各单位、各部门未来一定时期明确的信息化需求",
+      "D. 通过业务战略明确信息化战略"
+    ],
+    "answer": "C",
+    "explanation": "高层领导访谈是为了了解高层对未来组织发展的设想、明确信息化战略、引导信 息系统规划，收集客户各单位、各部门未来一定时期明确的信息化需求是信息化建设需 求收集的目的。答案选C。出自12.3.2 服务营销管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0083",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "编写解决方案（或项目建议书）是营销工作的核心过程，该阶段的核心工作不包括 ( ) 。",
+    "options": [
+      "A. 熟悉解决方案的格式和规范",
+      "B. 确定解决方案的价格",
+      "C. 评审解决方案",
+      "D. 沟通论证"
+    ],
+    "answer": "B",
+    "explanation": "编写解决方案阶段的核心工作包括熟悉格式和规范、细化内容、评审、沟通论证、 确定解决方案，不包括确定解决方案的价格。答案选B。出自12.3.2 服务营销管理部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0084",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "能力展示阶段的主要活动包括做好产品展示和（ ）。",
+    "options": [
+      "A. 保持持续沟通",
+      "B. 达成服务协议",
+      "C. 做好需求调研",
+      "D. 写好解决方案"
+    ],
+    "answer": "A",
+    "explanation": "能力展示阶段的主要活动包括做好产品展示和保持持续沟通。答案选A。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0085",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务营销产品展示活动中，服务产品展示的准备工作内容不包括（ ）。",
+    "options": [
+      "A. 针对所有对应的服务营销对象（客户群）制订营销计划",
+      "B. 产品特性、优点、特殊利益介绍",
+      "C. 营销成本估算",
+      "D. 售前支持人员安排"
+    ],
+    "answer": "B",
+    "explanation": "服务产品展示的准备工作包括针对所有对应的服务营销对象（客户群）制订营销 计划、营销成本估算、售前支持人员安排等，但不包括产品特性、优点、特殊利益介绍， 这部分内容通常在展示过程中进行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0086",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务达成阶段的主要活动包括达成服务协议和（ ）。",
+    "options": [
+      "A. 做好持续服务",
+      "B. 做好产品展示",
+      "C. 保持持续沟通",
+      "D. 写好解决方案"
+    ],
+    "answer": "A",
+    "explanation": "服务达成阶段的主要活动包括达成服务协议和做好持续服务。答案选A。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0087",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "达成服务协议过程中，准备服务级别协议不包括（ ）。",
+    "options": [
+      "A. 明确服务内容",
+      "B. 确定服务价格",
+      "C. 形成或更新服务目录",
+      "D. 拟订服务级别协议草稿"
+    ],
+    "answer": "B",
+    "explanation": "准备服务级别协议包括明确服务内容、形成或更新服务目录、拟订服务级别协议 草稿、根据实际需要草拟服务合同等，不包括确定服务价格。答案选B。出自12.3.2 服 务营销管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0088",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "做好持续服务过程中，提高客户满意度的措施不包括（ ）。",
+    "options": [
+      "A. 有一套完整的项目管理和服务规范",
+      "B. 主动服务",
+      "C. 提高服务价格",
+      "D. 针对客户指出的不足和服务过程中出现的问题，及时处理和采取措施"
+    ],
+    "answer": "C",
+    "explanation": "提高客户满意度的措施包括有完整的项目管理和服务规范、主动服务、敬业精神、 及时处理问题等，不包括提高服务价格。答案选C。出自12.3.2 服务营销管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0089",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务成本包括直接人力成本、直接非人力成本、间接人力成本和（ ）。",
+    "options": [
+      "A. 间接非人力成本",
+      "B. 管理成本",
+      "C. 采购成本",
+      "D. 运维成本"
+    ],
+    "answer": "A",
+    "explanation": "信息系统服务成本包括直接人力成本、直接非人力成本、间接人力成本和间接非 人力成本，信息系统服务总成本为各分项成本之和。答案选A。出自12.3.3 服务成本 度量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0090",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务项目中的直接人力成本不包括（ ）。",
+    "options": [
+      "A. 人员劳动报酬",
+      "B. 项目组日常办公场地的租赁费用",
+      "C. 人员社保规费",
+      "D. 人员福利"
+    ],
+    "answer": "B",
+    "explanation": "直接人力成本主要包括人员劳动报酬、人员社保规费、人员福利等，项目组日常 办公场地的租赁费用属于间接非人力成本。答案选B。出自12.3.3 服务成本度量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0091",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "为达成信息系统服务项目目标所支付的非人力费用属于（ ）。",
+    "options": [
+      "A. 直接非人力成本",
+      "B. 间接非人力成本",
+      "C. 直接人力成本",
+      "D. 间接人力成本"
+    ],
+    "answer": "A",
+    "explanation": "直接非人力成本指为达成信息系统服务项目目标所支付的非人力费用，一般包括 办公费、差旅费等。答案选A。出自12.3.3 服务成本度量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0092",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务项目中的间接人力成本指（ ）。",
+    "options": [
+      "A. 非项目组人员的人力资源费用分摊",
+      "B. 项目组人员的人力资源费用分摊",
+      "C. 服务实施部门管理人员的费用",
+      "D. 相关管理办公室（PMO）人员的费用"
+    ],
+    "answer": "A",
+    "explanation": "信息系统服务项目中的间接人力成本指非项目组人员的人力资源费用分摊，与信 息系统服务相关的常见非项目组人员包括服务实施部门管理人员、相关管理办公室（PMO） 人员等。答案选A。出自12.3.3 服务成本度量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0093",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务项目中的间接非人力成本与直接非人力成本的主要差别在于（ ）。",
+    "options": [
+      "A. 间接非人力成本的产生不会因某个特定的服务项目结束或终止而不再发生",
+      "B. 间接非人力成本的费用更高",
+      "C. 直接非人力成本与项目特点无关",
+      "D. 间接非人力成本包括办公费、差旅费等"
+    ],
+    "answer": "A",
+    "explanation": "间接非人力成本与直接非人力成本的主要差别在于，间接非人力成本的产生不会 因某个特定的服务项目结束或终止而不再发生，而直接非人力成本是为特定信息系统项 目所支出的费用。答案选A。出自12.3.3 服务成本度量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0094",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "传统上，信息系统服务成本更多采用经验法来确定，这种方法面临的问题不包括 ( ) 。",
+    "options": [
+      "A. 估算的准确程度完全依赖于估算专家的经验",
+      "B. 整个估算过程是一个“黑盒子”",
+      "C. 难以确定服务成本的构成",
+      "D. 不同人员估算结果产生极大差异时，难以判断谁更有经验"
+    ],
+    "answer": "C",
+    "explanation": "传统经验法面临的问题是估算准确程度依赖专家经验、估算过程是“黑盒子”、 不同人员估算差异大时难以判断谁更有经验，不包括难以确定服务成本的构成。答案 选C。出自12.3.3 服务成本度量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0095",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "为了科学、客观地计算服务成本，系统规划与管理师在进行服务成本度量工作时， 应充分考虑的因素不包括（ ）。",
+    "options": [
+      "A. 服务对象规模",
+      "B. 服务人员数量",
+      "C. 单位工作量",
+      "D. 调整因子"
+    ],
+    "answer": "B",
+    "explanation": "为科学、客观计算服务成本，应考虑服务对象规模、单位工作量、调整因子等因 素，不包括服务人员数量。答案选B。出自12.3.3 服务成本度量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0096",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务项目预算包括项目的收入和开支，建立服务项目预算的目的及意义不 包括（ ）。",
+    "options": [
+      "A. 便于形成资金使用计划",
+      "B. 便于项目资源分配",
+      "C. 增加项目成本",
+      "D. 评估资金使用效果"
+    ],
+    "answer": "C",
+    "explanation": "建立服务项目预算的目的及意义包括便于形成资金使用计划、便于交流资金使用 规划意图、协调资金使用活动等，不包括增加项目成本。答案选C。出自12.3.4 服务 项目预算、核算和结算部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0097",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务项目预算的制定步骤不包括（ ）。",
+    "options": [
+      "A. 识别项目预算收入项与开支项",
+      "B. 划分信息系统服务项目执行阶段",
+      "C. 确定项目的利润目标",
+      "D. 形成预算表"
+    ],
+    "answer": "C",
+    "explanation": "信息系统服务项目预算制定分为识别项目预算收入项与开支项、划分项目执行阶 段、形成预算表3 个步骤，不包括确定项目的利润目标。答案选C。出自12.3.4 服 务项目预算、核算和结算部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0098",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务项目核算的目的和意义不包括（ ）。",
+    "options": [
+      "A. 随时掌握项目收入、开支情况及项目盈亏状态",
+      "B. 增加项目成本",
+      "C. 寻找对成本开支控制的改进方法",
+      "D. 改进预算编制方法，提高预算编制准确性"
+    ],
+    "answer": "B",
+    "explanation": "信息系统服务项目核算的目的和意义包括随时掌握项目收支及盈亏状态、形成调 整资源分配依据、寻找成本控制改进方法、改进预算编制方法等，不包括增加项目成本。 答案选B。出自12.3.4 服务项目预算、核算和结算部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0099",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务项目核算过程中，编制核算记录表时，服务项目核算表的编制步骤包 括( ) 。",
+    "options": [
+      "A. 首先编制流水表，然后编制汇总表",
+      "B. 首先编制汇总表，然后编制流水表",
+      "C. 直接编制核算表",
+      "D. 编制预算表和核算表"
+    ],
+    "answer": "A",
+    "explanation": "服务项目核算表的编制可以分为两个步骤，即首先编制流水表，然后编制汇总表。 答案选A。出自12.3.4 服务项目预算、核算和结算部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0100",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务项目结算的目的是（ ）。",
+    "options": [
+      "A. 对整个项目生命周期内所有的收入、开支情况进行总结",
+      "B. 计算项目的利润",
+      "C. 评估项目的成本",
+      "D. 确定项目的投入产出比"
+    ],
+    "answer": "A",
+    "explanation": "信息系统服务项目的结算是在项目结束后的总体核算，要对整个项目生命周期内 所有的收入、开支情况进行总结。答案选A。出自12.3.4 服务项目预算、核算和结算 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0101",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "衡量项目收益的指标不包括（ ）。",
+    "options": [
+      "A. 项目投入产出比",
+      "B. 项目投资回报率",
+      "C. 项目净产值",
+      "D. 人均产出"
+    ],
+    "answer": "C",
+    "explanation": "衡量项目收益的指标包括项目投入产出比、项目投资回报率、项目净产出、人均 产出，不包括项目净产值。答案选C。出自12.3.4 服务项目预算、核算和结算部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0102",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "项目投入产出比的计算公式是（ ）。",
+    "options": [
+      "A. R = K / IN = 1:N（K 为项目投资总额，IN 为项目收入总额）",
+      "B. 项目投资回报率= 项目利润/ 项目投资总额×100%",
+      "C. 项目净产出= 项目收入总额- 项目投资总额",
+      "D. 单位人均产出= 净利润总额/ 项目数量"
+    ],
+    "answer": "A",
+    "explanation": "项目投入产出比的计算公式是R = K / IN = 1:N，其中R 为投入产出比，K 为项 目投资总额，IN 为项目收入总额。B 选项是项目投资回报率的公式；C 选项项目净产 出是指项目的净利润产出总额，需扣除所有开支；D 选项单位人均产出= 净利润总额 / 人员数量。答案选A。出自12.3.4 服务项目预算、核算和结算部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0103",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息技术服务外包给组织带来的收益不包括（ ）。",
+    "options": [
+      "A. 成本增加",
+      "B. 效率提升",
+      "C. 降低风险",
+      "D. 专注于主营业务"
+    ],
+    "answer": "A",
+    "explanation": "信息技术服务外包带来的收益有成本效益（并非成本增加）、效率提升、降低风 险、专注于主营业务、管理简单、提升满意度等。答案选A。出自12.3.5 服务外包收 益部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0104",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止是服务生命周期的最后阶段，系统规划与管理师在该阶段不负责以下 哪项工作（ ）。",
+    "options": [
+      "A. 组织召开评审会议",
+      "B. 制订服务改进计划",
+      "C. 评估服务终止风险",
+      "D. 释放并回收资源"
+    ],
+    "answer": "B",
+    "explanation": "在服务退役终止过程中，系统规划与管理师主要负责组织召开评审会议、制订服 务退役计划、评估服务终止风险、释放并回收资源、整理项目数据和资料等工作。制订 服务改进计划属于服务改进阶段的工作。答案选B。出自12.4 服务退役终止部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0105",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，供需双方的沟通主要以会议形式为主，一般不包括（ ）。",
+    "options": [
+      "A. 服务终止计划编制会议",
+      "B. 服务改进计划评审会议",
+      "C. 移交会议",
+      "D. 经验交流会"
+    ],
+    "answer": "B",
+    "explanation": "服务退役终止阶段，供需双方沟通的会议一般包括服务终止计划编制会议、服务 终止计划评审会议、移交会议、经验交流会等，不包括服务改进计划评审会议。答案选 B。出自12.4.1 沟通管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0106",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务终止计划编制会议最终形成的书面服务终止计划不包括以下哪项内容（ ）。",
+    "options": [
+      "A. 服务改进目标",
+      "B. 服务终止适用的条件",
+      "C. 所有相关方的角色与职责",
+      "D. 要终止的服务和其他服务之间的接口处理方式"
+    ],
+    "answer": "A",
+    "explanation": "服务终止计划应包括服务终止适用的条件、目标与成功要素、相关方角色与职责、 接口处理方式等内容，不包括服务改进目标。答案选A。出自12.4.1 沟通管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0107",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务终止计划评审会议的注意事项不包括（ ）。",
+    "options": [
+      "A. 参会人员共同评审服务终止计划，明确各方责任",
+      "B. 确定在服务终止过程中所涉及的所有任务的分配",
+      "C. 明确在服务改进阶段需要通知或联系的第三方",
+      "D. 服务终止计划需获得供需双方高层的批准"
+    ],
+    "answer": "C",
+    "explanation": "服务终止计划评审会议要明确服务终止阶段（而非服务改进阶段）需要通知或联 系的第三方，A、B、D 选项均是服务终止计划评审会议的注意事项。答案选C。出自12.4.1 沟通管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0108",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "移交会议的参会人员必须包括（ ）。",
+    "options": [
+      "A. 需方的高层领导，以及即将承担服务工作的继任项目团队成员及其负责人",
+      "B. 服务供方的高层领导，以及现任项目团队成员及其负责人",
+      "C. 需方和供方的高层领导",
+      "D. 现任和继任项目团队成员及其负责人"
+    ],
+    "answer": "A",
+    "explanation": "移交会议的参会人员必须包括需方的高层领导，以及即将承担服务工作的继任项 目团队成员及其负责人。答案选A。出自12.4.1 沟通管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0109",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "移交会议中，知识移交可包括（ ）。",
+    "options": [
+      "A. 服务使用手册",
+      "B. 服务的问题解决方案",
+      "C. 服务提供技能",
+      "D. 服务运营环境的服务组件的状态及相关属性和设置"
+    ],
+    "answer": "B",
+    "explanation": "知识移交可包括服务相关维护知识、服务的问题解决方案等；A 选项服务使用 手 册属于文件信息移交内容；C 选项服务提供技能属于技能移交内容；D 选项服务运营环 境的服务组件的状态及相关属性和设置属于基线移交内容。答案选B。出自12.4.1 沟 通管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0110",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务管理的质量与水平对组织的影响是（ ）。",
+    "options": [
+      "A. 影响组织的生存与发展",
+      "B. 仅影响组织的运营效率",
+      "C. 只与技术部门相关",
+      "D. 对组织影响较小"
+    ],
+    "answer": "A",
+    "explanation": "信息系统服务管理作为支持组织运作、实现组织目标的重要手段，其质量与水平 直接影响组织的生存与发展。出自第12 章引言部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0111",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务战略规划若未进行有效设计，可能导致的问题不包括（ ）。",
+    "options": [
+      "A. 信息系统服务可用性提高",
+      "B. 服务能力不足",
+      "C. 预算超支",
+      "D. 客户满意度下降"
+    ],
+    "answer": "A",
+    "explanation": "若未进行有效的规划设计，信息系统服务可能会造成可用性低、服务能力不足、 预算超支等问题，从而导致客户满意度的下降，而不是可用性提高。出自12.1 服务战 略规划部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0112",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在服务规划设计流程的需求阶段，最终形成的文件不包括（ ）。",
+    "options": [
+      "A. 服务级别协议",
+      "B. 服务需求说明书",
+      "C. 运营级别协议",
+      "D. 支持合同"
+    ],
+    "answer": "B",
+    "explanation": "在需求阶段，服务供方根据服务级别需求，最终形成服务级别协议、运营级别协 议和支持合同，不包括服务需求说明书。出自12.1.1 规划设计活动部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0113",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务目录管理过程中，列举服务清单时应包含的内容是（ ）。",
+    "options": [
+      "A. 当前正在提供的服务和准备开展的服务",
+      "B. 仅当前正在提供的服务",
+      "C. 仅准备开展的服务",
+      "D. 已停止的服务"
+    ],
+    "answer": "A",
+    "explanation": "管理小组应当列出服务清单，包含当前正在提供的服务，以及准备开展的服务。 出自12.1.2 服务目录管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0114",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务目录管理活动中，确定服务类别与代码时，分类维度不包括（ ）。",
+    "options": [
+      "A. 服务对象的技术维度",
+      "B. 服务成本维度",
+      "C. 服务性质维度",
+      "D. 服务时间维度"
+    ],
+    "answer": "D",
+    "explanation": "对服务清单中的内容，按照服务对象的技术维度或服务性质维度进行分类，并为 每类服务赋予唯一代码，不涉及服务时间维度。出自12.1.2 服务目录管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0115",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "以下关于服务需求识别的说法，错误的是（ ）。",
+    "options": [
+      "A. 价格需求识别需估算服务成本并进行定价",
+      "B. 服务报告需求识别无需考虑客户具体业务需求",
+      "C. 信息安全需求包括机密性、完整性和可用性",
+      "D. 可用性需求识别要考虑服务不可用对业务的影响"
+    ],
+    "answer": "B",
+    "explanation": "服务报告需求识别要素包括需要对客户的具体业务需求和局部情况进行分析和 考虑，B 选项说法错误。出自12.1.3 服务需求识别部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0116",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在连续性需求识别中，风险评估的作用不包括（ ）。",
+    "options": [
+      "A. 确定可能造成信息系统中断的潜在威胁",
+      "B. 预测威胁可能造成的损失程度",
+      "C. 评估所采取的控制措施是否有效",
+      "D. 制定灾难恢复计划"
+    ],
+    "answer": "D",
+    "explanation": "在连续性需求识别时，风险评估用于确定潜在威胁、预测损失程度和评估控制措 施有效性，制定灾难恢复计划是针对连续性需求的后续措施，并非风险评估的作用。出 自12.1.3 服务需求识别部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0117",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务级别设计是服务供方与需方协商适度目标并文档记录，以便（ ）。",
+    "options": [
+      "A. 服务运营期监测服务交付情况",
+      "B. 确定服务价格",
+      "C. 选择服务模式",
+      "D. 规划服务资源"
+    ],
+    "answer": "A",
+    "explanation": "服务级别设计是为了在服务运营期进行监测，把服务交付实际情况和商定的服务 级别进行比较，衡量服务质量与价格。出自12.1.4 服务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0118",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "运营级别协议（OLA）内部定义了（ ）。",
+    "options": [
+      "A. 所有参与方的责任",
+      "B. 服务的价格",
+      "C. 违约的处罚",
+      "D. 服务的范围"
+    ],
+    "answer": "A",
+    "explanation": "运营级别协议在内部定义了所有参与方的责任，并将这些参与方联合在一起提供 某项特别服务。出自12.1.4 服务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0119",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "支持合同（UC）与服务级别协议（SLA）的关系是（ ）。",
+    "options": [
+      "A. UC 主要由SLA 内容加法律条文构成",
+      "B. SLA 主要由UC 内容加法律条文构成",
+      "C. UC 与SLA 内容完全相同",
+      "D. UC 与SLA 没有关联"
+    ],
+    "answer": "A",
+    "explanation": "从内容上看，UC 主要由SLA 的内容加上法律条文中的责任、权利和义务构成。 出自12.1.4 服务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0120",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务设计实现的核心工作是（ ）。",
+    "options": [
+      "A. 设计信息系统服务方案",
+      "B. 选择服务模式",
+      "C. 管理服务要素",
+      "D. 协调服务资源"
+    ],
+    "answer": "A",
+    "explanation": "服务方案设计是整个设计实现阶段的核心工作，系统规划与管理人员需要综合考 虑多方面因素，设计出让各方满意的信息系统服务方案。出自12.2 服务设计实现部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0121",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务模式中的现场服务方式包括（ ）。",
+    "options": [
+      "A. 上门技术支持和驻场技术支持",
+      "B. 远程集中监控和远程技术支持",
+      "C. 远程集中监控和上门技术支持",
+      "D. 远程技术支持和驻场技术支持"
+    ],
+    "answer": "A",
+    "explanation": "现场服务的方式包括上门技术支持和驻场技术支持。出自12.2.1 服务模式设计 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0122",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在信息系统服务模式设计时，无需考虑的因素是（ ）。",
+    "options": [
+      "A. 服务模式的新颖性",
+      "B. 服务供方的人员和资源配置",
+      "C. 服务模式与客户需求的一致性",
+      "D. 服务供方提供多种服务模式的能力"
+    ],
+    "answer": "A",
+    "explanation": "在信息系统服务模式的设计过程中，需考虑服务模式与客户需求一致、人员和资 源配置匹配、供方提供多种服务模式的能力，无需考虑服务模式的新颖性。出自12.2.1 服务模式设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0123",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务团队中，管理岗的职责不包括（ ）。",
+    "options": [
+      "A. 对服务团队人员进行技术培训",
+      "B. 对需方信息系统服务需求进行管理",
+      "C. 对信息系统服务过程和结果进行管理",
+      "D. 建立与需方的沟通渠道和机制"
+    ],
+    "answer": "A",
+    "explanation": "管理岗的职责主要是对需方信息系统服务需求的管理以及对服务过程和结果的 管理，还需建立与需方的沟通渠道和机制，不包括对服务团队人员进行技术培训。出 自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0124",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "技术支持岗的能力要求重点在于（ ）。",
+    "options": [
+      "A. 专业技术能力和沟通能力",
+      "B. 专业技术能力和对服务需求的响应支持能力",
+      "C. 团队协作能力和决策能力",
+      "D. 管理能力和创新能力"
+    ],
+    "answer": "B",
+    "explanation": "技术支持人员的能力要求重点在于专业技术能力和对服务需求的响应支持能力。 出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0125",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "操作岗执行服务交付过程依据的是（ ）。",
+    "options": [
+      "A. 信息系统服务规范和操作手册",
+      "B. 个人经验",
+      "C. 领导口头指示",
+      "D. 临时制定的规则"
+    ],
+    "answer": "A",
+    "explanation": "操作岗按照信息系统服务规范和操作手册，执行服务交付的各个过程。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0126",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员绩效方案设计中，确定绩效指标的依据是（ ）。",
+    "options": [
+      "A. 人员的学历和工作经验",
+      "B. 人员岗位和职责",
+      "C. 人员的工作态度",
+      "D. 人员的工作时间"
+    ],
+    "answer": "B",
+    "explanation": "绩效指标的设计应基于人员岗位和职责，以确保绩效评估的针对性和有效性。其 他选项如学历、工作经验、工作态度或工作时间虽然可能影响绩效，但不是确定绩效指 标的直接依据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0127",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员绩效方案设计的活动不包括（ ）。",
+    "options": [
+      "A. 确定绩效指标",
+      "B. 确定人员培训内容",
+      "C. 制定绩效指标计算方法",
+      "D. 设计绩效考核策略"
+    ],
+    "answer": "B",
+    "explanation": "人员绩效方案设计主要包括确定绩效指标、明确考核信息来源、制定绩效指标计 算方法、定义绩效考核周期、设计绩效考核策略等活动，不包括确定人员培训内容。出 自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0128",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员培训方案设计中，培训需求分析的方式不包括（ ）。",
+    "options": [
+      "A. 内部调查",
+      "B. 员工自发申请",
+      "C. 高层访谈",
+      "D. 参与管理层会议"
+    ],
+    "answer": "B",
+    "explanation": "人员培训方案设计中，培训需求分析通过内部调查、高层访谈和参与管理层会议 的形式进行，不包括员工自发申请。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0129",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员培训方案设计的培训内容中，工具培训的重点是（ ）。",
+    "options": [
+      "A. 工具的创新使用",
+      "B. 基本的工具使用和规范性",
+      "C. 工具的研发原理",
+      "D. 工具的市场发展趋势"
+    ],
+    "answer": "B",
+    "explanation": "在信息系统服务工具培训中，基本的工具使用问题是必不可少的，还应该考虑工 具使用的规范性培训。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0130",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "资源要素设计中，服务工具设计时需考虑的因素不包括（ ）。",
+    "options": [
+      "A. 服务成本",
+      "B. 工具的品牌",
+      "C. 客户期望",
+      "D. 团队的技术水平"
+    ],
+    "answer": "B",
+    "explanation": "系统规划与管理师应根据实际服务需求、服务成本、客户期望、工具的技术架构 及团队的技术水平等因素，判断是否需要服务工具，不包括工具的品牌。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0131",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务台设计时，设置专门的沟通渠道作为与需方的联络点，沟通渠道可以是（ ）。",
+    "options": [
+      "A. 热线电话、传真、网站、电子邮箱",
+      "B. 社交媒体平台",
+      "C. 内部即时通讯工具",
+      "D. 企业专属APP"
+    ],
+    "answer": "A",
+    "explanation": "沟通渠道可以是热线电话、传真、网站、电子邮箱等。出自12.2.3 资源要素设 计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0132",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "备件库设计时，需要考虑的内容不包括（ ）。",
+    "options": [
+      "A. 备件的采购价格",
+      "B. 备件响应方式和级别定义",
+      "C. 备件供应商管理",
+      "D. 备件可用性管理"
+    ],
+    "answer": "A",
+    "explanation": "备件库设计需考虑备件响应方式和级别定义、供应商管理、出入库管理、可用性 管理等，不包括备件的采购价格。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0133",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "知识库设计时，选择知识管理策略应考虑的因素不包括（ ）。",
+    "options": [
+      "A. 组织的文化和管理模式",
+      "B. 知识的类型和特点",
+      "C. 知识管理工具的功能",
+      "D. 知识的更新频率"
+    ],
+    "answer": "D",
+    "explanation": "选择一种合适的知识管理策略需考虑组织的文化和管理模式、知识的类型和特点、 知识管理工具的功能等，知识的更新频率不是选择知识管理策略的主要考虑因素。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0134",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "技术要素设计中，制定监控指标及阈值表是为了（ ）。",
+    "options": [
+      "A. 监控工具能提供有效监控",
+      "B. 评估技术研发效果",
+      "C. 确定技术活动标准操作流程",
+      "D. 制定应急预案"
+    ],
+    "answer": "A",
+    "explanation": "根据需方业务和信息系统服务需求识别出各类监控对象的监控指标和阈值，是监 控工具能提供有效监控的基本要求。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0135",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "制定测试环境建设计划时，需考虑的因素不包括（ ）。",
+    "options": [
+      "A. 服务内容",
+      "B. 服务成本",
+      "C. 客户的技术水平",
+      "D. 客户期望"
+    ],
+    "answer": "C",
+    "explanation": "在设计实现阶段，系统规划与管理师应根据服务内容，在考虑服务成本和客户期 望的前提下制订仿真测试环境建设计划，不考虑客户的技术水平。出自12.2.4 技术要 素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0136",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "解决问题的技术中，制定技术活动标准操作流程的作用是（ ）。",
+    "options": [
+      "A. 提高技术人员的工作积极性",
+      "B. 降低风险、提高效率",
+      "C. 增加技术活动的创新性",
+      "D. 规范技术人员的行为规范"
+    ],
+    "answer": "B",
+    "explanation": "制定技术活动标准操作流程，指导信息系统服务人员进行标准化的操作，以降低 风险、提高效率。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0137",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "制定应急预案的目的是（ ）。",
+    "options": [
+      "A. 避免重大突发事件发生或发生后及时恢复",
+      "B. 规范应急处理流程",
+      "C. 提高应急处理能力",
+      "D. 降低应急处理成本"
+    ],
+    "answer": "A",
+    "explanation": "为了避免出现重大突发事件或出现后及时恢复，应建立相应的应急预案及演练计 划。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0138",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "过程要素设计中，常见的信息系统服务管理过程不包括（ ）。",
+    "options": [
+      "A. 服务营销管理过程",
+      "B. 服务级别管理过程",
+      "C. 事件管理过程",
+      "D. 配置管理过程"
+    ],
+    "answer": "A",
+    "explanation": "常见的信息系统服务管理过程包括服务级别管理过程、服务报告管理过程、事件 管理过程、问题管理过程、配置管理过程、变更管理过程、发布管理过程、信息安全管 理过程，不包括服务营销管理过程。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0139",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师在对服务级别管理过程进行设计时，关键指标不包括（ ）。",
+    "options": [
+      "A. 服务报告的及时性",
+      "B. 服务目录定义的完整性",
+      "C. 签订服务级别协议文件的规范性",
+      "D. SLA 考核评估机制的有效性和完整性"
+    ],
+    "answer": "A",
+    "explanation": "服务级别管理的关键指标包括服务目录定义的完整性、签订服务级别协议文件的 规范性以及SLA 考核评估机制的有效性和完整性，服务报告的及时性是服务报告管理 的关键指标。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0140",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务报告管理过程设计中，确定报告内容和频度的依据是（ ）。",
+    "options": [
+      "A. 服务需求和项目干系人的需要",
+      "B. 服务级别协议",
+      "C. 服务成本",
+      "D. 服务质量"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师在对服务报告管理过程进行设计时，应根据服务需求和项目干 系人的需要，设计报告的内容和频度。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0141",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "事件管理过程设计中，建立事件分类、分级机制的目的是（ ）。",
+    "options": [
+      "A. 方便对事件进行管理和处理",
+      "B. 确定事件的责任主体",
+      "C. 评估事件的影响范围",
+      "D. 提高事件处理效率"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师在对事件管理过程进行设计时，根据服务对象的技术特性和资 源配备情况对事件进行分类和分级，方便对事件进行管理和处理。出自12.2.5 过程要 素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0142",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "事件管理的关键指标包括（ ）。",
+    "options": [
+      "A. 事件管理过程的完整性、有效性，事件解决评估机制的有效性",
+      "B. 问题管理过程的完整性，问题解决评估机制的有效性",
+      "C. 配置管理过程的完整性，配置数据的准确、完整、有效、可用、可追溯",
+      "D. 变更管理过程的完整性，变更记录的完整性"
+    ],
+    "answer": "A",
+    "explanation": "事件管理的关键指标包括事件管理过程的完整性、有效性，事件解决评估机制的 有效性等。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0143",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "问题管理过程设计中，重点关注的是（ ）。",
+    "options": [
+      "A. 事件与问题转换的处理方式",
+      "B. 问题的分类和分级",
+      "C. 问题管理活动的顺序",
+      "D. 问题解决评估机制"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师在对问题管理过程进行设计时，重点关注事件与问题转换的处 理方式。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0144",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "配置管理过程设计中，设计配置管理范围和颗粒度的依据是（ ）。",
+    "options": [
+      "A. 提供的信息系统服务特性以及相关资产的管理权限",
+      "B. 服务需求和项目干系人的需要",
+      "C. 服务级别协议",
+      "D. 服务成本"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师在对配置管理过程进行设计时，应根据提供的信息系统服务特 性以及相关资产的管理权限，设计配置管理的范围和颗粒度。出自12.2.5 过程要素设 计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0145",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "配置管理的关键指标不包括（ ）。",
+    "options": [
+      "A. 配置管理过程的完整性",
+      "B. 配置数据的准确性、完整性、有效性、可用性、可追溯性",
+      "C. 配置项审计机制的有效性",
+      "D. 变更管理过程的完整性"
+    ],
+    "answer": "D",
+    "explanation": "配置管理的关键指标包括配置管理过程的完整性，配置数据的准确、完整、有效、 可用、可追溯，配置项审计机制的有效性等，变更管理过程的完整性是变更管理的关键 指标。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0146",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "变更管理过程设计中，定义变更管理控制范围的依据是（ ）。",
+    "options": [
+      "A. 服务模式的特征",
+      "B. 服务需求和项目干系人的需要",
+      "C. 服务级别协议",
+      "D. 服务成本"
+    ],
+    "answer": "A",
+    "explanation": "变更管理的控制范围需要根据服务模式的特征来确定，以确保变更管理活动的针 对性和有效性。不同服务模式下的变更管理需求和复杂程度可能不同。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0147",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "变更管理的关键指标包括（ ）。",
+    "options": [
+      "A. 变更管理过程的完整性，变更记录的完整性",
+      "B. 问题管理过程的完整性，问题解决评估机制的有效性",
+      "C. 事件管理过程的完整性，事件解决评估机制的有效性",
+      "D. 配置管理过程的完整性，配置数据的准确、完整、有效、可用、可追溯"
+    ],
+    "answer": "A",
+    "explanation": "变更管理的关键指标包括变更管理过程的完整性、变更记录的完整性等。答案选 A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0148",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "发布管理过程设计中，设计发布管理范围、分类、分级和活动顺序的依据不包括 ( ) 。",
+    "options": [
+      "A. 变更管理的设计",
+      "B. 服务成本",
+      "C. 资源的配置情况",
+      "D. 对信息系统资产的管理权限"
+    ],
+    "answer": "B",
+    "explanation": "系统规划与管理师在对发布管理过程进行设计时，应根据变更管理的设计、资源 的配置情况和对信息系统资产的管理权限，设计发布管理的范围、分类、分级和活动顺 序，不包括服务成本。答案选B。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0149",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "发布管理的关键指标包括（ ）。",
+    "options": [
+      "A. 发布管理过程的完整性以及发布过程记录的完整性、准确性",
+      "B. 变更管理过程的完整性，变更记录的完整性",
+      "C. 事件管理过程的完整性，事件解决评估机制的有效性",
+      "D. 配置管理过程的完整性，配置数据的准确、完整、有效、可用、可追溯"
+    ],
+    "answer": "A",
+    "explanation": "发布管理的关键指标包括发布管理过程的完整性以及发布过程记录的完整性、准 确性等。答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0150",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息安全管理过程设计中，识别服务中的信息安全风险的依据是（ ）。",
+    "options": [
+      "A. 客户业务特征和服务管理要求",
+      "B. 服务需求和项目干系人的需要",
+      "C. 服务级别协议",
+      "D. 服务成本"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师在对信息安全管理过程进行设计时，应根据客户业务特征和服 务管理要求，识别服务中的信息安全风险。答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0151",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息安全管理的关键指标是（ ）。",
+    "options": [
+      "A. 信息的保密性、可用性和完整性",
+      "B. 服务报告的及时性、准确性",
+      "C. 事件管理过程的完整性、有效性",
+      "D. 配置管理过程的完整性，配置数据的准确、完整、有效、可用、可追溯"
+    ],
+    "answer": "A",
+    "explanation": "信息安全管理的关键指标信息的保密性、可用性和完整性等。答案选A。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0152",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "定期对供应商进行审核评估，确保供应商具备配套的能力要求，供应商的审核可从 多个方面考虑，其中不包括（ ）。",
+    "options": [
+      "A. 响应能力",
+      "B. 员工福利水平",
+      "C. 问题解决能力",
+      "D. 人员稳定性"
+    ],
+    "answer": "B",
+    "explanation": "供应商的审核可从响应能力、问题解决能力、问题解决效率、人员稳定性、客户 反馈、合作氛围等6 个方面考虑，不包括员工福利水平。答案选B。出自12.3.1 业 务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0153",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师提升与第三方的关系，通过信息收集分享活动，应按照（ ）原 则，确立与第三方的信息共享内容及范围等。",
+    "options": [
+      "A. 5W1",
+      "B. B.4W2",
+      "C. C.3W3",
+      "D. D.6W"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师按照5W1H（原因Why、对象What、地点Where、时间When、人 员Who、方法How）原则，确立与第三方的信息共享内容及范围、信息共享流程等。答 案 选A。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0154",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止是服务生命周期的最后阶段，系统规划与管理师在该阶段不负责以下 哪项工作（ ）。",
+    "options": [
+      "A. 组织召开评审会议",
+      "B. 制订服务改进计划",
+      "C. 评估服务终止风险",
+      "D. 释放并回收资源"
+    ],
+    "answer": "B",
+    "explanation": "在服务退役终止过程中，系统规划与管理师主要负责组织召开评审会议、制订服 务退役计划、评估服务终止风险、释放并回收资源、整理项目数据和资料等工作。制订 服务改进计划属于服务改进阶段的工作。答案选B。出自12.4 服务退役终止部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0155",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，系统规划与管理师应建立服务终止的风险列表，所面临的风险 一般不包括（ ）。",
+    "options": [
+      "A. 市场风险",
+      "B. 数据风险",
+      "C. 法律法规风险",
+      "D. 信息安全风险"
+    ],
+    "answer": "A",
+    "explanation": "在服务退役终止过程中，所面临的风险一般有数据风险、业务连续性风险、法律 法规风险和信息安全风险，不包括市场风险。答案选A。出自12.4.2 风险控制部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0156",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在服务退役终止阶段，数据风险不包括（ ）。",
+    "options": [
+      "A. 数据泄露",
+      "B. 数据优化",
+      "C. 数据滥用",
+      "D. 非法访问"
+    ],
+    "answer": "B",
+    "explanation": "在服务退役终止阶段，可能涉及的数据风险主要包括数据泄露、数据篡改、数据 滥用、违规传输、非法访问，不包括数据优化。答案选B。出自12.4.2 风险控制部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0157",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务进入退役终止阶段，可能引起业务连续性风险，其中服务人员变动风险是指 ( ) 。",
+    "options": [
+      "A. 服务团队不稳定，关键岗位人员离职可能导致服务质量下降",
+      "B. 服务团队成员技术水平下降",
+      "C. 服务团队成员工作积极性降低",
+      "D. 服务团队成员之间沟通不畅"
+    ],
+    "answer": "A",
+    "explanation": "服务进入退役终止阶段，服务团队面临解散，团队成员，特别是关键岗位的人员 离职，可能会导致服务质量的下降，给客户业务的连续性带来风险。答案选A。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0158",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "法律法规风险是指在服务过程中涉及的合同、协议等方面存在法律风险，若处理不 当可能导致（ ）。",
+    "options": [
+      "A. 服务供方受到经济损失和声誉损害",
+      "B. 服务需方受到经济损失",
+      "C. 服务双方合作关系破裂",
+      "D. 服务无法按时交付"
+    ],
+    "answer": "A",
+    "explanation": "在服务退役终止阶段，如果在合同等条款和关键信息上存在问题，发生违约等事 件后难以达成一致，可能会导致服务供方受到巨大的经济损失和声誉损害。答案选A。 出自12.4.2 风险控制部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0159",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息安全风险在服务退役终止阶段可能发生，原因不包括（ ）。",
+    "options": [
+      "A. 客户内部监督管控到位",
+      "B. 服务供方保密培训不到位",
+      "C. 服务人员利益驱使",
+      "D. 接触客户隐私数据和内部文件材料"
+    ],
+    "answer": "A",
+    "explanation": "服务退役终止阶段，若客户内部的监督管控不到位，服务供方的保密培训不到位， 或者服务人员出于利益驱使，可能导致数据和信息的对外泄密，A 选项客户内部监督管 控到位不是信息安全风险发生的原因。答案选A。出自12.4.2 风险控制部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0160",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，系统规划与管理师应做好文件归档工作，项目文件一般不包括 ( ) 。",
+    "options": [
+      "A. 服务团队成员个人简历",
+      "B. 服务日志",
+      "C. 项目计划",
+      "D. 合同文档"
+    ],
+    "answer": "A",
+    "explanation": "服务项目文档一般应包括服务日志、项目计划（项目章程、项目范围说明书及风 险管理计划等）、项目来往函件、项目会议记录等，不包括服务团队成员个人简历。答 案选A。出自12.4.3 资源回收部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0161",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，关于财务资源回收，说法错误的是（ ）。",
+    "options": [
+      "A. 项目账目收尾是服务退役终止阶段针对项目团队成员的内部流程",
+      "B. 项目账目编码应在项目结束时及时撤销",
+      "C. 项目账目编码的撤销只能由系统规划与管理师提出请求",
+      "D. 超过项目结束日期，组织一般不再为项目采购资源"
+    ],
+    "answer": "C",
+    "explanation": "项目账目编码的撤销应由系统规划与管理师通过书面形式向负责财务的部门提 出请求，或由财务部门向系统规划与管理师和相关部门提出通知，并非只能由系统规划 与管理师提出请求，C 选项说法错误。答案选C。出自12.4.3 资源回收部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0162",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役或终止后，系统规划与管理师对人力资源回收的做法，错误的是（ ）。",
+    "options": [
+      "A. 及时把服务团队成员送回到服务项目管理部门",
+      "B. 忽视团队成员的贡献和牺牲",
+      "C. 保证团队成员得到相应回报或肯定",
+      "D. 谨慎处理团队解散工作"
+    ],
+    "answer": "B",
+    "explanation": "服务退役或终止后，系统规划与管理师应根据服务终止计划及时把服务团队成员 送回到服务项目管理部门，要重视团队成员的贡献和牺牲，保证团队成员都能为自己的 付出得到相应的回报或者肯定，谨慎处理团队解散工作，B 选项做法错误。答案选B。 出自12.4.3 资源回收部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0163",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，基础设施资源回收时，系统规划与管理师需检查设备或工具的 ( ) 。",
+    "options": [
+      "A. 说明文件或操作手册是否被修改",
+      "B. 采购价格",
+      "C. 生产厂家",
+      "D. 市场价值"
+    ],
+    "answer": "A",
+    "explanation": "在服务项目结束后，系统规划与管理师要负责检查设备或工具的说明文件或操作 手册，以确定它们是否被修改，不检查采购价格、生产厂家和市场价值。答案选A。出 自12.4.3 资源回收部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0164",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，信息处置工作中，确定要转移或清除的信息资产后，下一步是 ( ) 。",
+    "options": [
+      "A. 制定信息资产的处理方式和处理流程",
+      "B. 按照处理方式和流程进行转移和清除",
+      "C. 监控实施过程",
+      "D. 记录转移和清除过程"
+    ],
+    "answer": "A",
+    "explanation": "信息转移和清除时，确定要转移或清除的信息资产后，下一步是制定信息资产的 处理方式和处理流程，如果包含敏感或涉密信息，应按照国家相关部门的规定进行转移 和清除。答案选A。出自12.4.4 信息处置部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0165",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，存储介质清除或销毁过程中，根据存储介质承载信息的敏感程 度制定处理方案，处理方案不包括（ ）。",
+    "options": [
+      "A. 数据清除",
+      "B. 存储介质维修",
+      "C. 存储介质销毁",
+      "D. 按规定处理敏感信息"
+    ],
+    "answer": "B",
+    "explanation": "根据存储介质承载信息的敏感程度制定对存储介质的处理方案，包括数据清除和 存储介质销毁等，如存储介质包含敏感信息，应按照国家相关部门的规定进行处理，不 包括存储介质维修。答案选B。出自12.4.4 信息处置部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0166",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "持续改进与监督活动贯穿信息系统服务的全生命周期，主要活动不包括（ ）。",
+    "options": [
+      "A. 服务开发管理",
+      "B. 服务风险管理",
+      "C. 服务测量",
+      "D. 服务质量管理"
+    ],
+    "answer": "A",
+    "explanation": "持续改进与监督环节的主要活动包括服务风险管理、服务测量、服务质量管理、 服务回顾及服务改进5 项活动，不包括服务开发管理。答案选A。出自12.5 持续改进 与监督部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0167",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "风险是在实现服务目标过程中带来的不确定性和可能发生的危险，信息系统服务提 供过程中的风险不包括（ ）。",
+    "options": [
+      "A. 人员风险",
+      "B. 市场风险",
+      "C. 技术风险",
+      "D. 过程风险"
+    ],
+    "answer": "B",
+    "explanation": "信息系统服务提供过程中的风险通常包括人员、技术、资源、过程和其他方面， 不包括市场风险。答案选B。出自12.5.1 服务风险管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0168",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务测量的目标是（ ）。",
+    "options": [
+      "A. 监视、测量并评审服务及服务管理目标的完成情况，为服务改进提供依据",
+      "B. 评估服务团队的工作效率",
+      "C. 确定服务成本",
+      "D. 制定服务级别协议"
+    ],
+    "answer": "A",
+    "explanation": "服务测量的目标是监视、测量并评审服务及服务管理目标的完成情况，分析与服 务计划的差距，并为服务改进提供依据。答案选A。出自12.5.2 服务测量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0169",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务测量活动中，属于服务人员测量的是（ ）。",
+    "options": [
+      "A. 识别备份工程师对项目的满足度和可用性",
+      "B. 测量服务台接听率",
+      "C. 识别研发规划",
+      "D. 服务级别分析"
+    ],
+    "answer": "A",
+    "explanation": "识别备份工程师对项目的满足度和可用性属于服务人员测量；测量服务台接听率 属于服务资源测量；识别研发规划属于服务技术测量；服务级别分析属于服务过程测量。 答案选A。出自12.5.2 服务测量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0170",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务资源测量中，关于服务台的关键测量指标不包括（ ）。",
+    "options": [
+      "A. 问题解决率",
+      "B. 接听率",
+      "C. 派单准确率",
+      "D. 录单率"
+    ],
+    "answer": "A",
+    "explanation": "服务台关键测量指标包括接听率、派单准确率、录单率、平均通话时间，不包括 问题解决率。答案选A。出自12.5.2 服务测量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0171",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务技术测量主要包括多项内容，其中根据事件分类进行SOP 覆盖率定期统计属 于( ) 。",
+    "options": [
+      "A. 识别研发规划",
+      "B. 技术手册及SOP 统计",
+      "C. 应急预案实施统计",
+      "D. 监控点和阈值统计"
+    ],
+    "answer": "B",
+    "explanation": "根据事件分类进行SOP 覆盖率的定期统计属于技术手册及SOP 统计。答案选B。 出自12.5.2 服务测量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0172",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务过程测量活动中，事件统计分析的内容不包括（ ）。",
+    "options": [
+      "A. 重大事件回顾",
+      "B. 服务SLA 达成率分析",
+      "C. 事件统计和分析",
+      "D. 汇总和发布"
+    ],
+    "answer": "B",
+    "explanation": "事件统计分析内容包括重大事件回顾、事件统计和分析、汇总和发布等；服务SLA 达成率分析属于服务级别分析的内容。答案选B。出自12.5.2 服务测量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0173",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "GB/T 33850—2017《信息技术服务质量评价指标体系》提出的信息技术服务质量模 型中，服务质量特性不包括（ ）。",
+    "options": [
+      "A. 高效性",
+      "B. 安全性",
+      "C. 可靠性",
+      "D. 友好性"
+    ],
+    "answer": "A",
+    "explanation": "该模型定义了服务质量的5 类特性：安全性、可靠性、响应性、有形性、友好性， 不包括高效性。答案选A。出自12.5.3 服务质量管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0174",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务质量管理活动包括服务质量策划、服务质量检查和（ ）。",
+    "options": [
+      "A. 服务质量改进",
+      "B. 服务质量评估",
+      "C. 服务质量监督",
+      "D. 服务质量验收"
+    ],
+    "answer": "A",
+    "explanation": "服务质量管理活动包括服务质量策划、服务质量检查、服务质量改进等。答案选 A。出自12.5.3 服务质量管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0175",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务质量策划中，确定服务质量管理相关的职责和权限是难点和重点，若某过程质 量职能未明确，可能出现（ ）。",
+    "options": [
+      "A. 推诿扯皮现象",
+      "B. 服务质量提升",
+      "C. 职责明确分工",
+      "D. 高效协作"
+    ],
+    "answer": "A",
+    "explanation": "服务质量策划的难点和重点就是落实质量职责和权限。如果某一个过程所涉及的 质量职能未能明确，没有文件给予具体规定，会出现推诿扯皮现象。答案选A。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0176",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务管理在新一代信息技术发展背景下面临诸多挑战，其中业务需求快速 迭代会导致（ ）。",
+    "options": [
+      "A. 技术架构更加稳定",
+      "B. 服务管理难度增加",
+      "C. 管理规模缩小",
+      "D. 服务成本降低"
+    ],
+    "answer": "B",
+    "explanation": "随着业务需求快速迭代，信息系统服务管理需要不断调整和适应，这无疑会增加 服务管理的难度。而技术架构会因业务需求迭代更复杂，管理规模可能增大，服务成本 也可能上升。答案选B。出自第12 章引言部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0177",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务战略规划中，若未有效进行服务级别设计，可能导致的后果是（ ）。",
+    "options": [
+      "A. 服务成本降低",
+      "B. 客户满意度提高",
+      "C. 服务能力过剩",
+      "D. 服务可用性低"
+    ],
+    "answer": "D",
+    "explanation": "如果未进行有效的规划设计，信息系统服务就很难充分满足客户的需求，还可能 会造成信息系统服务可用性低、服务能力不足、预算超支等问题，从而导致客户满意度 的下降。答案选D。出自12.1 服务战略规划部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0178",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在服务目录管理中，服务目录是（ ）的集中信息来源。",
+    "options": [
+      "A. 服务供方为客户所提供服务",
+      "B. 客户对服务需求",
+      "C. 服务市场动态",
+      "D. 服务技术发展"
+    ],
+    "answer": "A",
+    "explanation": "服务目录是服务供方为客户所提供服务的集中信息来源，定义了服务供方所提供 服务的全部种类和目标。答案选A。出自12.1.2 服务目录管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0179",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务目录管理活动中，编制服务详述时不需要描述的内容是（ ）。",
+    "options": [
+      "A. 服务的市场前景",
+      "B. 服务内容",
+      "C. 服务目标",
+      "D. 技术实现方法"
+    ],
+    "answer": "A",
+    "explanation": "服务详述主要描述服务内容、服务目标和技术实现方法等，但不需要描述服务的 市场前景。市场前景是市场分析的内容，不属于服务详述的范畴。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0180",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "客户对信息系统服务的价格需求识别中，服务供方的服务成本不包括（ ）。",
+    "options": [
+      "A. 广告宣传成本",
+      "B. 设备成本",
+      "C. 人力成本",
+      "D. 第三方支持成本"
+    ],
+    "answer": "A",
+    "explanation": "从服务供方的角度来看，服务成本主要包括设备成本、软件成本、人力成本、第 三方支持成本、管理成本和其他成本等，不包含广告宣传成本。答案选A。出自12.1.3 服务需求识别部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0181",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在服务需求识别的可用性需求识别中，平均故障修复时间（MTTR）是指（ ）。",
+    "options": [
+      "A. 从一次事件中恢复到下一次事件发生之间的平均间隔时间",
+      "B. 故障发生和服务恢复之间的平均时间",
+      "C. 两次相邻事件之间的间隔时间",
+      "D. 系统运行时间与故障次数的比值"
+    ],
+    "answer": "B",
+    "explanation": "平均故障修复时间(MTTR)是故障发生和服务恢复之间的平均时间，是检测时间与 解决时间之和，也称为宕机时间。答案选B。出自12.1.3 服务需求识别部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0182",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务能力需求识别中，对未来能力需求的把握对组织的主要作用是（ ）。",
+    "options": [
+      "A. 提高员工工作效率",
+      "B. 增强组织的竞争力",
+      "C. 降低服务成本",
+      "D. 提升服务质量"
+    ],
+    "answer": "B",
+    "explanation": "对未来能力需求的把握，从某种程度上来说，这是能力管理对于组织的竞争力产 生积极作用的主要体现。答案选B。出自12.1.3 服务需求识别部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0183",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务级别协议（SLA）是在一定成本控制下，为保障服务的性能和可靠性，由（ ） 定义的一种双方认可的协定。",
+    "options": [
+      "A. 服务供方与客户",
+      "B. 服务供方内部不同部门",
+      "C. 客户与监管部门",
+      "D. 服务供方与第三方"
+    ],
+    "answer": "A",
+    "explanation": "服务级别协议(SLA)是在一定成本控制下，为保障服务的性能和可靠性，服务供 方与客户间定义的一种双方认可的协定。答案选A。出自12.1.4 服务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0184",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "运营级别协议（OLA）是与某个内部信息服务部门就某项信息系统服务所签订的后 台协议，它的作用是（ ）。",
+    "options": [
+      "A. 规定服务价格",
+      "B. 定义所有参与方的责任",
+      "C. 确定服务范围",
+      "D. 解决服务纠纷"
+    ],
+    "answer": "B",
+    "explanation": "运营级别协议(OLA)在内部定义了所有参与方的责任，并将这些参与方联合在一 起提供某项特别服务。答案选B。出自12.1.4 服务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0185",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "支持合同（UC）与运营级别协议（OLA）的区别在于（ ）。",
+    "options": [
+      "A. UC 是正规的、具备法律效力的协议，OLA 是内部协议",
+      "B. UC 定义服务内容，OLA 定义参与方责任",
+      "C. UC 由服务级别协议内容构成，OLA 与服务级别协议无关",
+      "D. UC 用于外部合作，OLA 用于内部合作"
+    ],
+    "answer": "A",
+    "explanation": "支持合同(UC)是指服务供需双方签订的有关服务实施的正式合同，是正规的、具 备法律效力的协议；OLA 是与内部信息服务部门签订的后台协议。答案选A。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0186",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务设计实现阶段，服务方案设计的核心地位体现在（ ）。",
+    "options": [
+      "A. 它是服务模式设计的前提",
+      "B. 它决定了人员要素设计的方向",
+      "C. 它是整个设计实现阶段的关键工作",
+      "D. 它直接影响服务成本的控制"
+    ],
+    "answer": "C",
+    "explanation": "服务方案设计是整个设计实现阶段的核心工作，系统规划与管理人员需要综合考 虑服务供需双方以及第三方的能力和要求，设计出让各方满意的信息系统服务方案。答 案选C。出自12.2 服务设计实现部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0187",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务模式设计中，选择服务模式时需要考虑服务供方的人员和资源配置， 这是为了确保（ ）。",
+    "options": [
+      "A. 服务模式的创新性",
+      "B. 服务的顺利交付",
+      "C. 服务成本的降低",
+      "D. 服务技术的先进性"
+    ],
+    "answer": "B",
+    "explanation": "服务供方的人员和资源配置与所设计的服务模式相匹配，才能保障服务的顺利交 付。答案选B。出自12.2.1 服务模式设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0188",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "远程服务中的远程集中监控，服务供方通过（ ）对客户的信息系统进行实时监控。",
+    "options": [
+      "A. 特定的监控平台",
+      "B. 电话",
+      "C. 邮件",
+      "D. 远程登录"
+    ],
+    "answer": "A",
+    "explanation": "远程服务的远程集中监控方式是服务供方通过特定的监控平台，对客户的信息系 统进行实时监控。答案选A。出自12.2.1 服务模式设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0189",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在人员要素设计中，信息系统服务团队的管理岗负责对需方信息系统服务需求进行 管理，其重点工作是（ ）。",
+    "options": [
+      "A. 对需求进行筛选",
+      "B. 挖掘、分析和传递需方真实需求",
+      "C. 制定服务方案",
+      "D. 监督需求执行情况"
+    ],
+    "answer": "B",
+    "explanation": "管理岗应重点关注对需方真实需求的挖掘、分析和信息传递，建立与需方的沟通 渠道和沟通机制，整理需求，并将需求完整、准确、及时传送至供方相关岗位。答案选 B。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0190",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "技术支持岗人员的专业技术能力通常与（ ）挂钩。",
+    "options": [
+      "A. 学历水平",
+      "B. 行业认可的培训、认证",
+      "C. 工作年限",
+      "D. 沟通能力"
+    ],
+    "answer": "B",
+    "explanation": "专业技术能力是指具有对应岗位需要的专业知识和技能，通常与该专业被行业认 可的培训、认证挂钩。答案选B。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0191",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "操作岗执行服务交付过程时，依据的操作手册应由（ ）制定。",
+    "options": [
+      "A. 管理岗",
+      "B. 技术支持岗",
+      "C. 操作岗自行",
+      "D. 服务供方统一"
+    ],
+    "answer": "D",
+    "explanation": "操作岗按照信息系统服务规范和操作手册执行服务交付过程，操作手册应由服务 供方统一制定。答案选D。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0192",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员绩效方案设计中，明确考核信息来源后，系统规划与管理人员应（ ）。",
+    "options": [
+      "A. 定义绩效考核周期",
+      "B. 设计绩效考核策略",
+      "C. 制定绩效指标计算方法",
+      "D. 确定绩效指标"
+    ],
+    "answer": "C",
+    "explanation": "人员绩效方案设计流程为确定绩效指标、明确考核信息来源、制定绩效指标计算 方法、定义绩效考核周期、设计绩效考核策略。答案选C。出自12.2.2 人员要素设计 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0193",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员培训方案设计的培训需求分析中，通过高层访谈主要了解（ ）。",
+    "options": [
+      "A. 员工对培训的期望",
+      "B. 管理层所需收获的能力",
+      "C. 培训的形式需求",
+      "D. 培训的时间需求"
+    ],
+    "answer": "B",
+    "explanation": "高层访谈在培训需求分析中主要用于了解管理层所需收获的能力，以确保培训内 容符合组织战略和业务需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0194",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员培训方案设计的培训内容中，过程培训的主要对象是（ ）。",
+    "options": [
+      "A. 服务活动中的操作人员以及与之相关的其他人员",
+      "B. 管理人员",
+      "C. 技术人员",
+      "D. 新入职员工"
+    ],
+    "answer": "A",
+    "explanation": "过程管理主要对象是服务活动中的操作人员以及与之相关的其他人员，过程培训 包括信息系统服务活动中各个过程的规范、与SLA 相关的指标、考核制度等。答案选A。 出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0195",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在资源要素设计的服务工具设计中，过程管理类工具提供的流程不包括（ ）。",
+    "options": [
+      "A. 服务级别管理",
+      "B. 服务需求管理",
+      "C. 事件(故障)管理",
+      "D. 变更管理"
+    ],
+    "answer": "B",
+    "explanation": "过程管理类工具提供了面向最终用户的服务台及服务运营层次的流程，即服务级 别管理、服务报告管理、事件(故障)管理、问题管理、配置管理、变更管理和发布管理 等，不包括服务需求管理。答案选B。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0196",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务台设计时，设定专人负责服务请求的处理，主要目的是（ ）。",
+    "options": [
+      "A. 提高处理效率",
+      "B. 明确责任",
+      "C. 便于管理",
+      "D. 提升服务质量"
+    ],
+    "answer": "B",
+    "explanation": "设定专人负责服务请求的处理，主要是为了明确责任，确保服务请求得到及时有 效的处理。答案选B。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0197",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "备件库设计中，备件响应方式和级别定义的依据是（ ）。",
+    "options": [
+      "A. 备件的成本",
+      "B. SLA 所约定的备件支持",
+      "C. 备件的供应商",
+      "D. 备件的使用频率"
+    ],
+    "answer": "B",
+    "explanation": "备件响应方式和级别定义，应能够满足SLA 所约定的备件支持。答案选B。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0198",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "知识库设计时，选择合适的知识管理策略应考虑组织的文化和管理模式、知识的类 型和特点以及（ ）。",
+    "options": [
+      "A. 知识的更新速度",
+      "B. 知识管理工具的功能",
+      "C. 知识的应用场景",
+      "D. 知识的获取难度"
+    ],
+    "answer": "B",
+    "explanation": "选择一种合适的知识管理策略需考虑组织的文化和管理模式、知识的类型和特点、 知识管理工具的功能等。答案选B。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0199",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "技术要素设计中，制定监控指标及阈值表的依据是（ ）。",
+    "options": [
+      "A. 服务成本和客户期望",
+      "B. 需方业务和信息系统服务需求",
+      "C. 技术研发预算",
+      "D. 服务团队的技术水平"
+    ],
+    "answer": "B",
+    "explanation": "根据需方业务和信息系统服务需求识别出各类监控对象的监控指标和阈值，是监 控工具能提供有效监控的基本要求。答案选B。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0200",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "制定测试环境建设计划时，在考虑服务成本和客户期望的前提下，还需依据（ ）。",
+    "options": [
+      "A. 服务内容",
+      "B. 技术研发计划",
+      "C. 服务人员数量",
+      "D. 服务工具的使用情况"
+    ],
+    "answer": "A",
+    "explanation": "在设计实现阶段，系统规划与管理师应根据服务内容，在考虑服务成本和客户期 望的前提下制订仿真测试环境建设计划。答案选A。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0201",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "解决问题的技术中，制定应急预案的目的不包括（ ）。",
+    "options": [
+      "A. 避免重大突发事件发生",
+      "B. 对重大突发事件进行风险评估",
+      "C. 在事件发生后及时恢复",
+      "D. 降低突发事件造成的损失"
+    ],
+    "answer": "B",
+    "explanation": "制定应急预案是为了避免出现重大突发事件或出现后及时恢复，降低损失，而风 险评估是制定应急预案前的工作，并非目的。答案选B。出自12.2.4 技术要素设计部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0202",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在技术要素设计中，完成知识转移的作用不包括（ ）。",
+    "options": [
+      "A. 提高服务技术的支撑能力",
+      "B. 增加服务成本",
+      "C. 提升服务效率",
+      "D. 降低风险"
+    ],
+    "answer": "B",
+    "explanation": "完备的知识可提高信息系统服务技术的支撑能力，降低风险，缩减成本，提升效 率，不会增加服务成本。答案选B。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0203",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "过程要素设计中，常见信息系统服务管理过程中的事件管理过程须确保（ ）。",
+    "options": [
+      "A. 服务供方具有准确检知事件、及时解决事件的能力",
+      "B. 服务供方通过识别引起事件的原因并解决问题",
+      "C. 配置数据的可靠性和时效性",
+      "D. 服务供方通过管理、控制变更的过程，确保变更有序实施"
+    ],
+    "answer": "A",
+    "explanation": "事件管理过程须确保服务供方具有准确检知事件、及时解决事件的能力；B 选项 是问题管理过程的目标；C 选项是配置管理过程的目标；D 选项是变更管理过程的目标。 答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0204",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师在对服务报告管理过程进行设计时，服务报告管理过程设计的主 要活动不包括（ ）。",
+    "options": [
+      "A. 建立服务目录",
+      "B. 确定与服务报告过程一致的活动",
+      "C. 制订服务报告计划",
+      "D. 建立服务报告模板"
+    ],
+    "answer": "A",
+    "explanation": "服务报告管理过程设计的主要活动包括确定与服务报告过程一致的活动、制订服 务报告计划、建立服务报告模板；建立服务目录属于服务级别管理过程设计的活动。答 案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0205",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务级别管理过程设计的关键指标包括服务目录定义的完整性、签订服务级别协议 文件的规范性以及（ ）。",
+    "options": [
+      "A. 服务报告的及时性",
+      "B. 事件解决评估机制的有效性",
+      "C. SLA 考核评估机制的有效性和完整性",
+      "D. 配置管理过程的完整性"
+    ],
+    "answer": "C",
+    "explanation": "服务级别管理的关键指标包括服务目录定义的完整性、签订服务级别协议文件的 规范性以及SLA 考核评估机制的有效性和完整性。答案选C。出自12.2.5 过程要素 设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0206",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "事件管理过程设计中，建立事件分类、分级机制是为了（ ）。",
+    "options": [
+      "A. 方便对事件进行处理和管理",
+      "B. 确定事件的责任部门",
+      "C. 评估事件的严重程度",
+      "D. 制定事件的处理流程"
+    ],
+    "answer": "A",
+    "explanation": "系统规划与管理师在对事件管理过程进行设计时，根据服务对象的技术特性和资 源配备情况对事件进行分类和分级，方便对事件进行管理和处理。答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0207",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "问题管理过程设计中，重点关注事件与问题转换的处理方式，目的是（ ）。",
+    "options": [
+      "A. 预防同类事件重复发生",
+      "B. 提高问题解决效率",
+      "C. 明确问题的责任主体",
+      "D. 优化问题处理流程"
+    ],
+    "answer": "A",
+    "explanation": "问题管理过程须确保供方通过识别引起事件的原因并解决问题，预防同类事件重 复发生，重点关注事件与问题转换的处理方式也是为此目的。答案选A。出自12.2.5 过 程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0208",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务运营提升的目的中，不包括（ ）。",
+    "options": [
+      "A. 提高服务价格",
+      "B. 持续改进服务质量",
+      "C. 改善需方服务感受",
+      "D. 提升服务效率"
+    ],
+    "answer": "A",
+    "explanation": "服务运营提升是以持续改进服务质量、改善需方服务感受或降低服务成本、提升 服务效率为目的，不包括提高服务价格。答案选A。出自12.3 服务运营提升部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0209",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在客户关系管理中，定期沟通的主要内容包括供需双方对服务达成情况的总结回顾、 重点问题的协商处理以及（ ）。",
+    "options": [
+      "A. 客户业务拓展计划",
+      "B. 确立后续改进计划",
+      "C. 服务人员培训计划",
+      "D. 服务成本分析"
+    ],
+    "answer": "B",
+    "explanation": "定期沟通的主要内容包括供需双方对服务达成情况的总结回顾，重点问题的协商 处理及确立后续改进计划等。答案选B。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0210",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在信息系统服务运营过程中，高层拜访的时机不包括（ ）。",
+    "options": [
+      "A. 重要支持事件",
+      "B. 服务团队内部调整",
+      "C. 投诉处理",
+      "D. 重大项目交付"
+    ],
+    "answer": "B",
+    "explanation": "在服务运营过程中，高层拜访的时机特别是重要支持事件、投诉处理等，不包括 服务团队内部调整。答案选B。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0211",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "投诉管理属于应急处理机制，重视客户投诉能带来的好处不包括（ ）。",
+    "options": [
+      "A. 降低服务成本",
+      "B. 更好地提升客户对服务的感知",
+      "C. 增加与客户之间的亲切感",
+      "D. 促进客户对服务更积极的评价"
+    ],
+    "answer": "A",
+    "explanation": "重视客户投诉，对投诉进行及时有效的处理甚至可以更好地提升客户对服务的感 知，增加与客户之间的亲切感，促进客户对服务更积极的评价，不包括降低服务成本。 答案选A。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0212",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "满意度调查中的公开调查方式不包括（ ）。",
+    "options": [
+      "A. 在线直播互动",
+      "B. 电话",
+      "C. 问卷",
+      "D. 走访面谈"
+    ],
+    "answer": "A",
+    "explanation": "公开调查是以电话、问卷、网站、走访面谈等方式了解客户对信息系统服务各方 面的认知和感受，不包括在线直播互动。答案选A。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0213",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "增值服务需把握的原则中，不包括（ ）。",
+    "options": [
+      "A. 可以随意增加服务成本",
+      "B. 增值服务贴合客户需要",
+      "C. 增值服务投入在可接受的范围内",
+      "D. 本身有能力对增值服务内容进行引申"
+    ],
+    "answer": "A",
+    "explanation": "增值服务不能随意选择，需要把握不能影响现有协议约定的服务内容、增值服务 贴合客户需要、增值服务投入在可接受的范围内、本身有能力对增值服务内容进行引申 这4 个原则，不包括可以随意增加服务成本。答案选A。出自12.3.1 业务关系管理 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0214",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在客户关系管理过程中，服务相关干系人多，服务需求多样化可能导致的问题是 ( ) 。",
+    "options": [
+      "A. 服务质量提升",
+      "B. 服务难以标准化、统一化",
+      "C. 服务成本降低",
+      "D. 服务效率提高"
+    ],
+    "answer": "B",
+    "explanation": "服务相关干系人多，服务需求多样化会使服务难以标准化、统一化，原定服务资 源不足。答案选B。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0215",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "供应商关系管理的目标中，不包括（ ）。",
+    "options": [
+      "A. 与供应商建立竞争关系",
+      "B. 与供应商建立互信、有效的协作关系",
+      "C. 实现与供应商的合作共赢",
+      "D. 与供应商建立长期、紧密的业务关系"
+    ],
+    "answer": "A",
+    "explanation": "供应商关系管理的目标主要包括与供应商建立互信、有效的协作关系；整合资源， 共同开拓保持客户；与供应商建立长期、紧密的业务关系；实现与供应商的合作共赢， 不包括与供应商建立竞争关系。答案选A。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0216",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "系统规划与管理师选择供应商时，可参考的原则中不包括（ ）。",
+    "options": [
+      "A. 供应商的员工年龄结构",
+      "B. 供应商注册资本",
+      "C. 供应商已有客户规模",
+      "D. 供应商信息系统服务、信息安全相关资质"
+    ],
+    "answer": "A",
+    "explanation": "选择供应商可参考供应商注册资本、人员规模、学历及专业构成、已有客户规模、 相关资质等原则，不包括供应商的员工年龄结构。答案选A。出自12.3.1 业务关系管 理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0217",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在供应商关系管理过程中，未能提前识别并约定所有可能的情景，出现利益及责任 分配问题，可能导致的后果是（ ）。",
+    "options": [
+      "A. 供应商积极性提高",
+      "B. 服务符合客户期望",
+      "C. 供应商积极性不高",
+      "D. 团队士气提升"
+    ],
+    "answer": "C",
+    "explanation": "未能提前识别并约定所有可能的情景，出现利益及责任分配问题，会导致供应商 积极性不高。答案选C。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0218",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在第三方关系管理过程中，未能提前识别并约定所有可能的情景，出现利益及责任 分配问题，可能导致的影响是（ ）。",
+    "options": [
+      "A. 第三方配合积极性不高",
+      "B. 服务质量提升",
+      "C. 服务成本降低",
+      "D. 服务效率提高"
+    ],
+    "answer": "A",
+    "explanation": "在第三方关系管理过程中，未能提前识别并约定所有可能的情景，出现利益及责 任分配问题，会导致第三方配合积极性不高。答案选A。出自12.3.1 业务关系管理部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0219",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务营销过程中，启动准备阶段的营销准备活动不包括（ ）。",
+    "options": [
+      "A. 做好客户行业和区域的知识准备",
+      "B. 制定服务营销策略",
+      "C. 做好目标客户的营销准备",
+      "D. 熟悉自身的信息系统服务产品"
+    ],
+    "answer": "B",
+    "explanation": "服务营销准备活动包括做好成为专业销售人员的基础准备、做好客户行业和区域 的知识准备、做好目标客户的营销准备、做好现有客户信息系统服务的总结、熟悉自身 的信息系统服务产品，不包括制定服务营销策略。答案选B。出自12.3.2 服务营销管 理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0220",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务营销计划活动中，营销计划的执行需要（ ）。",
+    "options": [
+      "A. 及时记录营销过程中的问题和相关情况",
+      "B. 根据执行情况出具计划修正意见",
+      "C. 针对所有对应的服务营销对象（客户群）制订营销计划",
+      "D. 及时修正营销计划"
+    ],
+    "answer": "A",
+    "explanation": "营销计划的执行需要根据营销计划执行营销工作，并及时记录营销过程中的问题 和相关情况；B 选项是营销计划跟踪的内容；C 选项是营销计划制订的内容；D 选项是 营销计划修正的内容。答案选A。出自12.3.2 服务营销管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0221",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务营销需求调研活动中，信息化建设现状梳理的目的是（ ）。",
+    "options": [
+      "A. 收集客户信息化基础设施、数据资源等方面的现状并进行初步分析",
+      "B. 了解高层对未来组织发展的战略设想",
+      "C. 收集客户各单位、各部门未来一定时期明确的信息化需求",
+      "D. 挖掘客户潜在需求"
+    ],
+    "answer": "A",
+    "explanation": "信息化建设现状梳理是收集客户信息化基础设施、数据资源、应用系统、信息化 管理各方面的现状，并对现状进行初步分析，摸清家底。答案选A。出自12.3.2 服务 营销管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0222",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，系统规划与管理师应建立服务终止的风险列表，所面临的风险 一般不包括（ ）。",
+    "options": [
+      "A. 市场风险",
+      "B. 数据风险",
+      "C. 法律法规风险",
+      "D. 信息安全风险"
+    ],
+    "answer": "A",
+    "explanation": "在服务退役终止过程中，所面临的风险一般有数据风险、业务连续性风险、法律 法规风险和信息安全风险，不包括市场风险。答案选A。出自12.4.2 风险控制部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0223",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "法律法规风险是指在服务过程中涉及的合同、协议等方面存在法律风险，若处理不 当可能导致（ ）。",
+    "options": [
+      "A. 服务供方受到经济损失和声誉损害",
+      "B. 服务需方受到经济损失",
+      "C. 服务双方合作关系破裂",
+      "D. 服务无法按时交付"
+    ],
+    "answer": "A",
+    "explanation": "在服务退役终止阶段，如果在合同等条款和关键信息上存在问题，发生违约等事 件后难以达成一致，可能会导致服务供方受到巨大的经济损失和声誉损害。答案选A。 出自12.4.2 风险控制部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0224",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务质量策划中，确定服务质量管理相关的职责和权限是难点和重点，若某过程质 量职能未明确，可能出现（ ）。",
+    "options": [
+      "A. 推诿扯皮现象",
+      "B. 服务质量提升",
+      "C. 职责明确分工",
+      "D. 高效协作"
+    ],
+    "answer": "A",
+    "explanation": "服务质量策划的难点和重点就是落实质量职责和权限。如果某一个过程所涉及的 质量职能未能明确，没有文件给予具体规定，会出现推诿扯皮现象。答案选A。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0225",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务回顾的主要目标不包括（ ）。",
+    "options": [
+      "A. 为适当的受众回顾各种服务测量数据",
+      "B. 增加服务成本",
+      "C. 及时关注并发现客户业务需求的变化",
+      "D. 评估上个周期的服务质量"
+    ],
+    "answer": "B",
+    "explanation": "服务回顾的主要目标是为适当的受众回顾各种服务测量数据，并作为后续活动的 参考和依据；及时关注并发现客户业务需求的变化，并及时、有效地对这些需求变化做 出回应；评估上个周期的服务质量等，不包括增加服务成本。答案选B。出自12.5.4 服 务回顾部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0226",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "根据服务需方与供方不同的关注内容，服务回顾的主要活动分为（ ）。",
+    "options": [
+      "A. 与客户回顾内容和团队内部回顾内容",
+      "B. 项目回顾和日常回顾",
+      "C. 技术回顾和管理回顾",
+      "D. 短期回顾和长期回顾"
+    ],
+    "answer": "A",
+    "explanation": "根据服务需方与供方不同的关注内容，服务回顾的主要活动分为与客户回顾内容 和团队内部回顾内容。答案选A。出自12.5.4 服务回顾部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0227",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "采用四级服务回顾机制进行内外部服务回顾时，一级服务回顾针对的是（ ）。",
+    "options": [
+      "A. 重大事件、特殊事件的沟通",
+      "B. 项目月度例会",
+      "C. 项目季度回顾",
+      "D. 合作年度回顾"
+    ],
+    "answer": "A",
+    "explanation": "一级服务回顾针对重大事件、特殊事件的沟通，包括服务内容变更、客户投诉等。 答案选A。出自12.5.4 服务回顾部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0228",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在客户关系管理中，定期沟通的主要内容包括供需双方对服务达成情况的总结回顾、 重点问题的协商处理以及（ ）。",
+    "options": [
+      "A. 客户业务拓展计划",
+      "B. 确立后续改进计划",
+      "C. 服务人员培训计划",
+      "D. 服务成本分析"
+    ],
+    "answer": "B",
+    "explanation": "定期沟通的主要内容包括供需双方对服务达成情况的总结回顾，重点问题的协商 处理及确立后续改进计划等。答案选B。出自12.3.1 业务关系管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0229",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "为了科学、客观地计算服务成本，系统规划与管理师在进行服务成本度量工作时， 应充分考虑的因素不包括（ ）。",
+    "options": [
+      "A. 服务对象规模",
+      "B. 服务人员数量",
+      "C. 单位工作量",
+      "D. 调整因子"
+    ],
+    "answer": "B",
+    "explanation": "为科学、客观计算服务成本，应考虑服务对象规模、单位工作量、调整因子等因 素，不包括服务人员数量。答案选B。出自12.3.3 服务成本度量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0230",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务项目预算包括项目的收入和开支，建立服务项目预算的目的及意义不 包括( ) 。",
+    "options": [
+      "A. 增加项目成本",
+      "B. 便于形成资金使用计划",
+      "C. 便于项目资源分配",
+      "D. 评估资金使用效果"
+    ],
+    "answer": "A",
+    "explanation": "建立服务项目预算的目的及意义包括便于形成资金使用计划、便于交流资金使用 规划意图、协调资金使用活动、便于项目资源分配、提供责任计算框架、费用开支授权、 建立资金控制系统、评估资金使用效果，不包括增加项目成本。答案选A。出自12.3.4 服务项目预算、核算和结算部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0231",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "衡量项目收益的指标中，项目投资回报率的计算公式是（ ）。",
+    "options": [
+      "A. 项目投资回报率= 项目利润/ 项目投资总额×100%",
+      "B. 项目投资回报率= 项目收入总额/ 项目投资总额×100%",
+      "C. 项目投资回报率= （项目收入总额- 项目投资总额）/ 项目投资总额×100%",
+      "D. 项目投资回报率= 项目净利润/ 项目收入总额×100%"
+    ],
+    "answer": "A",
+    "explanation": "项目投资回报率的计算公式是项目投资回报率= 项目利润/ 项目投资总额× 100% 。答案选A。出自12.3.4 服务项目预算、核算和结算部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0232",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息技术服务外包给组织带来的收益中，成本效益体现在（ ）。",
+    "options": [
+      "A. 组织无需投入任何成本",
+      "B. 组织可按需采购付费，避免隐性成本",
+      "C. 组织能降低所有成本支出",
+      "D. 组织可提高服务价格获取更多利润"
+    ],
+    "answer": "B",
+    "explanation": "IT 服务外包可以选择按需采购按需付费，组织只需要提要求并对结果进行考核， 既不会产生隐性成本又能够获取专业的IT 服务外包，这体现了成本效益。答案选B。 出自12.3.5 服务外包收益部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0233",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，系统规划与管理师在沟通管理中，服务终止计划编制会议最终 形成的书面计划应包含（ ）。",
+    "options": [
+      "A. 服务改进的具体措施",
+      "B. 服务终止适用的条件",
+      "C. 服务团队未来发展规划",
+      "D. 服务费用的结算明细"
+    ],
+    "answer": "B",
+    "explanation": "服务终止计划应包括服务终止适用的条件、目标与成功要素、相关方角色与职责 等内容，不包含服务改进措施、团队未来规划和费用结算明细。答案选B。出自12.4.1 沟通管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0234",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在服务终止计划评审会议中，不需要明确的是（ ）。",
+    "options": [
+      "A. 服务改进阶段的任务分配",
+      "B. 服务终止过程中各方责任",
+      "C. 服务终止阶段需通知的第三方",
+      "D. 移交会议的相关安排"
+    ],
+    "answer": "A",
+    "explanation": "服务终止计划评审会议需明确服务终止阶段（而非改进阶段）的任务分配，还要 明确各方责任、通知的第三方以及移交会议安排等。答案选A。出自12.4.1 沟通管理 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0235",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "移交会议中，不属于知识移交内容的是（ ）。",
+    "options": [
+      "A. 服务的问题解决方案",
+      "B. 服务使用手册",
+      "C. 服务维护知识",
+      "D. 服务提供技能"
+    ],
+    "answer": "D",
+    "explanation": "知识移交可包括服务相关维护知识、服务的问题解决方案等；服务使用手册属于 文件信息移交内容；服务提供技能属于技能移交内容。答案选D。出自12.4.1 沟通管 理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0236",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段的风险控制中，数据风险不包括（ ）。",
+    "options": [
+      "A. 数据备份",
+      "B. 数据泄露",
+      "C. 数据篡改",
+      "D. 非法访问"
+    ],
+    "answer": "A",
+    "explanation": "在服务退役终止阶段，可能涉及的数据风险主要包括数据泄露、数据篡改、数据 滥用、违规传输、非法访问，不包括数据备份。答案选A。出自12.4.2 风险控制部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0237",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务进入退役终止阶段，服务人员变动风险可能导致（ ）。",
+    "options": [
+      "A. 服务质量下降，影响客户业务连续性",
+      "B. 服务效率提高",
+      "C. 服务成本降低",
+      "D. 客户满意度上升"
+    ],
+    "answer": "A",
+    "explanation": "服务进入退役终止阶段，团队成员尤其是关键岗位人员离职，可能会导致服务质 量的下降，给客户业务的连续性带来风险。答案选A。出自12.4.2 风险控制部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0238",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在服务退役终止阶段，为降低法律法规风险，系统规划与管理师应（ ）。",
+    "options": [
+      "A. 组织法务人员核对可能引起法律纠纷的文件及条款",
+      "B. 重新签订所有合同",
+      "C. 忽视合同中的模糊条款",
+      "D. 减少与客户的沟通"
+    ],
+    "answer": "A",
+    "explanation": "在服务退役终止阶段，系统规划与管理师应组织法务人员对可能引起法律纠纷的 文件及相关条款进行核对，对有争议的内容与相关方进行沟通协商，将风险降到最低。 答案选A。出自12.4.2 风险控制部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0239",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，资源回收工作中，文件归档的目的不包括（ ）。",
+    "options": [
+      "A. 使项目知识得到沉淀",
+      "B. 为未来项目提供经验参考",
+      "C. 满足审计要求",
+      "D. 展示项目成果"
+    ],
+    "answer": "D",
+    "explanation": "文件归档是为了使项目知识得到沉淀，为未来服务项目的设计、计划、估算和管 理积累经验，未提及展示项目成果。答案选D。出自12.4.3 资源回收部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0240",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，财务资源回收时，项目账目编码应（ ）。",
+    "options": [
+      "A. 在项目结束后长期保留",
+      "B. 在项目结束时及时撤销",
+      "C. 由项目团队成员自行处理",
+      "D. 继续用于新项目"
+    ],
+    "answer": "B",
+    "explanation": "在项目结束时，应及时撤销项目账目编码，以确保没有人能够继续凭项目账目编 码支付工资和采购材料等。答案选B。出自12.4.3 资源回收部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0241",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役或终止后，系统规划与管理师对人力资源回收的正确做法是（ ）。",
+    "options": [
+      "A. 忽视团队成员贡献",
+      "B. 及时将团队成员送回服务项目管理部门",
+      "C. 让团队成员自行安排去向",
+      "D. 拖延团队解散时间"
+    ],
+    "answer": "B",
+    "explanation": "服务退役或终止后，系统规划与管理师应根据服务终止计划及时把服务团队成员 送回到服务项目管理部门。答案选B。出自12.4.3 资源回收部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0242",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，基础设施资源回收时，系统规划与管理师需要检查设备或工具 的( ) 。",
+    "options": [
+      "A. 外观是否损坏",
+      "B. 说明文件或操作手册是否被修改",
+      "C. 市场价值变化",
+      "D. 生产厂家信息"
+    ],
+    "answer": "B",
+    "explanation": "在服务项目结束后，系统规划与管理师要负责检查设备或工具的说明文件或操作 手册，以确定它们是否被修改。答案选B。出自12.4.3 资源回收部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0243",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，信息处置工作中，确定要转移或清除的信息资产后，下一步工 作是（ ）。",
+    "options": [
+      "A. 按照处理方式和流程进行转移和清除",
+      "B. 制定信息资产的处理方式和处理流程",
+      "C. 监控实施过程",
+      "D. 记录转移和清除过程"
+    ],
+    "answer": "B",
+    "explanation": "信息转移和清除时，确定要转移或清除的信息资产后，下一步是制定信息资产的 处理方式和处理流程，如果包含敏感或涉密信息，应按照国家相关部门的规定进行转移 和清除。答案选B。出自12.4.4 信息处置部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0244",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，存储介质清除或销毁过程中，制定处理方案的依据是（ ）。",
+    "options": [
+      "A. 存储介质的购买价格",
+      "B. 存储介质承载信息的敏感程度",
+      "C. 存储介质的品牌",
+      "D. 存储介质的使用年限"
+    ],
+    "answer": "B",
+    "explanation": "根据存储介质承载信息的敏感程度制定对存储介质的处理方案，包括数据清除和 存储介质销毁等。答案选B。出自12.4.4 信息处置部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0245",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "持续改进与监督活动中，服务风险管理的目的是（ ）。",
+    "options": [
+      "A. 识别、分析和控制风险，保障服务目标实现",
+      "B. 增加服务的风险",
+      "C. 忽视风险的存在",
+      "D. 只关注技术风险"
+    ],
+    "answer": "A",
+    "explanation": "服务风险管理的目的是识别、分析和控制风险，以保障服务目标的实现。增加风 险、忽视风险或只关注技术风险都不是服务风险管理的目的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0246",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务测量活动中，属于服务资源测量的是（ ）。",
+    "options": [
+      "A. 识别备份工程师对项目的满足度和可用性",
+      "B. 测量服务台接听率",
+      "C. 识别研发规划",
+      "D. 服务级别分析"
+    ],
+    "answer": "B",
+    "explanation": "服务资源测量包括对服务台接听率、服务人员利用率等指标的测量，以评估服务 资源的效率和效果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0247",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务技术测量中，根据诊断方案或典型故障的解决方案进行使用率的定期统计属于 ( ) 。",
+    "options": [
+      "A. 识别研发规划",
+      "B. 技术手册及SOP 统计",
+      "C. 应急预案实施统计",
+      "D. 监控点和阈值统计"
+    ],
+    "answer": "B",
+    "explanation": "根据诊断方案或典型故障的解决方案进行使用率的定期统计属于技术手册及SOP 统计。答案选B。出自12.5.2 服务测量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0248",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务过程测量活动中，服务执行测量关注的是（ ）。",
+    "options": [
+      "A. 从业务和用户的视角测量服务过程，关注服务交付结果",
+      "B. 从技术视角测量服务过程，关注具体的服务过程和细节",
+      "C. 服务成本的控制",
+      "D. 服务团队的协作效率"
+    ],
+    "answer": "B",
+    "explanation": "服务执行测量主要从技术视角来测量服务过程，关注具体的服务过程和细节；服 务管控测量主要从业务和用户的视角来测量服务过程，关注服务交付结果。答案选B。 出自12.5.2 服务测量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0249",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "GB/T 33850—2017《信息技术服务质量评价指标体系》中，服务质量特性中的响应 性包括（ ）。",
+    "options": [
+      "A. 及时性和互动性",
+      "B. 完备性和连续性",
+      "C. 可视性和专业性",
+      "D. 主动性和灵活性"
+    ],
+    "answer": "A",
+    "explanation": "GB/T 33850—2017 中响应性包括及时性和互动性；可靠性包括完备性、连续性等； 有形性包括可视性、专业性等；友好性包括主动性、灵活性等。答案选A。出自12.5.3 服务质量管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0250",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务质量管理活动中，服务质量策划的内容不包括（ ）。",
+    "options": [
+      "A. 确定服务质量的目标",
+      "B. 确定服务质量检查的具体人员",
+      "C. 确定服务质量管理相关的职责和权限",
+      "D. 确定时间安排"
+    ],
+    "answer": "B",
+    "explanation": "服务质量策划内容包括确定服务质量目标、确定质量管理活动、确定职责和权限、 确定时间安排以及确定质量策划文件，不包括确定具体检查人员。答案选B。出自12.5.3 服务质量管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0251",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务质量检查中，常见的质量实施和检查活动不包括（ ）。",
+    "options": [
+      "A. 项目成本核算",
+      "B. 满意度调查",
+      "C. 内审",
+      "D. 管理评审"
+    ],
+    "answer": "A",
+    "explanation": "常见的质量实施和检查活动包括满意度调查、项目质量保证工作、内审、管理评 审、日常检查、质量文化培训等，不包括项目成本核算。答案选A。出自12.5.3 服 务质量管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0252",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务回顾中，四级服务回顾机制里，项目季度回顾的参与者不包括（ ）。",
+    "options": [
+      "A. 服务供方高层管理人员",
+      "B. 系统规划与管理师",
+      "C. 服务供方业务关系经理",
+      "D. 客户接口人"
+    ],
+    "answer": "A",
+    "explanation": "项目季度回顾的参与者包括系统规划与管理师、服务供方业务关系经理、客户接 口人；服务供方高层管理人员参与合作年度回顾。答案选A。出自12.5.4 服务回顾部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0253",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "与客户进行服务回顾时，不需要回顾的内容是（ ）。",
+    "options": [
+      "A. 团队内部成员的绩效情况",
+      "B. 服务合同执行情况",
+      "C. 客户业务需求的变化",
+      "D. 服务中存在的问题及行动计划"
+    ],
+    "answer": "A",
+    "explanation": "与客户回顾内容主要包括服务合同执行情况、服务目标达成情况、服务绩效、满 意度调查、服务范围和工作量、客户业务需求变化、服务中存在的问题及行动计划等， 团队内部成员绩效情况属于团队内部回顾内容。答案选A。出自12.5.4 服务回顾部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0254",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "团队内部进行服务回顾时，本周期内的工程师KPI 总结不包括（ ）。",
+    "options": [
+      "A. 工程师工单量",
+      "B. 工程师的学历水平",
+      "C. 工程师平均响应时间",
+      "D. 工程师现场支持解决率"
+    ],
+    "answer": "B",
+    "explanation": "本周期内的工程师KPI 总结包括工程师工单量、工程师平均响应时间、工程师平 均解决时间、工程师现场支持解决率等，不包括工程师的学历水平。答案选B。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0255",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进的目标是促进服务管理能力在（ ）方面的持续改进和提升。",
+    "options": [
+      "A. 有效性和效率",
+      "B. 服务技术和服务模式",
+      "C. 服务成本和服务质量",
+      "D. 服务团队和服务资源"
+    ],
+    "answer": "A",
+    "explanation": "服务改进的目标是利用管理方针、管理目标等活动，促进服务管理能力在有效性 和效率方面的持续改进和提升。答案选A。出自12.5.5 服务改进部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0256",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进设计中，定义服务改进目标时，改进目标应（ ）。",
+    "options": [
+      "A. 与服务目标不一致",
+      "B. 无需客户参与",
+      "C. 现实可行并可测定",
+      "D. 不考虑法律法规要求"
+    ],
+    "answer": "C",
+    "explanation": "改进目标应与服务目标相一致，需要客户的参与，并与相关部门进行有效沟 通； 改进目标应是现实可行并可测定的，且符合法律法规及相关标准要求。答案选C。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0257",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进的来源不包括（ ）。",
+    "options": [
+      "A. 服务测量及服务回顾过程中分析或确认的服务改进需求",
+      "B. 客户需求与IT 服务运营实际结果的差异",
+      "C. 服务人员的个人喜好",
+      "D. IT 服务管理业界标准"
+    ],
+    "answer": "C",
+    "explanation": "服务改进的来源包括服务测量及服务回顾过程中分析或确认的服务改进需求、客 户需求与IT 服务运营实际结果的差异、IT 服务管理业界标准等，不包括服务人员的 个人喜好。答案选C。出自12.5.5 服务改进部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0258",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进设计中，制订服务改进计划应包括的内容不包括（ ）。",
+    "options": [
+      "A. 服务改进活动的预算和资源安排",
+      "B. 服务改进活动的负责人和团队成员",
+      "C. 服务改进的技术研发计划",
+      "D. 服务改进描述，包括动机、目标、涉及范围"
+    ],
+    "answer": "C",
+    "explanation": "服务改进计划应包括文档介绍、活动基本信息、服务改进描述、改进方案、角色 和职责、改进回顾等内容，不包括技术研发计划。答案选C。出自12.5.5 服务改进部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0259",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进实施中，人员的改进措施不包括（ ）。",
+    "options": [
+      "A. 提高IT 人员素质",
+      "B. 增加人员数量",
+      "C. 调整人员储备比例",
+      "D. 调整人员和岗位结构"
+    ],
+    "answer": "B",
+    "explanation": "人员的改进包括改善人员管理体制、提高IT 人员素质、调整人员储备比例、调 整人员和岗位结构等，不包括单纯增加人员数量。答案选B。出自12.5.5 服务改进部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0260",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进实施中，资源的改进包括持续完善IT 工具，其目的不包括（ ）。",
+    "options": [
+      "A. 提升过程效率",
+      "B. 增加工具的种类",
+      "C. 对特定指标量化管理",
+      "D. 优化服务台管理制度"
+    ],
+    "answer": "B",
+    "explanation": "持续完善IT 工具是为了提升过程效率和对特定指标量化管理（如可用性指标）， 建立必要的工具平台，并不断优化完善工具，不包括增加工具种类。答案选B。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0261",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进验证中，当服务改进项目实施完成后，系统规划与管理师应（ ）。",
+    "options": [
+      "A. 发起服务改进回顾会议，核对目标达成情况",
+      "B. 直接提交服务改进报告",
+      "C. 忽略未达标的项目",
+      "D. 重新制定服务改进计划"
+    ],
+    "answer": "A",
+    "explanation": "服务改进项目完成后，应进行服务改进回顾会议，核对目标达成情况，以确保改 进效果符合预期。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0262",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进验证过程中，形成书面统计分析及改进报告后，应（ ）。",
+    "options": [
+      "A. 自行留存，无需提交",
+      "B. 分别提报主管领导及监督部门",
+      "C. 提交给客户",
+      "D. 提交给服务团队成员"
+    ],
+    "answer": "B",
+    "explanation": "服务改进验证中，形成书面统计分析及改进报告后，应分别提报主管领导及监督 部门。答案选B。出自12.5.5 服务改进部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0263",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在信息系统服务管理中，服务战略规划对组织的重要性在于（ ）。",
+    "options": [
+      "A. 它是服务运营的具体操作指南",
+      "B. 帮助组织明确服务方向，满足客户需求",
+      "C. 直接降低服务成本",
+      "D. 可以替代服务设计实现环节"
+    ],
+    "answer": "B",
+    "explanation": "服务战略规划可以帮助信息系统服务供方识别客户的服务需求，形成服务级别协 议，明确服务方向，满足客户需求，并非服务运营具体操作指南，也不能直接降低成本 或替代服务设计实现环节。答案选B。出自12.1 服务战略规划部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0264",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务目录管理活动中，服务目录发布后，还需要进行的工作是（ ）。",
+    "options": [
+      "A. 持续完善服务目录",
+      "B. 重新进行服务目录设计",
+      "C. 停止服务目录管理工作",
+      "D. 仅对服务目录进行监控"
+    ],
+    "answer": "A",
+    "explanation": "服务目录在发布后，需要根据市场需求及业务发展趋势，对服务目录进行持续改 进，保持服务目录与供方服务能力相一致。答案选A。出自12.1.2 服务目录管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0265",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "客户对信息系统服务的需求中，可用性需求识别需要考虑的内容是（ ）。",
+    "options": [
+      "A. 服务不可用对业务的影响时长",
+      "B. 服务的功能完整性",
+      "C. 服务的技术先进性",
+      "D. 服务的市场竞争力"
+    ],
+    "answer": "A",
+    "explanation": "在进行可用性需求识别的过程中，要考虑服务不可用对业务的影响，即客户可以 承受多长的停机时间，以及从业务角度分析服务不可用（或质量下降）时造成的成本损 失。答案选A。出自12.1.3 服务需求识别部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0266",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务级别设计过程中，服务级别协议（SLA）与运营级别协议（OLA）的关系是( ) 。",
+    "options": [
+      "A. SLA 是OLA 的细化",
+      "B. OLA 是SLA 的补充，针对内部支持环节",
+      "C. SLA 和OLA 相互独立，无关联",
+      "D. SLA 包含OLA 所有内容"
+    ],
+    "answer": "B",
+    "explanation": "服务级别协议（SLA）是服务供方与客户间的协定，运营级别协议（OLA）是与内 部信息服务部门的后台协议，OLA 在内部定义了所有参与方的责任，是对SLA 在内部 支持环节的补充。答案选B。出自12.1.4 服务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0267",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在服务设计实现阶段，选择服务模式时，服务供方具备同时提供多种服务模式能力 的目的是（ ）。",
+    "options": [
+      "A. 满足客户多样化需求，及时调整服务模式",
+      "B. 增加服务成本投入",
+      "C. 展示服务供方的实力",
+      "D. 提高服务技术难度"
+    ],
+    "answer": "A",
+    "explanation": "服务供方具备同时提供多种服务模式的能力，能够根据客户需求的变化，及时对 服务模式进行调整，以满足客户多样化需求。答案选A。出自12.2.1 服务模式设计部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0268",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务团队中，技术支持岗人员的专业技术能力与（ ）密切相关。",
+    "options": [
+      "A. 行业认可的培训、认证",
+      "B. 沟通技巧培训",
+      "C. 管理能力培训",
+      "D. 服务意识培训"
+    ],
+    "answer": "A",
+    "explanation": "技术支持人员的专业技术能力通常与该专业被行业认可的培训、认证挂钩。答案 选A。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0269",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员绩效方案设计中，设计绩效考核策略的目的是（ ）。",
+    "options": [
+      "A. 通过考核结果公开和反馈，引导激励员工",
+      "B. 确定绩效指标",
+      "C. 明确考核信息来源",
+      "D. 制定绩效指标计算方法"
+    ],
+    "answer": "A",
+    "explanation": "设计绩效考核策略是针对信息系统服务人员绩效指标及可能的达成情况，通过绩 效考核结果的公开和反馈，达到引导激励的作用。答案选A。出自12.2.2 人员要素设 计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0270",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员培训方案设计的培训实施过程设计中，制订培训计划的依据是（ ）。",
+    "options": [
+      "A. 组织一定时期的信息系统服务发展需要",
+      "B. 员工个人的培训需求",
+      "C. 市场上流行的培训课程",
+      "D. 培训讲师的建议"
+    ],
+    "answer": "A",
+    "explanation": "制订培训计划要根据组织一定时期的信息系统服务发展需要，将培训需求进行客 观分析并转变为组织服务培训的总体计划。答案选A。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0271",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在资源要素设计的服务工具设计中，其他工具的作用是（ ）。",
+    "options": [
+      "A. 进行重复或批量工作的自动化管理，提高服务效率和效果",
+      "B. 监控服务对象的状态数据",
+      "C. 实现服务过程的流程化管理",
+      "D. 提供面向最终用户的服务台"
+    ],
+    "answer": "A",
+    "explanation": "其他工具可使信息系统服务人员能够进行重复或批量工作的自动化管理，提高服 务效率和效果；监控类工具监控服务对象状态数据；过程管理类工具实现服务过程流程 化管理并提供服务台。答案选A。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0272",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务台设计时，针对沟通渠道整合服务过程，建立管理制度不包括（ ）。",
+    "options": [
+      "A. 服务请求的接收机制",
+      "B. 服务费用的核算机制",
+      "C. 服务请求的跟踪和反馈机制",
+      "D. 日常工作的监督和考核机制"
+    ],
+    "answer": "B",
+    "explanation": "针对沟通渠道整合服务过程，建立的管理制度包括服务请求的接收、记录、跟踪 和反馈等机制，以及日常工作的监督和考核，不包括服务费用的核算机制。答案选B。 出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0273",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务管理中，服务战略规划若缺乏有效设计，可能引发的问题是（ ）。",
+    "options": [
+      "A. 服务的创新性增强",
+      "B. 服务成本降低",
+      "C. 客户满意度上升",
+      "D. 服务能力不足"
+    ],
+    "answer": "D",
+    "explanation": "若未进行有效的规划设计，信息系统服务可能会造成服务能力不足等问题，从而 导致客户满意度的下降，也不会使服务成本降低或服务创新性增强。答案选D。出自12.1 服务战略规划部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0274",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务目录管理活动中，确定服务类别与代码之后的步骤是（ ）。",
+    "options": [
+      "A. 编制服务详述",
+      "B. 评审并发布服务目录",
+      "C. 列举服务清单",
+      "D. 成立管理小组"
+    ],
+    "answer": "A",
+    "explanation": "在确定服务类别与代码后，下一步是编制服务详述，详细描述各类服务的具体内 容、目标和技术实现方法等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0275",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "客户对信息系统服务的需求中，连续性需求识别需要编制（ ）。",
+    "options": [
+      "A. 风险评估报告",
+      "B. 灾难恢复计划",
+      "C. 服务能力提升方案",
+      "D. 信息安全策略"
+    ],
+    "answer": "B",
+    "explanation": "在系统运行过程中，为保障业务连续性，必须针对信息系统的连续性需求编制灾 难恢复计划。答案选B。出自12.1.3 服务需求识别部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0276",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务级别协议（SLA）中规定的违约处罚主要是为了（ ）。",
+    "options": [
+      "A. 约束服务供方的行为",
+      "B. 增加服务供方的收入",
+      "C. 惩罚客户的不合理要求",
+      "D. 提高服务价格"
+    ],
+    "answer": "A",
+    "explanation": "SLA 中的违约处罚是为保障服务的性能和可靠性，约束服务供方按照协议提供服 务，并非增加收入、惩罚客户或提高服务价格。答案选A。出自12.1.4 服务级别设计 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0277",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "运营级别协议（OLA）内部明确了参与方的（ ）。",
+    "options": [
+      "A. 服务价格",
+      "B. 责任",
+      "C. 服务范围",
+      "D. 技术标准"
+    ],
+    "answer": "B",
+    "explanation": "运营级别协议(OLA)在内部定义了所有参与方的责任，并将这些参与方联合在一 起提供某项特别服务。答案选B。出自12.1.4 服务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0278",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "支持合同（UC）与服务级别协议（SLA）相比，增加的内容主要是（ ）。",
+    "options": [
+      "A. 服务内容",
+      "B. 法律条文中的责任、权利和义务",
+      "C. 服务绩效指标",
+      "D. 服务交付时间"
+    ],
+    "answer": "B",
+    "explanation": "从内容上看，UC 主要由SLA 的内容加上法律条文中的责任、权利和义务构成。 答案选B。出自12.1.4 服务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0279",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在服务设计实现阶段，服务模式设计应首先考虑（ ）。",
+    "options": [
+      "A. 服务供方的利润",
+      "B. 客户需求和服务内容",
+      "C. 服务技术的可行性",
+      "D. 服务团队的规模"
+    ],
+    "answer": "B",
+    "explanation": "信息系统服务供方应结合服务需求分析的结果，对服务模式进行设计，即首先考 虑客户需求和服务内容。答案选B。出自12.2.1 服务模式设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0280",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务模式中，远程技术支持的方式不包括（ ）。",
+    "options": [
+      "A. 现场指导",
+      "B. 电话",
+      "C. 邮件",
+      "D. 远程登录"
+    ],
+    "answer": "A",
+    "explanation": "远程技术支持是服务供方通过电话、邮件、远程登录等方式，在客户的配合下进 行服务请求的处理和系统故障的排除，现场指导属于现场服务。答案选A。出自12.2.1 服务模式设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0281",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务团队中，管理岗建立与需方的沟通渠道和机制，目的是（ ）。",
+    "options": [
+      "A. 挖掘、分析和传递需方真实需求",
+      "B. 展示管理能力",
+      "C. 提高沟通技巧",
+      "D. 增加沟通成本"
+    ],
+    "answer": "A",
+    "explanation": "管理岗建立与需方的沟通渠道和沟通机制，是为了整理需求，并将需求完整、准 确、及时传送至供方相关岗位，即挖掘、分析和传递需方真实需求。答案选A。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0282",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "技术支持岗人员的响应支持能力体现在（ ）。",
+    "options": [
+      "A. 专业知识和技能",
+      "B. 相关工作经验、服务态度和事件响应处理速度",
+      "C. 学历和培训经历",
+      "D. 管理和协调能力"
+    ],
+    "answer": "B",
+    "explanation": "技术支持人员对服务的响应支持能力更多地体现在人员的相关工作经验、服务态 度和事件响应处理速度上。答案选B。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0283",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "操作岗在执行服务交付过程中，遇到问题应（ ）。",
+    "options": [
+      "A. 自行决定处理方式",
+      "B. 按照信息系统服务规范和操作手册处理",
+      "C. 直接向客户反馈",
+      "D. 等待上级指示"
+    ],
+    "answer": "B",
+    "explanation": "操作岗按照信息系统服务规范和操作手册，执行服务交付的各个过程，遇到问题 应按此处理。答案选B。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0284",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员绩效方案设计中，明确考核信息来源是为了（ ）。",
+    "options": [
+      "A. 确定绩效指标",
+      "B. 制定绩效指标计算方法",
+      "C. 确保考核数据的准确性和可靠性",
+      "D. 设计绩效考核策略"
+    ],
+    "answer": "C",
+    "explanation": "明确考核信息来源及采集方式，是为了确保考核数据的准确性和可靠性，为后续 绩效评估提供有效依据。答案选C。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0285",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员培训方案设计的培训需求分析中，通过高层访谈了解管理层所需收获的能力， 不包括（ ）。",
+    "options": [
+      "A. 如何提高服务管理水平",
+      "B. 如何提高信息系统服务的效益",
+      "C. 如何提升员工的工作积极性",
+      "D. 如何优化服务技术"
+    ],
+    "answer": "D",
+    "explanation": "通过高层访谈和参与管理层会议的形式，了解管理层所需要收获的能力，例如， 如何提高服务管理水平、如何提高信息系统服务的效益等，未提及如何优化服务技术。 答案选D。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0286",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员培训方案设计的培训内容中，管理培训主要培养管理人员具备的能力不包括 ( ) 。",
+    "options": [
+      "A. 专业技术能力",
+      "B. 沟通能力",
+      "C. 合理规划能力",
+      "D. 过程管理能力"
+    ],
+    "answer": "A",
+    "explanation": "管理培训主要培养在执行服务交付过程中的管理人员，使其具备优秀的沟通能力、 执行能力、合理规划能力、过程管理能力等，不包括专业技术能力。答案选A。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0287",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在资源要素设计的服务工具设计中，过程管理类工具实现了（ ）。",
+    "options": [
+      "A. 从技术管理到服务过程的流程化管理",
+      "B. 服务对象状态数据的监控",
+      "C. 重复或批量工作的自动化管理",
+      "D. 服务技术的研发管理"
+    ],
+    "answer": "A",
+    "explanation": "信息系统服务过程管理实现了从技术管理到服务过程的流程化管理，过程管理类 工具提供了面向最终用户的服务台及服务运营层次的流程。答案选A。出自12.2.3 资 源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0288",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务台设计时，设置专门的沟通渠道作为与需方的联络点，沟通渠道选择的依据是 ( ) 。",
+    "options": [
+      "A. 需方的偏好和使用习惯",
+      "B. 服务供方的技术能力",
+      "C. 行业通用标准",
+      "D. 服务成本"
+    ],
+    "answer": "A",
+    "explanation": "设置专门沟通渠道需考虑需方的偏好和使用习惯，以便更好地满足需方需求，提 高服务效率。答案选A。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0289",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "备件库设计时，备件供应商管理的目的不包括（ ）。",
+    "options": [
+      "A. 规范备件的采购过程",
+      "B. 降低备件的采购价格",
+      "C. 对供应商进行选择和评价",
+      "D. 确保备件的质量"
+    ],
+    "answer": "B",
+    "explanation": "备件供应商管理能够规范备件的采购过程，对供应商进行选择和评价，确保备件 的质量，但不直接以降低采购价格为目的。答案选B。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0290",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "知识库设计时，制定相关管理制度并进行知识生命周期管理，是为了（ ）。",
+    "options": [
+      "A. 确保知识的有效性和及时性",
+      "B. 增加知识的数量",
+      "C. 提高知识的专业性",
+      "D. 展示知识管理的成果"
+    ],
+    "answer": "A",
+    "explanation": "针对知识管理要求制定相关管理制度，并进行知识生命周期管理，可确保知识在 整个组织内的有效性和及时性。答案选A。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0291",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "技术要素设计中，制订测试环境建设计划的目的是（ ）。",
+    "options": [
+      "A. 验证技术的可行性和可靠性",
+      "B. 降低技术研发成本",
+      "C. 提高技术人员的测试能力",
+      "D. 缩短技术研发周期"
+    ],
+    "answer": "A",
+    "explanation": "仿真测试环境通过模拟真实应用系统环境中的场景，为各类测试和分析提供必要 的条件，以验证技术的可行性和可靠性。答案选A。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0292",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "解决问题的技术中，完成知识转移的主要对象是（ ）。",
+    "options": [
+      "A. 过往信息系统服务中产生和使用的各类资料",
+      "B. 最新的技术研发成果",
+      "C. 市场上的行业动态信息",
+      "D. 竞争对手的技术资料"
+    ],
+    "answer": "A",
+    "explanation": "在设计实现阶段，应识别过往信息系统服务中产生和使用的历史资料、基础架构 资料、应用系统资料、业务资料等，并完整地转移到现有的服务团队中。答案选A。出 自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0293",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务项目预算制定过程中，划分信息系统服务项目执行阶段时，可以（ ）。",
+    "options": [
+      "A. 以一个月、周、日为单位，根据历史数据进行更精确的资金分布",
+      "B. 随意划分，无需考虑历史数据",
+      "C. 只按照一个月为单位进行平均分配资金",
+      "D. 只按照一年为单位进行资金分配"
+    ],
+    "answer": "A",
+    "explanation": "划分信息系统服务项目执行阶段时，可以以一个月、周、日为单位，对各项开支 项进行预算，可以将预算总开支均分在各个时间段内，也可以根据历史数据进行更精确 的资金分布。答案选A。出自12.3.4 服务项目预算、核算和结算部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0294",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务项目核算的目的之一是形成及时调整项目资源分配的依据，这是因为 核算能够（ ）。",
+    "options": [
+      "A. 随时掌握项目收入、开支情况及项目盈亏状态",
+      "B. 寻找对成本开支控制的改进方法",
+      "C. 改进预算编制方法",
+      "D. 分析项目的市场前景"
+    ],
+    "answer": "A",
+    "explanation": "通过核算随时掌握项目收入、开支情况及项目盈亏状态，从而为及时调整项目资 源分配提供依据。答案选A。出自12.3.4 服务项目预算、核算和结算部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0295",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务项目核算过程中，编制核算记录表时，服务项目核算表（流水表）应 逐笔记录的内容不包括（ ）。",
+    "options": [
+      "A. 项目的收入",
+      "B. 项目的预算",
+      "C. 项目的支出",
+      "D. 项目的盈亏"
+    ],
+    "answer": "B",
+    "explanation": "服务项目核算表（流水表）应逐笔记录项目的收入、支出，并计算出项目当前的 盈亏情况，不记录项目的预算。答案选B。出自12.3.4 服务项目预算、核算和结算部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0296",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务项目结算与核算的区别在于（ ）。",
+    "options": [
+      "A. 结算针对整个项目生命周期，核算针对项目执行过程",
+      "B. 结算只计算收入，核算只计算支出",
+      "C. 结算方法简单，核算方法复杂",
+      "D. 结算由财务部门负责，核算由项目团队负责"
+    ],
+    "answer": "A",
+    "explanation": "信息系统服务项目的结算是在项目结束后的总体核算，针对整个项目生命周期； 核算是在服务项目的执行过程中对服务活动执行情况及收支情况进行记录、分析和计 算。答案选A。出自12.3.4 服务项目预算、核算和结算部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0297",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "衡量项目收益的指标中，项目净产出是指（ ）。",
+    "options": [
+      "A. 项目的净利润产出总额，即收入扣除所有开支后的结余",
+      "B. 项目的收入总额",
+      "C. 项目的投资总额",
+      "D. 项目的利润与投资总额之比"
+    ],
+    "answer": "A",
+    "explanation": "项目净产出是指项目的净利润产出总额，净利润需要在收入的基础上扣除所有开 支，包括人员开支、硬件开支等，最终结余的净利润为项目净产出。答案选A。出自12.3.4 服务项目预算、核算和结算部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0298",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息技术服务外包给组织带来的效率提升收益体现在（ ）。",
+    "options": [
+      "A. 外包服务商注重人员稳定性、技能储备等，组织可借鉴先进经验",
+      "B. 组织无需进行任何管理",
+      "C. 组织可以降低技术投入",
+      "D. 组织能够减少服务种类"
+    ],
+    "answer": "A",
+    "explanation": "对于外包服务商而言，会注重人员稳定性、技能储备等，组织选择信息技术服务 外包可快速借鉴和吸收当前较先进的经验来弥补或提高自身的信息技术服务能力，从而 提升效率；组织选择外包仍需管理，也不是为了降低技术投入或减少服务种类。答案选 A。出自12.3.5 服务外包收益部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0299",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，系统规划与管理师在沟通管理中，服务终止计划编制会议需要 确认的内容不包括（ ）。",
+    "options": [
+      "A. 服务改进的目标和措施",
+      "B. 现阶段服务交付、人员、资源等情况",
+      "C. 在服务退役终止阶段所需处置的相关事项",
+      "D. 项目服务团队希望完成或传达的其他事项"
+    ],
+    "answer": "A",
+    "explanation": "服务终止计划编制会议需确认现阶段服务交付、人员、资源等情况，确定在服务 退役终止阶段所需处置的相关事项，了解项目服务团队希望完成或传达的其他事项，不 涉及服务改进的目标和措施。答案选A。出自12.4.1 沟通管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0300",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在服务终止计划评审会议中，参会人员不包括（ ）。",
+    "options": [
+      "A. 服务项目的普通执行人员",
+      "B. 供需双方高层领导",
+      "C. 服务项目经理",
+      "D. 其他利益相关方"
+    ],
+    "answer": "A",
+    "explanation": "服务终止计划评审会议需组织供需双方高层领导、服务项目经理以及其他利益相 关方召开，不包括服务项目的普通执行人员。答案选A。出自12.4.1 沟通管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0301",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "移交会议中，文件信息移交可包括（ ）。",
+    "options": [
+      "A. 服务维护知识",
+      "B. 服务使用手册",
+      "C. 服务提供技能",
+      "D. 服务运营环境的服务组件的状态及相关属性和设置"
+    ],
+    "answer": "B",
+    "explanation": "文件信息移交可包括服务使用手册、服务指南、服务维护技术相关文档等；A 选 项服务维护知识属于知识移交；C 选项服务提供技能属于技能移交；D 选项服务运营环 境的服务组件的状态及相关属性和设置属于基线移交。答案选B。出自12.4.1 沟通管 理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0302",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段的风险控制中，业务连续性风险中的服务信息同步风险是指 ( ) 。",
+    "options": [
+      "A. 继任团队对客户需求理解不到位，导致服务方式和级别与客户需求有落差",
+      "B. 服务团队成员之间信息沟通不畅",
+      "C. 客户需求发生变化，服务团队未及时知晓",
+      "D. 服务信息在传输过程中丢失"
+    ],
+    "answer": "A",
+    "explanation": "服务信息同步风险是指在服务交接过程中，继任团队对客户需求理解得不到位， 或现任团队对接人员的专业素质问题，可能导致无法将客户的真实意图和需求妥善地 传递给继任团队，并完善地落实在交接文档内，使继任团队的服务方式和服务级别与客 户需求有较大的落差。答案选A。出自12.4.2 风险控制部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0303",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在服务退役终止阶段，为防范法律法规风险，系统规划与管理师应组织法务人员对 ( ) 进行核对。",
+    "options": [
+      "A. 所有合同和文件",
+      "B. 可能引起法律纠纷的文件及相关条款",
+      "C. 服务过程中的技术文档",
+      "D. 服务团队内部的管理文件"
+    ],
+    "answer": "B",
+    "explanation": "在服务退役终止阶段，系统规划与管理师应组织法务人员对可能引起法律纠纷的 文件及相关条款进行核对，对有争议的内容与相关方进行沟通协商，将风险降到最低， 并非核对所有合同和文件、技术文档或团队内部管理文件。答案选B。出自12.4.2 风 险控制部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0304",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，资源回收工作中，文件归档应包括的内容不包括（ ）。",
+    "options": [
+      "A. 服务团队成员的私人信件",
+      "B. 服务日志",
+      "C. 项目来往函件",
+      "D. 合同文档"
+    ],
+    "answer": "A",
+    "explanation": "服务项目文档一般应包括服务日志、项目计划（项目章程、项目范围说明书及风 险管理计划等）、项目来往函件、项目会议记录、项目进展报告、合同文档、技术文件 以及其他信息，不包括服务团队成员的私人信件。答案选A。出自12.4.3 资源回收部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0305",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，财务资源回收时，项目账目编码撤销的正确方式是（ ）。",
+    "options": [
+      "A. 由项目团队成员自行决定是否撤销",
+      "B. 系统规划与管理师书面请求或财务部门通知",
+      "C. 无需撤销，可继续使用",
+      "D. 由客户决定是否撤销"
+    ],
+    "answer": "B",
+    "explanation": "项目账目编码的撤销应由系统规划与管理师通过书面形式向负责财务的部门提 出请求，或由财务部门向系统规划与管理师和相关部门提出通知。答案选B。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0306",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役或终止后，系统规划与管理师在人力资源回收时，正确的做法是（ ）。",
+    "options": [
+      "A. 忽视团队成员的贡献，快速解散团队",
+      "B. 及时把服务团队成员送回到服务项目管理部门，并肯定成员贡献",
+      "C. 让团队成员继续留在原项目，等待新任务",
+      "D. 只关注核心成员的去向，忽略普通成员"
+    ],
+    "answer": "B",
+    "explanation": "服务退役或终止后，系统规划与管理师应根据服务终止计划及时把服务团队成员 送回到服务项目管理部门，同时要重视团队成员的贡献和牺牲，保证团队成员都能为自 己的付出得到相应的回报或者肯定。答案选B。出自12.4.3 资源回收部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0307",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，基础设施资源回收时，若服务供方投入的设备或工具被修改， 系统规划与管理师应（ ）。",
+    "options": [
+      "A. 直接回收，无需考虑修改情况",
+      "B. 根据实际情况判断是否恢复到初始状态",
+      "C. 要求使用方赔偿损失",
+      "D. 重新采购新的设备或工具"
+    ],
+    "answer": "B",
+    "explanation": "在服务项目结束后，系统规划与管理师要负责检查设备或工具的说明文件或操作 手册，以确定它们是否被修改，使服务项目所使用的设备或工具恢复到初始状态会增加 费用和人力要求，系统规划与管理师可根据实际情况加以判断。答案选B。出自12.4.3 资源回收部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0308",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，信息处置工作中，对信息资产进行转移或清除时，若包含敏感 或涉密信息，应（ ）。",
+    "options": [
+      "A. 自行处理",
+      "B. 按照国家相关部门的规定进行转移和清除",
+      "C. 直接删除所有信息",
+      "D. 忽视敏感信息，只处理普通信息"
+    ],
+    "answer": "B",
+    "explanation": "对信息资产进行转移或清除时，如果包含敏感或涉密信息，应按照国家相关部门 的规定进行转移和清除。答案选B。出自12.4.4 信息处置部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0309",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务退役终止阶段，存储介质清除或销毁过程中，监督介质处理过程中的风险并记 录相关信息，其目的不包括（ ）。",
+    "options": [
+      "A. 确保处理过程符合规范",
+      "B. 方便后续查询和追溯",
+      "C. 展示工作成果",
+      "D. 防止敏感信息泄露"
+    ],
+    "answer": "C",
+    "explanation": "监督介质处理过程中的风险并记录清除或销毁的过程，包括参与人员、处理方式 等，检查是否有残余信息等，目的是确保处理过程符合规范、防止敏感信息泄露以及 方便后续查询和追溯，并非展示工作成果。答案选C。出自12.4.4 信息处置部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0310",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "持续改进与监督活动中，服务风险管理的风险识别环节需要识别的风险不包括 ( ) 。",
+    "options": [
+      "A. 政策风险",
+      "B. 人员风险",
+      "C. 技术风险",
+      "D. 资源风险"
+    ],
+    "answer": "A",
+    "explanation": "在信息系统服务提供过程中的风险通常包括人员、技术、资源、过程和其他方面， 不包括政策风险。答案选A。出自12.5.1 服务风险管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0311",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务测量活动中，属于服务人员测量的指标是（ ）。",
+    "options": [
+      "A. 服务台接听率",
+      "B. 人员招聘需求匹配率",
+      "C. 监控工具的功能与服务管理过程匹配度",
+      "D. 服务SLA 达成率"
+    ],
+    "answer": "B",
+    "explanation": "人员招聘需求匹配率属于服务人员测量；服务台接听率属于服务资源测量；监控 工具的功能与服务管理过程匹配度属于服务资源测量中对服务运维工具的测量；服务 SLA 达成率属于服务过程测量中的服务级别分析内容。答案选B。出自12.5.2 服务测 量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0312",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务资源测量中，关于备件库的测量活动不包括（ ）。",
+    "options": [
+      "A. 统计备件的采购成本",
+      "B. 盘点备件资产",
+      "C. 统计备件损坏率",
+      "D. 统计备件命中率"
+    ],
+    "answer": "A",
+    "explanation": "备件库的测量活动包括盘点备件资产、统计备件损坏率、统计备件命中率、统计 备件复用率，不包括统计备件的采购成本。答案选A。出自12.5.2 服务测量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0313",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务技术测量中，识别研发成果主要关注的是（ ）。",
+    "options": [
+      "A. 各种技术对业务的实际应用效果和实用性",
+      "B. 技术研发规划的完整性",
+      "C. 技术手册及SOP 的覆盖率",
+      "D. 应急预案实施的量化指标"
+    ],
+    "answer": "A",
+    "explanation": "服务技术测量中，识别研发成果关注各种技术对业务的实际应用效果和实用性； 识别研发规划关注技术规划的完整性和落实情况；技术手册及SOP 统计关注SOP 覆盖 率和使用率；应急预案实施统计关注应急预案实施过程中的量化指标。答案选A。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0314",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务过程测量活动中，服务管控测量关注的是（ ）。",
+    "options": [
+      "A. 从业务和用户的视角测量服务过程，关注服务交付结果",
+      "B. 从技术视角测量服务过程，关注具体的服务过程和细节",
+      "C. 服务过程中的技术问题",
+      "D. 服务团队的协作情况"
+    ],
+    "answer": "A",
+    "explanation": "服务管控测量主要从业务和用户的视角来测量服务过程，关注服务交付结果；服 务执行测量主要从技术视角来测量服务过程，关注具体的服务过程和细节。答案选A。 出自12.5.2 服务测量部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0315",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "GB/T 33850—2017《信息技术服务质量评价指标体系》中，服务质量特性里的可靠 性不包括（ ）。",
+    "options": [
+      "A. 可视性",
+      "B. 完备性",
+      "C. 连续性",
+      "D. 可追溯性"
+    ],
+    "answer": "A",
+    "explanation": "GB/T 33850—2017 中可靠性包括完备性、连续性、稳定性、有效性、可追溯性； 可视性属于有形性的子特性。答案选A。出自12.5.3 服务质量管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0316",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务质量管理活动中，服务质量策划的难点和重点是（ ）。",
+    "options": [
+      "A. 确定服务质量的目标",
+      "B. 确定服务质量管理相关的职责和权限",
+      "C. 确定时间安排",
+      "D. 确定质量策划文件"
+    ],
+    "answer": "B",
+    "explanation": "服务质量策划的难点和重点就是落实质量职责和权限，如果某一个过程所涉及的 质量职能未能明确，没有文件给予具体规定，会出现推诿扯皮现象。答案选B。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0317",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务质量检查中，质量人员进行项目质量保证工作时，需要（ ）。",
+    "options": [
+      "A. 针对检查的项目制订项目质量保证计划，并按照计划实施质量保证工作",
+      "B. 直接进行质量检查，无需制定计划",
+      "C. 只关注项目结果，不关注过程",
+      "D. 仅对项目的技术部分进行检查"
+    ],
+    "answer": "A",
+    "explanation": "项目质量保证工作需要针对检查的项目制订项目质量保证计划，并按照项目质量 保证计划实施质量保证工作；质量检查需要有计划，且要关注过程和整体项目，并非只 关注技术部分。答案选A。出自12.5.3 服务质量管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0318",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务回顾中，四级服务回顾机制里，合作年度回顾的参与者包括（ ）。",
+    "options": [
+      "A. 服务供方高层管理人员、系统规划与管理师、服务供方业务关系经理、客户接口人",
+      "B. 系统规划与管理师、客户接口人",
+      "C. 系统规划与管理师、服务供方业务关系经理、客户接口人",
+      "D. 系统规划与管理师、服务供方高层管理人员"
+    ],
+    "answer": "A",
+    "explanation": "合作年度回顾的参与者包括服务供方高层管理人员、系统规划与管理师、服务供 方业务关系经理、客户接口人；B 选项是一级服务回顾的参与者；C 选项是三级服务回 顾的参与者。答案选A。出自12.5.4 服务回顾部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0319",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "与客户进行服务回顾时，需要回顾的内容包括（ ）。",
+    "options": [
+      "A. 服务合同执行情况、服务目标达成情况、客户业务需求的变化",
+      "B. 团队内部的技术难题、人员绩效情况",
+      "C. 服务供方的组织架构调整情况",
+      "D. 服务团队的培训计划完成情况"
+    ],
+    "answer": "A",
+    "explanation": "与客户回顾内容主要包括服务合同执行情况、服务目标达成情况、服务绩效、满 意度调查、服务范围和工作量、客户业务需求变化、服务中存在的问题及行动计划等； B、C、D 选项属于团队内部回顾内容。答案选A。出自12.5.4 服务回顾部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0320",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "团队内部进行服务回顾时，本周期内遇到的特殊或疑难工单需要（ ）。",
+    "options": [
+      "A. 直接忽略，不进行讨论",
+      "B. 记录下来，无需处理",
+      "C. 讨论并寻求解决方案",
+      "D. 全部交给上级处理"
+    ],
+    "answer": "C",
+    "explanation": "团队内部回顾时，本周期内遇到的特殊或疑难工单需要进行讨论，共同寻求解决 方案，不能忽略、不处理或全部交给上级。答案选C。出自12.5.4 服务回顾部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0321",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进的目标是利用多种活动，促进服务管理能力在（ ）方面的持续改进和提 升。",
+    "options": [
+      "A. 服务成本和服务效率",
+      "B. 有效性和效率",
+      "C. 服务质量和服务成本",
+      "D. 服务技术和服务人员素质"
+    ],
+    "answer": "B",
+    "explanation": "服务改进的目标是利用管理方针、管理目标、审核结果等活动，促进服务管理能 力在有效性和效率方面的持续改进和提升。答案选B。出自12.5.5 服务改进部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0322",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进设计中，定义服务改进目标时，改进目标应满足的条件包括（ ）。",
+    "options": [
+      "A. 与服务目标相一致，现实可行并可测定，满足用户和客户部门的需求且符合法规标准",
+      "B. 越高越好，无需考虑实际情况",
+      "C. 只需要考虑技术可行性，无需考虑成本",
+      "D. 由服务供方单方面确定，无需客户参与"
+    ],
+    "answer": "A",
+    "explanation": "改进目标应与服务目标相一致，需要客户的参与，并与相关部门进行有效沟通； 改进目标应是现实可行并是可测定的；改进目标必须确保其满足了用户和客户部门的 需求，并且是符合法律法规及相关标准要求的。答案选A。出自12.5.5 服务改进部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0323",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进的来源中，不包括（ ）。",
+    "options": [
+      "A. 服务测量及服务回顾过程中分析或确认的服务改进需求",
+      "B. 客户的无理要求",
+      "C. IT 服务管理业界标准",
+      "D. 内部员工提出的改进意见"
+    ],
+    "answer": "B",
+    "explanation": "服务改进的来源包括服务测量及服务回顾过程中分析或确认的服务改进需求、客 户需求与IT 服务运营实际结果的差异、IT 服务管理业界标准、内部员工提出的改进 意见等，不包括客户的无理要求。答案选B。出自12.5.5 服务改进部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0324",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进设计中，制订服务改进计划时，服务改进描述应包括（ ）。",
+    "options": [
+      "A. 服务改进动机、服务改进目标、涉及范围",
+      "B. 服务改进活动的预算和资源安排",
+      "C. 服务改进活动的负责人和团队成员",
+      "D. 服务改进回顾的主要衡量标准"
+    ],
+    "answer": "A",
+    "explanation": "服务改进描述包括服务改进动机、服务改进目标、涉及范围；B 选项属于服务改 进方案内容；C 选项属于服务改进活动基本信息；D 选项属于服务改进回顾内容。答案 选A。出自12.5.5 服务改进部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0325",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进实施中，人员的改进措施包括改善人员管理体制，其内容不包括（ ）。",
+    "options": [
+      "A. 优化人员招聘流程",
+      "B. 调整人员和岗位结构",
+      "C. 降低人员培训要求",
+      "D. 完善绩效考核方法"
+    ],
+    "answer": "C",
+    "explanation": "改善人员管理体制包括任职资格体系、人员培训和绩效考核方法等方面的设计和 完善，应提高人员培训要求，而非降低。答案选C。出自12.5.5 服务改进部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0326",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进实施中，资源的改进包括持续完善IT 工具，其目的包括（ ）。",
+    "options": [
+      "A. 提升过程效率和对特定指标量化管理",
+      "B. 增加IT 工具的种类",
+      "C. 提高IT 工具的采购价格",
+      "D. 减少IT 工具的使用频率"
+    ],
+    "answer": "A",
+    "explanation": "持续完善IT 工具是为提升过程效率和对特定指标量化管理（如可用性指标）， 建立必要的工具平台，并不断优化完善工具，不是为增加工具种类、提高采购价格或 减少使用频率。答案选A。出自12.5.5 服务改进部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0327",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务改进验证中，当服务改进项目实施完成后，若实施效果未能达到预期效果，应 ( ) 。",
+    "options": [
+      "A. 放弃改进，维持现状",
+      "B. 组织相关部门进行原因分析，制定整改措施或重新制订改善计划并实施",
+      "C. 直接重新制订改善计划，无需分析原因",
+      "D. 继续按照原计划执行，不做调整"
+    ],
+    "answer": "B",
+    "explanation": "当实施效果未能达到预期效果时，应组织相关部门进行原因分析，制定相应的整 改措施或重新制订改善计划并实施。答案选B。出自12.5.5 服务改进部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0328",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务管理中，服务战略规划的核心任务是（ ）。",
+    "options": [
+      "A. 制定服务价格策略",
+      "B. 识别客户服务需求并形成服务级别协议",
+      "C. 确定服务团队架构",
+      "D. 选择服务技术方案"
+    ],
+    "answer": "B",
+    "explanation": "服务战略规划核心是帮助信息系统服务供方识别客户的服务需求，并对其进行全 面分析，最终形成服务级别协议(SLA) 。答案选B。出自12.1 服务战略规划部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0329",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务目录管理活动中，完善服务目录的依据是（ ）。",
+    "options": [
+      "A. 市场需求及业务发展趋势",
+      "B. 服务供方的主观意愿",
+      "C. 服务成本的变化",
+      "D. 服务团队人员的变动"
+    ],
+    "answer": "A",
+    "explanation": "根据市场需求及业务发展趋势，对服务目录进行持续改进，保持服务目录与供方 服务能力相一致。答案选A。出自12.1.2 服务目录管理部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0330",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "客户对信息系统服务的需求中，服务能力需求识别需要（ ）。",
+    "options": [
+      "A. 对客户的现状、业务需求以及信息系统进行深入了解",
+      "B. 只关注客户当前的服务需求",
+      "C. 忽略信息系统的实际情况",
+      "D. 仅考虑服务供方的技术能力"
+    ],
+    "answer": "A",
+    "explanation": "服务能力需求分析要对客户的现状、业务需求以及信息系统进行深入了解，保证 以合理的成本满足所有对能力的需求，尤其是对未来能力需求的把握。答案选A。出自",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0331",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务级别协议（SLA）中，服务供方可以对客户在（ ）方面进行规定。",
+    "options": [
+      "A. 服务质量",
+      "B. 工作负荷和资源使用",
+      "C. 服务价格",
+      "D. 服务交付时间"
+    ],
+    "answer": "B",
+    "explanation": "服务级别协议中，服务供方可以对客户在工作负荷和资源使用方面进行规定；服 务质量、服务价格、服务交付时间通常是双方共同约定的服务要求和标准，并非供方单 方面对客户的规定。答案选B。出自12.1.4 服务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0332",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "运营级别协议（OLA）与支持合同（UC）的区别在于（ ）。",
+    "options": [
+      "A. OLA 是内部协议，UC 是正规的、具备法律效力的协议",
+      "B. OLA 规定服务内容，UC 规定参与方责任",
+      "C. OLA 由SLA 内容加法律条文构成，UC 是内部部门间协议",
+      "D. OLA 用于外部合作，UC 用于内部合作"
+    ],
+    "answer": "A",
+    "explanation": "运营级别协议(OLA)是与内部信息服务部门的后台协议，支持合同(UC)是服务供 需双方签订的有关服务实施的正式合同，是正规的、具备法律效力的协议。答案选A。 出自12.1.4 服务级别设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0333",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在服务设计实现阶段，服务模式设计需要充分考虑的因素中，不包括（ ）。",
+    "options": [
+      "A. 服务模式的新颖性",
+      "B. 服务供方的人员和资源配置",
+      "C. 服务模式与客户需求的一致性",
+      "D. 服务供方具备同时提供多种服务模式的能力"
+    ],
+    "answer": "A",
+    "explanation": "在信息系统服务模式的设计过程中，系统规划与管理师需要充分考虑选择的服务 模式与客户可用性、连续性、安全性等方面的服务需求相一致；服务供方的人员和资源 配置与所设计的服务模式相匹配；服务供方具备同时提供多种服务模式的能力，能够根 据客户需求的变化，及时对服务模式进行调整。文中未提及服务模式的新颖性。答案 选A。出自12.2.1 服务模式设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0334",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "信息系统服务团队中，操作岗的工作特点是（ ）。",
+    "options": [
+      "A. 提供专业技术支持",
+      "B. 按照规范和手册执行服务交付过程",
+      "C. 管理服务需求和服务过程",
+      "D. 设计服务流程和规范"
+    ],
+    "answer": "B",
+    "explanation": "操作岗按照信息系统服务规范和操作手册，执行服务交付的各个过程。A 选项是 技术支持岗的职责；C 选项是管理岗的职责；D 选项通常是管理岗或流程设计相关人员 的工作。答案选B。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0335",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员绩效方案设计中，确定绩效指标的关键是（ ）。",
+    "options": [
+      "A. 依据岗位职责",
+      "B. 参考员工的工作态度",
+      "C. 结合员工的学历背景",
+      "D. 考虑行业平均水平"
+    ],
+    "answer": "A",
+    "explanation": "依据信息系统服务人员岗位职责的不同，定义不同的绩效管理目标。岗位职责是 确定绩效指标的关键依据。答案选A。出自12.2.2 人员要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0336",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员培训方案设计的培训需求分析中，通过内部调查了解各层面员工需求时，不包 括( ) 。",
+    "options": [
+      "A. 员工对培训讲师的要求",
+      "B. 员工对培训时间的需求",
+      "C. 员工对培训内容的期望",
+      "D. 员工的工作绩效情况"
+    ],
+    "answer": "D",
+    "explanation": "通过内部调查了解各层面员工需要什么培训、什么时候需要、对培训的关注程度、 需要什么形式的授课，不包括员工的工作绩效情况。答案选D。出自12.2.2 人员要素 设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0337",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "人员培训方案设计的培训内容中，交付和应急培训的目的不包括（ ）。",
+    "options": [
+      "A. 使交付人员明确交付职责、分工、指标及关键管理节点",
+      "B. 提高设备在运行维护过程中的故障频率",
+      "C. 提升岗位人员的交付、应急素质和处理能力",
+      "D. 让人员领会交付和应急管理的重要性"
+    ],
+    "answer": "B",
+    "explanation": "交付和应急培训通过对交付岗位人员培训，使交付人员明确交付职责、分工、指 标及关键管理节点，减少交付人员错误、提高质量；降低设备在运行维护过程中发生故 障的频率；让人员领会交付和应急管理的重要性，提升岗位人员的交付、应急素质和处 理能力。B 选项提高设备故障频率说法错误。答案选B。出自12.2.2 人员要素设计 部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0338",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在资源要素设计的服务工具设计中，其他工具主要用于（ ）。",
+    "options": [
+      "A. 进行重复或批量工作的自动化管理",
+      "B. 监控服务对象的状态数据",
+      "C. 实现服务过程的流程化管理",
+      "D. 提供面向最终用户的服务台"
+    ],
+    "answer": "A",
+    "explanation": "其他工具可使信息系统服务人员能够进行重复或批量工作的自动化管理，提高服 务效率和效果；监控类工具用于监控服务对象的状态数据；过程管理类工具实现服务过 程的流程化管理并提供服务台。答案选A。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0339",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "服务台设计时，设定专人负责服务请求处理的主要作用是（ ）。",
+    "options": [
+      "A. 提高处理效率和明确责任",
+      "B. 减少服务请求数量",
+      "C. 增加服务成本",
+      "D. 简化服务流程"
+    ],
+    "answer": "A",
+    "explanation": "设定专人负责服务请求的处理，一方面可以提高处理效率，另一方面能够明确责 任，确保服务请求得到及时有效的处理。答案选A。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0340",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "备件库设计时，备件响应方式和级别定义的关键依据是（ ）。",
+    "options": [
+      "A. SLA 所约定的备件支持",
+      "B. 备件的采购成本",
+      "C. 备件的存储条件",
+      "D. 备件供应商的建议"
+    ],
+    "answer": "A",
+    "explanation": "备件响应方式和级别定义，能够满足SLA 所约定的备件支持，这是其关键依据。 答案选A。出自12.2.3 资源要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0341",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "知识库设计时，确保整个组织内的知识是可用的、可共享的，主要是为了（ ）。",
+    "options": [
+      "A. 提高知识的利用率，提升服务效率和质量",
+      "B. 增加知识的数量",
+      "C. 展示知识管理的成果",
+      "D. 满足领导的要求"
+    ],
+    "answer": "A",
+    "explanation": "确保整个组织内的知识是可用的、可共享的，目的是在信息系统服务交付的过程 中，让知识能够被充分利用，从而提升服务效率和质量。答案选A。出自12.2.3 资源 要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0342",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "技术要素设计中，制定监控指标及阈值表的主要依据是（ ）。",
+    "options": [
+      "A. 需方业务和信息系统服务需求",
+      "B. 服务成本和客户期望",
+      "C. 技术人员的经验",
+      "D. 行业通用标准"
+    ],
+    "answer": "A",
+    "explanation": "根据需方业务和信息系统服务需求识别出各类监控对象的监控指标和阈值，是监 控工具能提供有效监控的基本要求。答案选A。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0343",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "制定测试环境建设计划时，除考虑服务成本和客户期望外，还需依据（ ）。",
+    "options": [
+      "A. 服务内容",
+      "B. 技术研发进度",
+      "C. 服务人员数量",
+      "D. 服务工具的使用情况"
+    ],
+    "answer": "A",
+    "explanation": "在设计实现阶段，系统规划与管理师应根据服务内容，在考虑服务成本和客户期 望的前提下制订仿真测试环境建设计划。答案选A。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0344",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "解决问题的技术中，制定技术活动标准操作流程的主要目的是（ ）。",
+    "options": [
+      "A. 降低风险、提高效率",
+      "B. 规范技术人员的行为规范",
+      "C. 提高技术人员的工作积极性",
+      "D. 增加技术活动的创新性"
+    ],
+    "answer": "A",
+    "explanation": "制定技术活动标准操作流程，指导信息系统服务人员进行标准化的操作，主要目 的是降低风险、提高效率。答案选A。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0345",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "制定应急预案的主要作用是（ ）。",
+    "options": [
+      "A. 避免重大突发事件发生或在事件发生后及时恢复",
+      "B. 规范应急处理流程",
+      "C. 提高应急处理能力",
+      "D. 降低应急处理成本"
+    ],
+    "answer": "A",
+    "explanation": "为了避免出现重大突发事件或出现后及时恢复，应建立相应的应急预案及演练计 划。答案选A。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0346",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "在技术要素设计中，完成知识转移的主要意义在于（ ）。",
+    "options": [
+      "A. 为运营阶段的服务交付活动提供知识保障",
+      "B. 提升团队知识水平",
+      "C. 促进知识共享",
+      "D. 提高服务质量"
+    ],
+    "answer": "A",
+    "explanation": "在设计实现阶段，完成知识转移，将过往信息系统服务中产生和使用的资料完整 地转移到现有的服务团队中，主要是为运营阶段的服务交付活动提供知识保障。答案选 A。出自12.2.4 技术要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch12_0347",
+    "chapter": "第12章",
+    "chapter_no": 12,
+    "chapter_title": "信息系统服务管理",
+    "question": "过程要素设计中，常见信息系统服务管理过程中的事件管理过程旨在确保（ ）。",
+    "options": [
+      "A. 服务供方具有准确检知事件、及时解决事件的能力",
+      "B. 服务供方通过识别引起事件的原因并解决问题",
+      "C. 配置数据的可靠性和时效性",
+      "D. 服务供方通过管理、控制变更的过程，确保变更有序实施"
+    ],
+    "answer": "A",
+    "explanation": "事件管理过程须确保服务供方具有准确检知事件、及时解决事件的能力；B 选项 是问题管理过程的目标；C 选项是配置管理过程的目标；D 选项是变更管理过程的目标。 答案选A。出自12.2.5 过程要素设计部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "status": "candidate"
+  }
+]

@@ -1,0 +1,1688 @@
+[
+  {
+    "id": "ch04_q001",
+    "question": "以下关于信息系统规划原则的描述，不正确的是？",
+    "options": [
+      "A. 柔性要求信息系统规划应尽可能详细，不留调整空间",
+      "B. 整体性要求覆盖业务赋能、系统框架、建设实施和集成融合等方面",
+      "C. 战略性要求信息系统规划与组织战略保持一致",
+      "D. 遵从性要求充分识别相关法律法规的要求"
+    ],
+    "answer": "A",
+    "explanation": "柔性原则要求信息系统规划需要充分满足对组织内外部环境变化的适应性，在确保目标可获取的基础上，明确监测、调整和优化的基本原则，保障系统的柔性。信息系统规划不宜过细，而不是不留调整空间。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch04_q002",
+    "question": "组织信息系统总体框架演进的一般顺序为？",
+    "options": [
+      "A. 以互联网为主线—以平台能力为主线—以应用功能为主线",
+      "B. 以应用功能为主线—以平台能力为主线—以互联网为主线",
+      "C. 以平台能力为主线—以应用功能为主线—以互联网为主线",
+      "D. 以应用功能为主线—以互联网为主线—以平台能力为主线"
+    ],
+    "answer": "B",
+    "explanation": "以工业企业为例，其框架演进一般为：①以应用功能为主线的框架；②以平台能力为主线的框架；③以互联网为主线的框架。采用哪种系统框架，本质上取决于组织业务发展的程度。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "组织信息系统总体框架演进",
+    "source_ref": "references/第4章_信息系统规划.md#概述",
+    "tags": [
+      "组织信息系统总体框架演进",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch04_q003",
+    "question": "战略目标集转移法（SST）是由谁于1978年提出的？",
+    "options": [
+      "A. William King",
+      "B. Michael Porter",
+      "C. John Rochart",
+      "D. John Zachman"
+    ],
+    "answer": "A",
+    "explanation": "战略目标集转移法（SST）是William King于1978年提出的一种确定信息系统战略目标的方法。SST把组织的总战略、信息系统战略分别看成\"信息集合\"。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "战略目标集转移法",
+    "knowledge_point": "SST",
+    "source_ref": "references/第4章_信息系统规划.md#战略目标集转移法",
+    "tags": [
+      "SST",
+      "战略目标集转移法",
+      "Zachman"
+    ]
+  },
+  {
+    "id": "ch04_q004",
+    "question": "企业信息系统规划法（BSP）的四个基本步骤依次为？",
+    "options": [
+      "A. 定义数据类—定义管理目标—定义管理功能—定义信息结构",
+      "B. 定义管理目标—定义管理功能—定义数据类—定义信息结构",
+      "C. 定义管理功能—定义管理目标—定义信息结构—定义数据类",
+      "D. 定义信息结构—定义管理目标—定义数据类—定义管理功能"
+    ],
+    "answer": "B",
+    "explanation": "BSP方法的4个基本步骤为：①定义管理目标；②定义管理功能；③定义数据类；④定义信息结构。其中定义管理功能是BSP方法的核心。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "企业信息系统规划法",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#企业信息系统规划法",
+    "tags": [
+      "信息系统规划",
+      "企业信息系统规划法",
+      "BSP"
+    ]
+  },
+  {
+    "id": "ch04_q005",
+    "question": "关键成功因素法（CSF）认为关键成功因素有四个主要来源，以下哪项不属于这四个来源？",
+    "options": [
+      "A. 技术创新速度",
+      "B. 竞争策略、产业地位及地理位置",
+      "C. 个别产业的结构",
+      "D. 环境因素"
+    ],
+    "answer": "A",
+    "explanation": "关键成功因素的4个主要来源为：①个别产业的结构；②竞争策略、产业地位及地理位置；③环境因素；④暂时因素。技术创新速度不属于这四个来源。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "关键成功因素法",
+    "knowledge_point": "CSF",
+    "source_ref": "references/第4章_信息系统规划.md#关键成功因素法",
+    "tags": [
+      "CSF",
+      "关键成功因素法"
+    ]
+  },
+  {
+    "id": "ch04_q006",
+    "question": "Zachman框架的横向维度采用6W进行组织，以下哪个不属于6W？",
+    "options": [
+      "A. Which（哪个）",
+      "B. How（如何做）",
+      "C. What（什么）",
+      "D. Why（为什么）"
+    ],
+    "answer": "A",
+    "explanation": "Zachman框架横向维度采用6W进行组织，即What（什么）、How（如何做）、Where（什么地点）、Who（谁）、When（什么时间）、Why（为什么）。Which（哪个）不属于6W。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "Zachman 框架",
+    "knowledge_point": "Zachman",
+    "source_ref": "references/第4章_信息系统规划.md#Zachman-框架",
+    "tags": [
+      "Zachman",
+      "Zachman 框架"
+    ]
+  },
+  {
+    "id": "ch04_q007",
+    "question": "大型单位的信息组织体系一般可分为集中式、分权式和？",
+    "options": [
+      "A. 矩阵式",
+      "B. 平衡矩阵式",
+      "C. 项目式",
+      "D. 事业部式"
+    ],
+    "answer": "B",
+    "explanation": "大型单位的信息组织体系一般可分为集中式、分权式和平衡矩阵式。平衡矩阵式集合了集中式和分权式的主要优点，即信息数字基础环境集中建设管理，而业务应用分权管理。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "大型单位的信息组织体系可",
+    "source_ref": "references/第4章_信息系统规划.md#概述",
+    "tags": [
+      "大型单位的信息组织体系可",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch04_q008",
+    "question": "信息系统规划发展阶段可以参考行业最佳实践，按照成熟度模式进行划分，以下哪个不属于文中提到的五个等级？",
+    "options": [
+      "A. 建平台",
+      "B. 提效率",
+      "C. 打基础",
+      "D. 构生态"
+    ],
+    "answer": "A",
+    "explanation": "信息系统发展阶段按成熟度模式定义为5个等级：打基础、提效率、做协同、强决策、构生态。\"建平台\"不属于这五个等级。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q009",
+    "question": "信息系统规划的关键价值与意义不包括以下哪项？",
+    "options": [
+      "A. 替代组织的战略规划",
+      "B. 明确组织数字能力建设路径",
+      "C. 确立组织关键数字能力目标",
+      "D. 具象数字能力建设的关键任务"
+    ],
+    "answer": "A",
+    "explanation": "信息系统规划的关键价值与意义包括确立组织关键数字能力目标、明确组织数字能力建设路径、确保认识一致性、具象关键任务、明确标准与控制措施、统筹部署资源等。信息系统规划是组织战略规划的有机组成部分，不能替代组织的战略规划。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容",
+      "战略规划"
+    ]
+  },
+  {
+    "id": "ch04_q010",
+    "question": "信息系统规划的先进性原则要求？",
+    "options": [
+      "A. 使用最先进的技术，不考虑成本",
+      "B. 充分考虑技术发展趋势并融合内外部最佳实践",
+      "C. 只关注当前技术，不考虑未来发展",
+      "D. 完全照搬其他组织的方案"
+    ],
+    "answer": "B",
+    "explanation": "先进性原则包括：①充分考虑系统全生命周期相互关联的技术的发展趋势，从而选择适当的技术路线；②充分融合组织内外部最佳实践，借鉴成功经验，规避发展风险，形成符合组织自身特点的方案。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q011",
+    "question": "信息系统规划活动中，不同层级人员的关注点不同。决策层主要关注？",
+    "options": [
+      "A. 数字能力的愿景、目标和路径",
+      "B. 业务变革和管理分工变化",
+      "C. 具体任务和计划",
+      "D. 技术实现细节"
+    ],
+    "answer": "A",
+    "explanation": "决策层关注组织发展战略，对组织数字能力的愿景、目标和路径比较关注；管理层关注各项事务的发展过程；执行层则关注建设的具体任务和计划。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q012",
+    "question": "发展路径选择的基本原则不包括以下哪项？",
+    "options": [
+      "A. 业务一致",
+      "B. 能力主线",
+      "C. 基础优先",
+      "D. 成本最低"
+    ],
+    "answer": "D",
+    "explanation": "发展路径选择的基本原则包括：业务一致、能力主线、基础优先、稳态先行。成本最低不是发展路径选择的基本原则。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "概述",
+    "knowledge_point": "发展路径选择的基本原则",
+    "source_ref": "references/第4章_信息系统规划.md#概述",
+    "tags": [
+      "发展路径选择的基本原则",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch04_q013",
+    "question": "信息系统发展阶段中，\"做协同\"阶段的主旨是？",
+    "options": [
+      "A. 侧重数据的共治共享，依托数据流优化业务流",
+      "B. 侧重以提高工作效率为主线",
+      "C. 侧重业务规范化和数字化意识",
+      "D. 侧重数据模型的开发利用"
+    ],
+    "answer": "A",
+    "explanation": "做协同阶段侧重数据的共治共享，依托数据流，优化业务流，强调多元业务或职能之间的协同优化和创新。A是打基础阶段，B是提效率阶段，D是强决策阶段。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "信息系统发展阶段中",
+    "source_ref": "references/第4章_信息系统规划.md#概述",
+    "tags": [
+      "信息系统发展阶段中",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch04_q014",
+    "question": "信息系统规划中，信息组织体系优化需要考虑的因素不包括以下哪项？",
+    "options": [
+      "A. 组织的业务特点",
+      "B. 组织的管理文化",
+      "C. 组织的地理位置",
+      "D. 组织的食堂规模"
+    ],
+    "answer": "D",
+    "explanation": "信息组织体系优化需要考虑组织的业务特点、管理文化、发展阶段、技术能力等因素。组织的食堂规模与信息组织体系优化无关。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "组织体系优化",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#组织体系优化",
+    "tags": [
+      "信息系统规划",
+      "组织体系优化",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch04_q015",
+    "question": "BSP方法中，哪个步骤是其核心？",
+    "options": [
+      "A. 定义管理目标",
+      "B. 定义管理功能",
+      "C. 定义数据类",
+      "D. 定义信息结构"
+    ],
+    "answer": "B",
+    "explanation": "BSP方法的4个基本步骤中，定义管理功能是BSP方法的核心。管理功能是对组织中必要活动的识别和定义，独立于组织机构。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "BSP",
+    "source_ref": "references/第4章_信息系统规划.md#概述",
+    "tags": [
+      "BSP",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch04_q016",
+    "question": "价值链分析法（VCA）是由谁提出的？",
+    "options": [
+      "A. William King",
+      "B. Michael Porter",
+      "C. John Zachman",
+      "D. John Rochart"
+    ],
+    "answer": "B",
+    "explanation": "价值链分析法（VCA）是由Michael Porter提出的。VCA将组织的活动分为基本活动和支持活动，通过分析价值链来识别信息系统的机会。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "价值链分析法",
+    "knowledge_point": "价值链",
+    "source_ref": "references/第4章_信息系统规划.md#价值链分析法",
+    "tags": [
+      "价值链",
+      "价值链分析法",
+      "Zachman"
+    ]
+  },
+  {
+    "id": "ch04_q017",
+    "question": "Zachman框架的纵向维度采用不同的角色视角进行组织，以下哪个不是纵向维度的角色？",
+    "options": [
+      "A. 竞争者",
+      "B. 所有者",
+      "C. 规划者",
+      "D. 构建者"
+    ],
+    "answer": "A",
+    "explanation": "Zachman框架纵向维度包括规划者、所有者、设计者、构建者、分包者等角色视角。竞争者不是Zachman框架纵向维度的角色。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "Zachman 框架",
+    "knowledge_point": "Zachman",
+    "source_ref": "references/第4章_信息系统规划.md#Zachman-框架",
+    "tags": [
+      "Zachman",
+      "Zachman 框架"
+    ]
+  },
+  {
+    "id": "ch04_q018",
+    "question": "信息系统规划中，资源体系调度需要考虑的资源类型不包括以下哪项？",
+    "options": [
+      "A. 娱乐资源",
+      "B. 网络资源",
+      "C. 数据资源",
+      "D. 人力资源"
+    ],
+    "answer": "A",
+    "explanation": "资源体系调度需要考虑的资源包括数据资源、网络资源、基础设施资源、软件资源等信息资源，以及人力资源、管理资源、技术资源等。娱乐资源不属于信息系统规划中的资源类型。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "资源体系调度",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#资源体系调度",
+    "tags": [
+      "信息系统规划",
+      "资源体系调度"
+    ]
+  },
+  {
+    "id": "ch04_q019",
+    "question": "信息系统规划的指导性原则要求从哪些方面给出框架性的要求和建议？",
+    "options": [
+      "A. 仅从技术方案方面",
+      "B. 业务需求、技术方案、实施管理、成本控制、范围界定、风险预防等方面",
+      "C. 仅从业务需求方面",
+      "D. 仅从成本控制方面"
+    ],
+    "answer": "B",
+    "explanation": "指导性原则要求信息系统规划需要从业务需求、技术方案、实施管理、成本控制、范围界定、风险预防等方面，给出框架性的要求和建议，为系统的设计与实现提供基本依据和指导。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q020",
+    "question": "以下关于信息系统规划特点的描述，不正确的是？",
+    "options": [
+      "A. 结构化程度高",
+      "B. 具有较强的不确定性",
+      "C. 面向组织全局性、长远性的关键问题",
+      "D. 需要组织全体成员充分参与"
+    ],
+    "answer": "A",
+    "explanation": "信息系统规划面向组织全局性、长远性的关键问题，具有较强的不确定性、系统概括性和结构化程度低等特点。C选项说结构化程度高是不正确的。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch04_q021",
+    "question": "信息系统规划中，\"稳态先行\"原则的含义是？",
+    "options": [
+      "A. 先建设敏态内容",
+      "B. 稳态内容更加基础且生命周期较长，需要先行规划和建设",
+      "C. 只关注稳态内容",
+      "D. 稳态和敏态同时建设"
+    ],
+    "answer": "B",
+    "explanation": "稳态先行原则是指信息系统中包含稳态内容和敏态内容，相对而言，稳态内容更加基础，且生命周期较长，需要先行规划和建设。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q022",
+    "question": "信息系统规划中，保障体系设定的主要目的是？",
+    "options": [
+      "A. 确保信息系统建设的顺利实施和持续运行",
+      "B. 减少系统功能",
+      "C. 降低系统性能",
+      "D. 增加系统复杂度"
+    ],
+    "answer": "A",
+    "explanation": "保障体系设定的主要目的是确保信息系统建设的顺利实施和持续运行，包括组织保障、制度保障、技术保障、资金保障等方面。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "保障体系设定",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#保障体系设定",
+    "tags": [
+      "信息系统规划",
+      "保障体系设定"
+    ]
+  },
+  {
+    "id": "ch04_q023",
+    "question": "信息系统规划中，任务体系部署需要明确的内容不包括以下哪项？",
+    "options": [
+      "A. 员工的个人爱好",
+      "B. 资源投入",
+      "C. 具体时间计划",
+      "D. 责任分工"
+    ],
+    "answer": "A",
+    "explanation": "任务体系部署需要明晰各项关键任务的具体时间计划、资源投入、责任分工、目标成果，以及这些任务之间的依存与关联关系等。员工的个人爱好不属于任务体系部署的内容。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "任务体系部署",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#任务体系部署",
+    "tags": [
+      "信息系统规划",
+      "任务体系部署"
+    ]
+  },
+  {
+    "id": "ch04_q024",
+    "question": "信息系统规划中，技术体系定义需要考虑的因素不包括以下哪项？",
+    "options": [
+      "A. 技术发展趋势",
+      "B. 技术路线选择",
+      "C. 技术标准规范",
+      "D. 技术人员的薪资水平"
+    ],
+    "answer": "D",
+    "explanation": "技术体系定义需要考虑技术发展趋势、技术路线选择、技术标准规范、技术架构设计等因素。技术人员的薪资水平不属于技术体系定义的范畴。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "技术体系定义",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#技术体系定义",
+    "tags": [
+      "信息系统规划",
+      "技术体系定义"
+    ]
+  },
+  {
+    "id": "ch04_q025",
+    "question": "信息系统规划的工作要点中，需求挖掘的主要目的是？",
+    "options": [
+      "A. 减少系统功能",
+      "B. 准确理解组织的业务需求和痛点",
+      "C. 增加系统复杂度",
+      "D. 降低系统性能"
+    ],
+    "answer": "B",
+    "explanation": "需求挖掘的主要目的是准确理解组织的业务需求和痛点，为信息系统规划提供准确的需求输入，确保规划的针对性和有效性。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q026",
+    "question": "以下关于CSF方法的描述，不正确的是？",
+    "options": [
+      "A. CSF方法适用于所有类型的组织和行业",
+      "B. 关键成功因素的来源包括个别产业的结构",
+      "C. CSF方法通过识别关键成功因素来确定信息系统需求",
+      "D. 关键成功因素的来源包括暂时因素"
+    ],
+    "answer": "A",
+    "explanation": "CSF方法通过识别关键成功因素来确定信息系统需求，关键成功因素的来源包括个别产业的结构、竞争策略产业地位及地理位置、环境因素和暂时因素。CSF方法有其适用范围，并非适用于所有类型的组织和行业。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "CSF",
+    "source_ref": "references/第4章_信息系统规划.md#概述",
+    "tags": [
+      "CSF",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch04_q027",
+    "question": "信息系统规划中，场景分析的主要作用是？",
+    "options": [
+      "A. 减少系统功能",
+      "B. 通过具体业务场景验证规划方案的可行性",
+      "C. 增加系统复杂度",
+      "D. 降低系统性能"
+    ],
+    "answer": "B",
+    "explanation": "场景分析的主要作用是通过具体业务场景验证规划方案的可行性，确保规划方案能够满足实际业务需求。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q028",
+    "question": "信息系统规划中，持续改进的主要目的是？",
+    "options": [
+      "A. 一次性完成所有工作",
+      "B. 根据实际情况不断优化和调整规划方案",
+      "C. 减少系统功能",
+      "D. 降低系统性能"
+    ],
+    "answer": "B",
+    "explanation": "持续改进的主要目的是根据实际情况不断优化和调整规划方案，确保信息系统规划能够适应组织内外部环境的变化。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "持续改进",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#持续改进",
+    "tags": [
+      "信息系统规划",
+      "持续改进"
+    ]
+  },
+  {
+    "id": "ch04_q029",
+    "question": "信息系统规划中，整体性原则的四个方面不包括以下哪项？",
+    "options": [
+      "A. 人员培训整体性",
+      "B. 系统框架整体性",
+      "C. 业务赋能整体性",
+      "D. 集成融合整体性"
+    ],
+    "answer": "A",
+    "explanation": "整体性原则包括业务赋能整体性、系统框架整体性、建设实施整体性和集成融合整体性四个方面。人员培训整体性不是整体性原则的四个方面之一。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q030",
+    "question": "信息系统规划中，遵从性原则的要求不包括以下哪项？",
+    "options": [
+      "A. 充分识别相关法律法规的要求",
+      "B. 挖掘相关国家、行业、地方标准规范",
+      "C. 满足组织战略和数字能力发展需求",
+      "D. 忽略行业标准，只关注国际标准"
+    ],
+    "answer": "D",
+    "explanation": "遵从性原则要求：①充分识别相关法律法规的要求；②充分挖掘相关国家、行业、地方、团体、企业的标准规范；③满足组织战略、数字能力的发展需求。不能忽略行业标准。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q031",
+    "question": "信息系统规划中，诊断的主要目的是？",
+    "options": [
+      "A. 减少系统功能",
+      "B. 评估组织当前信息系统的现状和问题",
+      "C. 增加系统复杂度",
+      "D. 降低系统性能"
+    ],
+    "answer": "B",
+    "explanation": "诊断的主要目的是评估组织当前信息系统的现状和问题，识别差距和改进机会，为规划提供依据。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q032",
+    "question": "信息系统规划中，\"能力主线\"原则的含义是？",
+    "options": [
+      "A. 只关注技术能力",
+      "B. 找到符合组织发展需求的能力主线，如业财一体、经营敏捷等",
+      "C. 只关注人员能力",
+      "D. 只关注管理能力"
+    ],
+    "answer": "B",
+    "explanation": "能力主线原则是指信息系统发展需要找到符合组织发展需求的能力主线，如业财一体、经营敏捷、复杂决策、产业链协同等，对某一组织而言，能力主线可能有多条。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q033",
+    "question": "信息系统规划中，发展阶段定义的必要性不包括以下哪项？",
+    "options": [
+      "A. 便于理解",
+      "B. 响应目标",
+      "C. 定义主旨",
+      "D. 增加成本"
+    ],
+    "answer": "D",
+    "explanation": "定义信息系统发展阶段的必要性包括便于理解、响应目标、定义主旨和调整优化。增加成本不是发展阶段定义的必要性。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch04_q034",
+    "question": "信息系统规划中，\"构生态\"阶段的主旨是？",
+    "options": [
+      "A. 侧重跨组织间的信息系统融合应用",
+      "B. 侧重以提高工作效率为主线",
+      "C. 侧重业务规范化",
+      "D. 侧重数据模型的开发利用"
+    ],
+    "answer": "A",
+    "explanation": "构生态阶段侧重跨组织间的信息系统融合应用，在生态链、城市群等环境下，依托云和互联网模式，形成广域的协同机制。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q035",
+    "question": "信息系统规划中，SST方法的核心思想是？",
+    "options": [
+      "A. 识别关键成功因素",
+      "B. 把组织的总战略、信息系统战略分别看成\"信息集合\"",
+      "C. 分析价值链",
+      "D. 定义管理功能"
+    ],
+    "answer": "B",
+    "explanation": "SST方法的核心思想是把组织的总战略、信息系统战略分别看成\"信息集合\"，通过分析两个集合之间的关系来确定信息系统战略目标。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容",
+      "SST",
+      "价值链"
+    ]
+  },
+  {
+    "id": "ch04_q036",
+    "question": "信息系统规划中，规划形成的系统价值可通过什么方法实现？",
+    "options": [
+      "A. 瀑布方法",
+      "B. 敏捷方法",
+      "C. 原型方法",
+      "D. 螺旋方法"
+    ],
+    "answer": "B",
+    "explanation": "信息系统规划不宜过细，规划的重点是为后续能力建设提供指导和指引，具体规划形成的系统的价值可通过敏捷等方法实现。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q037",
+    "question": "信息系统规划中，\"基础优先\"原则要求优先规划和建设什么？",
+    "options": [
+      "A. 应用系统",
+      "B. 信息基础设施",
+      "C. 人员培训",
+      "D. 组织架构"
+    ],
+    "answer": "B",
+    "explanation": "基础优先原则要求良好的信息基础设施是发挥信息系统整体价值的前提，在组织信息系统的发展路径中，这些信息基础设施需要进行优先规划和建设。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q038",
+    "question": "以下关于信息系统规划的描述，正确的是？",
+    "options": [
+      "A. 信息系统规划可以替代组织战略规划",
+      "B. 信息系统规划是组织战略规划的有机组成部分",
+      "C. 信息系统规划只需要技术人员参与",
+      "D. 信息系统规划是一次性的工作"
+    ],
+    "answer": "B",
+    "explanation": "信息系统规划是组织战略规划的有机组成部分，是组织关于数字能力的目标及其实现的总体谋划。它需要全员参与，是一项持续的工作。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容",
+      "战略规划"
+    ]
+  },
+  {
+    "id": "ch04_q039",
+    "question": "信息系统规划中，规划活动的成果的重要组成部分包括？",
+    "options": [
+      "A. 只包括技术方案",
+      "B. 清晰定义并明确相关的标准需求和标准内容，以及关键控制措施",
+      "C. 只包括预算计划",
+      "D. 只包括人员名单"
+    ],
+    "answer": "B",
+    "explanation": "信息系统规划活动的成果的重要组成部分，包括在分析组织内外部环境的基础上，基于组织管理现状和目标差距等，清晰定义并明确相关的标准需求和标准内容，以及关键控制措施及措施的演进过程等。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q040",
+    "question": "信息系统规划中，新时代的信息系统规划的新关注焦点不包括以下哪项？",
+    "options": [
+      "A. 开放",
+      "B. 弹性",
+      "C. 人机融合",
+      "D. 封闭独立"
+    ],
+    "answer": "D",
+    "explanation": "新时代的信息系统规划新的关注焦点还包括开放、弹性、人机融合等方面。封闭独立不是新关注焦点。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q041",
+    "question": "信息系统规划中，\"业务一致\"原则的含义是？",
+    "options": [
+      "A. 信息系统发展路径与组织业务发展路径保持一致",
+      "B. 所有业务使用同一套系统",
+      "C. 业务流程不需要优化",
+      "D. 业务需求不需要收集"
+    ],
+    "answer": "A",
+    "explanation": "业务一致原则是指信息系统发展路径最好能够与组织业务发展路径保持一致，从而确保组织的工作重心相对聚焦，避免重点分散带来的阻力或资源投入浪费或不足。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容",
+      "业务流程"
+    ]
+  },
+  {
+    "id": "ch04_q042",
+    "question": "信息系统规划中，VCA方法的主要作用是？",
+    "options": [
+      "A. 定义管理目标",
+      "B. 通过分析价值链来识别信息系统的机会",
+      "C. 定义数据类",
+      "D. 定义信息结构"
+    ],
+    "answer": "B",
+    "explanation": "VCA（价值链分析法）通过分析组织的价值链来识别信息系统的机会，将组织的活动分为基本活动和支持活动，找出可以利用信息系统提升价值的环节。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "价值链分析法",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#价值链分析法",
+    "tags": [
+      "信息系统规划",
+      "价值链分析法",
+      "价值链"
+    ]
+  },
+  {
+    "id": "ch04_q043",
+    "question": "信息系统规划中，规划工作应由谁担任主要负责人？",
+    "options": [
+      "A. 技术人员",
+      "B. 组织决策层",
+      "C. 外部顾问",
+      "D. 普通员工"
+    ],
+    "answer": "B",
+    "explanation": "信息系统规划活动需要组织全体成员充分参与，由组织决策层担任主要负责人，管理层作为工作主体。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q044",
+    "question": "信息系统规划中，使用的方法包括？",
+    "options": [
+      "A. 只使用自顶向下分解",
+      "B. 自顶向下分解、自底向上聚合等方法",
+      "C. 只使用自底向上聚合",
+      "D. 不使用任何方法"
+    ],
+    "answer": "B",
+    "explanation": "信息系统规划使用自顶向下分解、自底向上聚合等方法，确定组织信息系统的整体发展战略、总体框架、演进路径和资源分配策略等内容。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q045",
+    "question": "信息系统规划中，\"强决策\"阶段的主旨是？",
+    "options": [
+      "A. 侧重业务规范化",
+      "B. 侧重以提高工作效率为主线",
+      "C. 侧重数据的共治共享",
+      "D. 侧重数据模型的开发利用，提高组织的决策效率效能"
+    ],
+    "answer": "D",
+    "explanation": "强决策阶段侧重数据模型的开发利用，通过数据和模型的综合应用，提高组织的决策效率效能，变革组织的治理模式。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q046",
+    "question": "信息系统规划中，Zachman框架的横向维度和纵向维度分别代表什么？",
+    "options": [
+      "A. 横向是时间维度，纵向是空间维度",
+      "B. 横向是6W问题，纵向是不同角色视角",
+      "C. 横向是技术维度，纵向是业务维度",
+      "D. 横向是成本维度，纵向是收益维度"
+    ],
+    "answer": "B",
+    "explanation": "Zachman框架横向维度采用6W进行组织（What、How、Where、Who、When、Why），纵向维度采用不同的角色视角（规划者、所有者、设计者、构建者、分包者等）。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "Zachman 框架",
+    "knowledge_point": "Zachman",
+    "source_ref": "references/第4章_信息系统规划.md#Zachman-框架",
+    "tags": [
+      "Zachman",
+      "Zachman 框架",
+      "信息系统规划"
+    ]
+  },
+  {
+    "id": "ch04_q047",
+    "question": "信息系统规划中，平衡矩阵式信息组织体系的优点是？",
+    "options": [
+      "A. 信息数字基础环境集中建设管理，业务应用分权管理",
+      "B. 所有工作分权管理",
+      "C. 所有工作集中管理",
+      "D. 不需要任何管理"
+    ],
+    "answer": "A",
+    "explanation": "平衡矩阵式集合了集中式和分权式的主要优点，即信息数字基础环境集中建设管理，而业务应用分权管理。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q048",
+    "question": "信息系统规划中，BSP方法的步骤顺序是？",
+    "options": [
+      "A. 定义管理功能→定义管理目标→定义数据类→定义信息结构",
+      "B. 定义管理目标→定义管理功能→定义数据类→定义信息结构",
+      "C. 定义数据类→定义管理目标→定义管理功能→定义信息结构",
+      "D. 定义信息结构→定义管理目标→定义数据类→定义管理功能"
+    ],
+    "answer": "B",
+    "explanation": "BSP方法的4个基本步骤为：①定义管理目标；②定义管理功能；③定义数据类；④定义信息结构。这个顺序是固定的。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容",
+      "BSP"
+    ]
+  },
+  {
+    "id": "ch04_q049",
+    "question": "信息系统规划中，规划的目的是确保信息系统具备的特性不包括以下哪项？",
+    "options": [
+      "A. 良好的整体性",
+      "B. 较高的适应性",
+      "C. 较强的可持续性",
+      "D. 最高的技术先进性"
+    ],
+    "answer": "D",
+    "explanation": "科学的规划可以确保组织的信息系统具备良好的整体性、较高的适应性、较强的可持续性、较好的投资价值等。最高的技术先进性不是规划的主要目的，规划强调的是适当的技术路线。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容"
+    ]
+  },
+  {
+    "id": "ch04_q050",
+    "question": "信息系统规划中，CSF方法的四个主要来源中，\"暂时因素\"是指？",
+    "options": [
+      "A. 临时出现的、可能影响组织发展的因素",
+      "B. 不需要考虑的因素",
+      "C. 永久不变的因素",
+      "D. 已经解决的问题"
+    ],
+    "answer": "A",
+    "explanation": "暂时因素是指临时出现的、可能影响组织发展的因素，如当前的经济形势、竞争对手的临时行动等。这些因素虽然可能是暂时的，但在特定时期内对组织发展有重要影响。",
+    "chapter": "第4章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划主要内容",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/第4章_信息系统规划.md#信息系统规划主要内容",
+    "tags": [
+      "信息系统规划",
+      "信息系统规划主要内容",
+      "CSF"
+    ]
+  },
+  {
+    "id": "ch04_q051",
+    "question": "组织信息系统战略是组织信息系统建设要实现的目标及实现这些目标的方法、策略、 措施的总称，其战略规划内容不包括（ ）。",
+    "options": [
+      "A. 发展战略与目标",
+      "B. 发展路径与阶段",
+      "C. 系统框架设计",
+      "D. 组织架构调整"
+    ],
+    "answer": "D",
+    "explanation": "4.2.1 信息系统发展战略中，信息系统战略规划内容主要包括发展战略与目标、 发展路径与阶段，系统框架设计属于主要系统及框架的内容，组织架构调整不属于信息 系统战略规划内容。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0004"
+  },
+  {
+    "id": "ch04_q052",
+    "question": "场景化模型分析在信息系统规划中应用的阶段不包括（ ）。",
+    "options": [
+      "A. 规划前",
+      "B. 规划中",
+      "C. 规划后",
+      "D. 系统运维阶段"
+    ],
+    "answer": "D",
+    "explanation": "场景化模型分析主要用于信息系统规划的前、中阶段，帮助理解业务需求、设计 系统架构等。系统运维阶段主要是系统的维护和管理，不涉及场景化模型分析。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0037"
+  },
+  {
+    "id": "ch04_q053",
+    "question": "在形成整体规划与专项规划的过程中，一致性检查需要检查规划内容之间的协调一 致性，其中不包括（ ）。",
+    "options": [
+      "A. 组织和框架的协调一致性",
+      "B. 人员和技术的协调一致性",
+      "C. 资源和任务的协调一致性",
+      "D. 企业文化和规划的协调一致性"
+    ],
+    "answer": "D",
+    "explanation": "4.3.4 整体与专项规划中，一致性检查内容包括组织、框架、人员、技术、资源 和任务等方面的协调一致性，未提及企业文化和规划的协调一致性。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0312"
+  },
+  {
+    "id": "ch04_q054",
+    "question": "关键成功因素法（CSF）的实施步骤中，确定组织的关键成功因素可以采用的方法不 包括（ ）。",
+    "options": [
+      "A. 德尔菲法",
+      "B. 模糊综合评价法",
+      "C. 头脑风暴法",
+      "D. 成本效益分析法"
+    ],
+    "answer": "D",
+    "explanation": "4.4.3 关键成功因素法中提到确定组织的关键成功因素可以采用德尔菲法或模 糊综合评价法等，头脑风暴法可用于评价关键成功因素，成本效益分析法不属于确定关 键成功因素的方法。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0059"
+  },
+  {
+    "id": "ch04_q055",
+    "question": "企业信息系统规划法（BSP）中，定义管理功能时，识别资源中的战略计划属于 ( ) 。",
+    "options": [
+      "A. 有形资源",
+      "B. 无形资源",
+      "C. 特殊的有形资源",
+      "D. 特殊的无形资源"
+    ],
+    "answer": "D",
+    "explanation": "4.4.2 企业信息系统规划法中提到，战略计划是一类特殊的无形资源，是指一个 企业的长期计划、资源开发计划、投资计划等。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0319"
+  },
+  {
+    "id": "ch04_q056",
+    "question": "场景化模型构建与分析的组成部分中，组织分析是对（ ）进行分析。",
+    "options": [
+      "A. 业务场景中的不同角色和用户",
+      "B. 场景所涉及的业务领域",
+      "C. 业务中涉及的数据流",
+      "D. 业务所涉及的组织结构和人员"
+    ],
+    "answer": "D",
+    "explanation": "4.3.2 场景化模型分析中，组织分析是对业务所涉及的组织结构和人员进行分析， 包括了解组织文化、人员技能等。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0271"
+  },
+  {
+    "id": "ch04_q057",
+    "question": "保障体系中的人员保障，需要强化组织全员接受变革的预期和意识，变革不包括 ( ) 。",
+    "options": [
+      "A. 业务变革",
+      "B. 组织变革",
+      "C. 技术变革",
+      "D. 文化变革"
+    ],
+    "answer": "D",
+    "explanation": "4.2.7 保障体系设定中人员保障涉及业务、组织、岗位等变革，未提及文化变革。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0130"
+  },
+  {
+    "id": "ch04_q058",
+    "question": "诊断与评估模型的业务能力维度，可逐步细分为多个层级，其中能力分项下面的层 级是( ) 。",
+    "options": [
+      "A. 能力域",
+      "B. 能力子域",
+      "C. 能力项",
+      "D. 能力子项"
+    ],
+    "answer": "D",
+    "explanation": "4.3.3 深度诊断与评估中业务能力维度能力分项下面的层级是能力子项。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0395"
+  },
+  {
+    "id": "ch04_q059",
+    "question": "诊断与评估模型的业务能力维度，可逐步细分为多个层级，其中能力分项下面的层 级是（ ）。",
+    "options": [
+      "A. 能力域",
+      "B. 能力子域",
+      "C. 能力项",
+      "D. 能力子项"
+    ],
+    "answer": "D",
+    "explanation": "4.3.3 深度诊断与评估中业务能力维度能力分项下面的层级是能力子项。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0273"
+  },
+  {
+    "id": "ch04_q060",
+    "question": "诊断与评估工作采用量化打分模式，若某项能力全部能够满足，应打（ ）分。",
+    "options": [
+      "A. 0 分",
+      "B. 0.5",
+      "C. 0.8",
+      "D. 1"
+    ],
+    "answer": "D",
+    "explanation": "4.3.3 深度诊断与评估中提到，量化打分时，全部能够满足打1 分。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0274"
+  },
+  {
+    "id": "ch04_q061",
+    "question": "信息系统发展路径选择的“基础优先”原则中，优先规划和建设的信息基础设施 不包括（ ）。",
+    "options": [
+      "A. 应用软件系统",
+      "B. 数据基础",
+      "C. 信息环境",
+      "D. 网络系统"
+    ],
+    "answer": "A",
+    "explanation": "4.2.1 信息系统发展战略指出，信息基础设施包括数据基础、信息环境等，应用 软件系统不属于信息基础设施。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0221"
+  },
+  {
+    "id": "ch04_q062",
+    "question": "信息系统规划的特点不包括（ ）。",
+    "options": [
+      "A. 较强的确定性",
+      "B. 系统概括性",
+      "C. 结构化程度低",
+      "D. 涉及组织新的能力获取"
+    ],
+    "answer": "A",
+    "explanation": "4.1 概述中提到信息系统规划具有较强的不确定性、系统概括性和结构化程度低 等特点，是组织新的能力获取、保持和更新的基础，A 选项不属于其特点。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0066"
+  },
+  {
+    "id": "ch04_q063",
+    "question": "以平台能力为主线的框架的核心理念是将“竖井式”信息系统转化为“平层化” 建设方法，其中“平层化”建设方法不包括（ ）。",
+    "options": [
+      "A. 应用开发复杂化",
+      "B. 数据采集平层化",
+      "C. 网络传输平层化",
+      "D. 应用中间件平层化"
+    ],
+    "answer": "A",
+    "explanation": "4.2.2 主要系统及框架中，“平层化”建设方法包括数据采集平层化、网络传输 平层化、应用中间件平层化、应用开发平层化，不包括应用开发复杂化。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0354"
+  },
+  {
+    "id": "ch04_q064",
+    "question": "以平台能力为主线的框架的核心理念是将“竖井式”信息系统转化为“平层化” 建设方法，其中“平层化”不包括（ ）。",
+    "options": [
+      "A. 数据采集复杂化",
+      "B. 网络传输平层化",
+      "C. 应用中间件平层化",
+      "D. 应用开发平层化"
+    ],
+    "answer": "A",
+    "explanation": "4.2.2 主要系统及框架中，“平层化”建设方法包括数据采集平层化、网络传输 平层化、应用中间件平层化、应用开发平层化，不涉及数据采集复杂化。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0223"
+  },
+  {
+    "id": "ch04_q065",
+    "question": "在形成整体规划与专项规划的过程中，一致性检查的内容不包括（ ）。",
+    "options": [
+      "A. 规划成果与组织文化的一致性",
+      "B. 规划成果与需求之间的对应关系",
+      "C. 规划内容之间的协调一致性",
+      "D. 规划内容的科学性和可行性"
+    ],
+    "answer": "A",
+    "explanation": "4.3.4 整体与专项规划中提到一致性检查内容包括规划成果与需求之间的对应 关系、规划内容之间的协调一致性、规划内容的科学性和可行性等，未提及与组织文化 的一致性。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0048"
+  },
+  {
+    "id": "ch04_q066",
+    "question": "数据保障重点关注的方面不包括（ ）。",
+    "options": [
+      "A. 弱化组织各级人员的数据治理能力",
+      "B. 持续优化数据管理措施与方法",
+      "C. 紧抓数据质量",
+      "D. 提升数据标准化能力"
+    ],
+    "answer": "A",
+    "explanation": "4.2.7 保障体系设定中提到数据保障重点关注强化组织各级人员和团队的数据 治理能力、持续优化数据管理措施与方法、紧抓数据质量、提升数据标准化能力等，不 包括弱化组织各级人员的数据治理能力。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0030"
+  },
+  {
+    "id": "ch04_q067",
+    "question": "在信息系统规划中，内外部需求挖掘整合与分析后，需要确定的内容不包括（ ）。",
+    "options": [
+      "A. 组织的市场拓展计划",
+      "B. 组织信息系统发展过程中的主要矛盾及各种矛盾之间的关系",
+      "C. 关键干系人和干系群体的内在需求",
+      "D. 信息系统规划可能面临的重大风险"
+    ],
+    "answer": "A",
+    "explanation": "4.3.1 内外部需求挖掘中提到，整合与分析后要确定组织信息系统发展过程中的 主要矛盾、关键干系人需求、规划面临的风险等，不涉及组织的市场拓展计划。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0300"
+  },
+  {
+    "id": "ch04_q068",
+    "question": "企业信息系统规划法（BSP）中，识别数据类的目的不包括（ ）。",
+    "options": [
+      "A. 了解企业未来的数据需求趋势",
+      "B. 建立功能/数据类矩阵",
+      "C. 查明数据共享的关系",
+      "D. 了解企业目前的数据状况"
+    ],
+    "answer": "A",
+    "explanation": "4.4.2 企业信息系统规划法提到，识别数据类目的是了解企业目前的数据状况和 数据要求，查明数据共享关系，建立功能/数据类矩阵，不涉及了解未来数据需求趋势。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0153"
+  },
+  {
+    "id": "ch04_q069",
+    "question": "企业信息系统规划法（BSP）中，定义管理目标时，目标调查通过采访各级管理部 门进行，目标调查的目的不包括（ ）。",
+    "options": [
+      "A. 了解企业的人员构成",
+      "B. 提炼、归纳、汇总目标",
+      "C. 绘制目标树",
+      "D. 明确企业的管理目标"
+    ],
+    "answer": "A",
+    "explanation": "目标调查的目的包括提炼、归纳、汇总目标，绘制目标树，明确企业的管理目标， 而不包括了解企业的人员构成。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0318"
+  },
+  {
+    "id": "ch04_q070",
+    "question": "中小型单位信息组织体系中，信息化团队负责信息系统的多项工作，其中不包括 ( ) 。",
+    "options": [
+      "A. 信息系统的规划制定",
+      "B. 信息系统的设计工作",
+      "C. 信息系统的集成工作",
+      "D. 信息系统的运维工作"
+    ],
+    "answer": "A",
+    "explanation": "4.2.3 组织体系优化中提到，信息化团队负责信息系统的设计、建设、集成和运 维等工作，信息系统的规划制定由信息化管理委员会负责。",
+    "chapter": "第4章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统规划",
+    "knowledge_point": "信息系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第4章",
+    "tags": [
+      "信息系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch04_0383"
+  }
+]

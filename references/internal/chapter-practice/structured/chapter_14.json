@@ -1,0 +1,5654 @@
+[
+  {
+    "id": "internal_qt_ch14_0001",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化是指在经济、技术、科学和管理等社会实践中，对重复性的事物和概念，通过 制订、发布和实施标准达到统一，其目的是（ ）。",
+    "options": [
+      "A. 获得最佳秩序和经济效益",
+      "B. 获得最佳秩序和社会效益",
+      "C. 获得最佳生产效率和经济效益",
+      "D. 获得最佳生产效率和社会效益"
+    ],
+    "answer": "B",
+    "explanation": "14.1 节中提到“标准化是指在经济、技术、科学和管理等社会实践中，对重复性 的事物和概念，通过制订、发布和实施标准达到统一，以获得最佳秩序和社会效益”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0002",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化对象一般可分为两大类，其中标准化总体对象是指（ ）。",
+    "options": [
+      "A. 需要制定标准的具体事物",
+      "B. 各种具体对象的总和所构成的整体",
+      "C. 具有多次重复使用的具体产品",
+      "D. 各种定额、规划、要求等"
+    ],
+    "answer": "B",
+    "explanation": "14.1 节中提到“标准化对象一般可分为两大类：一类是标准化的具体对象，即需 要制定标准的具体事物；另一类是标准化总体对象，即各种具体对象的总和所构成的整 体”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0003",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化管理具有多种特性，其中不包括（ ）。",
+    "options": [
+      "A. 系统性",
+      "B. 静态性",
+      "C. 动态性",
+      "D. 经济性"
+    ],
+    "answer": "B",
+    "explanation": "14.1 节中提到“标准化管理是一项复杂的系统工程，具有系统性、国际性、动态 性、超前性、经济性”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0004",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化管理要求组织按照PDCA 循环管理模式开展评价工作，其中PDCA 中的“C ” 代表( ) 。",
+    "options": [
+      "A. 计划",
+      "B. 实施与运行",
+      "C. 检查",
+      "D. 管理评审"
+    ],
+    "answer": "C",
+    "explanation": "14.1 节中提到“标准化管理的一个重要思想就是要求组织按照PDCA 循环管理 模式（戴明环）开展评价工作，周而复始地进行体系所要求的‘计划、实施与运行、检 查与纠正措施和管理评审’活动”，其中“C ”代表检查。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0005",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化的基本原理中，超前预防原理是指（ ）。",
+    "options": [
+      "A. 对实际存在的重复发生事项进行标准化",
+      "B. 对潜在的重复发生事项进行标准化",
+      "C. 对已发生的问题进行标准化处理",
+      "D. 对未来可能出现的所有问题进行标准化"
+    ],
+    "answer": "B",
+    "explanation": "14.1.1 节中提到“标准化对象不仅要从依存标准化课题的实际重复发生的问题 中选取，更应从其潜在的重复发生的问题中选取，以避免该对象非标准化发展后造成损 失。对潜在问题实施超前标准化，就能有效地预防其不必要的多样化和复杂化”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0006",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "根据系统优化原理，标准化对象应优先考虑（ ）。",
+    "options": [
+      "A. 能获取最大局部效益的问题",
+      "B. 能获取最大全局效益的问题",
+      "C. 能获取标准化效益的问题",
+      "D. 能获取标准化效益且在其所依存主体系统中能获得最佳效益的问题"
+    ],
+    "answer": "D",
+    "explanation": "14.1.1 节中提到“标准化对象应优先考虑其所依存主体系统中能获得最佳效益 的问题。没有标准化效益的问题（或项目），不必去实行标准化。在能获取标准化效益 的问题中，首先应考虑能获取最大效益的问题。在考虑标准化效益时，不仅要考虑对 象系统的局部（个别）化效益，更应考虑对象所依存主体系统，即全局的最佳效益”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0007",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "协商一致原理强调标准制定的各方应协商一致，关于标准的性质，下列说法正确的是 ( ) 。",
+    "options": [
+      "A. 标准与法律法规一样具有强制性效力",
+      "B. 国际标准、国家标准、行业标准都是强制性标准",
+      "C. 标准以推荐性为原则，是自愿执行的标准",
+      "D. 标准不具有强制性，但有一定的约束性"
+    ],
+    "answer": "C",
+    "explanation": "14.1.1 节中提到“标准与法律法规不同，法律法规是具有强制性效力的，而标准 则以推荐性为原则，无论是国际标准，还是国家标准、行业标准，一般都是推荐性标准， 是自愿执行的标准”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0008",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "统一有度原理是标准化的本质与核心，统一要先进、科学、合理，其中“统一是有一 定范围或层次的”，应根据（ ）确定标准的层级。",
+    "options": [
+      "A. 标准化的适用范围和层次",
+      "B. 标准化对象的特性",
+      "C. 标准化的目的",
+      "D. 标准化的经济效益"
+    ],
+    "answer": "A",
+    "explanation": "14.1.1 节中提到“统一是有一定范围或层次的，为此，应根据标准化的适用范围 和层次确定标准宜制定为哪一层级的标准，如国家标准、行业标准、组织标准”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0009",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "动变有序原理指出标准需要适时修订，国际标准、国家标准的有效期一般为（ ）。",
+    "options": [
+      "A. 三年",
+      "B. 四年",
+      "C. 五年",
+      "D. 六年"
+    ],
+    "answer": "C",
+    "explanation": "14.1.1 节中提到“无论是国际标准、国家标准，还是行业标准、地方标准，都规 定标准有五年有效期”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0010",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "互换兼容原理中，互换性一般包括（ ）。",
+    "options": [
+      "A. 功能互换性和性能互换性",
+      "B. 功能互换性和尺寸互换性",
+      "C. 尺寸互换性和性能互换性",
+      "D. 结构互换性和功能互换性"
+    ],
+    "answer": "B",
+    "explanation": "14.1.1 节中提到“互换性是指一种产品、服务或过程能代替另一产品、服务或过 程满足同样需求的能力。它一般包括功能互换性和尺寸互换性”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0011",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化活动的过程是阶梯状、呈上升发展的，直到其标准化对象发生重大变更或消 除为止，这体现的是（ ）。",
+    "options": [
+      "A. 阶梯发展原理",
+      "B. 动变有序原理",
+      "C. 互换兼容原理",
+      "D. 统一有度原理"
+    ],
+    "answer": "A",
+    "explanation": "这体现的是标准化活动的阶梯发展原理，即标准化活动是一个不断上升、逐步完 善的过程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0012",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "当标准制约或阻碍其依存主体的正常发展时，应（ ）。",
+    "options": [
+      "A. 进行更改",
+      "B. 进行修订",
+      "C. 立即废止",
+      "D. 确认是否继续适用"
+    ],
+    "answer": "C",
+    "explanation": "14.1.1 节中提到“当标准制约或阻碍其依存主体的正常发展时，应立即废止”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0013",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "简化是在一定范围内缩减对象的类型数目，简化的实质是（ ）。",
+    "options": [
+      "A. 对客观事物进行任意缩减",
+      "B. 对客观事物的构成加以调整并使之最优化的一种有目的的标准化活动",
+      "C. 只考虑当前需求对事物进行缩减",
+      "D. 以减少成本为唯一目的对事物进行缩减"
+    ],
+    "answer": "B",
+    "explanation": "14.1.2 节中提到“简化的实质是对客观事物的构成加以调整并使之最优化的一 种有目的的标准化活动”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0014",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "在进行简化时，判断简化是否合理的标准是（ ）。",
+    "options": [
+      "A. 简化后事物的类型数目是否足够少",
+      "B. 简化方案是否经过比较、论证",
+      "C. 简化后事物的总体功能是否最佳",
+      "D. 简化是否满足当前需求"
+    ],
+    "answer": "C",
+    "explanation": "14.1.2 节中提到“对客观事物进行简化时，既要对不必要的多样化加以压缩，又 要防止过分压缩。为此，简化方案必须经过比较、论证，并以简化后事物的总体功能是 否最佳作为衡量简化是否合理的标准”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0015",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "系列化是对同一类产品中的各类产品参数按规定数系同时进行标准化的一种方法， 产品系列化的目的不包括（ ）。",
+    "options": [
+      "A. 简化产品品种和规格",
+      "B. 增加产品成本",
+      "C. 满足多方面的需要",
+      "D. 便于增加品种，扩大产量"
+    ],
+    "answer": "B",
+    "explanation": "14.1.3 节中提到“产品系列化的目的是简化产品品种和规格，尽可能满足多方面 的需要。产品系列化便于增加品种，扩大产量，降低成本”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0016",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "产品系列化一般包括制定产品参数系列、编制产品系列型谱和开展产品的系列设计 等内容，其中产品基本参数系列化是（ ）。",
+    "options": [
+      "A. 产品系列化的最后环节",
+      "B. 编制系列型谱、进行系列设计的基础",
+      "C. 确定产品型式规划的前提",
+      "D. 与产品系列化其他内容无关"
+    ],
+    "answer": "B",
+    "explanation": "14.1.3 节中提到“产品基本参数系列化是产品系列化的首个环节，也是编制系列 型谱、进行系列设计的基础”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0017",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "编制产品系列型谱的目的是（ ）。",
+    "options": [
+      "A. 确定产品的基本参数",
+      "B. 对基本参数系列限定的产品进行型式规划，满足不同特殊要求",
+      "C. 选择系列内的基型产品",
+      "D. 设计全系列的各种规格产品"
+    ],
+    "answer": "B",
+    "explanation": "14.1.3 节中提到“ 因为社会对产品的需要是多方面的，只是对参数分档分级有 时并不能满足需要，还要求同一规格的产品有不同的型式，以满足不同的特殊要求。解 决这个问题便是系列型谱的任务。系列型谱是对基本参数系列限定的产品进行型式规 划，把基型产品与变型产品的关系以及品种发展的总趋势用图表反映出来，形成一个 简明的品种系统表”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0018",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "在系列设计中，选择基型产品时，基型产品应具备的特点不包括（ ）。",
+    "options": [
+      "A. 规格适中",
+      "B. 用量较小",
+      "C. 生产较普遍",
+      "D. 结构较先进"
+    ],
+    "answer": "B",
+    "explanation": "14.1.3 节中提到“在系列内选择基型，基型应该是系列内最有代表性的，规格适 中，用量较大，生产较普遍，结构较先进，经过长期生产和使用考验，结构和性能都比 较可靠，又有发展前途的型号”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0019",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化建立在系统的分解与组合的理论基础上，组合化的过程（ ）。",
+    "options": [
+      "A. 只包括分解",
+      "B. 只包括组合",
+      "C. 既包括分解也包括组合，是分解与组合的统一",
+      "D. 与分解和组合无关"
+    ],
+    "answer": "C",
+    "explanation": "14.1.4 节中提到“组合化的过程既包括分解也包括组合，是分解与组合的统一”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0020",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化是按照标准化的原则，设计并制造出若干组通用性较强的单元，这些单元被 称为（ ）。",
+    "options": [
+      "A. 标准单元",
+      "B. 专用单元",
+      "C. 通用模块",
+      "D. 标准模块"
+    ],
+    "answer": "A",
+    "explanation": "14.1.4 节中提到“组合化是按照标准化的原则，设计并制造出若干组通用性较强 的单元（标准单元），根据需要拼合成不同用途的产品（或物品）的一种标准化形式”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0021",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "综合标准化又叫作“全面标准化”或“整体标准化”，其定义为（ ）。",
+    "options": [
+      "A. 对不同的标准化对象，分别进行标准化管理",
+      "B. 针对不同的标准化对象，以考虑整体最佳效果为主要目标，把所涉及的全部因素综合 起来进行系统处理的标准化管理方法",
+      "C. 对产品标准进行综合管理",
+      "D. 对技术文件标准进行综合管理"
+    ],
+    "answer": "B",
+    "explanation": "14.1.5 节中提到“综合标准化又叫作‘全面标准化’或‘整体标准化’，就 是针对不同的标准化对象，以考虑整体最佳效果为主要目标，把所涉及的全部因素综 合起来进行系统处理的标准化管理方法。我国标准GB/T12366—2009《综合标准化工 作指南》中对综合标准化进行了定义：‘为了达到确定目标，运用系统分析方法，建立 标准综合体，并贯彻实施的标准化活动’”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0022",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准综合体按其性质可分为两大类，其中产品标准综合体是以（ ）作为主要标准 化对象。",
+    "options": [
+      "A. 原料标准",
+      "B. 产品标准",
+      "C. 零部件标准",
+      "D. 工艺文件标准"
+    ],
+    "answer": "B",
+    "explanation": "14.1.5 节中提到“标准综合体按其性质可分为两大类：一类是产品标准综合 体， 它以产品标准作为主要标准化对象，把原料、材料、零部件、半成品、设计文件、工艺 文件等相关要素标准协调起来，组成一个产品综合标准化体系”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0023",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "开展综合标准化工作的原则要求中，不包括（ ）。",
+    "options": [
+      "A. 把综合标准化对象及其相关要素作为一个系统开展标准化工作",
+      "B. 综合标准化对象及其相关要素的范围应明确并相对完整",
+      "C. 以局部效益最佳为目标，整体效益服从局部效益",
+      "D. 标准综合体的标准之间，应贯彻低层次服从高层次的要求"
+    ],
+    "answer": "C",
+    "explanation": "14.1.5 节中提到“ 以系统的整体效益（包括技术、经济、社会三方面的综合效 益）最佳为目标，局部效益服从整体效益”，C 选项表述错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0024",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "超前标准化是根据预测，对以后将成为最佳的标准化对象规定出高于实际达到水平 的规格和要求的标准，其工作成果是（ ）。",
+    "options": [
+      "A. 标准综合体",
+      "B. 超前标准",
+      "C. 标准规范",
+      "D. 先进标准"
+    ],
+    "answer": "B",
+    "explanation": "14.1.6 节中提到“超前标准化的工作成果就是超前标准”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0025",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "在制定超前标准时，确定超前指标需要预测多个方面，其中预测需求量是为了 ( ) 。",
+    "options": [
+      "A. 确定需求函数和生产量",
+      "B. 确定产品的质量指标",
+      "C. 确定产品的技术水平",
+      "D. 确定产品的生态指标"
+    ],
+    "answer": "A",
+    "explanation": "14.1.6 节中提到“预测需求量是为了确定需求函数和生产量，这种需求函数在进 行最佳化时可作为约束条件或目标函数使用”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0026",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端的流程是指从获取业务对象需求开始，到（ ）结束。",
+    "options": [
+      "A. 业务对象提出新需求",
+      "B. 业务对象满意",
+      "C. 完成业务任务",
+      "D. 实现组织战略目标"
+    ],
+    "answer": "B",
+    "explanation": "14.2.1 节中提到“端到端的流程是指从获取业务对象需求开始，到业务对象满意 结束”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0027",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端流程管理的本质是（ ）。",
+    "options": [
+      "A. 关注任务本身",
+      "B. 关注流程的设计",
+      "C. 让组织更多地关注贡献",
+      "D. 让组织更多地关注流程的执行"
+    ],
+    "answer": "C",
+    "explanation": "14.2.1 节中提到“端到端流程管理的本质就是要让组织更多地关注贡献，而不是 任务本身”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0028",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "整个组织的运作可以看成一个端到端的流程，即组织级高阶流程，其起点是（ ）。",
+    "options": [
+      "A. 组织战略目标",
+      "B. 社会与市场需求",
+      "C. 业务对象需求",
+      "D. 组织内部需求"
+    ],
+    "answer": "B",
+    "explanation": "14.2.1 节中提到“整个组织的运作可以看成一个端到端的流程，也就是组织级高 阶流程：以社会与市场需求为起点，以战略目标（包含业务对象满意）达成为结束”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0029",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "从中阶端到端流程的目标或者子目标出发去定义下一阶端到端流程，这样做的最大 好处是（ ）。",
+    "options": [
+      "A. 可以逆向追溯各阶流程的目的，一直追溯到组织的战略和运行目标",
+      "B. 可以更好地设计流程",
+      "C. 可以提高流程的执行效率",
+      "D. 可以降低流程的设计成本"
+    ],
+    "answer": "A",
+    "explanation": "14.2.1 节中提到“从中阶端到端流程的目标或者子目标出发去定义下一阶端到 端流程，这样做的最大好处就是可以逆向追溯各阶流程的目的，一直追溯到组织的战略 和运行目标”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0030",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "设定流程规划的目标时，不需要考虑的因素是（ ）。",
+    "options": [
+      "A. 目标的急迫性",
+      "B. 目标实施的路线图",
+      "C. 目标的创新性",
+      "D. 目标的可实施性"
+    ],
+    "answer": "C",
+    "explanation": "14.2.2 节中提到“设定流程规划的目标要考虑本组织的实际情况，如目标的急迫 性、目标实施的路线图、目标的可实施性等各种因素”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0031",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划工作不是推倒重来，而是（ ）。",
+    "options": [
+      "A. 重新设计流程",
+      "B. 系统化完善",
+      "C. 局部调整流程",
+      "D. 完全照搬其他组织的流程"
+    ],
+    "answer": "B",
+    "explanation": "14.2.2 节中提到“流程规划工作不是推倒重来，而是系统化完善；流程规划不是 一步到位，而是持续改进的过程”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0032",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "从端到端的流程到组织整体流程框架，称为流程从“线”到“面”的优化，具体包 括( ) 。",
+    "options": [
+      "A. 流程与战略的匹配和流程间运行始终协同",
+      "B. 流程设计与流程执行的协同",
+      "C. 流程管理与流程优化的协同",
+      "D. 流程规划与流程审计的协同"
+    ],
+    "answer": "A",
+    "explanation": "14.2.2 节中提到“从端到端的流程到组织整体流程框架，称为流程从‘线’到 ‘面’的优化，具体包括两个方面：流程与战略的匹配和流程间运行始终协同”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0033",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "构建流程框架是一个理清组织管理结构的过程，整体流程框架往往反映组织的（ ）。",
+    "options": [
+      "A. 一级、二级流程",
+      "B. 二级、三级流程",
+      "C. 三级、四级流程",
+      "D. 所有流程"
+    ],
+    "answer": "A",
+    "explanation": "14.2.2 节提到“整体流程框架往往反映组织的一级、二级流程，通过将一级流程 逐渐往下分类分级细化，形成二级、三级直到完整的组织流程清单” 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0034",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划是一项技术性较强的专业工作，前期策划工作一般由（ ）来完成。",
+    "options": [
+      "A. 高级管理层",
+      "B. 流程管理部门",
+      "C. 涉及流程的部门负责人",
+      "D. 流程规划小组"
+    ],
+    "answer": "B",
+    "explanation": "14.2.3 节指出“其前期策划工作一般由流程管理部门来完成”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0035",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "为确保流程规划的整体性和流程间的一致性，组织一般会成立专门的“流程规划小 组”，其成员不包括（ ）。",
+    "options": [
+      "A. 基层员工代表",
+      "B. 高级管理层",
+      "C. 流程管理部门人员",
+      "D. 涉及流程的部门负责人"
+    ],
+    "answer": "A",
+    "explanation": "流程规划小组的成员通常包括高级管理层、流程管理部门人员和涉及流程的部门 负责人等，而不包括基层员工代表。基层员工代表可能参与具体流程的制定和实施，但 不直接参与流程规划小组的工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0036",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "基于岗位职责的流程规划的优点不包括（ ）。",
+    "options": [
+      "A. 工作分析细致透彻，不容易遗漏",
+      "B. 对被访谈人的流程管理方面的专业知识、技能和经验要求不高",
+      "C. 工作量相对较小",
+      "D. 各级流程干系人充分参与，工作成果容易被接受"
+    ],
+    "answer": "C",
+    "explanation": "14.2.3 节中基于岗位职责的流程规划的优点包括工作分析细致透彻、对被访谈 人专业要求不高、各级流程干系人充分参与等，缺点是工作量比较大，C 选项不属于其 优 点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0037",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "基于业务模型的流程规划的缺点是（ ）。",
+    "options": [
+      "A. 对参与人员的流程规划专业能力要求较低",
+      "B. 各级流程干系人充分参与，工作成果可能不被认可",
+      "C. 因为没有对工作进行详细的分析，工作容易出现遗漏",
+      "D. 工作进度和风险不易控制"
+    ],
+    "answer": "C",
+    "explanation": "14.2.3 节提到基于业务模型的流程规划缺点有未详细分析工作易遗漏、对参与 人员专业能力要求高、工作成果可能不被认可等，C 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0038",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组织流程通常可分为战略流程、运行流程和支持流程，其中战略流程的作用是（ ）。",
+    "options": [
+      "A. 直接为业务对象创造价值",
+      "B. 为运行流程提供支持与服务",
+      "C. 面向未来，为组织提供发展方向和整体管理",
+      "D. 负责组织的日常运营管理"
+    ],
+    "answer": "C",
+    "explanation": "14.2.4 节指出“战略流程是面向未来的，为组织提供发展方向和整体管理”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0039",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "运行流程是直接为业务对象创造价值的流程，以下属于运行流程的是（ ）。",
+    "options": [
+      "A. 组织长中短期战略目标的规划",
+      "B. 产品价值链（新产品管理）",
+      "C. 决策支持",
+      "D. 风险控制"
+    ],
+    "answer": "B",
+    "explanation": "14.2.4 节提到运行流程包括产品价值链（新产品管理）、市场链（营销和销售）、 供应链（产品与服务的提供）和服务链（服务管理）等，B 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0040",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "支持流程为运行流程提供支持与服务，通常不包括（ ）。",
+    "options": [
+      "A. 决策支持",
+      "B. 产品设计",
+      "C. 后勤支持",
+      "D. 风险控制"
+    ],
+    "answer": "B",
+    "explanation": "14.2.4 节表明支持流程通常包括决策支持、后勤支持与风险控制三类，不包括产 品设计。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0041",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "在流程划分过程中，按业务对象分类，流程可以分为（ ）。",
+    "options": [
+      "A. 组织级业务对象、个人用户、政府单位及其他",
+      "B. 普通审批流程和审批绿色通道等",
+      "C. 电子订单处理流程与手工订单处理流程",
+      "D. 主辅料采购流程、备件采购流程、办公用品采购流程等"
+    ],
+    "answer": "A",
+    "explanation": "14.2.4 节提到按业务对象分类，流程可分为组织级业务对象、个人用户、政府单 位及其他，A 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0042",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "一级流程是高阶流程，也称为（ ）。",
+    "options": [
+      "A. “域”",
+      "B. “域过程”",
+      "C. 子流程",
+      "D. 业务活动"
+    ],
+    "answer": "A",
+    "explanation": "14.2.4 节指出“一级流程是高阶流程，也称为‘域’”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0043",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程执行能够成功推动流程管理并为组织带来回报与价值，保障流程管理有效执行 的前提是（ ）。",
+    "options": [
+      "A. 做好流程变更后的推广",
+      "B. 新员工入职流程制度培训",
+      "C. 理解流程",
+      "D. 找对流程执行负责人"
+    ],
+    "answer": "C",
+    "explanation": "14.3 节提到“理解流程是执行流程的前提。流程能够被有效执行的前提是流程设 计要能够被流程执行人员理解”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0044",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "当关键流程发生重要变更时，采取（ ）方式推广流程是保障流程有效执行的措施 之一。",
+    "options": [
+      "A. 培训、交流",
+      "B. 制定新制度",
+      "C. 更换流程执行人员",
+      "D. 调整组织架构"
+    ],
+    "answer": "A",
+    "explanation": "14.3 节表明“当关键流程发生重要变更时，有必要采取培训、交流等方式推广流 程”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0045",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "新员工入职是流程执行的黄金时期，通过流程制度培训有利于（ ）。",
+    "options": [
+      "A. 让新员工尽快熟悉工作内容",
+      "B. 组织对新员工的工作行为进行塑造",
+      "C. 新员工了解组织文化",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "14.3 节提到“新员工入职是流程执行的一个黄金时期……流程制度蕴含着组织 运行体系，可以满足新员工对组织的初步认识。同时，通过流程制度培训也有利于组织 对新员工的工作行为进行塑造”，新员工可借此熟悉工作、了解组织文化并接受行为 塑造。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0046",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程管理者主要负责流程的设计等工作，无法实时了解流程运行状态，与流程管理 者协作推动流程执行的角色通常是（ ）。",
+    "options": [
+      "A. 流程助手",
+      "B. 部门经理",
+      "C. 高层领导",
+      "D. 流程审计人员"
+    ],
+    "answer": "A",
+    "explanation": "14.3 节指出“流程管理者需要与推动流程执行的角色协作。该角色通常为流程助 手，流程助手须负责流程执行，在流程中参与执行，具备掌握流程运行实时情况的能力”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0047",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程的执行情况需要有监督考核机制，通过（ ）保证流程的有效实施和持续改进。",
+    "options": [
+      "A. 流程的稽查与评价",
+      "B. 流程的重新设计",
+      "C. 增加流程执行人员",
+      "D. 提高流程执行人员待遇"
+    ],
+    "answer": "A",
+    "explanation": "14.3 节提到“流程的执行情况需要有相应的监督考核机制，通过流程的稽查与评 价，保证流程的有效实施和持续改进”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0048",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "通过信息系统固化流程是解决流程执行力的有效手段之一，其优势不包括（ ）。",
+    "options": [
+      "A. 流程执行情况一目了然",
+      "B. 增加流程设计难度",
+      "C. 信息共享",
+      "D. 自动化处理"
+    ],
+    "answer": "B",
+    "explanation": "14.3 节指出通过信息系统固化流程的优势有流程执行情况一目了然、信息共享、 自动化处理、知识积累等，不包括增加流程设计难度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0049",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "制度是流程执行保障的重要工具，制度包括（ ）。",
+    "options": [
+      "A. 流程必须要遵守的规则和对流程执行绩效的激励制度",
+      "B. 流程设计的规范和流程执行的标准",
+      "C. 流程执行的监督机制和考核机制",
+      "D. 流程优化的方法和流程改进的措施"
+    ],
+    "answer": "A",
+    "explanation": "14.3 节提到“制度包括两大部分：①流程必须要遵守的规则，保证流程操作有章 可循……②对流程执行绩效的激励制度，保证流程执行有激励机制保障”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0050",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程文化宣导的目的是（ ）。",
+    "options": [
+      "A. 让员工了解流程制度",
+      "B. 让组织以流程为做事的基本准则，影响员工工作行为习惯",
+      "C. 提高员工对流程的重视程度",
+      "D. 提升组织的流程管理水平"
+    ],
+    "answer": "B",
+    "explanation": "14.3 节指出“当一个组织逐渐变成以流程为做事的基本准则时……逐渐地潜移 默化，从而影响每一个员工的工作行为习惯”，这是流程文化宣导的目的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0051",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价是流程管理最重要的环节，其对上的作用是（ ）。",
+    "options": [
+      "A. 确保组织有力执行",
+      "B. 确保流程目标能够实现",
+      "C. 促进流程设计的优化，确保设计更加符合战略要求",
+      "D. 发现流程执行中的问题"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节提到“流程评价是流程管理最重要的环节，它承上启下，对上促进流程设 计的优化，确保设计更加符合战略要求”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0052",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程稽查是对单个流程的稽查，流程稽查基本实施步骤中，首先要（ ）。",
+    "options": [
+      "A. 确定流程稽查的关键点",
+      "B. 理解流程的目的、目标及管理原则",
+      "C. 确定稽查方法",
+      "D. 设计稽查线路与实施计划"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节中流程稽查基本实施步骤里，第一步是理解流程的目的、目标及管理原 则。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0053",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "确定流程稽查的关键点时，不需要考虑的因素是（ ）。",
+    "options": [
+      "A. 流程本质",
+      "B. 流程实际执行情况",
+      "C. 流程的复杂程度",
+      "D. 对流程目的、目标达成的关键作用"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节提到确定流程稽查关键点要从流程本质出发，考虑对流程目的、目标达 成起关键作用的流程控制点，以及流程实际执行情况，未提及流程复杂程度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0054",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程绩效评估是对流程运行的结果、效果进行评估，其三个维度不包括（ ）。",
+    "options": [
+      "A. 效果",
+      "B. 效率",
+      "C. 效益",
+      "D. 弹性"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节指出流程绩效评估的三个维度为效果、效率和弹性，不包括效益。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0055",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程效果是指（ ）。",
+    "options": [
+      "A. 流程的产出在多大程度上满足了业务对象的需求和期望",
+      "B. 追求流程效果的过程中，各类资源节约和杜绝各类浪费的程度",
+      "C. 流程应具备的动态调整能力",
+      "D. 流程的投入产出比"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节提到“流程效果也就是流程的产出在多大程度上满足了业务对象的需求 和期望，是达成流程绩效设定目标的程度”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0056",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程效率的典型指标不包括（ ）。",
+    "options": [
+      "A. 处理时间",
+      "B. 投入产出比",
+      "C. 适应性",
+      "D. 质量成本"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节指出流程效率的典型指标有处理时间、投入产出比、增值时间比例和质量 成本等，适应性是流程弹性的典型指标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0057",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "建立战略导向的流程绩效评估指标体系的步骤中，第一步是（ ）。",
+    "options": [
+      "A. 将流程目标分解到组织一级流程上",
+      "B. 将组织战略目标按平衡计分卡从4 个维度分解成符合效率管理模型的目标",
+      "C. 将一级流程目标分解到可管理级流程目标",
+      "D. 确定流程绩效评估指标体系"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到建立战略导向的流程绩效评估指标体系的步骤中，第一步是将组织 战略目标按平衡计分卡从4 个维度分解成符合效率管理模型（又称SMART 原则）的目 标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0058",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "满意度评估信息的来源不包括（ ）。",
+    "options": [
+      "A. 日常沟通记录",
+      "B. 内部员工的意见",
+      "C. 投诉、抱怨信息",
+      "D. 满意度问卷调查"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到满意度评估信息的来源有日常沟通记录、投诉抱怨信息、走访信 息、 电话回访、满意度问卷调查、满意度评估信息库的建立等，未提及内部员工的意见。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0059",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计是针对组织流程体系整体进行全面的、系统的检查，其目的不包括（ ）。",
+    "options": [
+      "A. 评估流程体系的充分性",
+      "B. 评估流程体系的创新性",
+      "C. 评估流程体系的适用性",
+      "D. 评估流程体系的有效性及效率性"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节指出流程审计目的是评估流程体系的充分性、适用性、有效性及效率性， 不包括创新性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0060",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计的流程中，在制订计划之后的步骤是（ ）。",
+    "options": [
+      "A. 确定审计范围",
+      "B. 流程初步调研",
+      "C. 编制检查表",
+      "D. 制订审计实施计划"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节中流程审计流程为制订计划、确定审计范围、流程初步调研等，制订计划 之后是确定审计范围。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0061",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果可用于多个方面，其中根据流程绩效评估结果和流程审计发现的问题 进行的应用是（ ）。",
+    "options": [
+      "A. 流程优化",
+      "B. 绩效考核",
+      "C. 过程控制",
+      "D. 战略调整"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节提到“根据流程绩效评估结果，可以发现哪些流程的绩效与目标差距比较 大，这些差距就是流程优化的方向。通过流程审计，组织可以发现流程体系的全局性问 题……流程优化项目的目标清晰且价值明确”，所以是流程优化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0062",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "可将流程检查结果作为绩效考核指标的一部分，这体现了流程评价结果在（ ）方 面的应用。",
+    "options": [
+      "A. 流程优化",
+      "B. 绩效考核",
+      "C. 过程控制",
+      "D. 纠正措施"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到“可将流程检查结果作为绩效考核指标的一部分，也可以设立专项流 程考核方案…… ”，这属于绩效考核方面的应用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0063",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果提交之后，责任部门对问题的严重度进行评审并采取补救措施，这属 于( ) 。",
+    "options": [
+      "A. 流程优化",
+      "B. 绩效考核",
+      "C. 过程控制",
+      "D. 纠正措施"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节指出“流程评价结果提交之后，责任部门应及时提交整改单，对问题的严 重度进行评审，对不合格事项进行处理，并迅速采取补救措施……确保流程结果能够符 合要求”，这是过程控制。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0064",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "对于系统性原因产生的问题，要求采取（ ）。",
+    "options": [
+      "A. 过程控制措施",
+      "B. 纠正措施",
+      "C. 预防措施",
+      "D. 改进措施"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到“对于系统性原因产生的问题，例如大面积发生问题，或类似的问题 反复发生，应要求采取纠正措施”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0065",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "将业务对象满意度评估的结果与流程绩效评估的结果进行关联，这对于组织的( ) 具有极强的参考价值。",
+    "options": [
+      "A. 流程优化",
+      "B. 绩效考核",
+      "C. 过程控制",
+      "D. 战略调整"
+    ],
+    "answer": "D",
+    "explanation": "14.4 节指出“将业务对象满意度评估的结果与流程绩效评估的结果进行关联，这 对于组织战略调整具有极强的参考价值”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0066",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "根据流程优化需求驱动因素的不同，流程优化需求大致可分为三种，其中不包括 ( ) 。",
+    "options": [
+      "A. 问题导向",
+      "B. 成本导向",
+      "C. 绩效导向",
+      "D. 变革导向"
+    ],
+    "answer": "B",
+    "explanation": "14.5 节提到“根据流程优化需求驱动因素的不同，流程优化需求大致可分为三种： 问题导向、绩效导向、变革导向”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0067",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "问题导向的流程优化需求来源不包括（ ）。",
+    "options": [
+      "A. 流程目标及绩效测量报告",
+      "B. 流程优化建议",
+      "C. 内外部投诉及意见反馈",
+      "D. 流程审计报告"
+    ],
+    "answer": "A",
+    "explanation": "14.5 节指出问题导向的流程优化需求来源有流程优化建议、流程事件、内外部投 诉及意见反馈、流程审计报告等，流程目标及绩效测量报告属于绩效导向。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0068",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "绩效导向的流程优化需求来源包括（ ）。",
+    "options": [
+      "A. 组织战略",
+      "B. 流程目标及绩效测量报告",
+      "C. 重要改革举措",
+      "D. 流程规划报告"
+    ],
+    "answer": "B",
+    "explanation": "14.5 节提到绩效导向的流程优化需求来源有流程目标及绩效测量报告、标杆组 织对比分析报告等，A、C、D 选项属于变革导向。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0069",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "变革导向的流程优化需求来源包括（ ）。",
+    "options": [
+      "A. 流程审计报告",
+      "B. 内外部投诉及意见反馈",
+      "C. 组织战略",
+      "D. 流程优化建议"
+    ],
+    "answer": "C",
+    "explanation": "14.5 节指出变革导向的流程优化需求来源有组织战略、运行思路及策略、重要改 革举措、流程规划报告等，A、B、D 选项属于问题导向。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0070",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化需要找到优化目标，其中之一是找（ ）。",
+    "options": [
+      "A. 组织已经解决的问题",
+      "B. 组织需要解决的问题",
+      "C. 组织未来可能出现的问题",
+      "D. 组织无关紧要的问题"
+    ],
+    "answer": "B",
+    "explanation": "14.5 节提到“流程优化需要找到优化目标：一是找实现组织战略要求的目标；二 是找组织需要解决的问题”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0071",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化的最后一个环节是（ ）。",
+    "options": [
+      "A. 流程框架体系的优化",
+      "B. 流程的优化",
+      "C. 流程的标准化",
+      "D. 流程的重新设计"
+    ],
+    "answer": "C",
+    "explanation": "流程优化的最后一个环节是流程的标准化，即将优化后的流程进行固化，形成 标准化的流程文件或规范。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0072",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "优化后的流程是否实现优化目标需要通过（ ）进行评价。",
+    "options": [
+      "A. 流程审计",
+      "B. 流程评价活动",
+      "C. 流程绩效评估",
+      "D. 满意度评估"
+    ],
+    "answer": "B",
+    "explanation": "14.5 节指出，优化后的流程是否实现了优化目标还需要通过流程评价活动进行 评价。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0073",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "项目化流程的优化过程中，在现状分析及诊断之后的步骤是（ ）。",
+    "options": [
+      "A. 立项",
+      "B. 目标流程及配套方案设计",
+      "C. IT 方案设计与开发",
+      "D. 新旧流程切换"
+    ],
+    "answer": "B",
+    "explanation": "14.5 节中项目化流程的优化过程为：立项、现状分析及诊断、目标流程及配套 方案设计、IT 方案设计与开发、新旧流程切换、项目关闭，所以现状分析及诊断之后 是目标流程及配套方案设计。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0074",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化活动中，通过缩减对象类型数目，使在一定时间内满足一般或基本需要的方 法是( ) 。",
+    "options": [
+      "A. 系列化",
+      "B. 简化",
+      "C. 组合化",
+      "D. 模块化"
+    ],
+    "answer": "B",
+    "explanation": "这种方法是简化，通过减少对象类型的数目来降低复杂性，提高效率和效果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0075",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "在产品系列化中，对基本参数系列限定的产品进行型式规划的工作是（ ）。",
+    "options": [
+      "A. 制定基本参数系列",
+      "B. 编制产品系列型谱",
+      "C. 开展产品的系列设计",
+      "D. 确定产品结构"
+    ],
+    "answer": "B",
+    "explanation": "14.1.3 节提到编制产品系列型谱是对基本参数系列限定的产品进行型式规划， 把基型产品与变型产品的关系以及品种发展的总趋势用图表反映出来。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0076",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化中，具有特定功能且可通用、互换的功能单元以（ ）形式独立存在。",
+    "options": [
+      "A. 标准模块或通用模块",
+      "B. 专用模块",
+      "C. 独立产品",
+      "D. 特殊组件"
+    ],
+    "answer": "A",
+    "explanation": "14.1.4 节指出，某些功能单元不仅具备特定的功能，而且与其他系统的某些功能 单元可以通用、互换，于是这类功能单元便可分离出来，以标准模块或通用模块的形式 独立存在。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0077",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "综合标准化的物质基础是（ ）。",
+    "options": [
+      "A. 标准综合体",
+      "B. 系统分析方法",
+      "C. 标准化对象系统",
+      "D. 相关要素标准"
+    ],
+    "answer": "A",
+    "explanation": "14.1.5 节表明，开展综合标准化工作，要制订一整套相互协调的标准技术文件， 即标准综合体，它是综合标准化的物质基础。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0078",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "超前标准化中，根据预测对标准化对象规定的在一定期限后应达到的要求是（ ）。",
+    "options": [
+      "A. 超前标准",
+      "B. 超前指标",
+      "C. 预测指标",
+      "D. 发展指标"
+    ],
+    "answer": "B",
+    "explanation": "14.1.6 节提到，在制定标准时，根据预测，给标准化对象规定的在一定期限后应 达到的要求就是超前指标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0079",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端流程分级中，中阶流程的业务对象是（ ）。",
+    "options": [
+      "A. 组织内部员工",
+      "B. 最终业务对象，即组织的利益干系人",
+      "C. 外部客户",
+      "D. 供应商"
+    ],
+    "answer": "B",
+    "explanation": "14.2.1 节指出，中阶流程的业务对象应当是最终业务对象，即组织的利益干系人， 包括内外部业务对象。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0080",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划中，基于岗位职责的流程规划是从（ ）开始。",
+    "options": [
+      "A. 流程管理部门确定每个部门的代表性岗位",
+      "B. 流程管理部门与流程干系人进行工作访谈",
+      "C. 分解出主要工作并评价其重要度",
+      "D. 梳理出工作中包含的流程及其关键控制要点"
+    ],
+    "answer": "A",
+    "explanation": "14.2.3 节显示，基于岗位职责的流程规划第一步是流程管理部门先确定每个部 门的代表性岗位。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0081",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分类中，运行流程以（ ）为导向。",
+    "options": [
+      "A. 支持流程",
+      "B. 战略流程",
+      "C. 业务需求",
+      "D. 客户需求"
+    ],
+    "answer": "B",
+    "explanation": "14.2.4 节提到运行流程以战略流程为导向，以战略流程确定的架构为基础展开。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0082",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程执行中，流程管理者与（ ）协作推动流程执行。",
+    "options": [
+      "A. 流程审计人员",
+      "B. 流程助手",
+      "C. 部门主管",
+      "D. 高层领导"
+    ],
+    "answer": "B",
+    "explanation": "14.3 节表明流程管理者需要与推动流程执行的流程助手协作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0083",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程稽查中，确定稽查方法不包括（ ）。",
+    "options": [
+      "A. 查记录与资料",
+      "B. 专家评估",
+      "C. 现场观察执行",
+      "D. 人员访谈"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到稽查方法通常包括查记录与资料、现场观察执行、人员访谈等，不包 括专家评估。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0084",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程绩效评估中，流程弹性的典型指标是（ ）。",
+    "options": [
+      "A. 处理时间",
+      "B. 投入产出比",
+      "C. 适应性",
+      "D. 质量成本"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节指出适应性是流程弹性的典型指标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0085",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "满意度评估信息来源中，通过（ ）可以发现大量业务对象的需求、不满和建议等。",
+    "options": [
+      "A. 投诉、抱怨信息",
+      "B. 走访信息",
+      "C. 日常沟通记录",
+      "D. 满意度问卷调查"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节提到通过与业务对象的日常沟通，可以发现大量业务对象的需求、不满和 建议等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0086",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计中，编制检查表的依据是（ ）。",
+    "options": [
+      "A. 审计计划",
+      "B. 流程初步调研发现的问题",
+      "C. 审计范围",
+      "D. 审计目的"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节显示，编制检查表是根据流程初步调研发现的问题，确定流程审计的重要 关注点，提炼出检查点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0087",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于流程优化时，流程优化的方向是（ ）。",
+    "options": [
+      "A. 流程绩效与目标的差距",
+      "B. 流程审计发现的所有问题",
+      "C. 业务对象提出的所有需求",
+      "D. 组织战略目标"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节提到根据流程绩效评估结果，可以发现哪些流程的绩效与目标差距比较 大，这些差距就是流程优化的方向。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0088",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于绩效考核时，不可以（ ）。",
+    "options": [
+      "A. 将流程检查结果作为绩效考核指标的一部分",
+      "B. 设立专项流程考核方案",
+      "C. 将流程检查结果与员工的评优、晋升及福利等挂钩",
+      "D. 仅考核流程管理者"
+    ],
+    "answer": "D",
+    "explanation": "流程评价结果应用于绩效考核时，应公平、公正地反映所有相关人员的绩效情况， 而不应仅考核流程管理者。这有助于激励全体员工积极参与流程改进和优化工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0089",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "对于流程持续改进，变革导向的流程优化需求不包括（ ）。",
+    "options": [
+      "A. 组织战略",
+      "B. 流程审计报告",
+      "C. 运行思路及策略",
+      "D. 重要改革举措"
+    ],
+    "answer": "B",
+    "explanation": "14.5 节指出变革导向的流程优化需求包括组织战略、运行思路及策略、重要改革 举措、流程规划报告等，流程审计报告属于问题导向。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0090",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化中，流程框架体系优化是为了（ ）。",
+    "options": [
+      "A. 直接解决组织问题",
+      "B. 优化组织业务模式、资源配置和职能",
+      "C. 优化具体流程",
+      "D. 进行流程标准化"
+    ],
+    "answer": "B",
+    "explanation": "14.5 节提到流程框架体系优化是优化组织的业务模式、优化组织的资源配置，以 及优化组织的职能，提升组织的效率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0091",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "项目化流程优化过程中，IT 方案设计与开发在（ ）之后。",
+    "options": [
+      "A. 立项",
+      "B. 现状分析及诊断",
+      "C. 目标流程及配套方案设计",
+      "D. 新旧流程切换"
+    ],
+    "answer": "C",
+    "explanation": "14.5 节中项目化流程优化过程顺序为立项、现状分析及诊断、目标流程及配套 方案设计、IT 方案设计与开发等，所以IT 方案设计与开发在目标流程及配套方案设 计之 后。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0092",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化原理中，强调标准制定要让各方协商一致的是（ ）。",
+    "options": [
+      "A. 系统优化原理",
+      "B. 协商一致原理",
+      "C. 统一有度原理",
+      "D. 互换兼容原理"
+    ],
+    "answer": "B",
+    "explanation": "14.1.1 节中协商一致原理表明标准制定的各方应协商一致，标准以推荐性为原 则，需相关各方在标准起草和编制过程中充分协商取得共识。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0093",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "在系列化产品设计中，向纵的方向扩展是指（ ）。",
+    "options": [
+      "A. 设计全系列的各种规格",
+      "B. 设计变型系列或变型产品",
+      "C. 选择基型产品",
+      "D. 对基型产品进行技术设计"
+    ],
+    "answer": "B",
+    "explanation": "14.1.3 节提到系列设计向纵的方向扩展，是设计变型系列或变型产品，变型与基 础要最大限度地通用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0094",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "综合标准化工作中，要求以（ ）为目标开展标准化工作。",
+    "options": [
+      "A. 局部效益最佳",
+      "B. 整体效益最佳",
+      "C. 技术效益最佳",
+      "D. 经济效益最佳"
+    ],
+    "answer": "B",
+    "explanation": "14.1.5 节指出综合标准化以系统的整体效益（包括技术、经济、社会三方面的综 合效益）最佳为目标，局部效益服从整体效益。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0095",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "超前标准化工作的准备阶段，不包括（ ）。",
+    "options": [
+      "A. 选择超前标准化的对象",
+      "B. 确定超前标准化方向",
+      "C. 制定超前标准",
+      "D. 确定具体指标"
+    ],
+    "answer": "C",
+    "explanation": "14.1.6 节显示超前标准化工作准备阶段包括全面分析和处理信息数据，选择对 象，确定方向和具体指标，制定超前标准是下一阶段工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0096",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端流程管理强调从（ ）出发进行流程设计和管理。",
+    "options": [
+      "A. 任务",
+      "B. 目的",
+      "C. 部门利益",
+      "D. 流程环节"
+    ],
+    "answer": "B",
+    "explanation": "14.2.1 节提到端到端的本质是让组织做任何事情都要从目的而不是从任务出发， 关注最终结果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0097",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划方法中，基于业务模型的流程规划从（ ）开始。",
+    "options": [
+      "A. 流程管理部门确定每个部门的代表性岗位",
+      "B. 流程管理部门根据组织业务绘制业务模式简易模型",
+      "C. 流程管理部门与流程干系人就模型与现有流程进行关联对接",
+      "D. 流程管理部门梳理出工作中包含的流程及其关键控制要点"
+    ],
+    "answer": "B",
+    "explanation": "14.2.3 节表明基于业务模型的流程规划第一步是流程管理部门根据组织业务绘 制业务模式简易模型。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0098",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分类分级中，三级流程是（ ）。",
+    "options": [
+      "A. 高阶流程",
+      "B. 中阶流程",
+      "C. 低阶流程，由子流程和业务活动构成",
+      "D. 具体指导操作的明细流程"
+    ],
+    "answer": "C",
+    "explanation": "14.2.4 节指出三级流程是低阶流程，即对域过程进行细分，由子流程（也就是四 级流程）和业务活动构成。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0099",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程执行中，新员工入职时进行流程制度培训的主要目的是（ ）。",
+    "options": [
+      "A. 让新员工了解组织架构",
+      "B. 塑造新员工工作行为",
+      "C. 让新员工熟悉工作环境",
+      "D. 让新员工了解组织文化"
+    ],
+    "answer": "B",
+    "explanation": "14.3 节提到新员工入职时进行流程制度培训有利于组织对新员工的工作行为进 行塑造。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0100",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程稽查报告提交流程中，在正式提交前要（ ）。",
+    "options": [
+      "A. 与相关岗位人员充分沟通",
+      "B. 直接提交给上级领导",
+      "C. 进行多次修改完善",
+      "D. 找专家进行审核"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节指出在正式提交流程稽查报告之前要与相关岗位人员充分地沟通，确保 大家对于报告内容是经过充分沟通并达成一致的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0101",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程绩效评估结果分析中，通过（ ）可以了解本组织在市场上的相对表现。",
+    "options": [
+      "A. 与流程绩效目标对比分析",
+      "B. 在组织内部做横向比较",
+      "C. 与同行业的主要竞争对手进行流程绩效对比分析",
+      "D. 对流程绩效评估结果的稳定性进行分析"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节提到与同行业的主要竞争对手进行流程绩效对比分析，从而了解本组织 在市场上的相对表现。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0102",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计的改进追踪工作由（ ）负责。",
+    "options": [
+      "A. 流程审计小组",
+      "B. 流程管理者",
+      "C. 受审方",
+      "D. 组织高层"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节表明流程审计小组负责流程审计发现不合格项的改进追踪。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0103",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于战略调整时，主要关联的是（ ）。",
+    "options": [
+      "A. 流程绩效评估结果与流程审计结果",
+      "B. 业务对象满意度评估结果与流程绩效评估结果",
+      "C. 流程稽查结果与流程绩效评估结果",
+      "D. 满意度评估结果与流程审计结果"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到将业务对象满意度评估的结果与流程绩效评估的结果进行关联，这 对于组织战略调整具有极强的参考价值。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0104",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化需求中，绩效导向的驱动因素有（ ）。",
+    "options": [
+      "A. 内外部投诉及意见反馈",
+      "B. 流程规划报告",
+      "C. 标杆组织对比分析报告",
+      "D. 流程事件"
+    ],
+    "answer": "C",
+    "explanation": "14.5 节指出绩效导向的流程优化需求来源有流程目标及绩效测量报告、标杆组 织对比分析报告等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0105",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化过程中，在解决组织问题后，需要进行（ ）。",
+    "options": [
+      "A. 流程框架体系优化",
+      "B. 流程的标准化",
+      "C. 重新设计流程",
+      "D. 流程评价"
+    ],
+    "answer": "B",
+    "explanation": "14.5 节提到流程优化包括解决组织问题，之后要进行流程的标准化，把组织的一 些具体流程等沉淀下来并标准化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0106",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "项目化流程优化过程中，项目关闭前的步骤是（ ）。",
+    "options": [
+      "A. IT 方案设计与开发",
+      "B. 新旧流程切换",
+      "C. 目标流程及配套方案设计",
+      "D. 现状分析及诊断"
+    ],
+    "answer": "B",
+    "explanation": "14.5 节中项目化流程优化过程顺序为立项、现状分析及诊断、目标流程及配套 方案设计、IT 方案设计与开发、新旧流程切换、项目关闭，所以项目关闭前是新旧流 程切换。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0107",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化方法中，能将通用性较强的单元拼合成不同用途产品的是（ ）。",
+    "options": [
+      "A. 简化",
+      "B. 系列化",
+      "C. 组合化",
+      "D. 综合标准化"
+    ],
+    "answer": "C",
+    "explanation": "14.1.4 节表明组合化是按照标准化的原则，设计并制造出若干组通用性较强的 单元，根据需要拼合成不同用途的产品（或物品）的一种标准化形式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0108",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划中，流程规划小组的工作需要得到（ ）的支持，并纳入相关部门管理者 的绩效考核中。",
+    "options": [
+      "A. 基层员工",
+      "B. 组织高层",
+      "C. 流程管理部门",
+      "D. 涉及流程的部门负责人"
+    ],
+    "answer": "B",
+    "explanation": "14.2.3 节提到流程规划小组的工作需要得到组织高层的支持，并把此项工作纳 入相关部门管理者的绩效考核中。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0109",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "以下关于标准化管理的说法，错误的是（ ）。",
+    "options": [
+      "A. 标准化管理是一项复杂的系统工程",
+      "B. 标准化管理不具有国际性",
+      "C. 标准化管理要求组织按PDCA 循环模式开展评价工作",
+      "D. 标准化管理可促进统一、协调、高效率"
+    ],
+    "answer": "B",
+    "explanation": "14.1 节提到“标准化管理是一项复杂的系统工程，具有系统性、国际性、动态性、 超前性、经济性”，B 选项表述错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0110",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "根据标准化的基本原理，统一有度原理中统一的前提条件是（ ）。",
+    "options": [
+      "A. 先进、科学、合理",
+      "B. 符合一定数系",
+      "C. 等效",
+      "D. 规定统一量值"
+    ],
+    "answer": "C",
+    "explanation": "统一有度原理中统一的前提条件是等效，即在一定条件下，不同对象或不同方法 可以达到相同或相似的效果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0111",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "在标准化的基本原理里，动变有序原理强调标准需要适时修订，组织标准的有效期 一般为（ ）。",
+    "options": [
+      "A. 五年",
+      "B. 四年",
+      "C. 三年",
+      "D. 两年"
+    ],
+    "answer": "C",
+    "explanation": "动变有序原理要求标准随着技术的发展和市场需求的变化而适时修订，以确保 标准的适用性和有效性。组织标准的有效期通常为三年。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0112",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化活动过程中，当标准制约或阻碍其依存主体的发展时，应（ ）。",
+    "options": [
+      "A. 确认",
+      "B. 修订",
+      "C. 更改",
+      "D. 废止"
+    ],
+    "answer": "D",
+    "explanation": "14.1.1 节提到“当标准制约或阻碍其依存主体的正常发展时，应立即废止”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0113",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "简化作为一种标准化方法，在对产品进行简化时，要形成系列，其参数组合应尽量 符合（ ）。",
+    "options": [
+      "A. 产品设计规范",
+      "B. 标准数值分级制度",
+      "C. 生产工艺要求",
+      "D. 市场需求"
+    ],
+    "answer": "B",
+    "explanation": "14.1.2 节指出“对产品的简化要形成系列，其参数组合应尽量符合标准数值分级 制度”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0114",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "系列化产品设计中，编制产品系列型谱的依据是（ ）。",
+    "options": [
+      "A. 产品基本参数系列",
+      "B. 市场需求调研结果",
+      "C. 企业生产能力",
+      "D. 行业标准规范"
+    ],
+    "answer": "A",
+    "explanation": "14.1.3 节表明产品基本参数系列化是编制系列型谱的基础，所以编制产品系列 型谱依据产品基本参数系列。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0115",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化建立在系统分解与组合理论基础上，其优越性和效益取决于（ ）。",
+    "options": [
+      "A. 组合单元统一化及重复利用和组合后的应变能力",
+      "B. 标准模块的数量和质量",
+      "C. 专用模块的设计合理性",
+      "D. 系统分解的彻底性"
+    ],
+    "answer": "A",
+    "explanation": "14.1.4 节提到“它的优越性和它的效益不仅取决于组合单元统一化的顺利进行， 而且取决于对这些单元的重复利用及组合后的应变能力”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0116",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "综合标准化中，标准综合体按性质分为产品标准综合体和一般技术性标准综合体， 其中工业产品和农业产品建立的标准综合体属于（ ）。",
+    "options": [
+      "A. 产品标准综合体",
+      "B. 一般技术性标准综合体",
+      "C. 两者都有可能",
+      "D. 不属于这两类"
+    ],
+    "answer": "A",
+    "explanation": "14.1.5 节指出“产品标准综合体，它以产品标准作为主要标准化对象，工业产品 可以建立标准综合体，农业产品也可以建立标准综合体”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0117",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "超前标准化工作中，确定超前指标时，预测标准化对象的科学技术水平主要采用的 方法是（ ）。",
+    "options": [
+      "A. 模拟法",
+      "B. 标准法",
+      "C. 外推法",
+      "D. 直接计算法"
+    ],
+    "answer": "A",
+    "explanation": "14.1.6 节提到“预测的方法主要采用模拟法来确定标准化对象在一定超前期内 的最佳参数值范围及其动态”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0118",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端的流程分级中，组织级高阶流程的结束点是（ ）。",
+    "options": [
+      "A. 业务对象需求满足",
+      "B. 战略目标达成",
+      "C. 产品交付完成",
+      "D. 服务反馈收集完成"
+    ],
+    "answer": "B",
+    "explanation": "14.2.1 节表明组织级高阶流程以战略目标（包含业务对象满意）达成为结束。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0119",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "设定流程规划目标时，需要考虑目标实施的路线图，这是为了（ ）。",
+    "options": [
+      "A. 确保目标具有可实施性",
+      "B. 明确目标的急迫性",
+      "C. 界定流程规划范围",
+      "D. 更好地匹配组织战略"
+    ],
+    "answer": "A",
+    "explanation": "目标实施路线图有助于明确如何实现目标，进而确保目标具有可实施性，对应",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0120",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程从“线”到“面”的优化中，流程与战略的匹配目的是（ ）。",
+    "options": [
+      "A. 使组织按纵向和战略目标对齐",
+      "B. 使横向执行步调一致",
+      "C. 提升组织战略一体化的管控能力",
+      "D. 确保组织整体效益"
+    ],
+    "answer": "A",
+    "explanation": "14.2.2 节提到流程从“线”到“面”的优化包括流程与战略的匹配和流程间运 行始终协同，其中流程与战略的匹配能使组织按纵向和战略目标对齐。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0121",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "基于岗位职责的流程规划中，流程管理部门梳理出工作中包含的流程及其关键控制 要点之后，下一步是（ ）。",
+    "options": [
+      "A. 确定每个部门的代表性岗位",
+      "B. 与各部门负责人访谈，补充和完善访谈结果",
+      "C. 分解出主要工作并评价其重要度",
+      "D. 汇总各部门的流程信息，完成流程清单和流程框架"
+    ],
+    "answer": "B",
+    "explanation": "14.2.3 节中基于岗位职责的流程规划步骤，梳理出流程及其关键控制要点之后 是与各部门负责人访谈，补充和完善访谈结果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0122",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "按照流程性质分类，为运行流程提供支持与服务的是（ ）。",
+    "options": [
+      "A. 战略流程",
+      "B. 支持流程",
+      "C. 业务流程",
+      "D. 管理流程"
+    ],
+    "answer": "B",
+    "explanation": "14.2.4 节明确说明支持流程为运行流程提供支持与服务。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0123",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分类分级中，四级流程属于（ ）。",
+    "options": [
+      "A. 高阶流程",
+      "B. 中阶流程",
+      "C. 低阶流程中的子流程",
+      "D. 具体操作流程"
+    ],
+    "answer": "C",
+    "explanation": "14.2.4 节提到三级流程由子流程（也就是四级流程）和业务活动构成，所以四级 流程属于低阶流程中的子流程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0124",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "保障流程管理有效执行的措施中，理解流程要求执行者理解流程设计的方法与规则， 其目的是（ ）。",
+    "options": [
+      "A. 确保执行者之间、执行者与设计者之间的一致理解",
+      "B. 明确建立流程的原因",
+      "C. 了解本岗位执行的目的与价值",
+      "D. 清楚不按要求执行的后果"
+    ],
+    "answer": "A",
+    "explanation": "14.3 节提到理解流程包括理解流程设计的方法与规则，目的是确保执行者之间、 执行者与设计者之间的一致理解。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0125",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "新员工入职流程制度培训能满足新员工对组织的初步认识，是因为（ ）。",
+    "options": [
+      "A. 培训内容丰富多样",
+      "B. 流程制度蕴含着组织运行体系",
+      "C. 新员工学习能力强",
+      "D. 培训方式生动有趣"
+    ],
+    "answer": "B",
+    "explanation": "14.3 节指出“流程制度蕴含着组织运行体系，可以满足新员工对组织的初步认 识”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0126",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计及监控中，通过流程制度建立适当的违规惩处措施，其作用是（ ）。",
+    "options": [
+      "A. 保证流程执行情况可追溯",
+      "B. 促进流程的落实运行",
+      "C. 明确流程执行标准",
+      "D. 规范流程执行行为"
+    ],
+    "answer": "B",
+    "explanation": "14.3 节提到“通过流程制度建立适当的违规惩处措施，有利于促进流程的落实运 行”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0127",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "把流程固化到信息系统中，能带来多种优势，其中不包括（ ）。",
+    "options": [
+      "A. 减少流程执行环节",
+      "B. 信息共享",
+      "C. 自动化处理",
+      "D. 知识积累"
+    ],
+    "answer": "A",
+    "explanation": "把流程固化到信息系统中可以减少流程执行环节的说法不准确。固化流程到信息 系统中主要是为了提高流程的透明度、可控性和效率，但并不一定会减少流程执行环节。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0128",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程文化宣导的最终目的是（ ）。",
+    "options": [
+      "A. 提高员工对流程的重视程度",
+      "B. 让组织以流程为做事基本准则",
+      "C. 影响员工工作行为习惯",
+      "D. 提升组织流程管理水平"
+    ],
+    "answer": "C",
+    "explanation": "14.3 节提到流程文化宣导是让组织以流程为做事基本准则，最终影响员工工作 行为习惯。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0129",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价中，流程稽查主要稽查的是（ ）。",
+    "options": [
+      "A. 流程运行的结果",
+      "B. 流程的安排是否得到执行及执行情况",
+      "C. 业务对象的满意度",
+      "D. 流程体系的充分性"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节指出“流程稽查是对单个流程的稽查，主要稽查流程的安排（主要表现为 组织的流程制度）是否得到执行，执行是否到位，是否符合流程制度的要求等”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0130",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程绩效评估的三个维度中，流程效率的典型指标“增值时间比例”反映的是 ( ) 。",
+    "options": [
+      "A. 流程产出满足业务对象需求的程度",
+      "B. 流程在运行过程中资源节约的程度",
+      "C. 流程中创造价值活动的时间占比",
+      "D. 流程适应业务变化的能力"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节提到流程效率关注各类资源节约和杜绝浪费的程度，增值时间比例体现 流程中创造价值活动的时间占比，反映资源利用效率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0131",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "满意度评估信息来源中，定期对业务对象走访或拜访的主要目的是（ ）。",
+    "options": [
+      "A. 了解业务对象对产品及服务的满意度状况",
+      "B. 收集业务对象的投诉、抱怨信息",
+      "C. 维护好关系，同时了解其需求并解决问题",
+      "D. 发现业务对象的需求、不满和建议"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节表明定期走访或拜访业务对象目的是维护关系，了解需求并解决问题。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0132",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计中，流程初步调研的目的是（ ）。",
+    "options": [
+      "A. 组建审计组",
+      "B. 确定审计范围",
+      "C. 掌握流程存在的问题，提高审计针对性",
+      "D. 编制检查表"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节提到流程初步调研目的是掌握流程存在的问题，提高流程审计的针对性， 提高审计的效率与效果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0133",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于流程优化时，流程审计可以帮助组织发现（ ）。",
+    "options": [
+      "A. 流程的局部问题",
+      "B. 流程绩效与目标的差距",
+      "C. 流程体系的全局性问题和关键流程存在的问题",
+      "D. 业务对象的潜在需求"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节指出通过流程审计，组织可以发现流程体系的全局性问题，也会发现关键 流程存在的问题。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0134",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于绩效考核时，设立专项流程考核方案是为了（ ）。",
+    "options": [
+      "A. 全面考核流程管理工作",
+      "B. 考核流程管理者的工作成果",
+      "C. 考核员工对流程的执行情况",
+      "D. 根据流程检查结果对流程管理者奖优罚劣"
+    ],
+    "answer": "D",
+    "explanation": "14.4 节提到可设立专项流程考核方案，根据流程检查的结果对流程管理者奖优 罚劣。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0135",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "对于流程持续改进，问题导向的流程优化需求来源中，流程事件指的是（ ）。",
+    "options": [
+      "A. 流程执行过程中发生的异常情况或事故",
+      "B. 流程设计不合理导致的问题",
+      "C. 业务对象对流程的投诉",
+      "D. 流程审计发现的问题"
+    ],
+    "answer": "A",
+    "explanation": "问题导向的流程优化需求来源中的流程事件通常指流程执行过程中出现的异常 情况，对应14.5 节相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0136",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化中，流程框架体系优化是优化组织的多个方面，其中不包括（ ）。",
+    "options": [
+      "A. 业务流程细节",
+      "B. 业务模式",
+      "C. 资源配置",
+      "D. 职能"
+    ],
+    "answer": "A",
+    "explanation": "14.5 节提到流程框架体系优化是优化组织的业务模式、资源配置，以及优化组织 的职能，未提及业务流程细节。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0137",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "项目化流程优化过程中，立项之后的步骤是（ ）。",
+    "options": [
+      "A. 目标流程及配套方案设计",
+      "B. 现状分析及诊断",
+      "C. IT 方案设计与开发",
+      "D. 新旧流程切换"
+    ],
+    "answer": "B",
+    "explanation": "14.5 节中项目化流程优化过程，立项之后是现状分析及诊断。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0138",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化活动中，简化的应用领域十分广阔，在管理业务活动中，（ ）可作为简化 对象。",
+    "options": [
+      "A. 管理决策流程",
+      "B. 管理部门设置",
+      "C. 管理规章制度",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "14.1.2 节提到管理业务活动中有很多可作为简化对象的事物，管理决策流程、管 理部门设置、管理规章制度都在此范围内。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0139",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "系列化产品设计中，选择基型产品时，基型产品应经过长期生产和使用考验，这是 为了确保（ ）。",
+    "options": [
+      "A. 基型产品结构和性能可靠",
+      "B. 基型产品有发展前途",
+      "C. 基型产品用量较大",
+      "D. 基型产品生产较普遍"
+    ],
+    "answer": "A",
+    "explanation": "14.1.3 节提到基型产品应经过长期生产和使用考验，是为了保证其结构和性能 都比较可靠。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0140",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化中，标准模块或通用模块是由（ ）分离出来的。",
+    "options": [
+      "A. 具有特定功能且可通用、互换的功能单元",
+      "B. 专用模块",
+      "C. 产品的核心功能单元",
+      "D. 产品的辅助功能单元"
+    ],
+    "answer": "A",
+    "explanation": "14.1.4 节指出某些功能单元具备特定功能且可通用、互换，可分离出来成为标准 模块或通用模块。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0141",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "综合标准化工作中，以系统的整体效益最佳为目标，其中整体效益包括（ ）。",
+    "options": [
+      "A. 技术效益和经济效益",
+      "B. 技术效益、经济效益和社会效益",
+      "C. 经济效益和社会效益",
+      "D. 技术效益和社会效益"
+    ],
+    "answer": "B",
+    "explanation": "14.1.5 节表明综合标准化以系统的整体效益（包括技术、经济、社会三方面的综 合效益）最佳为目标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0142",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "超前标准化中，制定超前标准阶段与制定一般标准的区别在于（ ）。",
+    "options": [
+      "A. 制定超前标准需要预测未来情况",
+      "B. 超前标准必须规定促进产品发展的指标",
+      "C. 制定超前标准的流程更复杂",
+      "D. 超前标准的适用范围更广"
+    ],
+    "answer": "B",
+    "explanation": "14.1.6 节提到制定超前标准同制定一般标准没有什么区别，但在超前标准中必 须规定促进产品发展的指标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0143",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端流程管理的本质是让组织关注贡献，这是为了（ ）。",
+    "options": [
+      "A. 提高组织的生产效率",
+      "B. 实现为业务对象创造价值，满足组织高质量发展目的",
+      "C. 优化组织的业务流程",
+      "D. 提升组织的市场竞争力"
+    ],
+    "answer": "B",
+    "explanation": "14.2.1 节指出端到端流程管理本质是让组织关注贡献，以实现为业务对象创造 价值、满足组织高质量发展的目的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0144",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划中，基于业务模型的流程规划，在模型分解之后的步骤是（ ）。",
+    "options": [
+      "A. 根据组织业务绘制业务模式简易模型",
+      "B. 与流程干系人就模型与现有流程进行关联对接",
+      "C. 无法对接的部门，与代表岗位人员进行工作访谈",
+      "D. 完成流程清单和流程总图"
+    ],
+    "answer": "B",
+    "explanation": "14.2.3 节中基于业务模型的流程规划步骤，模型分解之后是与流程干系人就模 型与现有流程进行关联对接。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0145",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分类中，运行流程从业务对象提出需求开始，到（ ）结束。",
+    "options": [
+      "A. 产品交付给业务对象",
+      "B. 业务对象需求满足",
+      "C. 服务反馈收集完成",
+      "D. 流程执行完毕"
+    ],
+    "answer": "B",
+    "explanation": "14.2.4 节提到运行流程从业务对象提出需求开始，到满足业务对象需求结束。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0146",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分级中，二级流程也称为（ ）。",
+    "options": [
+      "A. “域”",
+      "B. “域过程”",
+      "C. 子流程",
+      "D. 业务活动流程"
+    ],
+    "answer": "B",
+    "explanation": "14.2.4 节指出二级流程是中阶流程，在每个“域”内，也称为“域过程”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0147",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "保障流程管理有效执行时，找对流程执行负责人，其中流程助手的主要职责是 ( ) 。",
+    "options": [
+      "A. 流程的设计",
+      "B. 流程的检查与优化",
+      "C. 流程执行，掌握流程运行实时情况",
+      "D. 流程执行的推动"
+    ],
+    "answer": "C",
+    "explanation": "14.3 节提到流程助手须负责流程执行，在流程中参与执行，具备掌握流程运行实 时情况的能力。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0148",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程执行中，把流程固化到制度中，制度中对流程执行绩效的激励制度是为了 ( ) 。",
+    "options": [
+      "A. 保证流程操作有章可循",
+      "B. 严格管理流程的关键控制点",
+      "C. 保证流程执行有激励机制保障",
+      "D. 提升流程执行人员的工作积极性"
+    ],
+    "answer": "C",
+    "explanation": "14.3 节表明制度中的激励制度是为了保证流程执行有激励机制保障。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0149",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价中，流程绩效评估结果分析时，与同行业主要竞争对手进行对比分析的目 的是（ ）。",
+    "options": [
+      "A. 了解组织在市场上的相对表现，找到流程改进方向",
+      "B. 学习竞争对手的先进流程管理经验",
+      "C. 确定组织的市场份额",
+      "D. 评估组织的核心竞争力"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节提到“与同行业的主要竞争对手进行流程绩效对比分析，从而了解本组织 在市场上的相对表现，结合组织的运行策略，能够准确地找到组织流程改进的方向及目 标”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0150",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计中，审计组内成员至少要有业务方面的专业技术人员，其目的是（ ）。",
+    "options": [
+      "A. 确保审计的深度与效果",
+      "B. 保证审计计划的顺利实施",
+      "C. 提高审计工作的效率",
+      "D. 便于与受审方进行沟通"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节指出“组内成员至少有业务方面的专业技术人员，以确保审计的深度与效 果”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0151",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于过程控制时，责任部门对问题严重度进行评审后，下一步是 ( ) 。",
+    "options": [
+      "A. 采取补救措施",
+      "B. 提交整改单",
+      "C. 处理不合格事项",
+      "D. 分析问题原因"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节提到“流程评价结果提交之后，责任部门应及时提交整改单，对问题的严 重度进行评审，对不合格事项进行处理，并迅速采取补救措施”，评审后是处理不合 格事项。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0152",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程持续改进中，变革导向的流程优化需求中，组织战略对流程优化的影响是 ( ) 。",
+    "options": [
+      "A. 提出新的流程优化目标和方向",
+      "B. 发现现有流程存在的问题",
+      "C. 基于战略目标衡量流程绩效",
+      "D. 调整流程以适应组织战略变化"
+    ],
+    "answer": "D",
+    "explanation": "14.5 节提到变革导向的流程优化需求包括组织战略等，组织战略会促使流程调 整以适应其变化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0153",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化中，流程的标准化是为了（ ）。",
+    "options": [
+      "A. 固化组织的流程和规范",
+      "B. 提高流程的执行效率",
+      "C. 优化组织的业务模式",
+      "D. 解决组织存在的问题"
+    ],
+    "answer": "A",
+    "explanation": "14.5 节指出流程的标准化是把组织的一些具体的流程，以及在流程里做事的规 范、标准及知识沉淀下来，然后标准化，即固化组织的流程和规范。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0154",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "项目化流程优化过程中，新旧流程切换之前的步骤是（ ）。",
+    "options": [
+      "A. 目标流程及配套方案设计",
+      "B. IT 方案设计与开发",
+      "C. 现状分析及诊断",
+      "D. 项目关闭"
+    ],
+    "answer": "B",
+    "explanation": "14.5 节中项目化流程优化过程，新旧流程切换之前是IT 方案设计与开发。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0155",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化活动中，系列化的目的之一是简化产品品种和规格，这有助于（ ）。",
+    "options": [
+      "A. 增加产品的生产成本",
+      "B. 提高产品的质量",
+      "C. 满足多方面的需要",
+      "D. 减少产品的市场竞争力"
+    ],
+    "answer": "C",
+    "explanation": "14.1.3 节提到产品系列化的目的是简化产品品种和规格，尽可能满足多方面的 需要。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0156",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化的特征是通过统一化的单元组合为物体，且该物体能重新拆装组成新结构， 统一化单元可多次重复利用，这体现了组合化的（ ）。",
+    "options": [
+      "A. 灵活性和高效性",
+      "B. 复杂性和创新性",
+      "C. 稳定性和可靠性",
+      "D. 规范性和标准性"
+    ],
+    "answer": "A",
+    "explanation": "组合化的这些特征使得产品在生产和使用过程中更具灵活性，统一化单元的重复 利用也提高了效率，对应14.1.4 节相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0157",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "综合标准化工作中，标准综合体的标准之间应贯彻（ ）。",
+    "options": [
+      "A. 高层次服从低层次的要求",
+      "B. 低层次服从高层次的要求",
+      "C. 相互独立，互不干涉",
+      "D. 同等重要，不分层次"
+    ],
+    "answer": "B",
+    "explanation": "14.1.5 节表明标准综合体的标准之间，应贯彻低层次服从高层次的要求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0158",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "超前标准化工作中，准备阶段选择超前标准化对象时，主要依据是（ ）。",
+    "options": [
+      "A. 市场需求和技术发展趋势",
+      "B. 组织的战略规划",
+      "C. 现有产品的不足",
+      "D. 标准化对象的潜在问题"
+    ],
+    "answer": "A",
+    "explanation": "超前标准化需考虑未来的发展，市场需求和技术发展趋势是选择对象的重要依据，",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0159",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端流程分级中，中阶流程细化到低一级的端到端流程的目的是（ ）。",
+    "options": [
+      "A. 便于流程的设计和管理",
+      "B. 明确各流程的具体职责",
+      "C. 逆向追溯各阶流程目的，直至组织战略和运行目标",
+      "D. 提高流程的执行效率"
+    ],
+    "answer": "C",
+    "explanation": "14.2.1 节提到从中阶端到端流程的目标或子目标出发定义下一级流程，最大好 处是可逆向追溯各阶流程目的到组织战略和运行目标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0160",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划中，流程规划小组的成员至少包括高级管理层、流程管理部门人员和涉及 流程的部门负责人，这是为了（ ）。",
+    "options": [
+      "A. 确保流程规划的权威性",
+      "B. 保障流程规划的整体性和流程间的一致性",
+      "C. 提高流程规划的效率",
+      "D. 便于流程规划的实施"
+    ],
+    "answer": "B",
+    "explanation": "14.2.3 节指出为确保流程规划的整体性和流程间的一致性，组织成立流程规划 小组，成员包括上述人员。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0161",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分类中，战略流程包括组织长中短期战略目标的规划等，其中战略过程的控制 与调整的作用是（ ）。",
+    "options": [
+      "A. 确保战略目标的实现",
+      "B. 制定战略目标实现策略",
+      "C. 分解战略目标",
+      "D. 确定组织的商业模式"
+    ],
+    "answer": "A",
+    "explanation": "战略过程的控制与调整是为了保证战略实施过程符合目标要求，确保战略目标的 实现，对应14.2.4 节战略流程相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0162",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分级中，一级流程是高阶流程，通常是（ ）。",
+    "options": [
+      "A. 端到端的流程",
+      "B. 具体的业务操作流程",
+      "C. 支持流程",
+      "D. 运行流程"
+    ],
+    "answer": "A",
+    "explanation": "14.2.4 节提到一级流程是高阶流程，也称为“域”，往往是端到端的流程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0163",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "保障流程管理有效执行时，理解流程要求执行者理解建立流程的原因、目的等， 这属于（ ）。",
+    "options": [
+      "A. 流程设计层面的理解",
+      "B. 流程执行层面的理解",
+      "C. 流程管理理念层面的理解",
+      "D. 流程优化层面的理解"
+    ],
+    "answer": "C",
+    "explanation": "理解建立流程的原因、目的等涉及对流程管理理念的认知，属于流程管理理念层 面的理解，对应14.3 节相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0164",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程执行中，新员工入职时进行流程制度培训，对组织而言，除了塑造新员工工作 行为，还能（ ）。",
+    "options": [
+      "A. 降低新员工流失率",
+      "B. 提高新员工的工作效率",
+      "C. 让新员工快速融入组织文化",
+      "D. 减少新员工的培训成本"
+    ],
+    "answer": "C",
+    "explanation": "流程制度培训能帮助新员工了解组织运行体系，有助于其快速融入组织文化，对 应14.3 节新员工入职流程制度培训相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0165",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计及监控中，流程的稽查与评价的作用是（ ）。",
+    "options": [
+      "A. 发现流程中的问题并进行改进",
+      "B. 评估流程执行人员的工作绩效",
+      "C. 确定流程的关键控制点",
+      "D. 优化流程设计"
+    ],
+    "answer": "A",
+    "explanation": "14.3 节提到通过流程的稽查与评价，保证流程的有效实施和持续改进，即发现问 题并改进。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0166",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "把流程固化到信息系统中，流程执行情况一目了然，这有利于（ ）。",
+    "options": [
+      "A. 流程的优化和改进",
+      "B. 提高信息系统的安全性",
+      "C. 减少信息系统的维护成本",
+      "D. 增加信息系统的功能"
+    ],
+    "answer": "A",
+    "explanation": "流程执行情况清晰呈现便于发现问题，进而有利于流程的优化和改进，对应14.3 节相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0167",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程文化宣导中，当组织以流程为做事基本准则时，员工会（ ）。",
+    "options": [
+      "A. 更加注重个人绩效",
+      "B. 通过流程视角看问题，用流程意识开展工作",
+      "C. 忽视组织战略目标",
+      "D. 抵制流程的优化和变革"
+    ],
+    "answer": "B",
+    "explanation": "14.3 节提到当组织以流程为做事基本准则时，员工会通过流程的视角来看问题， 用流程的意识去开展工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0168",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价中，流程稽查确定稽查方法时，查记录与资料的目的是（ ）。",
+    "options": [
+      "A. 了解流程执行的实际情况",
+      "B. 检查流程制度的完善程度",
+      "C. 发现流程执行中的违规行为",
+      "D. 验证流程执行结果的准确性"
+    ],
+    "answer": "A",
+    "explanation": "查记录与资料可获取流程执行过程中的相关信息，从而了解流程执行的实际情况， 对应14.4 节流程稽查相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0169",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程绩效评估中，流程效果的达成程度是指（ ）。",
+    "options": [
+      "A. 流程的产出满足业务对象需求和期望的程度",
+      "B. 流程在运行过程中资源利用的效率",
+      "C. 流程具备的动态调整能力",
+      "D. 流程目标完成的数量"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节提到流程效果也就是流程的产出在多大程度上满足了业务对象的需求和 期望，是达成流程绩效设定目标的程度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0170",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "满意度评估信息来源中，投诉、抱怨信息对流程管理的价值在于（ ）。",
+    "options": [
+      "A. 发现业务对象的潜在需求",
+      "B. 及时了解业务对象的不满，改进流程",
+      "C. 评估业务对象的满意度水平",
+      "D. 分析业务对象的行为习惯"
+    ],
+    "answer": "B",
+    "explanation": "对业务对象的投诉、抱怨及时处理，有助于发现流程问题并改进，对应14.4 节 满意度评估信息来源相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0171",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计中，确定审计范围是以（ ）为主线。",
+    "options": [
+      "A. 业务流程",
+      "B. 组织架构",
+      "C. 审计目的",
+      "D. 流程文件"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节指出流程审计范围的确定是以流程为主线，要审哪些流程等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0172",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于流程优化时，根据流程绩效评估结果确定流程优化方向，是因 为( ) 。",
+    "options": [
+      "A. 绩效评估结果能反映流程的实际运行情况",
+      "B. 绩效评估结果能体现组织战略目标的达成程度",
+      "C. 绩效评估结果能发现流程中的关键问题",
+      "D. 绩效评估结果能衡量业务对象的满意度"
+    ],
+    "answer": "A",
+    "explanation": "流程绩效评估结果反映了流程运行的结果和效果，能体现实际运行情况，从而确 定优化方向，对应14.4 节流程评价结果应用相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0173",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于绩效考核时，将流程检查结果与员工的评优、晋升及福利等挂 钩，目的是（ ）。",
+    "options": [
+      "A. 提高员工对流程管理的重视程度",
+      "B. 激励员工更好地执行流程",
+      "C. 全面考核员工的工作表现",
+      "D. 优化组织的绩效考核体系"
+    ],
+    "answer": "B",
+    "explanation": "挂钩员工评优、晋升及福利等可激励员工重视并更好地执行流程，对应14.4 节 流程评价结果在绩效考核中的应用相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0174",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程持续改进中，问题导向的流程优化需求中，内外部投诉及意见反馈反映的是 ( ) 。",
+    "options": [
+      "A. 流程设计的不合理之处",
+      "B. 业务对象对流程的期望和要求",
+      "C. 流程执行过程中的问题",
+      "D. 组织管理体系的缺陷"
+    ],
+    "answer": "C",
+    "explanation": "内外部投诉及意见反馈通常是针对流程执行过程中出现的问题，促使流程优化， 对应14.5 节问题导向的流程优化需求相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0175",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化中，流程框架体系优化之后进行流程的优化，此时流程优化是为了（ ）。",
+    "options": [
+      "A. 解决组织的具体问题",
+      "B. 进一步完善流程框架体系",
+      "C. 提升组织的战略目标",
+      "D. 适应组织的变革需求"
+    ],
+    "answer": "A",
+    "explanation": "14.5 节提到流程的优化是要通过流程优化的手段解决组织的问题，在流程框架 体系优化之后进行的流程优化也是如此。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0176",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "项目化流程优化过程中，目标流程及配套方案设计在（ ）之后。",
+    "options": [
+      "A. 现状分析及诊断",
+      "B. IT 方案设计与开发",
+      "C. 新旧流程切换",
+      "D. 项目关闭"
+    ],
+    "answer": "A",
+    "explanation": "14.5 节中项目化流程优化过程，目标流程及配套方案设计在现状分析及诊断之 后。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0177",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化活动中，简化在产品生产过程中，从产品品种规格到构成零件的结构要素都 可作为简化对象，这体现了简化的（ ）。",
+    "options": [
+      "A. 应用范围广泛",
+      "B. 方法多样",
+      "C. 重要性",
+      "D. 实施难度"
+    ],
+    "answer": "A",
+    "explanation": "从产品生产多个环节都可进行简化，体现了简化应用范围广泛，对应14.1.2 节 简化的相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0178",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "系列化产品设计中，向横的方向扩展设计全系列的各种规格时，要充分利用结构典 型化和零部件通用化等方法，目的是（ ）。",
+    "options": [
+      "A. 扩大通用化程度，降低生产成本",
+      "B. 增加产品的功能和特性",
+      "C. 提高产品的质量",
+      "D. 满足不同客户的个性化需求"
+    ],
+    "answer": "A",
+    "explanation": "利用这些方法可扩大通用化程度，便于组织生产，降低生产成本，对应14.1.3 节 系列化相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0179",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化在日益形成买方市场以及需求日益多样化的形势下，对组织的重要意义在于 ( ) 。",
+    "options": [
+      "A. 提高产品的标准化程度",
+      "B. 降低产品的研发成本",
+      "C. 使组织能迅速将新产品投入市场",
+      "D. 增强组织的市场竞争力"
+    ],
+    "answer": "C",
+    "explanation": "14.1.4 节提到在买方市场和需求多样化形势下，组合化能使组织在不常改变生 产流程和设备的情况下迅速推出新产品。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0180",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "综合标准化工作中，充分选用现行标准，必要时对现行标准提出修订和补充要求， 这是为了（ ）。",
+    "options": [
+      "A. 节约标准化工作的成本",
+      "B. 保证标准综合体的科学性和有效性",
+      "C. 避免重复制定标准",
+      "D. 符合相关法律法规要求"
+    ],
+    "answer": "B",
+    "explanation": "选用现行标准并按需修订补充，可使标准综合体更科学有效，保证综合标准化工 作的质量，对应14.1.5 节综合标准化原则要求相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0181",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "超前标准化工作中，贯彻超前标准阶段需要建立贯彻标准所必要的物质条件、经济 条件和组织技术条件，原因是（ ）。",
+    "options": [
+      "A. 超前标准的技术要求较高",
+      "B. 超前标准所规定的产品指标尚未被工业组织所掌握",
+      "C. 确保超前标准能顺利实施",
+      "D. 提高组织的技术水平和管理能力"
+    ],
+    "answer": "B",
+    "explanation": "14.1.6 节提到由于超前标准所规定的产品指标尚未被工业组织所掌握，所以需 要建立相应条件来贯彻标准。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0182",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端流程管理中，组织级高阶流程以社会与市场需求为起点，这是因为（ ）。",
+    "options": [
+      "A. 组织的生存和发展依赖于社会与市场需求",
+      "B. 满足社会与市场需求是组织的社会责任",
+      "C. 社会与市场需求决定组织的战略目标",
+      "D. 社会与市场需求是组织流程设计的基础"
+    ],
+    "answer": "A",
+    "explanation": "组织需根据社会与市场需求开展活动，其生存和发展依赖于此，所以组织级高阶 流程以此为起点，对应14.2.1 节端到端流程分级相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0183",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划中，基于岗位职责的流程规划，在分解出主要工作并评价其重要度之后， 流程管理部门需要（ ）。",
+    "options": [
+      "A. 确定每个部门的代表性岗位",
+      "B. 梳理出工作中包含的流程及其关键控制要点",
+      "C. 与各部门负责人访谈，补充和完善访谈结果",
+      "D. 汇总各部门的流程信息，完成流程清单和流程框架"
+    ],
+    "answer": "B",
+    "explanation": "14.2.3 节中基于岗位职责的流程规划步骤，分解出主要工作并评价重要度之后 是梳理出流程及其关键控制要点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0184",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分类中，支持流程通常是纵向职能专业导向的，这意味着（ ）。",
+    "options": [
+      "A. 支持流程围绕特定职能专业展开",
+      "B. 支持流程与组织的纵向管理架构无关",
+      "C. 支持流程的执行不需要跨部门协作",
+      "D. 支持流程的设计只考虑职能专业需求"
+    ],
+    "answer": "A",
+    "explanation": "纵向职能专业导向说明支持流程围绕特定职能专业展开，对应14.2.4 节支持流 程相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0185",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分级中，三级流程由子流程和业务活动构成，其中业务活动是（ ）。",
+    "options": [
+      "A. 流程中的具体操作步骤",
+      "B. 流程中的关键决策点",
+      "C. 流程中的主要环节",
+      "D. 流程中的管理活动"
+    ],
+    "answer": "A",
+    "explanation": "业务活动是流程中具体的工作活动，是具体操作步骤，对应14.2.4 节流程分级 相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0186",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "保障流程管理有效执行时，做好流程变更后的推广，采取培训、交流等方式，目 的是( ) 。",
+    "options": [
+      "A. 让流程执行人员熟悉新流程",
+      "B. 提高流程执行人员的工作技能",
+      "C. 增强流程执行人员的团队协作能力",
+      "D. 提升流程执行人员的积极性"
+    ],
+    "answer": "A",
+    "explanation": "14.3 节提到当关键流程发生重要变更时，采取培训、交流等方式推广流程，主要 是让流程执行人员理解和熟悉新流程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0187",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程执行中，把流程固化到信息系统中，对于重执行、大型或复杂的流程的作用是 ( ) 。",
+    "options": [
+      "A. 提高流程的设计水平",
+      "B. 提高流程的执行力",
+      "C. 优化流程的结构",
+      "D. 降低流程的执行成本"
+    ],
+    "answer": "B",
+    "explanation": "14.3 节指出对于重执行、大型或复杂的流程需要提高执行力时，可考虑通过信息 系统来固化流程，所以其作用是提高流程的执行力。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0188",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程文化宣导对组织的长期影响是（ ）。",
+    "options": [
+      "A. 提升组织的品牌形象",
+      "B. 改善组织的内部沟通",
+      "C. 形成以流程为导向的组织文化，提升组织整体运营效率",
+      "D. 增强组织的创新能力"
+    ],
+    "answer": "C",
+    "explanation": "14.3 节表明当组织形成以流程为做事基本准则的文化时，会影响员工工作行为 习惯，提升组织整体运营效率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0189",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价中，流程稽查确定稽查关键点时，从流程本质出发，关键点是（ ）。",
+    "options": [
+      "A. 流程中的复杂环节",
+      "B. 对流程目的、目标的达成起关键作用的流程控制点",
+      "C. 流程中容易出现问题的环节",
+      "D. 流程中的创新环节"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到关键点的确定首先是从流程本质出发，关键点是对流程目的、目标 的达成起关键作用的流程控制点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0190",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程绩效评估中，流程弹性的重要性在于（ ）。",
+    "options": [
+      "A. 确保流程能够稳定运行",
+      "B. 保证流程的产出质量",
+      "C. 使流程具备动态调整能力，满足业务对象当前和未来的需求",
+      "D. 提高流程的执行效率"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节指出流程弹性是指流程应具备的动态调整能力，以满足业务对象当前和 未来的需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0191",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "满意度评估信息来源中，满意度问卷调查的作用是（ ）。",
+    "options": [
+      "A. 是满意度评估的主要方式",
+      "B. 可以全面获取业务对象的满意度信息",
+      "C. 是满意度评估的一个参考或补充",
+      "D. 能够深入了解业务对象的需求"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节提到满意度问卷调查是满意度评估的一个参考或补充。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0192",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计中，编制审计报告时，流程审计组长应（ ）。",
+    "options": [
+      "A. 重点突出审计发现的问题",
+      "B. 以流程为主线将流程审计结果进行汇总串联，充分说明审计过程与审计发现",
+      "C. 对审计发现的问题提出整改建议",
+      "D. 分析审计发现问题的原因"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节表明流程审计完成之后，流程审计组长应召开流程审计小组总结会议，以 流程为主线将流程审计结果进行汇总串联，充分地说明审计过程与审计发现。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0193",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于流程优化时，流程优化项目开展通常比较顺利的原因是（ ）。",
+    "options": [
+      "A. 流程优化目标清晰且价值明确",
+      "B. 组织对流程优化的重视",
+      "C. 流程执行人员的积极配合",
+      "D. 有完善的流程优化方案"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节提到由于问题明确且以检查事实为依据，流程优化项目的目标清晰且价 值明确，所以开展通常会比较顺利。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0194",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于绩效考核时，流程绩效评估反映的内容不包括（ ）。",
+    "options": [
+      "A. 流程结果的质量",
+      "B. 流程执行人员的个人能力",
+      "C. 流程执行的水平",
+      "D. 流程管理的水平"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到流程绩效评估反映了流程结果的质量、流程执行的水平和流程管理 的水平，未提及流程执行人员的个人能力。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0195",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程持续改进中，绩效导向的流程优化需求中，标杆组织对比分析报告的作用是 ( ) 。",
+    "options": [
+      "A. 发现组织内部流程存在的问题",
+      "B. 了解标杆组织的业务模式",
+      "C. 找出组织与标杆组织在流程方面的差距，确定优化方向",
+      "D. 学习标杆组织的管理经验"
+    ],
+    "answer": "C",
+    "explanation": "14.5 节提到绩效导向的流程优化需求包括标杆组织对比分析报告，其作用是找 出差距，确定优化方向。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0196",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化中，流程的标准化需要沉淀组织的流程、规范、标准及知识，这些内容沉 淀的载体是（ ）。",
+    "options": [
+      "A. 组织的制度及执行标准、执行规范等流程的作业手册",
+      "B. 组织的信息系统",
+      "C. 组织的培训资料",
+      "D. 组织的文化建设"
+    ],
+    "answer": "A",
+    "explanation": "14.5 节指出框架体系的优化和流程的优化要落实到组织中去，也要落实到制度 及执行标准、执行规范等流程的作业手册上，这些是流程标准化内容的沉淀载体。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0197",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "项目化流程优化过程中，IT 方案设计与开发的目的是（ ）。",
+    "options": [
+      "A. 为流程优化提供技术支持",
+      "B. 提高流程的信息化水平",
+      "C. 确保新流程能够在信息系统中有效运行",
+      "D. 提升组织的技术竞争力"
+    ],
+    "answer": "C",
+    "explanation": "14.5 节项目化流程优化过程中，IT 方案设计与开发是为了配合新流程，确保新 流程能够在信息系统中有效运行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0198",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化活动中，系列化产品的基础件通用性好，这有利于（ ）。",
+    "options": [
+      "A. 提高产品的质量",
+      "B. 降低产品的生产成本",
+      "C. 增加产品的功能",
+      "D. 提高产品的市场价格"
+    ],
+    "answer": "B",
+    "explanation": "14.1.3 节提到系列化产品基础件通用性好，能根据市场需求发展变型产品，节约 设计力量，降低生产成本。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0199",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化中，统一化单元多次重复利用的前提是（ ）。",
+    "options": [
+      "A. 统一化单元具有良好的通用性和互换性",
+      "B. 统一化单元的设计符合标准",
+      "C. 统一化单元的质量可靠",
+      "D. 统一化单元的数量充足"
+    ],
+    "answer": "A",
+    "explanation": "统一化单元具有良好的通用性和互换性才能多次重复利用，这是组合化的基础， 对应14.1.4 节组合化相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0200",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "综合标准化工作中，开展综合标准化工作的首要步骤是针对不同的标准化对象 ( ) 。",
+    "options": [
+      "A. 制订一整套相互协调的标准技术文件",
+      "B. 确定标准化对象系统",
+      "C. 运用系统分析方法",
+      "D. 建立标准综合体"
+    ],
+    "answer": "A",
+    "explanation": "14.1.5 节提到开展综合标准化工作，首先要求针对不同的标准化对象，制订一整 套相互协调的标准技术文件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0201",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "超前标准化工作中，确定超前指标时，预测生态指标主要采用的方法是（ ）。",
+    "options": [
+      "A. 模拟方法和稳定的生态系统的动态模型",
+      "B. 模拟法、标准法、外推法和直接计算法",
+      "C. 模拟法、启发法和外推法",
+      "D. 经济数字模型"
+    ],
+    "answer": "A",
+    "explanation": "14.1.6 节提到预测生态指标主要采用模拟方法和稳定的生态系统的动态模型。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0202",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端流程管理中，强调以终为始、目标导向，这里的“终”指的是（ ）。",
+    "options": [
+      "A. 业务对象满意",
+      "B. 组织战略目标实现",
+      "C. 流程执行完毕",
+      "D. 产品交付完成"
+    ],
+    "answer": "A",
+    "explanation": "14.2.1 节提到端到端的流程是指从获取业务对象需求开始，到业务对象满意结 束，所以“终”指业务对象满意。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0203",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划中，基于业务模型的流程规划，在与流程干系人就模型与现有流程进行关 联对接后，若存在无法对接的部门，接下来的操作是（ ）。",
+    "options": [
+      "A. 重新绘制业务模式简易模型",
+      "B. 与代表岗位人员进行工作访谈",
+      "C. 调整现有流程以适应模型",
+      "D. 放弃对该部门流程的规划"
+    ],
+    "answer": "B",
+    "explanation": "14.2.3 节中基于业务模型的流程规划步骤，关联对接后若有无法对接部门，由流 程管理部门与代表岗位人员进行工作访谈。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0204",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分类中，运行流程以战略流程为导向，其逻辑顺序是（ ）。",
+    "options": [
+      "A. 战略流程—运行流程—业务模式",
+      "B. 业务模式—战略流程—运行流程",
+      "C. 战略流程—业务模式—运行流程",
+      "D. 运行流程—战略流程—业务模式"
+    ],
+    "answer": "C",
+    "explanation": "14.2.4 节提到运行流程以战略流程为导向，以战略流程确定的架构为基础展开， 其逻辑顺序是战略—业务模式—运行流程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0205",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分级中，二级流程在每个“域”内被称为“域过程”，它的作用是（ ）。",
+    "options": [
+      "A. 对一级流程进行细化，明确各领域内的关键流程环节",
+      "B. 直接指导具体的业务操作",
+      "C. 连接一级流程和三级流程，起到承上启下的作用",
+      "D. 体现组织的战略目标"
+    ],
+    "answer": "C",
+    "explanation": "二级流程处于一级流程和三级流程之间，起到承上启下的作用，对一级流程细化， 为三级流程提供框架，对应14.2.4 节流程分级相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0206",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "保障流程管理有效执行时，找对流程执行负责人，流程管理者和流程助手的关系是 ( ) 。",
+    "options": [
+      "A. 流程管理者领导流程助手",
+      "B. 流程助手监督流程管理者",
+      "C. 两者相互协作，共同推动流程执行",
+      "D. 两者职责相同，共同完成流程执行任务"
+    ],
+    "answer": "C",
+    "explanation": "14.3 节提到流程管理者需要与推动流程执行的流程助手协作，共同推动流程执 行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0207",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程执行中，把流程固化到制度中，制度中流程必须遵守的规则是为了（ ）。",
+    "options": [
+      "A. 保证流程执行有激励机制保障",
+      "B. 严格管理流程的关键控制点，保证流程操作有章可循",
+      "C. 明确流程执行的目标",
+      "D. 规范流程执行人员的行为"
+    ],
+    "answer": "B",
+    "explanation": "14.3 节提到制度中流程必须遵守的规则是保证流程操作有章可循，将流程的关 键控制点用制度的方式严格地管理起来。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0208",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价中，流程稽查在开展稽查之前，与受稽查部门、岗位明确流程稽查的目的 与背景，其目的是（ ）。",
+    "options": [
+      "A. 取得受稽查部门、岗位的配合",
+      "B. 让受稽查部门、岗位了解稽查的重要性",
+      "C. 规范稽查行为",
+      "D. 明确稽查的范围"
+    ],
+    "answer": "A",
+    "explanation": "明确流程稽查的目的与背景有助于取得受稽查部门、岗位的配合，确保稽查工作 的顺利进行和结果的客观性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0209",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程绩效评估中，在组织内部做横向比较的适用场景是（ ）。",
+    "options": [
+      "A. 组织规模较大，在不同区域设有分支机构或办事处",
+      "B. 组织的业务流程复杂",
+      "C. 组织的流程绩效不稳定",
+      "D. 组织的流程管理水平较低"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节提到在组织内部做横向比较适用于在不同区域设有分支机构或办事处的 组织，通过横向比较促进不同区域之间流程绩效的相互竞争及流程管理成功经验的相互 学习。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0210",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "满意度评估中，建立满意度评估信息库的目的是（ ）。",
+    "options": [
+      "A. 整合不同渠道的满意度评估信息，得出全面的评估结论",
+      "B. 方便查询业务对象的满意度信息",
+      "C. 对业务对象的满意度信息进行分类管理",
+      "D. 提高满意度评估的效率"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节提到组织需要将不同渠道的满意度评估信息进行汇总，建立一个集成的 信息库，通过整合、分析，从而得出全面的评估结论。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0211",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计中，召开末次会议邀请组织高层、流程管理者、受审方及流程执行关键人 员参与，会议重点不包括（ ）。",
+    "options": [
+      "A. 流程审计简要介绍",
+      "B. 审计发现及不合格项",
+      "C. 审计费用结算",
+      "D. 与责任部门确定不合格整改的安排"
+    ],
+    "answer": "C",
+    "explanation": "14.4 节提到末次会议重点包括流程审计简要介绍、审计发现及不合格项、审计结 论通报、与责任部门确定不合格整改的安排，不包括审计费用结算。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0212",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于过程控制时，责任部门提交整改单后，应（ ）。",
+    "options": [
+      "A. 对问题的严重度进行评审",
+      "B. 立即采取补救措施",
+      "C. 等待上级部门的指示",
+      "D. 制定整改计划"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节提到流程评价结果提交之后，责任部门应及时提交整改单，对问题的严重 度进行评审，然后对不合格事项进行处理并采取补救措施。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0213",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程持续改进中，变革导向的流程优化需求中，运行思路及策略的调整会导致 ( ) 。",
+    "options": [
+      "A. 组织战略目标的改变",
+      "B. 流程框架体系的优化",
+      "C. 流程的标准化",
+      "D. 流程执行人员的变动"
+    ],
+    "answer": "B",
+    "explanation": "运行思路及策略的调整会影响组织业务开展方式，进而导致流程框架体系的优化， 对应14.5 节变革导向的流程优化需求相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0214",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化中，在进行现状分析及诊断时，把组织存在的分散问题归结起来形成重要 问题，目的是（ ）。",
+    "options": [
+      "A. 明确流程优化的重点",
+      "B. 评估组织管理水平",
+      "C. 确定组织的核心问题",
+      "D. 为流程框架体系优化做准备"
+    ],
+    "answer": "A",
+    "explanation": "将分散问题归结形成重要问题，能明确流程优化的重点方向，使流程优化更有针 对性，对应14.5 节流程优化相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0215",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "项目化流程优化过程中，项目关闭的前提是（ ）。",
+    "options": [
+      "A. 新旧流程切换完成",
+      "B. 目标流程及配套方案设计完成",
+      "C. IT 方案设计与开发完成",
+      "D. 确认优化后的流程达到预期目标"
+    ],
+    "answer": "D",
+    "explanation": "项目化流程优化项目关闭前需确认优化后的流程达到预期目标，确保流程优化工 作完成，对应14.5 节项目化流程优化过程相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0216",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化活动中，简化原则要求简化方案必须经过比较、论证，这是为了（ ）。",
+    "options": [
+      "A. 确保简化后事物的总体功能最佳",
+      "B. 保证简化方案的可行性",
+      "C. 降低简化过程的风险",
+      "D. 提高简化的效率"
+    ],
+    "answer": "A",
+    "explanation": "14.1.2 节提到简化方案必须经过比较、论证，并以简化后事物的总体功能是否最 佳作为衡量简化是否合理的标准。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0217",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "系列化产品设计中，编制产品系列型谱要以大量的调查资料和科学的分析预测为基 础，一经确定，轻易不宜改变，这是因为（ ）。",
+    "options": [
+      "A. 编制过程复杂，重新编制成本高",
+      "B. 型谱是产品系列化的核心内容",
+      "C. 随意改变会影响系列化产品的协调发展及市场适应性",
+      "D. 体现了系列型谱的权威性"
+    ],
+    "answer": "C",
+    "explanation": "产品系列型谱对产品发展有规划作用，随意改变会影响产品间的协调及对市场的 适应，对应14.1.3 节系列化相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0218",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化的应用在产品设计中体现为确定标准化系数，标准化系数越大，说明（ ）。",
+    "options": [
+      "A. 产品的标准化程度越高，原理应用得越好",
+      "B. 产品的设计越复杂",
+      "C. 产品的功能越多",
+      "D. 产品的成本越低"
+    ],
+    "answer": "A",
+    "explanation": "14.1.4 节提到产品设计中要确定标准化系数，标准化系数越大，说明原理应用得 越好，产品的标准化程度越高。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0219",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化的基本原理中，（ ）原理是指标准是一定时期内依存主体技术或管理水平 的反映，需适时修订以保证其先进性和适用性。",
+    "options": [
+      "A. 超前预防",
+      "B. 动变有序",
+      "C. 统一有度",
+      "D. 互换兼容"
+    ],
+    "answer": "B",
+    "explanation": "14.1.1 节指出动变有序原理强调标准随时间和环境变化需适时修订，以保证其 先进性和适用性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0220",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "简化作为标准化方法，在对简化方案进行论证时，需以（ ）为前提。",
+    "options": [
+      "A. 确定的时间、空间范围",
+      "B. 简化后事物的总体功能最佳",
+      "C. 满足当前需求",
+      "D. 降低成本"
+    ],
+    "answer": "A",
+    "explanation": "14.1.2 节提到对简化方案的论证应以确定的时间、空间范围为前提。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0221",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "在产品系列化中，制定产品参数系列的首要环节是（ ）。",
+    "options": [
+      "A. 确定产品的基本性能",
+      "B. 选择或确定产品功能范围",
+      "C. 产品基本参数系列化",
+      "D. 分析产品发展趋势"
+    ],
+    "answer": "C",
+    "explanation": "14.1.3 节表明产品基本参数系列化是产品系列化的首个环节。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0222",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化中，将若干标准模块、通用模块和专用模块组合成新系统的过程体现了组合 化的（ ）特点。",
+    "options": [
+      "A. 建立在系统分解基础上",
+      "B. 统一化单元可重复利用",
+      "C. 分解与组合的统一",
+      "D. 以满足特定需求为目的"
+    ],
+    "answer": "C",
+    "explanation": "14.1.4 节提到组合化的过程既包括分解也包括组合，是分解与组合的统一，将模 块组合成新系统体现了这一特点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0223",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "综合标准化的定义中，运用系统分析方法的目的是（ ）。",
+    "options": [
+      "A. 建立标准综合体",
+      "B. 确定标准化对象",
+      "C. 贯彻实施标准化活动",
+      "D. 协调相关要素"
+    ],
+    "answer": "A",
+    "explanation": "14.1.5 节提到综合标准化是运用系统分析方法建立标准综合体，并贯彻实施标 准化活动，运用该方法目的是建立标准综合体。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0224",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "超前标准化工作中，选择超前标准化对象时，应（ ）。",
+    "options": [
+      "A. 仅考虑当前市场需求",
+      "B. 从潜在的重复发生问题中选取",
+      "C. 依据现有技术水平",
+      "D. 参考竞争对手的标准化对象"
+    ],
+    "answer": "B",
+    "explanation": "14.1.6 节提到标准化对象不仅要从实际重复发生的问题中选取，更应从潜在的 重复发生问题中选取，超前标准化对象选择也遵循此原则。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0225",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端流程管理强调从业务对象需求开始，这是因为（ ）。",
+    "options": [
+      "A. 业务对象需求决定组织的战略方向",
+      "B. 满足业务对象需求是组织存在的价值所在",
+      "C. 业务对象需求容易获取",
+      "D. 业务对象需求相对稳定"
+    ],
+    "answer": "B",
+    "explanation": "组织的存在是为了满足业务对象需求，创造价值，所以端到端流程管理从业务对 象需求开始，对应14.2.1 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0226",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划中，确定流程规划的范围时，需要考虑的因素是（ ）。",
+    "options": [
+      "A. 组织的规模大小",
+      "B. 组织的战略目标和实际情况",
+      "C. 流程管理部门的权限",
+      "D. 流程执行人员的能力"
+    ],
+    "answer": "B",
+    "explanation": "14.2.2 节提到流程规划的范围需要根据实际情况界定，且设定流程规划目标要 考虑组织实际情况和战略目标等，所以确定范围时需考虑组织战略目标和实际情况。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0227",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "基于业务模型的流程规划方法中，流程管理部门进行模型分解后，与流程干系人就 模型与现有流程进行关联对接，其目的是（ ）。",
+    "options": [
+      "A. 发现现有流程存在的问题",
+      "B. 确定流程规划的重点",
+      "C. 找出无法对接的部门和流程",
+      "D. 确保流程规划与现有流程的连贯性"
+    ],
+    "answer": "D",
+    "explanation": "通过关联对接，使基于业务模型规划的流程与现有流程更好衔接，确保连贯性， 对应14.2.3 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0228",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分类中，支持流程为运行流程提供支持与服务，其中决策支持属于支持流程中 的( ) 。",
+    "options": [
+      "A. 后勤支持范畴",
+      "B. 风险控制范畴",
+      "C. 单独一类支持",
+      "D. 管理支持范畴"
+    ],
+    "answer": "D",
+    "explanation": "14.2.4 节提到支持流程通常包括决策支持、后勤支持与风险控制三类，决策支持 不属于后勤支持和风险控制，可归为管理支持范畴。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0229",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分级中，四级流程是对（ ）的细分。",
+    "options": [
+      "A. 一级流程",
+      "B. 二级流程",
+      "C. 三级流程",
+      "D. 业务活动"
+    ],
+    "answer": "C",
+    "explanation": "14.2.4 节提到三级流程由子流程（也就是四级流程）和业务活动构成，所以四级 流程是对三级流程的细分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0230",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "保障流程管理有效执行，新员工入职流程制度培训除了满足新员工对组织的初步认 识需求外，还能（ ）。",
+    "options": [
+      "A. 帮助新员工快速适应工作环境",
+      "B. 减少新员工与老员工之间的矛盾",
+      "C. 提高新员工的专业技能水平",
+      "D. 增强新员工对组织文化的认同感"
+    ],
+    "answer": "D",
+    "explanation": "14.3 节提到流程制度培训有利于组织对新员工的工作行为进行塑造，也有助于 增强新员工对组织文化的认同感。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0231",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程执行中，把流程固化到信息系统中，对于大型或复杂流程，信息系统可以 ( ) 。",
+    "options": [
+      "A. 简化流程设计",
+      "B. 提高流程的透明度和可控性",
+      "C. 减少流程执行人员数量",
+      "D. 降低流程维护成本"
+    ],
+    "answer": "B",
+    "explanation": "对于大型或复杂流程，信息系统可以提高流程的透明度和可控性，有助于监控 流程的执行情况并及时发现和解决问题。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0232",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程文化宣导过程中，组织以流程为做事基本准则，员工逐渐形成流程意识，这会 使员工（ ）。",
+    "options": [
+      "A. 更加注重个人工作效率",
+      "B. 主动优化工作流程",
+      "C. 严格按照流程开展工作，缺乏创新",
+      "D. 只关注流程的执行，忽视业务目标"
+    ],
+    "answer": "B",
+    "explanation": "当员工形成流程意识，会主动从流程角度思考，进而主动优化工作流程，提高工 作效率和质量，对应14.3 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0233",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价中，流程稽查确定稽查方法时，现场观察执行的优点是（ ）。",
+    "options": [
+      "A. 能直接获取流程执行的真实情况",
+      "B. 可以检查流程执行记录的准确性",
+      "C. 便于与流程执行人员沟通交流",
+      "D. 能够快速发现流程设计的问题"
+    ],
+    "answer": "A",
+    "explanation": "现场观察执行可直接看到流程执行的实际情况，获取真实信息，这是其主要优点， 对应14.4 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0234",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程绩效评估中，流程效率的典型指标“处理时间”反映的是（ ）。",
+    "options": [
+      "A. 流程从开始到结束所花费的时间",
+      "B. 流程中增值活动所花费的时间",
+      "C. 流程中不增值活动所花费的时间",
+      "D. 流程执行过程中等待时间的长短"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节提到处理时间是流程效率的典型指标，它反映的是流程从开始到结束所 花费的时间。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0235",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "满意度评估信息来源中，电话回访业务对象的主要目的是（ ）。",
+    "options": [
+      "A. 收集业务对象的投诉信息",
+      "B. 了解业务对象对产品及服务的满意度状况",
+      "C. 向业务对象推荐新产品或服务",
+      "D. 维护与业务对象的关系"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到通过对业务对象进行回访，了解其对于产品及服务的满意度状况，这 是电话回访的主要目的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0236",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计中，在流程初步调研阶段，收集并分析流程的绩效测评资料与流程问题反 馈，目的是（ ）。",
+    "options": [
+      "A. 确定审计范围",
+      "B. 掌握流程存在的问题，提高审计针对性",
+      "C. 编制审计检查表",
+      "D. 组建审计组"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到流程初步调研的目的是掌握流程存在的问题，以提高流程审计的针 对性，提高审计的效率与效果，收集并分析相关资料和反馈是实现该目的的手段。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0237",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于流程优化时，通过流程审计发现的流程体系全局性问题，为流 程优化提供了（ ）。",
+    "options": [
+      "A. 具体的优化措施",
+      "B. 明确的优化方向",
+      "C. 优化的资金预算",
+      "D. 优化的时间安排"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到通过流程审计，组织可以发现流程体系的全局性问题，这些问题明确 了流程优化的方向。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0238",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于绩效考核时，将流程检查结果作为绩效考核指标的一部分，能 够( ) 。",
+    "options": [
+      "A. 全面考核员工的工作业绩",
+      "B. 突出流程管理在绩效考核中的主导地位",
+      "C. 使绩效考核更加科学合理",
+      "D. 降低绩效考核的难度"
+    ],
+    "answer": "C",
+    "explanation": "将流程检查结果纳入绩效考核指标，能从流程管理角度补充考核内容，使绩效考 核更加科学合理，对应14.4 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0239",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程持续改进中，问题导向的流程优化需求来源中，流程优化建议通常来自（ ）。",
+    "options": [
+      "A. 流程执行人员",
+      "B. 流程管理人员",
+      "C. 组织内部各层级人员",
+      "D. 外部咨询专家"
+    ],
+    "answer": "C",
+    "explanation": "流程执行人员、管理人员等组织内部各层级人员在工作中都可能发现流程问题并 提出优化建议，对应14.5 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0240",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化中，流程框架体系优化要明确问题的边界和逻辑关系，这有助于（ ）。",
+    "options": [
+      "A. 确定流程优化的具体方法",
+      "B. 提高流程优化的效率",
+      "C. 避免流程优化过程中的重复工作",
+      "D. 准确把握流程优化的方向和重点"
+    ],
+    "answer": "D",
+    "explanation": "明确问题边界和逻辑关系能让流程优化更有针对性，准确把握方向和重点，对应",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0241",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "项目化流程优化过程中，现状分析及诊断阶段需要对（ ）进行分析。",
+    "options": [
+      "A. 现有流程的各个方面",
+      "B. 流程优化的可行性",
+      "C. 流程优化的目标",
+      "D. 流程优化的成本"
+    ],
+    "answer": "A",
+    "explanation": "现状分析及诊断阶段要全面了解现有流程，对其各个方面进行分析，为后续优化 提供依据，对应14.5 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0242",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化活动中，简化在管理业务活动中的应用，可对（ ）进行简化。",
+    "options": [
+      "A. 管理决策流程",
+      "B. 管理规章制度",
+      "C. 管理沟通渠道",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "14.1.2 节提到管理业务活动中有很多可作为简化对象的事物，管理决策流程、管 理规章制度、管理沟通渠道都在此范围内。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0243",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "系列化产品设计中，开展产品的系列设计时，选择基型产品后，下一步是（ ）。",
+    "options": [
+      "A. 向横的方向扩展设计全系列规格",
+      "B. 向纵的方向扩展设计变型系列或变型产品",
+      "C. 在充分考虑通用化基础上对基型产品进行技术设计或施工设计",
+      "D. 编制产品系列型谱"
+    ],
+    "answer": "C",
+    "explanation": "14.1.3 节系列设计步骤中，选择基型产品后，是在充分考虑系列内产品之间以及 变型产品之间的通用化基础上，对基型产品进行技术设计或施工设计。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0244",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化在生产中的应用，有助于组织在不经常改变生产流程和改造设备的情况下 ( ) 。",
+    "options": [
+      "A. 提高产品质量",
+      "B. 增加产品品种",
+      "C. 降低产品成本",
+      "D. 提高生产效率"
+    ],
+    "answer": "B",
+    "explanation": "14.1.4 节提到在买方市场和需求多样化形势下，组合化能使组织迅速将新产品 投入市场，增加产品品种满足需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0245",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "综合标准化工作中，标准综合体按性质分为产品标准综合体和一般技术性标准综合 体，一般技术性标准综合体概括的范围包括（ ）。",
+    "options": [
+      "A. 基础标准",
+      "B. 产品标准",
+      "C. 原料、材料标准",
+      "D. 半成品标准"
+    ],
+    "answer": "A",
+    "explanation": "14.1.5 节提到一般技术性标准综合体概括的范围有基础标准、跨专业部门的综 合性课题以及对国民经济有重要意义的专门课题等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0246",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "超前标准化工作中，制定超前标准阶段，除了规定产品的指标外，还必须规定 ( ) 。",
+    "options": [
+      "A. 产品的生产工艺",
+      "B. 促进产品发展的指标",
+      "C. 产品的市场定位",
+      "D. 产品的成本控制指标"
+    ],
+    "answer": "B",
+    "explanation": "14.1.6 节提到制定超前标准同制定一般标准没有什么区别，但在超前标准中必 须规定促进产品发展的指标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0247",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端流程分级中，组织级高阶流程的特点是（ ）。",
+    "options": [
+      "A. 涉及组织内多个部门的具体业务操作",
+      "B. 以社会与市场需求为起点，以战略目标达成为结束",
+      "C. 直接为业务对象创造价值",
+      "D. 由一系列中阶流程组成"
+    ],
+    "answer": "B",
+    "explanation": "14.2.1 节提到组织级高阶流程以社会与市场需求为起点，以战略目标（包含业务 对象满意）达成为结束。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0248",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划中，基于岗位职责的流程规划方法，在与各部门负责人访谈，补充和完善 访谈结果后，下一步是（ ）。",
+    "options": [
+      "A. 汇总各部门的流程信息，完成流程清单和流程框架",
+      "B. 确定每个部门的代表性岗位",
+      "C. 分解出主要工作并评价其重要度",
+      "D. 梳理出工作中包含的流程及其关键控制要点"
+    ],
+    "answer": "A",
+    "explanation": "14.2.3 节基于岗位职责的流程规划步骤中，与各部门负责人访谈，补充和完善访 谈结果后，是汇总各部门的流程信息，完成流程清单和流程框架。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0249",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分类中，运行流程包括产品价值链、市场链等，其中市场链主要涉及（ ）。",
+    "options": [
+      "A. 产品的研发和设计",
+      "B. 产品的营销和销售",
+      "C. 产品的生产和交付",
+      "D. 产品的售后服务"
+    ],
+    "answer": "B",
+    "explanation": "14.2.4 节提到市场链主要涉及营销和销售环节，是运行流程的一部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0250",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分级中，一级流程也称为“域”，它是（ ）流程的抽象概括。",
+    "options": [
+      "A. 组织内所有",
+      "B. 某一特定领域",
+      "C. 关键业务",
+      "D. 核心管理"
+    ],
+    "answer": "A",
+    "explanation": "一级流程作为高阶流程，是对组织内所有流程的一种抽象概括，涵盖范围广，对 应14.2.4 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0251",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "保障流程管理有效执行时，理解流程要求执行者理解流程设计的目的，这有助于执 行者（ ）。",
+    "options": [
+      "A. 更好地完成工作任务",
+      "B. 提高工作效率",
+      "C. 从整体上把握工作方向，明确自身工作价值",
+      "D. 改进流程设计"
+    ],
+    "answer": "C",
+    "explanation": "理解流程设计目的能让执行者明白工作的意义和价值，从整体上把握方向，对应",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0252",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程执行中，把流程固化到制度中，制度的强制性属性体现在（ ）。",
+    "options": [
+      "A. 对流程执行人员进行监督",
+      "B. 对违反流程规定的行为进行惩处",
+      "C. 要求流程执行人员必须遵守流程规则",
+      "D. 确保流程执行的规范性"
+    ],
+    "answer": "B",
+    "explanation": "制度的强制性体现在对违反流程规定的行为进行惩处，促使流程执行人员遵守规 则，对应14.3 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0253",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程文化宣导对组织文化建设的积极影响是（ ）。",
+    "options": [
+      "A. 丰富组织文化内涵",
+      "B. 使组织文化更具规范性",
+      "C. 推动组织文化向以流程为导向转变",
+      "D. 增强组织文化的凝聚力"
+    ],
+    "answer": "C",
+    "explanation": "流程文化宣导使组织以流程为做事基本准则，推动组织文化向以流程为导向转变， 对应14.3 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0254",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价中，流程稽查在提交流程稽查报告之前要与相关岗位人员充分沟通，这是 为了（ ）。",
+    "options": [
+      "A. 确保报告内容准确无误",
+      "B. 让相关岗位人员认可报告内容",
+      "C. 避免报告中出现敏感信息",
+      "D. 收集更多的稽查问题"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到在正式提交流程稽查报告之前要与相关岗位人员充分地沟通，确保 大家对于报告内容是经过充分沟通并达成一致的，即让相关岗位人员认可报告内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0255",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程绩效评估中，流程效果维度关注的是（ ）。",
+    "options": [
+      "A. 流程的产出满足业务对象需求和期望的程度",
+      "B. 流程在运行过程中资源的利用效率",
+      "C. 流程具备的应对变化的能力",
+      "D. 流程的投入产出比"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节提到流程效果也就是流程的产出在多大程度上满足了业务对象的需求和 期望，是达成流程绩效设定目标的程度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0256",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "满意度评估信息来源中，日常沟通记录能发现业务对象的需求、不满和建议，这 是因为（ ）。",
+    "options": [
+      "A. 日常沟通频率高，能及时获取信息",
+      "B. 日常沟通氛围轻松，业务对象更愿意表达",
+      "C. 日常沟通涉及业务的各个方面",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "日常沟通频率高、氛围轻松且涉及业务各方面，所以能发现业务对象的需求、不 满和建议，对应14.4 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0257",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计中，在编制检查表时，确定验证判断标准及抽样方法的依据是（ ）。",
+    "options": [
+      "A. 流程文件与业务经验",
+      "B. 审计目的与范围",
+      "C. 流程绩效测评资料",
+      "D. 流程问题反馈"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节提到根据流程文件与业务经验提炼出流程审计的检查点，并确定验证判 断的标准及抽样的方法。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0258",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于流程优化时，流程优化项目目标清晰且价值明确，主要是因为 ( ) 。",
+    "options": [
+      "A. 基于流程绩效评估和审计发现的问题明确",
+      "B. 组织对流程优化高度重视",
+      "C. 流程优化团队经验丰富",
+      "D. 采用了科学的流程优化方法"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节指出根据流程绩效评估结果可发现流程绩效与目标的差距，流程审计可 发现流程体系问题，这些明确的问题使优化项目目标清晰且价值明确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0259",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于绩效考核时，设立专项流程考核方案，主要针对的是（ ）。",
+    "options": [
+      "A. 流程执行人员",
+      "B. 流程管理者",
+      "C. 全体员工",
+      "D. 涉及流程的部门"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到可设立专项流程考核方案，根据流程检查的结果对流程管理者奖优 罚劣。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0260",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程持续改进中，绩效导向的流程优化需求中，流程目标及绩效测量报告能为流程 优化提供（ ）。",
+    "options": [
+      "A. 优化的动力",
+      "B. 优化的方向",
+      "C. 优化的方法",
+      "D. 优化的资源"
+    ],
+    "answer": "B",
+    "explanation": "14.5 节提到绩效导向的流程优化需求中，流程目标及绩效测量报告可反映流程 绩效情况，从而为流程优化提供方向。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0261",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化中，流程的标准化需要将组织的流程、规范等沉淀下来，其意义在于 ( ) 。",
+    "options": [
+      "A. 提高流程的稳定性和可重复性",
+      "B. 便于组织对流程进行管理和改进",
+      "C. 促进组织知识传承和经验积累",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "流程标准化沉淀组织的流程、规范等，能提高流程稳定性和可重复性，便于管理 和改进，也有利于知识传承和经验积累，对应14.5 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0262",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "项目化流程优化过程中，IT 方案设计与开发需要与（ ）紧密配合。",
+    "options": [
+      "A. 目标流程及配套方案设计",
+      "B. 现状分析及诊断",
+      "C. 新旧流程切换",
+      "D. 项目关闭"
+    ],
+    "answer": "A",
+    "explanation": "IT 方案设计与开发是为了支持目标流程的运行，所以需要与目标流程及配套方 案设计紧密配合，对应14.5 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0263",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化活动中，简化在产品生产过程中对原材料品种、规格进行简化，有助于（ ）。",
+    "options": [
+      "A. 提高原材料采购效率",
+      "B. 降低原材料库存成本",
+      "C. 保证原材料质量稳定",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "简化原材料品种、规格，可使采购流程更简便，提高采购效率，减少库存种类从 而降低库存成本，也便于保证原材料质量稳定，对应14.1.2 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0264",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "系列化产品设计中，向纵的方向扩展设计变型系列或变型产品时，关键是要保证 ( ) 。",
+    "options": [
+      "A. 变型产品具有独特功能",
+      "B. 变型与基础最大限度地通用",
+      "C. 满足不同客户的个性化需求",
+      "D. 不增加生产成本"
+    ],
+    "answer": "B",
+    "explanation": "14.1.3 节提到向纵的方向扩展设计变型系列或变型产品时，变型与基础要最大 限度地通用，尽量做到只增加少数专用件即可发展一个变型或变型系列。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0265",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化在产品设计中的应用，能够提高产品的（ ）。",
+    "options": [
+      "A. 标准化程度",
+      "B. 定制化程度",
+      "C. 创新程度",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "组合化通过使用标准模块，提高产品标准化程度；通过模块组合可实现定制化； 模块的新组合方式也能带来创新，对应14.1.4 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0266",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "综合标准化工作中，开展综合标准化工作的原则要求中，以系统的整体效益最佳为 目标，其中整体效益不包括（ ）。",
+    "options": [
+      "A. 技术效益",
+      "B. 环境效益",
+      "C. 经济效益",
+      "D. 社会效益"
+    ],
+    "answer": "B",
+    "explanation": "14.1.5 节提到综合标准化以系统的整体效益（包括技术、经济、社会三方面的综 合效益）最佳为目标，未提及环境效益。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0267",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "超前标准化工作中，贯彻超前标准阶段，建立贯彻超前标准所必要的物质条件，主 要是为了（ ）。",
+    "options": [
+      "A. 保证超前标准所规定的产品指标能够实现",
+      "B. 提高组织的生产能力",
+      "C. 满足市场对新产品的需求",
+      "D. 提升组织的技术水平"
+    ],
+    "answer": "A",
+    "explanation": "由于超前标准所规定的产品指标尚未被工业组织所掌握，建立物质条件是为保证 这些指标能够实现，对应14.1.6 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0268",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端流程管理中，组织级高阶流程虽然不是每个管理者都能参与，但却是（ ）。",
+    "options": [
+      "A. 组织战略落地的关键",
+      "B. 流程管理的基础",
+      "C. 提升组织运营效率的核心",
+      "D. 满足业务对象需求的直接方式"
+    ],
+    "answer": "A",
+    "explanation": "组织级高阶流程以社会与市场需求为起点，以战略目标达成为结束，是组织战略 落地的关键，对应14.2.1 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0269",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划中，流程规划小组的工作需要得到组织高层支持并纳入相关部门管理者绩 效考核，这是因为（ ）。",
+    "options": [
+      "A. 流程规划工作难度大，需要高层协调资源",
+      "B. 确保流程规划工作的重要性得到重视，保证工作顺利推进",
+      "C. 高层对流程规划有更专业的知识和经验",
+      "D. 相关部门管理者对流程规划工作不重视"
+    ],
+    "answer": "B",
+    "explanation": "流程规划工作重要且涉及多部门，需高层支持和纳入考核，以确保其重要性被重 视，推动工作顺利进行，对应14.2.3 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0270",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分类中，战略流程包括确定所采用的竞争策略与商业模式，这是为了（ ）。",
+    "options": [
+      "A. 明确组织的市场定位和发展方向",
+      "B. 提高组织的市场竞争力",
+      "C. 指导组织的日常运营",
+      "D. 优化组织的业务流程"
+    ],
+    "answer": "A",
+    "explanation": "确定竞争策略与商业模式可明确组织在市场中的定位和发展方向，为组织发展提 供指导，对应14.2.4 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0271",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分级中，二级流程作为中阶流程，在流程体系中的作用是（ ）。",
+    "options": [
+      "A. 对一级流程进行细化，为三级流程提供框架",
+      "B. 直接指导具体业务操作",
+      "C. 连接战略流程和运行流程",
+      "D. 负责流程的监控和优化"
+    ],
+    "answer": "A",
+    "explanation": "二级流程处于一级流程和三级流程之间，对一级流程细化，为三级流程提供框架， 起到承上启下的作用，对应14.2.4 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0272",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "保障流程管理有效执行时，做好流程变更后的推广工作，能够（ ）。",
+    "options": [
+      "A. 减少流程变更带来的阻力",
+      "B. 提高流程执行人员对新流程的接受度",
+      "C. 确保新流程顺利实施",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "做好流程变更后的推广工作，能让执行人员了解新流程，减少阻力，提高接受度， 确保新流程顺利实施，对应14.3 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0273",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程执行中，把流程固化到信息系统中，对于重执行的流程，信息系统可实现 ( ) 。",
+    "options": [
+      "A. 流程执行的自动化",
+      "B. 流程执行的精准化",
+      "C. 流程执行的高效化",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "将重执行的流程固化到信息系统中，可实现流程执行的自动化、精准化和高效化， 提高流程执行力，对应14.3 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0274",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程文化宣导有助于组织形成良好的流程文化，良好的流程文化能够（ ）。",
+    "options": [
+      "A. 提高组织的创新能力",
+      "B. 增强组织的凝聚力和执行力",
+      "C. 提升组织的品牌形象",
+      "D. 降低组织的运营成本"
+    ],
+    "answer": "B",
+    "explanation": "良好的流程文化使员工重视流程权威性，按流程做事，能增强组织的凝聚力和执 行力，对应14.3 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0275",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价中，流程稽查确定稽查关键点时，考虑流程实际执行情况，是为了（ ）。",
+    "options": [
+      "A. 提高稽查效率，聚焦易出现问题的环节",
+      "B. 确保稽查全面覆盖流程各个环节",
+      "C. 发现流程设计中的不合理之处",
+      "D. 评估流程执行人员的工作表现"
+    ],
+    "answer": "A",
+    "explanation": "考虑流程实际执行情况确定关键点，可提高稽查效率，把重点放在易出现问题的 环节，提高稽查效果，对应14.4 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0276",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程绩效评估中，流程弹性的典型指标适应性是指（ ）。",
+    "options": [
+      "A. 流程对业务对象需求变化的适应能力",
+      "B. 流程对组织战略调整的适应能力",
+      "C. 流程对外部环境变化的适应能力",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "流程弹性的适应性体现在对业务对象需求变化、组织战略调整以及外部环境变化 等多方面的适应能力，对应14.4 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0277",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "满意度评估信息来源中，走访信息可获取业务对象的需求和意见，走访时应（ ）。",
+    "options": [
+      "A. 提前准备好问题清单",
+      "B. 保持客观中立的态度",
+      "C. 注重与业务对象的沟通技巧",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "走访时提前准备问题清单可使走访更有针对性，保持客观中立态度能获取真实信 息，注重沟通技巧可更好地与业务对象交流，对应14.4 节内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0278",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计中，在召开首次会议时，与受审方确认审核计划，启动内部流程审计工作， 目的是（ ）。",
+    "options": [
+      "A. 让受审方做好准备工作",
+      "B. 获得受审方的支持与配合",
+      "C. 明确审计的目的和范围",
+      "D. 规范审计工作流程"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到首次会议主要是与受审方确认审核计划，启动内部流程审计工作，以 得到他们的支持。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0279",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于过程控制时，责任部门对不合格事项进行处理，处理方式不包 括( ) 。",
+    "options": [
+      "A. 立即纠正不符合流程的现象",
+      "B. 调整流程执行人员的岗位",
+      "C. 对相关人员进行培训",
+      "D. 优化流程设计"
+    ],
+    "answer": "B",
+    "explanation": "14.4 节提到流程评价结果应用于过程控制时，责任部门对不合格事项进行处理 并采取补救措施，通常是针对流程执行和相关人员能力等方面，调整岗位不属于常规处 理方式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0280",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程持续改进中，变革导向的流程优化需求中，重要改革举措会促使流程（ ）。",
+    "options": [
+      "A. 进行局部调整",
+      "B. 进行全面优化",
+      "C. 保持稳定",
+      "D. 等待观望"
+    ],
+    "answer": "B",
+    "explanation": "重要改革举措会对组织业务产生较大影响，往往促使流程进行全面优化以适应新 变化，对应14.5 节变革导向的流程优化需求相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0281",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化中，在进行流程框架体系优化时，优化组织的资源配置，目的是（ ）。",
+    "options": [
+      "A. 提高资源利用效率",
+      "B. 降低资源成本",
+      "C. 满足业务发展需求",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "优化组织资源配置，能提高资源利用效率、降低成本，更好地满足业务发展需求， 对应14.5 节流程框架体系优化相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0282",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "项目化流程优化过程中，新旧流程切换时，需要关注的重点不包括（ ）。",
+    "options": [
+      "A. 数据迁移的准确性和完整性",
+      "B. 流程执行人员对新流程的熟悉程度",
+      "C. 新流程是否经过充分测试",
+      "D. 旧流程的运行效率"
+    ],
+    "answer": "D",
+    "explanation": "新旧流程切换时，数据迁移、人员对新流程的熟悉程度、新流程测试情况都很关 键，而旧流程运行效率在切换时不是重点关注内容，对应14.5 节项目化流程优化过程 相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0283",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化活动中，简化在工艺装备方面的应用，对企业的好处是（ ）。",
+    "options": [
+      "A. 减少工艺装备的种类，降低生产成本",
+      "B. 提高工艺装备的通用性",
+      "C. 便于工艺装备的维护和管理",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "简化工艺装备的种类，可降低生产成本，提高通用性，也便于维护和管理，对应",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0284",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "系列化产品设计中，产品基本参数系列化是产品系列化的基础，产品基本参数是 ( ) 的标志。",
+    "options": [
+      "A. 产品功能范围",
+      "B. 产品基本性能或基本技术特性",
+      "C. 产品规格尺寸",
+      "D. 产品市场定位"
+    ],
+    "answer": "B",
+    "explanation": "14.1.3 节提到产品的基本参数是基本性能或基本技术特性的标志，是选择或确 定产品功能范围、规格、尺寸的基本依据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0285",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化在服务领域的应用，通过组合不同的服务模块，能够（ ）。",
+    "options": [
+      "A. 提供个性化的服务",
+      "B. 提高服务效率",
+      "C. 降低服务成本",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "在服务领域组合不同服务模块，可根据客户需求提供个性化服务，同时提高服务 效率、降低成本，对应14.1.4 节组合化相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0286",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "综合标准化工作中，标准综合体的标准之间应贯彻低层次服从高层次的要求，这是 为了（ ）。",
+    "options": [
+      "A. 保证标准综合体的协调性和一致性",
+      "B. 突出高层次标准的权威性",
+      "C. 便于标准的制定和实施",
+      "D. 提高标准的执行效率"
+    ],
+    "answer": "A",
+    "explanation": "贯彻低层次服从高层次要求，可保证标准综合体中各标准协调一致，共同发挥作 用，对应14.1.5 节综合标准化原则要求相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0287",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "超前标准化工作中，确定超前指标时，预测经济指标需要考虑投资的不同时间性、 批量及其对产品成本的影响等因素，其目的是（ ）。",
+    "options": [
+      "A. 确定总的预算投资",
+      "B. 评估项目的经济效益",
+      "C. 制定合理的产品价格",
+      "D. 控制产品的生产成本"
+    ],
+    "answer": "A",
+    "explanation": "14.1.6 节提到预测经济指标是为了确定总的预算投资，考虑这些因素有助于准 确计算投资金额。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0288",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端流程管理中，强调从目的出发而不是任务出发，这是为了避免（ ）。",
+    "options": [
+      "A. 工作的盲目性",
+      "B. 部门之间的推诿扯皮",
+      "C. 只关注局部任务而忽视整体目标",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "从任务出发可能导致工作盲目、部门推诿，只关注局部而忽视整体目标，从目的 出发可避免这些问题，对应14.2.1 节端到端流程管理相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0289",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划中，基于岗位职责的流程规划，在确定每个部门的代表性岗位时，应选择 ( ) 。",
+    "options": [
+      "A. 工作内容具有代表性、能体现部门核心业务的岗位",
+      "B. 工作经验丰富的岗位人员",
+      "C. 与流程管理部门沟通良好的岗位",
+      "D. 工作压力较小的岗位"
+    ],
+    "answer": "A",
+    "explanation": "选择工作内容具代表性、能体现部门核心业务的岗位作为代表性岗位，可更好地 梳理部门流程，对应14.2.3 节基于岗位职责的流程规划相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0290",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分类中，支持流程的设计要以战略流程为导向，这是因为（ ）。",
+    "options": [
+      "A. 战略流程决定组织的发展方向，支持流程需与之匹配",
+      "B. 支持流程是战略流程的具体执行环节",
+      "C. 战略流程的实施需要支持流程提供保障",
+      "D. 支持流程的效率影响战略流程的执行效果"
+    ],
+    "answer": "A",
+    "explanation": "战略流程为组织提供发展方向，支持流程需与之匹配，为战略目标实现提供支持， 对应14.2.4 节支持流程相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0291",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分级中，三级流程由子流程和业务活动构成，业务活动是流程中（ ）的工作 步骤。",
+    "options": [
+      "A. 最具体、最基础",
+      "B. 具有决策性质",
+      "C. 跨部门协作",
+      "D. 涉及资源调配"
+    ],
+    "answer": "A",
+    "explanation": "三级流程中的业务活动是具体的操作步骤，是流程中最具体、最基础的部分，对 应14.2.4 节流程分级相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0292",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "保障流程管理有效执行时，找对流程执行负责人，流程管理者负责流程的设计、推 动等工作，其工作重点在于（ ）。",
+    "options": [
+      "A. 确保流程符合组织战略和业务需求",
+      "B. 监督流程的日常执行情况",
+      "C. 解决流程执行中的突发问题",
+      "D. 协调流程执行过程中的部门关系"
+    ],
+    "answer": "A",
+    "explanation": "流程管理者负责流程设计等工作，重点是确保流程符合组织战略和业务需求，为 流程执行奠定基础，对应14.3 节流程管理者职责相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0293",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程执行中，把流程固化到制度中，制度中对流程执行绩效的激励制度，激励的对 象是（ ）。",
+    "options": [
+      "A. 流程执行人员",
+      "B. 流程管理者",
+      "C. 涉及流程的所有人员",
+      "D. 对流程执行有突出贡献的人员"
+    ],
+    "answer": "C",
+    "explanation": "制度中对流程执行绩效的激励制度，目的是促进流程有效执行，激励对象是涉及 流程的所有人员，对应14.3 节相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0294",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程文化宣导在组织中营造流程文化氛围，流程文化氛围有助于（ ）。",
+    "options": [
+      "A. 提升员工的流程意识",
+      "B. 促进员工之间的协作",
+      "C. 优化组织的工作氛围",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "流程文化氛围能提升员工流程意识，使员工从流程角度思考协作，优化工作氛围， 对应14.3 节流程文化宣导相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0295",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价中，流程稽查在开展流程稽查时，保证稽查记录的可追溯性、可量化及真 实性，是为了（ ）。",
+    "options": [
+      "A. 便于对稽查问题进行准确描述和后续改进",
+      "B. 满足审计要求",
+      "C. 对流程执行人员进行考核",
+      "D. 评估流程稽查工作的效果"
+    ],
+    "answer": "A",
+    "explanation": "14.4 节提到保证稽查记录的相关特性，以便于对稽查问题的描述准确、清晰，从 而有利于后续改进的确立。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0296",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程绩效评估中，在组织内部做横向比较，对于发现流程管理问题的优势在于（ ）。",
+    "options": [
+      "A. 可以对比不同区域流程执行的差异，找出潜在问题",
+      "B. 促进不同区域之间的竞争",
+      "C. 学习不同区域的成功经验",
+      "D. 提高组织整体的流程管理水平"
+    ],
+    "answer": "A",
+    "explanation": "横向比较可以对比不同区域或部门流程执行的差异，找出潜在问题，为流程改进 和优化提供依据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0297",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "满意度评估信息来源中，建立满意度评估信息库，在整合信息时需要注意（ ）。",
+    "options": [
+      "A. 信息的准确性和完整性",
+      "B. 信息的分类和整理",
+      "C. 不同渠道信息的一致性",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "整合满意度评估信息时，要保证信息准确完整、分类整理有序，还要确保不同渠 道信息一致，对应14.4 节满意度评估信息库相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0298",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程审计中，在现场审计阶段，通过现场观察、查阅文件等方法抽取样本进行查证， 样本应（ ）。",
+    "options": [
+      "A. 具有代表性",
+      "B. 涵盖所有流程环节",
+      "C. 选取关键流程环节",
+      "D. 随机抽取"
+    ],
+    "answer": "A",
+    "explanation": "现场审计抽取样本要具有代表性，才能通过样本反映整体流程情况，确保审计结 果可靠，对应14.4 节流程审计相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0299",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于流程优化时，根据流程绩效评估结果确定流程优化方向，是基 于( ) 。",
+    "options": [
+      "A. 绩效评估结果能反映流程实际运行效果与目标的差距",
+      "B. 绩效评估结果是客观公正的",
+      "C. 绩效评估结果能全面展示流程的各个方面",
+      "D. 绩效评估结果得到了组织的认可"
+    ],
+    "answer": "A",
+    "explanation": "流程绩效评估对比流程运行结果与目标，其差距可明确流程优化方向，对应14.4 节流程评价结果应用相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0300",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程评价结果应用于绩效考核时，将流程检查结果与员工的评优、晋升及福利等挂 钩，主要是为了（ ）。",
+    "options": [
+      "A. 激励员工重视流程执行，提高工作质量",
+      "B. 完善绩效考核体系",
+      "C. 体现流程管理的重要性",
+      "D. 促进员工之间的竞争"
+    ],
+    "answer": "A",
+    "explanation": "挂钩员工评优、晋升及福利，能激励员工重视流程执行，提高工作质量，保障流 程有效运行，对应14.4 节流程评价结果在绩效考核中的应用相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0301",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程持续改进中，问题导向的流程优化需求中，内外部投诉及意见反馈反映出流程 可能在（ ）方面存在问题。",
+    "options": [
+      "A. 流程设计合理性",
+      "B. 流程执行效果",
+      "C. 对业务对象需求的满足程度",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "内外部投诉及意见反馈可能反映出流程设计不合理、执行效果不佳，以及未能满 足业务对象需求等问题，对应14.5 节问题导向的流程优化需求相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0302",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程优化中，流程框架体系优化之后进行流程的优化，流程优化的核心是（ ）。",
+    "options": [
+      "A. 解决组织存在的问题",
+      "B. 提升流程的效率",
+      "C. 提高业务对象的满意度",
+      "D. 适应组织战略变化"
+    ],
+    "answer": "A",
+    "explanation": "14.5 节提到流程优化是要通过流程优化的手段解决组织的问题，这是流程优化 的核心，其他选项是解决问题后可能带来的结果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0303",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "项目化流程优化过程中，目标流程及配套方案设计需要充分考虑（ ）。",
+    "options": [
+      "A. 组织的战略目标、业务需求和现有流程状况",
+      "B. 流程执行人员的能力和素质",
+      "C. 信息技术的应用和发展趋势",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "目标流程及配套方案设计要综合考虑组织战略目标、业务需求、现有流程状况、 人员能力、信息技术等多方面因素，对应14.5 节项目化流程优化过程相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0304",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "标准化活动中，简化在零部件方面的应用，能使零部件（ ）。",
+    "options": [
+      "A. 通用性更强",
+      "B. 质量更稳定",
+      "C. 生产效率更高",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "简化零部件可减少种类，提高通用性，便于生产管理，使质量更稳定、生产效率 更高，对应14.1.2 节简化在零部件方面应用的相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0305",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "系列化产品设计中，编制产品系列型谱时，需要以大量调查资料和科学分析预测为 基础，是因为（ ）。",
+    "options": [
+      "A. 确保型谱能准确反映市场需求和产品发展趋势",
+      "B. 保证型谱的科学性和权威性",
+      "C. 为产品系列设计提供依据",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "编制产品系列型谱以大量资料和分析预测为基础，可确保反映市场需求和产品发 展趋势，保证科学性和权威性，为系列设计提供依据，对应14.1.3 节系列化相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0306",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "组合化在生产制造中的应用，能够减少生产准备时间，原因是（ ）。",
+    "options": [
+      "A. 标准模块可直接使用，无需重新设计和制造",
+      "B. 减少了产品设计的复杂性",
+      "C. 提高了生产设备的通用性",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "组合化使用标准模块，无需重新设计制造，降低产品设计复杂性，提高设备通用 性，从而减少生产准备时间，对应14.1.4 节组合化在生产制造中应用的相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0307",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "综合标准化工作中，开展综合标准化工作要求综合标准化对象及其相关要素的范围 应明确并相对完整，这是为了（ ）。",
+    "options": [
+      "A. 确保标准综合体的全面性和有效性",
+      "B. 便于标准的制定和实施",
+      "C. 避免标准之间的冲突和矛盾",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "明确并相对完整地界定综合标准化对象及其相关要素范围，可保证标准综合体全 面有效，便于标准制定和实施，避免标准冲突矛盾，对应14.1.5 节综合标准化原则要 求相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0308",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "超前标准化工作中，制定超前标准时规定促进产品发展的指标，发展方向应符合 ( ) 。",
+    "options": [
+      "A. 组织的战略规划",
+      "B. 市场需求",
+      "C. 国民经济需要",
+      "D. 行业发展趋势"
+    ],
+    "answer": "C",
+    "explanation": "14.1.6 节提到在超前标准中必须规定促进产品发展的指标，其发展方向应符合 国民经济需要。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0309",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "端到端流程管理中，中阶流程的业务对象是组织的利益干系人，包括内外部业务对 象，关注内外部业务对象需求的目的是（ ）。",
+    "options": [
+      "A. 提高组织的市场竞争力",
+      "B. 实现组织的战略目标",
+      "C. 优化组织的业务流程",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "关注内外部业务对象需求，可优化业务流程，提高市场竞争力，最终实现组织战 略目标，对应14.2.1 节端到端流程分级相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0310",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程规划中，基于业务模型的流程规划方法，在完成流程清单和流程总图后，还需 要( ) 。",
+    "options": [
+      "A. 对流程进行优化和调整",
+      "B. 与组织内各部门进行沟通确认",
+      "C. 制定流程执行计划",
+      "D. 评估流程规划的效果"
+    ],
+    "answer": "B",
+    "explanation": "完成流程清单和流程总图后，需与各部门沟通确认，确保流程规划符合实际情况， 得到各部门认可，对应14.2.3 节基于业务模型的流程规划相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0311",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分类中，运行流程以战略流程确定的架构为基础展开，运行流程的顺畅执行对 战略流程的影响是（ ）。",
+    "options": [
+      "A. 确保战略目标的实现",
+      "B. 验证战略流程的合理性",
+      "C. 推动战略流程的优化",
+      "D. 以上都是"
+    ],
+    "answer": "A",
+    "explanation": "运行流程直接为业务对象创造价值，其顺畅执行有助于实现战略目标，对应14.2.4 节运行流程相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0312",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程分级中，一级流程作为高阶流程，对组织流程体系的作用是（ ）。",
+    "options": [
+      "A. 提供整体框架和方向指引",
+      "B. 规范组织的核心业务流程",
+      "C. 协调各部门之间的流程关系",
+      "D. 监控流程的整体运行情况"
+    ],
+    "answer": "A",
+    "explanation": "一级流程作为高阶流程，为组织流程体系提供整体框架和方向指引，确保各层级 流程之间的协调一致和有效衔接。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0313",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "保障流程管理有效执行时，理解流程要求执行者理解流程是什么以及不按要求执行 的后果，这有助于（ ）。",
+    "options": [
+      "A. 增强执行者的责任心",
+      "B. 提高执行者的流程执行准确性",
+      "C. 减少流程执行中的错误",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "理解流程及不按要求执行的后果，可增强执行者责任心，提高执行准确性，减少 错误，对应14.3 节理解流程相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch14_0314",
+    "chapter": "第14章",
+    "chapter_no": 14,
+    "chapter_title": "规范与过程管理",
+    "question": "流程执行中，把流程固化到信息系统中，信息系统的自动提醒功能可以（ ）。",
+    "options": [
+      "A. 避免流程执行的延误",
+      "B. 提高流程执行的效率",
+      "C. 增强流程执行的规范性",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "信息系统的自动提醒功能可避免流程执行延误，提高执行效率，确保按流程规范 执行，对应14.3 节流程固化到信息系统相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第14章",
+    "status": "candidate"
+  }
+]

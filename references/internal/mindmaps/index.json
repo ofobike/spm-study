@@ -1,0 +1,270 @@
+{
+  "category": "mindmap",
+  "name": "思维导图",
+  "items": [
+    {
+      "chapter": 1,
+      "chapter_title": "信息系统与信息技术发展",
+      "title": "01信息系统与信息技术发展",
+      "source": "04.2025系规思维导图（第2版）\\01信息系统与信息技术发展.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 336485,
+      "markdown": "references\\internal\\mindmaps\\01信息系统与信息技术发展.md",
+      "asset": null
+    },
+    {
+      "chapter": 2,
+      "chapter_title": "数字中国与数智化发展",
+      "title": "02数字中国与数智化发展",
+      "source": "04.2025系规思维导图（第2版）\\02数字中国与数智化发展【耗时整理‖免费分享：cunlove.cn】.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 138646,
+      "markdown": "references\\internal\\mindmaps\\02数字中国与数智化发展.md",
+      "asset": null
+    },
+    {
+      "chapter": 3,
+      "chapter_title": "系统科学与哲学方法论",
+      "title": "03系统科学与哲学方法论",
+      "source": "04.2025系规思维导图（第2版）\\03系统科学与哲学方法论【耗时整理‖免费分享：CuNlOVe.cn】.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 101104,
+      "markdown": "references\\internal\\mindmaps\\03系统科学与哲学方法论.md",
+      "asset": null
+    },
+    {
+      "chapter": 4,
+      "chapter_title": "信息系统规划",
+      "title": "04信息系统规划",
+      "source": "04.2025系规思维导图（第2版）\\04信息系统规划.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 386651,
+      "markdown": "references\\internal\\mindmaps\\04信息系统规划.md",
+      "asset": null
+    },
+    {
+      "chapter": 5,
+      "chapter_title": "应用系统规划",
+      "title": "05应用系统规划",
+      "source": "04.2025系规思维导图（第2版）\\05应用系统规划.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 284133,
+      "markdown": "references\\internal\\mindmaps\\05应用系统规划.md",
+      "asset": null
+    },
+    {
+      "chapter": 6,
+      "chapter_title": "云资源规划",
+      "title": "06云资源规划",
+      "source": "04.2025系规思维导图（第2版）\\06云资源规划.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 225246,
+      "markdown": "references\\internal\\mindmaps\\06云资源规划.md",
+      "asset": null
+    },
+    {
+      "chapter": 7,
+      "chapter_title": "网络环境规划",
+      "title": "07网络环境规划",
+      "source": "04.2025系规思维导图（第2版）\\07网络环境规划【更多精选‖公众号：CunWorkNotes 获取】.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 227677,
+      "markdown": "references\\internal\\mindmaps\\07网络环境规划.md",
+      "asset": null
+    },
+    {
+      "chapter": 8,
+      "chapter_title": "数据资源规划",
+      "title": "08数据资源规划",
+      "source": "04.2025系规思维导图（第2版）\\08数据资源规划.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 239548,
+      "markdown": "references\\internal\\mindmaps\\08数据资源规划.md",
+      "asset": null
+    },
+    {
+      "chapter": 9,
+      "chapter_title": "信息安全规划",
+      "title": "09信息安全规划",
+      "source": "04.2025系规思维导图（第2版）\\09信息安全规划.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 363505,
+      "markdown": "references\\internal\\mindmaps\\09信息安全规划.md",
+      "asset": null
+    },
+    {
+      "chapter": 10,
+      "chapter_title": "云原生系统规划",
+      "title": "10云原生系统规划",
+      "source": "04.2025系规思维导图（第2版）\\10云原生系统规划【耗时整理‖不易且全免费：cunlove.cn】.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 184185,
+      "markdown": "references\\internal\\mindmaps\\10云原生系统规划.md",
+      "asset": null
+    },
+    {
+      "chapter": 11,
+      "chapter_title": "信息系统治理",
+      "title": "11信息系统治理",
+      "source": "04.2025系规思维导图（第2版）\\11信息系统治理.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 318969,
+      "markdown": "references\\internal\\mindmaps\\11信息系统治理.md",
+      "asset": null
+    },
+    {
+      "chapter": 12,
+      "chapter_title": "信息系统服务管理",
+      "title": "12信息系统服务管理",
+      "source": "04.2025系规思维导图（第2版）\\12信息系统服务管理【耗时整理‖免费分享：CUNlove.CN】.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 1284338,
+      "markdown": "references\\internal\\mindmaps\\12信息系统服务管理.md",
+      "asset": null
+    },
+    {
+      "chapter": 13,
+      "chapter_title": "人员管理",
+      "title": "13人员管理",
+      "source": "04.2025系规思维导图（第2版）\\13人员管理【耗时整理‖免费分享：CuNlOVE.Cn】.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 366134,
+      "markdown": "references\\internal\\mindmaps\\13人员管理.md",
+      "asset": null
+    },
+    {
+      "chapter": 14,
+      "chapter_title": "规范与过程管理",
+      "title": "14规范与过程管理",
+      "source": "04.2025系规思维导图（第2版）\\14规范与过程管理.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 560429,
+      "markdown": "references\\internal\\mindmaps\\14规范与过程管理.md",
+      "asset": null
+    },
+    {
+      "chapter": 15,
+      "chapter_title": "技术与研发管理",
+      "title": "15技术与研发管理",
+      "source": "04.2025系规思维导图（第2版）\\15技术与研发管理.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 226169,
+      "markdown": "references\\internal\\mindmaps\\15技术与研发管理.md",
+      "asset": null
+    },
+    {
+      "chapter": 16,
+      "chapter_title": "资源与工具管理",
+      "title": "16资源与工具管理",
+      "source": "04.2025系规思维导图（第2版）\\16资源与工具管理【耗时整理‖免费分享：Cunlove.cn】.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 225827,
+      "markdown": "references\\internal\\mindmaps\\16资源与工具管理.md",
+      "asset": null
+    },
+    {
+      "chapter": 17,
+      "chapter_title": "信息系统项目管理",
+      "title": "17信息系统项目管理",
+      "source": "04.2025系规思维导图（第2版）\\17信息系统项目管理.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 272454,
+      "markdown": "references\\internal\\mindmaps\\17信息系统项目管理.md",
+      "asset": null
+    },
+    {
+      "chapter": 18,
+      "chapter_title": "智慧城市发展规划",
+      "title": "18智慧城市发展规划",
+      "source": "04.2025系规思维导图（第2版）\\18智慧城市发展规划.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 252519,
+      "markdown": "references\\internal\\mindmaps\\18智慧城市发展规划.md",
+      "asset": null
+    },
+    {
+      "chapter": 19,
+      "chapter_title": "智慧园区发展规划",
+      "title": "19智慧园区发展规划",
+      "source": "04.2025系规思维导图（第2版）\\19智慧园区发展规划.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 222040,
+      "markdown": "references\\internal\\mindmaps\\19智慧园区发展规划.md",
+      "asset": null
+    },
+    {
+      "chapter": 20,
+      "chapter_title": "数字乡村发展规划",
+      "title": "20数字乡村发展规划",
+      "source": "04.2025系规思维导图（第2版）\\20数字乡村发展规划.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 219723,
+      "markdown": "references\\internal\\mindmaps\\20数字乡村发展规划.md",
+      "asset": null
+    },
+    {
+      "chapter": 21,
+      "chapter_title": "企业数字化转型发展规划",
+      "title": "21企业数字化转型发展规划",
+      "source": "04.2025系规思维导图（第2版）\\21企业数字化转型发展规划.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 262394,
+      "markdown": "references\\internal\\mindmaps\\21企业数字化转型发展规划.md",
+      "asset": null
+    },
+    {
+      "chapter": 22,
+      "chapter_title": "智能制造发展规划",
+      "title": "22智能制造发展规划",
+      "source": "04.2025系规思维导图（第2版）\\22智能制造发展规划.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 250131,
+      "markdown": "references\\internal\\mindmaps\\22智能制造发展规划.md",
+      "asset": null
+    },
+    {
+      "chapter": 23,
+      "chapter_title": "新型消费系统规划",
+      "title": "23新型消费系统规划",
+      "source": "04.2025系规思维导图（第2版）\\23新型消费系统规划.pdf",
+      "source_type": ".pdf",
+      "page_count": 1,
+      "size_bytes": 585568,
+      "markdown": "references\\internal\\mindmaps\\23新型消费系统规划.md",
+      "asset": null
+    },
+    {
+      "chapter": 24,
+      "chapter_title": "法律法规和标准规范",
+      "title": "24法律法规和标准规范",
+      "source": "04.2025系规思维导图（第2版）\\24法律法规和标准规范.svg",
+      "source_type": ".svg",
+      "page_count": null,
+      "size_bytes": 141435,
+      "markdown": "references\\internal\\mindmaps\\24法律法规和标准规范.md",
+      "asset": "references\\internal\\mindmaps\\24法律法规和标准规范.svg"
+    }
+  ]
+}

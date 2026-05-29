@@ -1,0 +1,1655 @@
+[
+  {
+    "id": "ch02_q001",
+    "question": "根据数字化转型成熟度国家标准GB/T 43439，数字化转型成熟度共分为几个等级？",
+    "options": [
+      "A. 五个",
+      "B. 四个",
+      "C. 三个",
+      "D. 六个"
+    ],
+    "answer": "A",
+    "explanation": "GB/T 43439给出的数字化转型成熟度等级自低向高分别为一级、二级、三级、四级和五级，共五个等级。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "数字化转型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q002",
+    "question": "《数字中国建设整体布局规划》按照什么整体框架进行布局？",
+    "options": [
+      "A. \"345\"框架",
+      "B. \"2522\"框架",
+      "C. \"1357\"框架",
+      "D. \"4321\"框架"
+    ],
+    "answer": "B",
+    "explanation": "《规划》明确，数字中国建设按照\"2522\"的整体框架进行布局，即夯实数字基础设施和数据资源体系\"两大基础\"，推进数字技术与经济、政治、文化、社会、生态文明建设\"五位一体\"深度融合，强化数字技术创新体系和数字安全屏障\"两大能力\"，优化数字化发展国内国际\"两个环境\"。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国",
+    "knowledge_point": "数字中国",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字中国",
+    "tags": [
+      "数字中国"
+    ]
+  },
+  {
+    "id": "ch02_q003",
+    "question": "从整体构成上看，数字经济包括数字产业化、产业数字化、数字化治理和哪一部分？",
+    "options": [
+      "A. 数据标准化",
+      "B. 数据价值化",
+      "C. 数据资产化",
+      "D. 数据资源化"
+    ],
+    "answer": "B",
+    "explanation": "从整体构成上看，数字经济包括数字产业化、产业数字化、数字化治理和数据价值化四个部分。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字经济",
+    "knowledge_point": "数字经济",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字经济",
+    "tags": [
+      "数字经济"
+    ]
+  },
+  {
+    "id": "ch02_q004",
+    "question": "数字政府被赋予的新特征中，以下哪项是指数字政府在数据驱动下动态发展和不断演进的过程？",
+    "options": [
+      "A. 协同化",
+      "B. 云端化",
+      "C. 智能化",
+      "D. 动态化"
+    ],
+    "answer": "D",
+    "explanation": "数字政府的新特征包括协同化、云端化、智能化、数据化、动态化。动态化指数字政府是在数据驱动下动态发展和不断演进的过程。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字政府",
+    "knowledge_point": "数字政府",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字政府",
+    "tags": [
+      "数字政府"
+    ]
+  },
+  {
+    "id": "ch02_q005",
+    "question": "数字经济的技术经济范式的结构不包括以下哪项？",
+    "options": [
+      "A. 驱动力",
+      "B. 新结构",
+      "C. 价值创造",
+      "D. 组织变革"
+    ],
+    "answer": "D",
+    "explanation": "数字经济的技术经济范式的结构主要包括驱动力、新结构、价值创造和经济增长四个方面。组织变革不属于技术经济范式结构的组成部分。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字经济",
+    "knowledge_point": "数字经济",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字经济",
+    "tags": [
+      "数字经济"
+    ]
+  },
+  {
+    "id": "ch02_q006",
+    "question": "智慧城市的五个核心能力要素包括数据治理、数字孪生、边际决策、多元融合和？",
+    "options": [
+      "A. 技术创新",
+      "B. 态势感知",
+      "C. 平台支撑",
+      "D. 安全保障"
+    ],
+    "answer": "B",
+    "explanation": "智慧城市的五个核心能力要素为：数据治理、数字孪生、边际决策、多元融合和态势感知。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "智慧城市",
+    "knowledge_point": "智慧城市",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#智慧城市",
+    "tags": [
+      "智慧城市"
+    ]
+  },
+  {
+    "id": "ch02_q007",
+    "question": "数据价值化的\"三化\"框架包括数据资源化、数据资产化和？",
+    "options": [
+      "A. 数据标准化",
+      "B. 数据资本化",
+      "C. 数据智能化",
+      "D. 数据业务化"
+    ],
+    "answer": "B",
+    "explanation": "数据价值化的\"三化\"框架为：数据资源化、数据资产化和数据资本化。数据资源化是起点，数据资产化是核心，数据资本化是拓展数据价值的途径。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "数据价值化的",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "数据价值化的",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q008",
+    "question": "以下关于\"跨省通办\"办理模式的描述，不正确的是？",
+    "options": [
+      "A. 全程网办指政务服务平台提供全流程、全环节网上服务",
+      "B. 代收代办通过\"收办分离\"打破事项办理属地限制",
+      "C. 多地联办由一地受理申请，通过全国一体化政务服务平台实现共享",
+      "D. 跨省通办只能采用全程网办一种模式"
+    ],
+    "answer": "D",
+    "explanation": "\"跨省通办\"的办理模式通常可分为全程网办、代收代办和多地联办三种，并非只能采用全程网办一种模式。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "跨省通办",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "跨省通办",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q009",
+    "question": "数字化转型的基本原理中，传统发展视角下面临的挑战不包括以下哪项？",
+    "options": [
+      "A. 决策瓶颈",
+      "B. 变革制约",
+      "C. 知识资产流失",
+      "D. 技术过剩"
+    ],
+    "answer": "D",
+    "explanation": "传统发展视角下面临的挑战包括决策瓶颈、变革制约、知识资产流失和需求响应延迟。技术过剩不属于文中提到的挑战。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q010",
+    "question": "数字化转型中，能力因子的定义和数字化\"封装\"的目的是实现什么？",
+    "options": [
+      "A. 智能+",
+      "B. 自动化",
+      "C. 信息化",
+      "D. 标准化"
+    ],
+    "answer": "A",
+    "explanation": "能力因子的定义可驱动组织的管理精细化，更重要的是能够实现对这些能力因子的数字化\"封装\"，目的是实现\"智能+\"。在工业类组织中体现为数字装备、数字化管理单元、数字产品等。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q011",
+    "question": "数字化转型中，基于\"互联网+\"的调度和决策面临的主要难点不包括以下哪项？",
+    "options": [
+      "A. 业务融合",
+      "B. 持续坚持",
+      "C. 文化冲突",
+      "D. 硬件升级"
+    ],
+    "answer": "D",
+    "explanation": "基于\"互联网+\"的调度和决策面临的主要难点包括业务融合、持续坚持、文化冲突和效果判别。硬件升级不属于文中提到的主要难点。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q012",
+    "question": "GB/T 43439数字化转型成熟度模型中，三级成熟度的特征是？",
+    "options": [
+      "A. 组织应具备数字化转型总体规划并有序实施，完成关键业务的系统集成和数据交互",
+      "B. 组织应完成局部业务的数据收集、整合与应用",
+      "C. 组织应具备转型意识，开始进行规划",
+      "D. 组织应基于数据持续推动业务活动的优化和创新"
+    ],
+    "answer": "A",
+    "explanation": "三级成熟度的特征是：组织应具备数字化转型总体规划并有序实施，完成关键业务的系统集成和数据交互，在运营、生产和服务领域实现基于数据的效率提升。A是一级特征，B是二级特征，D是五级特征。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "数字化转型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q013",
+    "question": "GB/T 43439数字化转型能力域中，以下哪项不属于基础能力域？",
+    "options": [
+      "A. 数字化运营能力域",
+      "B. 技术能力域",
+      "C. 组织能力域",
+      "D. 资源能力域"
+    ],
+    "answer": "A",
+    "explanation": "基础能力域包括组织能力域、技术能力域、数据能力域和资源能力域。数字化运营能力域是组织实施业务转型的重点关注对象，不属于基础能力域。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q014",
+    "question": "\"数字中国\"概念首次正式公开提出是在哪一年的哪次会议上？",
+    "options": [
+      "A. 2014年第一届世界互联网大会",
+      "B. 2015年第二届世界互联网大会",
+      "C. 2016年第三届世界互联网大会",
+      "D. 2017年党的十九大"
+    ],
+    "answer": "B",
+    "explanation": "2015年12月16日，第二届世界互联网大会在中国乌镇召开，习近平总书记在开幕式上的讲话中首次正式公开提出了\"数字中国\"的概念。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国",
+    "knowledge_point": "数字中国",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字中国",
+    "tags": [
+      "数字中国"
+    ]
+  },
+  {
+    "id": "ch02_q015",
+    "question": "\"2522\"框架中的\"两大基础\"是指？",
+    "options": [
+      "A. 数字基础设施和数据资源体系",
+      "B. 数字技术创新体系和数字安全屏障",
+      "C. 数字经济和数字政府",
+      "D. 国内环境和国际环境"
+    ],
+    "answer": "A",
+    "explanation": "\"2522\"框架中的\"两大基础\"是指夯实数字基础设施和数据资源体系。\"两大能力\"是数字技术创新体系和数字安全屏障，\"两个环境\"是国内国际环境。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字经济",
+    "knowledge_point": "数字经济",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字经济",
+    "tags": [
+      "数字经济",
+      "数字政府"
+    ]
+  },
+  {
+    "id": "ch02_q016",
+    "question": "以下关于数字中国建设基础的描述，不正确的是？",
+    "options": [
+      "A. 加快5G网络与千兆光网协同建设",
+      "B. 深入推进IPv6规模部署和应用",
+      "C. 推进移动物联网全面发展",
+      "D. 限制边缘数据中心的发展"
+    ],
+    "answer": "D",
+    "explanation": "数字中国建设要求系统优化算力基础设施布局，引导通用数据中心、超算中心、智能计算中心、边缘数据中心等合理梯次布局，而不是限制边缘数据中心的发展。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国",
+    "knowledge_point": "数字中国",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字中国",
+    "tags": [
+      "数字中国"
+    ]
+  },
+  {
+    "id": "ch02_q017",
+    "question": "第四科学范式是指？",
+    "options": [
+      "A. 经验范式",
+      "B. 理论范式",
+      "C. 模拟范式",
+      "D. 数据密集型研究范式"
+    ],
+    "answer": "D",
+    "explanation": "第四科学范式为数据密集型研究范式，由传统的假设驱动向基于科学数据进行探索的科学方法转变而生成。第一范式是经验范式，第二范式是理论范式，第三范式是模拟范式。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型",
+    "knowledge_point": "第四科学范式指",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "第四科学范式指",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q018",
+    "question": "以下哪项不是数据作为新型生产要素具有的属性？",
+    "options": [
+      "A. 劳动成果属性",
+      "B. 劳动对象属性",
+      "C. 劳动工具属性",
+      "D. 以上都不是"
+    ],
+    "answer": "A",
+    "explanation": "数据作为新型生产要素，具有劳动工具和劳动对象的双重属性。数据作为劳动对象，通过采集、加工等环节具备价值和使用价值；数据作为劳动工具，通过融合应用能够提升生产效能。劳动成果属性不是数据的生产要素属性。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "不数据作新型生产要素具有",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "不数据作新型生产要素具有",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q019",
+    "question": "社交网络信息传输的特征不包括以下哪项？",
+    "options": [
+      "A. 永生性",
+      "B. 无限性",
+      "C. 即时性",
+      "D. 单向性"
+    ],
+    "answer": "D",
+    "explanation": "社交网络信息传输具有永生性、无限性、即时性以及方向性的特征。方向性意味着信息传播具有目的性，某些信息的传播仅是为了传递给特定的人。单向性与方向性含义不同。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型",
+    "knowledge_point": "社交网络信息传输的特征",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "社交网络信息传输的特征",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q020",
+    "question": "数字产业化的重点领域不包括以下哪项？",
+    "options": [
+      "A. 传统制造业",
+      "B. 大数据",
+      "C. 云计算",
+      "D. 区块链"
+    ],
+    "answer": "A",
+    "explanation": "数字产业化的重点领域包括云计算、大数据、物联网、工业互联网、区块链、人工智能、虚拟现实和增强现实等。传统制造业属于产业数字化的范畴。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "数字产业化的重点领域",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "数字产业化的重点领域",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q021",
+    "question": "产业数字化的典型特征不包括以下哪项？",
+    "options": [
+      "A. 以人工劳动为主要生产方式",
+      "B. 以数据资源为关键生产要素",
+      "C. 以数字科技变革生产工具",
+      "D. 以信息网络为市场配置纽带"
+    ],
+    "answer": "A",
+    "explanation": "产业数字化的典型特征包括：以数字科技变革生产工具、以数据资源为关键生产要素、以数字内容重构产品结构、以信息网络为市场配置纽带、以服务平台为产业生态载体、以数字善治为发展机制条件。以人工劳动为主要生产方式不是产业数字化的特征。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型",
+    "knowledge_point": "产业数字化的典型特征",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "产业数字化的典型特征",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q022",
+    "question": "\"六链融合\"推动产业数字化协同发展，以下哪项不属于六链之一？",
+    "options": [
+      "A. 产业链",
+      "B. 创新链",
+      "C. 数据链",
+      "D. 人才链"
+    ],
+    "answer": "D",
+    "explanation": "\"六链融合\"包括产业链、创新链、供应链、要素链、资金链和政策链。人才链不属于六链之一。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型",
+    "knowledge_point": "六链融合",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "六链融合",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q023",
+    "question": "数字化治理的核心特征是？",
+    "options": [
+      "A. 全社会的数据互通、数字化的全面协同与跨部门的流程再造",
+      "B. 政府部门的独立运作",
+      "C. 传统管理方式的延续",
+      "D. 单一技术的应用"
+    ],
+    "answer": "A",
+    "explanation": "数字化治理的核心特征是全社会的数据互通、数字化的全面协同与跨部门的流程再造，形成\"用数据说话、用数据决策、用数据管理、用数据创新\"的治理机制。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "数字化治理的核心特征",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q024",
+    "question": "数字化治理至少包含三个方面的内涵，以下哪项不属于这三个方面？",
+    "options": [
+      "A. 对数据的治理",
+      "B. 运用数字技术进行治理",
+      "C. 对数字融合空间进行治理",
+      "D. 对硬件设备的治理"
+    ],
+    "answer": "D",
+    "explanation": "数字化治理至少包含3个方面的内涵：对数据的治理、运用数字技术进行治理、对数字融合空间进行治理。对硬件设备的治理不属于数字化治理的内涵。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型",
+    "knowledge_point": "数字化治理至少包含三个方",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "数字化治理至少包含三个方",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q025",
+    "question": "数字政府建设的关键词不包括以下哪项？",
+    "options": [
+      "A. 共享",
+      "B. 互通",
+      "C. 便利",
+      "D. 集中"
+    ],
+    "answer": "D",
+    "explanation": "数字政府建设的关键词主要包括共享、互通和便利。集中不是数字政府建设的关键词。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字政府",
+    "knowledge_point": "数字政府",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字政府",
+    "tags": [
+      "数字政府"
+    ]
+  },
+  {
+    "id": "ch02_q026",
+    "question": "\"一网通办\"是依托于什么平台实现的？",
+    "options": [
+      "A. 政府内部办公系统",
+      "B. 一体化在线政务服务平台",
+      "C. 企业服务平台",
+      "D. 社交媒体平台"
+    ],
+    "answer": "B",
+    "explanation": "\"一网通办\"是依托于一体化在线政务服务平台，通过规范网上办事标准，优化网上办事流程，搭建统一的互联网政务服务总门户，推行政务服务事项网上办理。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "一网通办",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "一网通办",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q027",
+    "question": "\"一网统管\"建设通常重点强调的内容不包括以下哪项？",
+    "options": [
+      "A. 一网",
+      "B. 一屏",
+      "C. 联动",
+      "D. 集中"
+    ],
+    "answer": "D",
+    "explanation": "\"一网统管\"建设通常重点强调一网、一屏、联动、预警和创新。集中不是\"一网统管\"重点强调的内容。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型",
+    "knowledge_point": "一网统管",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "一网统管",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q028",
+    "question": "数字民生建设重点通常强调的三个方面是？",
+    "options": [
+      "A. 普惠、赋能和利民",
+      "B. 创新、发展和共享",
+      "C. 安全、高效和便捷",
+      "D. 标准、规范和统一"
+    ],
+    "answer": "A",
+    "explanation": "数字民生建设重点通常强调普惠、赋能和利民三个方面。普惠指扩大民生保障覆盖范围，赋能指信息技术与民生深度融合赋予新动能，利民指创新拓展公共服务场景。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字民生",
+    "knowledge_point": "数字民生建设重点通常强调",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字民生",
+    "tags": [
+      "数字民生建设重点通常强调",
+      "数字民生"
+    ]
+  },
+  {
+    "id": "ch02_q029",
+    "question": "以下关于智慧城市的描述，不正确的是？",
+    "options": [
+      "A. 智慧城市只关注技术创新，不关注社会治理",
+      "B. 城市治理现代化是智慧城市建设的必然要求",
+      "C. 智慧城市建设更加注重以人民为中心",
+      "D. 共建共治共享生态模式助力智慧城市高质量发展"
+    ],
+    "answer": "A",
+    "explanation": "智慧城市建设不仅关注技术创新，还注重城市治理现代化、以人民为中心、城市群区域一体化协同发展等。城市治理现代化是智慧城市建设的必然要求，智慧城市不能只关注技术创新而忽视社会治理。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "智慧城市",
+    "knowledge_point": "智慧城市",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#智慧城市",
+    "tags": [
+      "智慧城市",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch02_q030",
+    "question": "智慧城市核心能力要素中，\"边际决策\"是指？",
+    "options": [
+      "A. 围绕数据要素进行能力构建",
+      "B. 基于决策算法和信息应用强化执行端的决策能力",
+      "C. 围绕现实世界与信息世界的互动融合进行能力构建",
+      "D. 围绕对社会状态的本质反映及模拟预测进行能力构建"
+    ],
+    "answer": "B",
+    "explanation": "边际决策指基于决策算法和信息应用等进行能力构建，强化执行端的决策能力，从而达到快速反应、高效决策的效果，满足对社会发展的敏捷需求。A是数据治理，C是数字孪生，D是态势感知。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "智慧城市",
+    "knowledge_point": "智慧城市",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#智慧城市",
+    "tags": [
+      "智慧城市",
+      "数据要素"
+    ]
+  },
+  {
+    "id": "ch02_q031",
+    "question": "《数字乡村发展战略纲要》明确的重点任务不包括以下哪项？",
+    "options": [
+      "A. 限制农村互联网接入",
+      "B. 发展农村数字经济",
+      "C. 加快乡村信息基础设施建设",
+      "D. 建设智慧绿色乡村"
+    ],
+    "answer": "A",
+    "explanation": "《数字乡村发展战略纲要》明确的十项重点任务包括加快乡村信息基础设施建设、发展农村数字经济、强化农业农村科技创新供给、建设智慧绿色乡村等。限制农村互联网接入不是重点任务，反而需要大幅提升乡村网络设施水平。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字经济",
+    "knowledge_point": "数字乡村",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字经济",
+    "tags": [
+      "数字乡村",
+      "数字经济"
+    ]
+  },
+  {
+    "id": "ch02_q032",
+    "question": "数字生活主要体现在三个方面，以下哪项不是其中之一？",
+    "options": [
+      "A. 生活工具数字化",
+      "B. 生活内容数字化",
+      "C. 生活方式数字化",
+      "D. 生活环境数字化"
+    ],
+    "answer": "D",
+    "explanation": "数字生活主要体现在生活工具数字化、生活内容数字化和生活方式数字化三个方面。生活环境数字化不是文中提到的三个方面之一。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "数字生活体现在三个方面",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "数字生活体现在三个方面",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q033",
+    "question": "数据要素市场的核心环节是？",
+    "options": [
+      "A. 数据流通",
+      "B. 数据存储",
+      "C. 数据采集",
+      "D. 数据分析"
+    ],
+    "answer": "A",
+    "explanation": "数据流通作为数据要素市场的核心环节，需要针对不同类型的数据提出不同的解决方案。数据流通关注在保障所有者权利的前提下，进行合理合规流通。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数据要素市场",
+    "knowledge_point": "数据要素",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数据要素市场",
+    "tags": [
+      "数据要素",
+      "数据要素市场"
+    ]
+  },
+  {
+    "id": "ch02_q034",
+    "question": "以下关于数据要素市场的描述，不正确的是？",
+    "options": [
+      "A. 数据要素市场化配置是一种手段，而不是结果",
+      "B. 数据要素市场化配置是建立在明确的数据产权等保障制度基础上",
+      "C. 数据要素市场是将尚未完全由市场配置的数据要素转向由市场配置的动态过程",
+      "D. 数据要素市场的培育将消除信息鸿沟和信任鸿沟"
+    ],
+    "answer": "A",
+    "explanation": "数据要素市场化配置是一种结果，而不是手段。数据要素市场化配置是建立在明确的数据产权、交易机制、定价机制、分配机制、监管机制、法律范围等保障制度的基础上。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数据要素市场",
+    "knowledge_point": "数据要素",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数据要素市场",
+    "tags": [
+      "数据要素",
+      "数据要素市场"
+    ]
+  },
+  {
+    "id": "ch02_q035",
+    "question": "我国网络安全法律法规体系中，以下哪部法律不是文中明确提到的？",
+    "options": [
+      "A. 《中华人民共和国网络安全法》",
+      "B. 《中华人民共和国数据安全法》",
+      "C. 《中华人民共和国个人信息保护法》",
+      "D. 《中华人民共和国电子商务法》"
+    ],
+    "answer": "D",
+    "explanation": "文中明确提到的法律法规包括《中华人民共和国网络安全法》《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》《关键信息基础设施安全保护条例》等。《中华人民共和国电子商务法》不是文中明确提到的网络安全法律法规。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "我国网络安全法律法规体系",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "我国网络安全法律法规体系",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q036",
+    "question": "加强网络安全保障体系和能力建设的主要举措不包括以下哪项？",
+    "options": [
+      "A. 限制网络安全国际交流合作",
+      "B. 加强网络安全风险评估和审查",
+      "C. 健全国家网络安全法律法规和制度标准",
+      "D. 推动网络安全教育、技术、产业融合发展"
+    ],
+    "answer": "A",
+    "explanation": "主要举措包括健全国家网络安全法律法规和制度标准、加强网络安全风险评估和审查、加强网络安全基础设施建设、推动网络安全教育技术产业融合发展、加强网络安全国际交流合作。限制国际交流合作与加强国际交流合作的政策方向相反。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型",
+    "knowledge_point": "加强网络安全保障体系和能",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "加强网络安全保障体系和能",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q037",
+    "question": "人类社会从二元空间发展为三元空间，新增的空间是？",
+    "options": [
+      "A. 虚拟空间",
+      "B. 数字空间",
+      "C. 网络空间",
+      "D. 信息空间"
+    ],
+    "answer": "B",
+    "explanation": "人类从由物理空间和社会空间共同构成的二元空间，发展成物理空间、社会空间和数字空间构成的三元空间。数字空间是物联网、大数据、区块链、数字孪生、大模型等技术深度应用后形成的新空间。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "人类社会从二元空间发展三",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "人类社会从二元空间发展三",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q038",
+    "question": "GB/T 43439中，技术能力域包含的能力子域不包括以下哪项？",
+    "options": [
+      "A. 研发管理",
+      "B. 技术创新",
+      "C. 信息安全",
+      "D. 变革管理"
+    ],
+    "answer": "D",
+    "explanation": "技术能力域包括研发管理、技术创新、信息安全3个能力子域。变革管理属于组织能力域的能力子域。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "GB/T",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "GB/T",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q039",
+    "question": "数据资产化是实现数据价值的核心，其本质是？",
+    "options": [
+      "A. 提升数据质量",
+      "B. 形成数据交换价值",
+      "C. 实现数据要素社会化配置",
+      "D. 数据采集和整理"
+    ],
+    "answer": "B",
+    "explanation": "数据资产化是数据通过流通交易给使用者或者所有者带来的经济利益的过程，其本质是形成数据交换价值，初步实现数据价值的过程。A是数据资源化的本质，C是数据资本化的本质。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数据要素市场",
+    "knowledge_point": "数据要素",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数据要素市场",
+    "tags": [
+      "数据要素",
+      "数据要素市场"
+    ]
+  },
+  {
+    "id": "ch02_q040",
+    "question": "数字政府的能力体系中，以下哪项不属于提升政府经济调节数字化水平的应用场景？",
+    "options": [
+      "A. 社会治安防控",
+      "B. 经济社会发展分析",
+      "C. 宏观调控决策",
+      "D. 财政预算管理"
+    ],
+    "answer": "A",
+    "explanation": "提升经济调节数字化水平的应用场景包括宏观调控决策、经济社会发展分析、投资监督管理、财政预算管理、数字经济治理等。社会治安防控属于提升社会管理能力的范畴。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字经济",
+    "knowledge_point": "数字政府",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字经济",
+    "tags": [
+      "数字政府",
+      "数字经济"
+    ]
+  },
+  {
+    "id": "ch02_q041",
+    "question": "数字化转型成熟度五级（最高级）的特征是？",
+    "options": [
+      "A. 具备转型意识，开始规划",
+      "B. 完成局部业务的数据收集与应用",
+      "C. 完成关键业务的系统集成和数据交互",
+      "D. 基于数据持续推动业务活动的优化和创新，构建独特生态价值"
+    ],
+    "answer": "D",
+    "explanation": "五级成熟度的特征是：组织应基于数据持续推动业务活动的优化和创新，实现内外部能力、资源和市场等多要素融合，构建独特生态价值。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q042",
+    "question": "以下关于\"一网通办\"与一窗式服务的描述，正确的是？",
+    "options": [
+      "A. 两者采用完全不同的办理模式",
+      "B. 两者均采用受办分离的模式",
+      "C. 一网通办是由工作人员填报信息",
+      "D. 一窗式服务是由个人在网上自主填写申报信息"
+    ],
+    "answer": "B",
+    "explanation": "\"一网通办\"和一窗式服务在本质上是一致的。两者均采用受办分离的模式，一窗式服务是由工作人员填报信息，\"一网通办\"是由个人在网上自主填写申报信息，后续均由具体业务经办部门进行审核处理。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "一网通办",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "一网通办",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q043",
+    "question": "数字经济中，数字资本化主要包括哪两种方式？",
+    "options": [
+      "A. 数据信贷融资与数据证券化",
+      "B. 数据采集与数据存储",
+      "C. 数据交易与数据定价",
+      "D. 数据分析与数据应用"
+    ],
+    "answer": "A",
+    "explanation": "数据资本化主要包括两种方式，即数据信贷融资与数据证券化。数据资本化是拓展数据价值的途径，其本质是实现数据要素社会化配置。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字经济",
+    "knowledge_point": "数字经济",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字经济",
+    "tags": [
+      "数字经济",
+      "数据要素"
+    ]
+  },
+  {
+    "id": "ch02_q044",
+    "question": "以下关于新兴\"智慧主体\"的描述，不正确的是？",
+    "options": [
+      "A. 新兴\"智慧主体\"完全等同于自然人",
+      "B. 新兴\"智慧主体\"具备较强的可复制性",
+      "C. 社会的\"智慧主体\"已经不单纯是自然人",
+      "D. 新兴\"智慧主体\"具有不同于自然人的全量社会化活动模式"
+    ],
+    "answer": "A",
+    "explanation": "新兴\"智慧主体\"可以是互联网账号、自动驾驶汽车、智能手机、智能机器人等，它们具有不同于自然人的全量社会化活动模式，具备较强的可复制性，但不能说完全等同于自然人。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "新兴",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q045",
+    "question": "数字中国建设到2025年的目标不包括以下哪项？",
+    "options": [
+      "A. 数字基础设施高效联通",
+      "B. 数字化发展水平进入世界前列",
+      "C. 数字经济发展质量效益大幅增强",
+      "D. 数字安全保障能力全面提升"
+    ],
+    "answer": "B",
+    "explanation": "到2025年的目标包括数字基础设施高效联通、数据资源规模和质量加快提升、数字经济发展质量效益大幅增强、数字安全保障能力全面提升等。\"数字化发展水平进入世界前列\"是到2035年的目标。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字中国",
+    "knowledge_point": "数字中国",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字中国",
+    "tags": [
+      "数字中国",
+      "数字经济"
+    ]
+  },
+  {
+    "id": "ch02_q046",
+    "question": "以下哪项不是数字政府\"一网通办\"信息共享带来的好处？",
+    "options": [
+      "A. 增加纸质材料的传递",
+      "B. 杜绝信息录入的错误和数据的造假",
+      "C. 简化基础信息的录入工作",
+      "D. 实现业务条件的智能匹配和判断"
+    ],
+    "answer": "A",
+    "explanation": "信息共享的好处包括简化基础信息录入工作、杜绝信息录入错误和数据造假、实现业务条件的智能匹配和判断、降低工作错误率、提高事项审批效率等。信息共享恰恰是为了减少纸质材料的传递，而不是增加。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字政府",
+    "knowledge_point": "数字政府",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字政府",
+    "tags": [
+      "数字政府"
+    ]
+  },
+  {
+    "id": "ch02_q047",
+    "question": "以下关于数据资源化的描述，正确的是？",
+    "options": [
+      "A. 数据资源化是实现数据价值的核心",
+      "B. 数据资源化是使无序、混乱的原始数据成为有序、有使用价值的数据资源",
+      "C. 数据资源化是拓展数据价值的途径",
+      "D. 数据资源化是数据价值化的终点"
+    ],
+    "answer": "B",
+    "explanation": "数据资源化是使无序、混乱的原始数据成为有序、有使用价值的数据资源，是激发数据价值的基础，其本质是提升数据质量，形成数据使用价值的过程。数据资产化是实现数据价值的核心，数据资本化是拓展数据价值的途径。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型",
+    "knowledge_point": "数据资源化的",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字化转型",
+    "tags": [
+      "数据资源化的",
+      "数字化转型"
+    ]
+  },
+  {
+    "id": "ch02_q048",
+    "question": "数字政府\"一网统管\"的核心目的是？",
+    "options": [
+      "A. 提高政府办公效率",
+      "B. 提升城市治理水平",
+      "C. 减少政府工作人员",
+      "D. 降低政府运营成本"
+    ],
+    "answer": "B",
+    "explanation": "\"一网统管\"作为新型智慧城市推进城市治理体系和治理能力现代化的重要创新模式，主要针对各类民生诉求和城市事件，围绕城市治理水平的提升来开展工作。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字政府",
+    "knowledge_point": "数字政府",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字政府",
+    "tags": [
+      "数字政府",
+      "智慧城市"
+    ]
+  },
+  {
+    "id": "ch02_q049",
+    "question": "以下关于数字乡村的描述，不正确的是？",
+    "options": [
+      "A. 数字乡村建设目标是到2025年全面建成数字乡村",
+      "B. 数字乡村是建设数字中国的重要内容",
+      "C. 数字乡村是乡村振兴的战略方向",
+      "D. 数字乡村需要加快乡村信息基础设施建设"
+    ],
+    "answer": "A",
+    "explanation": "《数字乡村发展战略纲要》明确到2035年数字乡村建设取得长足进展，到21世纪中叶全面建成数字乡村。而非到2025年全面建成。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国",
+    "knowledge_point": "数字乡村",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字中国",
+    "tags": [
+      "数字乡村",
+      "数字中国"
+    ]
+  },
+  {
+    "id": "ch02_q050",
+    "question": "数字经济的技术经济范式中，驱动力主要来自？",
+    "options": [
+      "A. 传统产业的转型升级",
+      "B. 智能技术群的集群效应",
+      "C. 政府的政策推动",
+      "D. 消费市场的需求变化"
+    ],
+    "answer": "B",
+    "explanation": "由新一代信息技术革命而形成的智能技术群被普遍认为是数字经济发生和发展的基本驱动力。智能技术群包括云计算、大数据、人工智能、区块链、物联网、5G、VR/AR等众多技术的集群。",
+    "chapter": "第2章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字经济",
+    "knowledge_point": "数字经济",
+    "source_ref": "references/第2章_数字中国与数智化发展.md#数字经济",
+    "tags": [
+      "数字经济"
+    ]
+  },
+  {
+    "id": "ch02_q051",
+    "question": "政务服务“跨省通办”的意义不包括（ ）。",
+    "options": [
+      "A. 增加政府部门工作难度",
+      "B. 提升政务服务能力",
+      "C. 畅通国民经济循环",
+      "D. 促进要素自由流动"
+    ],
+    "answer": "A",
+    "explanation": "推进政务服务“跨省通办”，是转变政府职能、提升政务服务能力的重要途径， 是畅通国民经济循环、促进要素自由流动的重要支撑，对于提升国家治理体系和治理能 力现代化水平具有重要作用，“增加政府部门工作难度”不属于其意义，在2.4.2 主 要内容- 2.跨省通办部分。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0009"
+  },
+  {
+    "id": "ch02_q052",
+    "question": "数字化治理中，对数据的治理不包括（ ）。",
+    "options": [
+      "A. 数据的收集方法",
+      "B. 数据要素的所有权",
+      "C. 数据要素的监管权",
+      "D. 信息保护和数据安全"
+    ],
+    "answer": "A",
+    "explanation": "对数据的治理即将治理对象扩大到涵盖数据要素，包括数据要素的所有权、使用 权、监管权以及信息保护和数据安全等，不涉及数据收集方法，在2.3.2 主要内容构 成- 3.数字化治理部分。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0032"
+  },
+  {
+    "id": "ch02_q053",
+    "question": "智慧城市的五个核心能力要素中，数据治理围绕的核心是（ ）。",
+    "options": [
+      "A. 数据责权利管控",
+      "B. 现实世界与信息世界的互动融合",
+      "C. 决策算法和信息应用",
+      "D. 对社会状态的本质反映及模拟预测"
+    ],
+    "answer": "A",
+    "explanation": "2.5.2 智慧城市中提到，数据治理指围绕数据这一新的生产要素进行能力构建， 包括数据责权利管控、全生命周期管理及其开发利用等。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0236"
+  },
+  {
+    "id": "ch02_q054",
+    "question": "网络安全已上升到经济与社会乃至国家安全的战略问题，我国为加强网络安全保障 体系和能力建设，采取的举措不包括（ ）。",
+    "options": [
+      "A. 减少网络安全风险评估和审查",
+      "B. 健全国家网络安全法律法规和制度标准",
+      "C. 加强网络安全基础设施建设",
+      "D. 推动网络安全教育、技术、产业融合发展"
+    ],
+    "answer": "A",
+    "explanation": "2.6.2 网络安全保护中提到，加强网络安全保障体系和能力建设的举措包括健全 国家网络安全法律法规和制度标准、加强网络安全风险评估和审查、加强网络安全基础 设施建设、推动网络安全教育、技术、产业融合发展、加强网络安全国际交流合作，A 选 项减少网络安全风险评估和审查错误。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0096"
+  },
+  {
+    "id": "ch02_q055",
+    "question": "我国促进数字经济新业态新模式健康发展提出的15 个重点方向中，不属于新业态 新模式的是（ ）。",
+    "options": [
+      "A. 发展传统制造业",
+      "B. 发展基于新技术的“无人经济”",
+      "C. 打造跨越物理边界的“虚拟”产业园和产业集群",
+      "D. 积极培育新个体，支持自主就业"
+    ],
+    "answer": "A",
+    "explanation": "我国促进数字经济新业态新模式健康发展提出的15 个重点方向包括发展基于 新技术的“无人经济”、打造跨越物理边界的“虚拟”产业园和产业集群、积极培育 新个体，支持自主就业等，发展传统制造业不属于新业态新模式，在2.7.4 数智化新 业态新模式部分。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0020"
+  },
+  {
+    "id": "ch02_q056",
+    "question": "数字政府的新特征中，云端化是指（ ）。",
+    "options": [
+      "A. 政务上云是政府整体转型的必要条件",
+      "B. 政府治理智能化",
+      "C. 政务数据整合共享",
+      "D. 政府服务动态化发展"
+    ],
+    "answer": "A",
+    "explanation": "云平台是政府数字化最基本的技术要求，政务上云是促成各地各部门由分散建设 向集群或集约式规划与建设的演化过程，是政府整体转型的必要条件，这体现了数字政 府的云端化特征，B 选项是智能化特征，C 选项与数据化特征相关，D 选项属于动态化 特 征，在2.4.1 数字新特征部分。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0007"
+  },
+  {
+    "id": "ch02_q057",
+    "question": "营造良好数字生态，有利于为加快建设数字经济、数字社会、数字政府提供有力支 撑，我国在《国民经济“十四五”规划》中提出要构建的数字规则体系是（ ）。",
+    "options": [
+      "A. 开放、健康、安全",
+      "B. 规范、有序、高效",
+      "C. 公平、公正、公开",
+      "D. 创新、发展、共享"
+    ],
+    "answer": "A",
+    "explanation": "2.6 数字生态中提到，《国民经济“十四五”规划》指出：“坚持放管并重， 促进发展与规范管理相统一，构建数字规则体系，营造开放、健康、安全的数字生态。”",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0093"
+  },
+  {
+    "id": "ch02_q058",
+    "question": "在“一网通办”模式中，信息共享的作用不包括（ ）。",
+    "options": [
+      "A. 增加信息录入工作量",
+      "B. 实现业务条件的智能匹配和判断",
+      "C. 降低工作错误率",
+      "D. 提高事项审批效率"
+    ],
+    "answer": "A",
+    "explanation": "信息共享能极大地简化基础信息的录入工作，而不是增加工作量；同时可以实现 业务条件的智能匹配和判断，自动完成业务办理的初审甚至最终审批，以数据的自动比 对代替人工判断，降低工作错误率，提高事项审批效率，位于2.4.2 主要内容- 1.一 网 通办部分。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0008"
+  },
+  {
+    "id": "ch02_q059",
+    "question": "数字经济的新结构具有诸多特征，以下不属于其特征的是（ ）。",
+    "options": [
+      "A. 基于网络连接而产生的网络效应和用户规模经济",
+      "B. 基于全方位数字化而使得数据成为生产要素",
+      "C. 由智能化技术应用而产生的自治化、无人化运行特征",
+      "D. 基于传统产业升级而产生的规模经济效益"
+    ],
+    "answer": "D",
+    "explanation": "2.3.1 新技术经济范式中提到数字经济新结构的特征包括基于网络连接而产生 的网络效应和用户规模经济、基于全方位数字化而使得数据成为生产要素、由智能化技 术应用而产生的自治化、无人化运行特征、数字世界和实体世界融合重构了产用关系 等，未提及基于传统产业升级而产生的规模经济效益。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0072"
+  },
+  {
+    "id": "ch02_q060",
+    "question": "智慧城市建设中，新技术持续赋能，以下不属于对智慧城市建设起赋能作用的技术 是( ) 。",
+    "options": [
+      "A. 3G 技术",
+      "B. 大数据技术",
+      "C. 人工智能技术",
+      "D. 数字孪生技术"
+    ],
+    "answer": "A",
+    "explanation": "结合2.5.2 智慧城市内容，在当下智慧城市建设中，大数据技术、人工智能技术、 数字孪生技术等新一代信息技术持续赋能，3G 技术已逐渐被更先进的通信技术替代， 不属于对当前智慧城市建设起主要赋能作用的技术。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0111"
+  },
+  {
+    "id": "ch02_q061",
+    "question": "从全球视角来看，驱动工业经济向数字经济转型的范式不包括以下哪一项？( )",
+    "options": [
+      "A. 生产力飞跃：第四次科技革命",
+      "B. 生产要素变化：数据要素的诞生",
+      "C. 信息传播效率突破：社会互联网新格局",
+      "D. 市场规模扩大：全球经济一体化"
+    ],
+    "answer": "D",
+    "explanation": "2.1.1 驱动因素中提到驱动工业经济向数字经济转型的范式包括生产力飞跃（第 四次科技革命）、生产要素变化（数据要素的诞生）、信息传播效率突破（社会互联网 新格局）和社会“智慧主体”规模（快速复制与“智能+ ”），未提及市场规模扩大 （全球经济一体化）。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0057"
+  },
+  {
+    "id": "ch02_q062",
+    "question": "数字民生建设中，推动数字化服务普惠应用聚焦的重点领域不包括（ ）。",
+    "options": [
+      "A. 金融投资",
+      "B. 教育医疗",
+      "C. 养老抚幼",
+      "D. 就业文体"
+    ],
+    "answer": "A",
+    "explanation": "2.5.1 数字民生中提到，《中华人民共和国国民经济和社会发展第十四个五年规 划和2035 年远景目标纲要》提出“聚焦教育、医疗、养老、抚幼、就业、文体、助残 等重点领域，推动数字化服务普惠应用”，未提及金融投资。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0110"
+  },
+  {
+    "id": "ch02_q063",
+    "question": "网络安全保护中，加强网络安全国际交流合作的举措不包括（ ）。",
+    "options": [
+      "A. 参与网络安全、数据安全等国际规则制定",
+      "B. 深化在人才培养、技术创新等领域的国际合作",
+      "C. 推动国际网络安全保障合作机制建设",
+      "D. 限制国外网络安全技术的引进"
+    ],
+    "answer": "D",
+    "explanation": "2.6.2 网络安全保护中提到，加强网络安全国际交流合作包括积极参与网络安全、 数据安全等国际规则和数字安全技术标准制定，深化在人才培养、技术创新、应急响应 和网络犯罪打击等领域的国际合作，推动国际网络安全保障合作机制建设，未提及限制 国外网络安全技术的引进。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0197"
+  },
+  {
+    "id": "ch02_q064",
+    "question": "智慧城市建设中，新技术持续赋能，但以下哪种技术不属于主要的赋能技术？( )",
+    "options": [
+      "A. 4G 技术",
+      "B. 大数据技术",
+      "C. 人工智能技术",
+      "D. 物联网技术"
+    ],
+    "answer": "A",
+    "explanation": "结合2.5.2 智慧城市内容，在当下智慧城市建设中，大数据技术、人工智能技术、 物联网技术等新一代信息技术持续赋能，4G 技术相比之下已逐渐不能满足智慧城市发 展对网络的需求，不属于主要的赋能技术。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0173"
+  },
+  {
+    "id": "ch02_q065",
+    "question": "数字化治理中，对数据的治理不涉及以下哪方面？( )",
+    "options": [
+      "A. 数据的采集和存储",
+      "B. 数据要素的所有权、使用权界定",
+      "C. 制定数字经济规则",
+      "D. 运用数字技术优化治理技术体系"
+    ],
+    "answer": "D",
+    "explanation": "2.3.2 主要内容构成中提到，对数据的治理即将治理对象扩大到涵盖数据要素， 包括数据要素的所有权、使用权、监管权以及信息保护和数据安全等都需要全新治理体 系，也涉及制定数字经济规则；运用数字技术优化治理技术体系属于运用数字技术进行 治理的内容。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0192"
+  },
+  {
+    "id": "ch02_q066",
+    "question": "在数字经济的新技术经济范式中，智能技术群不包括以下哪种技术？( )",
+    "options": [
+      "A. 3D 打印技术",
+      "B. 云计算",
+      "C. 区块链",
+      "D. VR/AR"
+    ],
+    "answer": "A",
+    "explanation": "2.3.1 新技术经济范式中提到智能技术群是包括云计算、大数据、人工智能、区 块链、物联网、5G、VR/AR 等众多技术的集群，未提及3D 打印技术。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0164"
+  },
+  {
+    "id": "ch02_q067",
+    "question": "完善就业服务和保障制度，对于基于互联网平台的就业人员来说，权益保障政策应 涵盖（ ）。",
+    "options": [
+      "A. 劳动报酬、社会保障、职业安全等方面",
+      "B. 职业技能培训、职业发展规划等方面",
+      "C. 工作时间、工作内容规范等方面",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "基于互联网平台的就业人员权益保障政策应涵盖劳动报酬、社会保障、职业安全、 职业技能培训、职业发展规划、工作时间、工作内容规范等多方面，虽然文档未详细列 举，但从权益保障的完整性角度考虑应选D 。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0220"
+  },
+  {
+    "id": "ch02_q068",
+    "question": "数字中国建设中，推进数字技术与“五位一体”深度融合，“五位一体”不包括 ( ) 。",
+    "options": [
+      "A. 科技建设",
+      "B. 经济建设",
+      "C. 文化建设",
+      "D. 生态文明建设"
+    ],
+    "answer": "A",
+    "explanation": "2.2.3 主要内容中提到，推进数字技术与经济、政治、文化、社会、生态文明建设“五位一体”深度融合，不包括科技建设。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0222"
+  },
+  {
+    "id": "ch02_q069",
+    "question": "加强数字化转型协同，对中小微企业数字化转型的积极影响不包括（ ）。",
+    "options": [
+      "A. 降低转型投入成本",
+      "B. 缩短转型周期",
+      "C. 提高转型收益速度",
+      "D. 减少转型技术难题"
+    ],
+    "answer": "D",
+    "explanation": "2.7.4 数智化新业态新模式中提到，中小微企业数字化转型面临投入高、周期长、 收益慢的问题，加强数字化转型协同可降低投入成本、缩短转型周期、提高转型收益速 度，但未提及减少转型技术难题。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0219"
+  },
+  {
+    "id": "ch02_q070",
+    "question": "数字经济时代，产业数字化转型形成的新场景是（ ）。",
+    "options": [
+      "A. 以产业链为中心，促进产业链与多链融合发展",
+      "B. 以创新链为中心，带动产业链发展",
+      "C. 以供应链为中心，优化产业链结构",
+      "D. 以资金链为中心，保障产业链运转"
+    ],
+    "answer": "A",
+    "explanation": "2.3.2 主要内容构成中提到，产业数字化转型将形成以产业链为中心，促进产业 链与创新链、供应链、要素链、资金链、政策链等相互融合发展的新场景。",
+    "chapter": "第2章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字中国与数智化发展",
+    "knowledge_point": "数字中国与数智化发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第2章",
+    "tags": [
+      "数字中国与数智化发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch02_0108"
+  }
+]

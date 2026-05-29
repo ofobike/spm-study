@@ -1,0 +1,1672 @@
+[
+  {
+    "id": "ch23_q001",
+    "question": "我国经历了三次消费升级，当前正处在第三次消费升级中，增长最快的消费领域不包括（）。",
+    "options": [
+      "A. 教育、娱乐",
+      "B. 家用电器",
+      "C. 交通、通信",
+      "D. 电商"
+    ],
+    "answer": "B",
+    "explanation": "文中指出当前正处在第三次消费升级中，增长最快的是教育、娱乐、文化、交通、通信、住宅、旅游、电商等方面的消费。\"家用电器\"属于第二次消费升级的内容。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "我国经历了三次消费升级",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "我国经历了三次消费升级",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q002",
+    "question": "在新型消费系统的关键技术中，XR技术是指（）。",
+    "options": [
+      "A. 超级计算技术",
+      "B. 扩展现实技术",
+      "C. 射频识别技术",
+      "D. 量子计算技术"
+    ],
+    "answer": "B",
+    "explanation": "文中明确指出XR（Extended Reality，扩展现实）技术是指通过以计算机为核心的现代高科技手段营造真实、虚拟组合的数字化环境，是AR、VR、MR等多种技术的统称。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统架构",
+    "knowledge_point": "系统架构",
+    "source_ref": "references/第23章_新型消费系统规划.md#系统架构",
+    "tags": [
+      "XR",
+      "系统架构"
+    ]
+  },
+  {
+    "id": "ch23_q003",
+    "question": "新型消费的主要特征不包括以下哪项？",
+    "options": [
+      "A. 科技化",
+      "B. 网络化",
+      "C. 单一化",
+      "D. 智能化"
+    ],
+    "answer": "C",
+    "explanation": "文中指出新型消费与传统消费相比具有明显的科技化、网络化、数字化、智能化的特征，不包括\"单一化\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "新型消费的特征",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "新型消费的特征",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q004",
+    "question": "新零售的主要运作模式中，\"线下实体店的内在变革\"的典型案例是（）。",
+    "options": [
+      "A. 小米之家",
+      "B. 盒马鲜生",
+      "C. 某电商平台在线卖书",
+      "D. 无人便利店"
+    ],
+    "answer": "B",
+    "explanation": "文中提到盒马鲜生是阿里巴巴对线下超市完全重构的新零售业态，属于线下实体店的内在变革案例。小米之家属于\"线上导流，线下消费\"模式。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "规划要点",
+    "knowledge_point": "新零售",
+    "source_ref": "references/第23章_新型消费系统规划.md#规划要点",
+    "tags": [
+      "新零售",
+      "规划要点"
+    ]
+  },
+  {
+    "id": "ch23_q005",
+    "question": "在新型消费系统规划的\"需求分析\"注意事项中，以下哪项不属于文中提到的要求？",
+    "options": [
+      "A. 需要具备一定的前瞻性",
+      "B. 强调对隐性需求的分析",
+      "C. 重点关注系统开发的技术架构",
+      "D. 充分考虑地域发展和文化的差异"
+    ],
+    "answer": "C",
+    "explanation": "文中提到的需求分析注意事项包括：需要具备一定的前瞻性、强调对隐性需求的分析、消费场景尽可能细化、充分考虑地域发展和文化的差异、强化对消费群体的归集等，不包括\"重点关注系统开发的技术架构\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "需求分析",
+    "knowledge_point": "需求分析",
+    "source_ref": "references/第23章_新型消费系统规划.md#需求分析",
+    "tags": [
+      "在新型消费系统规划的",
+      "需求分析"
+    ]
+  },
+  {
+    "id": "ch23_q006",
+    "question": "根据文中对电子商务技术的描述，以下哪项说法是不正确的？",
+    "options": [
+      "A. 电子商务技术是新型消费系统的基础",
+      "B. 电子商务技术包括电子商务平台、支付系统、物流系统等",
+      "C. 电子商务技术仅支持线上消费，不支持线上线下融合",
+      "D. 电商系统在不断更新迭代以应对日益增长的线上用户"
+    ],
+    "answer": "C",
+    "explanation": "文中指出移动支付技术可以与电子商务技术相结合，让消费者实现线上线下一体化消费，因此\"仅支持线上消费，不支持线上线下融合\"的说法是不正确的。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "文中对电子商务技术的",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "文中对电子商务技术的",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q007",
+    "question": "智慧文旅解决方案中，云旅游的特点不包括以下哪项？",
+    "options": [
+      "A. 技术上的先进性",
+      "B. 供给上的多样化",
+      "C. 时空上的无限性",
+      "D. 成本上的低廉性"
+    ],
+    "answer": "D",
+    "explanation": "文中明确列出云旅游的四个特点：技术上的先进性、供给上的多样化、时空上的无限性、文化上的人文性，不包括\"成本上的低廉性\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "智慧文旅解决方案中",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "智慧文旅解决方案中",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q008",
+    "question": "在服装智慧门店案例中，射频识别（RFID）技术的应用不包括以下哪项？",
+    "options": [
+      "A. 为待售服装绑定RFID电子标签以利于信息读取与入库管理",
+      "B. 在服装展架上部署RFID接收装置记录目标样衣被拿取的频次",
+      "C. 通过RFID技术实现消费者的虚拟试穿功能",
+      "D. 试衣间内部配置有RFID功能的电子触摸屏为顾客传递商品信息"
+    ],
+    "answer": "C",
+    "explanation": "文中指出RFID技术的应用包括绑定电子标签、展架部署接收装置、试衣间配置电子触摸屏等，而\"虚拟试穿功能\"是由虚拟试衣技术实现的，不是RFID技术的功能。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "规划要点",
+    "knowledge_point": "智慧门店",
+    "source_ref": "references/第23章_新型消费系统规划.md#规划要点",
+    "tags": [
+      "智慧门店",
+      "规划要点"
+    ]
+  },
+  {
+    "id": "ch23_q009",
+    "question": "我国第一次消费升级发生在（）。",
+    "options": [
+      "A. 20世纪80年代末",
+      "B. 改革开放之初",
+      "C. 21世纪初",
+      "D. 20世纪90年代末"
+    ],
+    "answer": "B",
+    "explanation": "第一次消费升级在改革开放之初，粮食消费下降，轻工产品消费上升。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "我国第一次消费升级发生在",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "我国第一次消费升级发生在",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q010",
+    "question": "第二次消费升级的主要消费品是（）。",
+    "options": [
+      "A. 粮食",
+      "B. 轻工产品",
+      "C. 家用电器",
+      "D. 教育和娱乐"
+    ],
+    "answer": "C",
+    "explanation": "第二次消费升级出现在20世纪80年代末到90年代末，家用电器等消费快速增长。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "第二次消费升级的消费品",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "第二次消费升级的消费品",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q011",
+    "question": "我国电子商务迈入成熟阶段的标志性事件是（）。",
+    "options": [
+      "A. 淘宝网成立",
+      "B. 京东商城上线",
+      "C. 我国首家B2C电商平台成立",
+      "D. 苏宁易购上线"
+    ],
+    "answer": "C",
+    "explanation": "2003年，伴随着我国首家B2C电商平台成立，标志着我国电子商务迈入了成熟阶段。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "我国电子商务迈入成熟阶段",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "我国电子商务迈入成熟阶段",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q012",
+    "question": "以下关于新型消费发展阶段的描述，不正确的是（）。",
+    "options": [
+      "A. 第一阶段是电子商务时代",
+      "B. 第二阶段是移动互联网时代",
+      "C. 第三阶段是人工智能时代",
+      "D. 第四阶段是深度互动阶段"
+    ],
+    "answer": "C",
+    "explanation": "第三阶段是智慧消费时代，不是\"人工智能时代\"。四个阶段依次为：电子商务时代、移动互联网时代、智慧消费时代、深度互动阶段。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "新型消费发展阶段的",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "新型消费发展阶段的",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q013",
+    "question": "移动互联网时代开始的标志性技术发展是（）。",
+    "options": [
+      "A. 4G网络和智能手机",
+      "B. 3G网络和智能手机",
+      "C. 5G网络和物联网",
+      "D. 光纤宽带和电脑"
+    ],
+    "answer": "B",
+    "explanation": "21世纪10年代初，随着3G网络的发展和智能手机的普及，我国进入了移动互联网时代。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "移动互联网时代开始的标志",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "移动互联网时代开始的标志",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q014",
+    "question": "在深度互动阶段，使实时互动成为可能的关键技术是（）。",
+    "options": [
+      "A. 3G技术",
+      "B. 4G技术",
+      "C. 5G技术",
+      "D. WiFi技术"
+    ],
+    "answer": "C",
+    "explanation": "5G技术的低延迟、高速率等特点，使得实时互动成为可能。 本题考查发展整体环境。正确答案为C，可结合教材对应小节理解概念边界和适用场景。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "发展整体环境",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "在深度互动阶段",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q015",
+    "question": "2022年我国数字经济规模达（）万亿元。",
+    "options": [
+      "A. 30.5",
+      "B. 41.5",
+      "C. 50.2",
+      "D. 60.8"
+    ],
+    "answer": "C",
+    "explanation": "根据《数字中国发展报告（2022年）》，2022年我国数字经济规模达50.2万亿元。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "年我国数字经济规模达万亿",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "年我国数字经济规模达万亿",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q016",
+    "question": "以下关于数字经济对新型消费影响的描述，不正确的是（）。",
+    "options": [
+      "A. 数字经济拓宽了消费渠道",
+      "B. 数字经济改变了消费模式和消费习惯",
+      "C. 数字经济扩大了城乡居民消费差距",
+      "D. 数字经济驱动消费结构优化"
+    ],
+    "answer": "C",
+    "explanation": "数字经济缩小了城乡居民消费差距，而非\"扩大\"。 本题考查发展整体环境。正确答案为C，可结合教材对应小节理解概念边界和适用场景。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "数字经济对新型消费影响的",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "数字经济对新型消费影响的",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q017",
+    "question": "我国已连续几年成为全球最大的网络零售市场？",
+    "options": [
+      "A. 五年",
+      "B. 六年",
+      "C. 八年",
+      "D. 十年"
+    ],
+    "answer": "C",
+    "explanation": "自2013年起，我国已连续八年成为全球最大的网络零售市场。 本题考查发展整体环境。正确答案为C，可结合教材对应小节理解概念边界和适用场景。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "我国已连续几年成全球最大",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "我国已连续几年成全球最大",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q018",
+    "question": "恩格尔系数是指（）。",
+    "options": [
+      "A. 住房支出总额占消费支出总额的比重",
+      "B. 食品支出总额占个人消费支出总额的比重",
+      "C. 教育支出总额占收入总额的比重",
+      "D. 交通支出总额占消费支出总额的比重"
+    ],
+    "answer": "B",
+    "explanation": "恩格尔系数(Engel's Coefficient)是食品支出总额占个人消费支出总额的比重。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "恩格尔系数指",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "恩格尔系数指",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q019",
+    "question": "以下哪项技术不属于新型消费的关键技术？",
+    "options": [
+      "A. 电子商务技术",
+      "B. 移动支付技术",
+      "C. 量子计算技术",
+      "D. XR技术"
+    ],
+    "answer": "C",
+    "explanation": "与新型消费紧密相关的关键技术包括电子商务、移动支付、大数据、人工智能、物联网和XR技术，不包括\"量子计算技术\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统架构",
+    "knowledge_point": "系统架构",
+    "source_ref": "references/第23章_新型消费系统规划.md#系统架构",
+    "tags": [
+      "XR",
+      "系统架构"
+    ]
+  },
+  {
+    "id": "ch23_q020",
+    "question": "移动支付技术的典型应用不包括以下哪项？",
+    "options": [
+      "A. 支付宝",
+      "B. 微信支付",
+      "C. 银联在线支付",
+      "D. 区块链支付"
+    ],
+    "answer": "D",
+    "explanation": "文中提到的移动支付典型应用包括支付宝、微信支付、银联在线支付，不包括\"区块链支付\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "移动支付技术的典型应用",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "移动支付技术的典型应用",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q021",
+    "question": "XR技术是以下哪些技术的统称？",
+    "options": [
+      "A. AR、VR、MR",
+      "B. AI、ML、DL",
+      "C. IoT、Cloud、Edge",
+      "D. 5G、WiFi、Bluetooth"
+    ],
+    "answer": "A",
+    "explanation": "XR（扩展现实）技术是AR、VR、MR等多种技术的统称。 本题考查系统架构。正确答案为A，可结合教材对应小节理解概念边界和适用场景。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统架构",
+    "knowledge_point": "系统架构",
+    "source_ref": "references/第23章_新型消费系统规划.md#系统架构",
+    "tags": [
+      "XR",
+      "系统架构"
+    ]
+  },
+  {
+    "id": "ch23_q022",
+    "question": "以下关于新型消费特征的描述，不正确的是（）。",
+    "options": [
+      "A. 科技化是新型消费的显著特征之一",
+      "B. 网络化使线上线下融合消费成为主导模式",
+      "C. 数字化使消费资源更高效配置",
+      "D. 智能化已完全成熟，没有发展空间"
+    ],
+    "answer": "D",
+    "explanation": "文中指出\"智能化在新型消费中还处于发展中，有很大的开拓空间\"，而非\"已完全成熟\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "新型消费特征的",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "新型消费特征的",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q023",
+    "question": "新型消费面临的挑战中，基础设施建设短板不包括（）。",
+    "options": [
+      "A. 5G网络基础设施建设",
+      "B. 商贸流通基础设施",
+      "C. 传统制造业基础设施",
+      "D. 数据开发共享商用平台"
+    ],
+    "answer": "C",
+    "explanation": "基础设施建设短板包括5G、人工智能、物联网等新一代信息网络基础设施、商贸流通基础设施、数字化商品流通体系等，不包括\"传统制造业基础设施\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "新型消费面临的挑战中",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "新型消费面临的挑战中",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q024",
+    "question": "新零售将传统商业三要素的顺序调整为（）。",
+    "options": [
+      "A. 货、场、人",
+      "B. 场、人、货",
+      "C. 人、货、场",
+      "D. 人、场、货"
+    ],
+    "answer": "C",
+    "explanation": "新零售将传统商业三要素\"货、场、人\"的重要顺序调整为\"人、货、场\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "规划要点",
+    "knowledge_point": "新零售",
+    "source_ref": "references/第23章_新型消费系统规划.md#规划要点",
+    "tags": [
+      "新零售",
+      "规划要点"
+    ]
+  },
+  {
+    "id": "ch23_q025",
+    "question": "盒马鲜生的特点不包括以下哪项？",
+    "options": [
+      "A. 门店附近3km范围内30min送货上门",
+      "B. 集超市、餐饮店、菜市场于一体",
+      "C. 仅支持线上购买",
+      "D. 消费者可到店购买或在App下单"
+    ],
+    "answer": "C",
+    "explanation": "盒马鲜生支持到店购买和App下单两种方式，不是\"仅支持线上购买\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "盒马鲜生的特点",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "盒马鲜生的特点",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q026",
+    "question": "小米之家的新零售模式属于以下哪种类型？",
+    "options": [
+      "A. 线下实体店的内在变革",
+      "B. 线上导流，线下消费",
+      "C. 线上线下一体化",
+      "D. 无人零售"
+    ],
+    "answer": "B",
+    "explanation": "小米之家通过线上的影响力，把线上的流量以及大型商超的自然流量导入线下的门店中，属于\"线上导流，线下消费\"模式。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "规划要点",
+    "knowledge_point": "新零售",
+    "source_ref": "references/第23章_新型消费系统规划.md#规划要点",
+    "tags": [
+      "新零售",
+      "规划要点"
+    ]
+  },
+  {
+    "id": "ch23_q027",
+    "question": "无人零售的主要特点不包括以下哪项？",
+    "options": [
+      "A. 自助化",
+      "B. 智能化",
+      "C. 人工化",
+      "D. 便捷性"
+    ],
+    "answer": "C",
+    "explanation": "无人零售的特点包括自助化、智能化、安全性、便捷性，不包括\"人工化\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "无人零售的特点",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "无人零售的特点",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q028",
+    "question": "数字化教育的主要特征不包括以下哪项？",
+    "options": [
+      "A. 便捷性",
+      "B. 个性化",
+      "C. 单一性",
+      "D. 互动性"
+    ],
+    "answer": "C",
+    "explanation": "数字化教育的特征包括便捷性、个性化、互动性、可持续性，不包括\"单一性\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "数字化教育的特征",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "数字化教育的特征",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q029",
+    "question": "互联网健身的三个方面不包括（）。",
+    "options": [
+      "A. 健身软件",
+      "B. 可穿戴设备",
+      "C. 数据服务",
+      "D. 线下场馆"
+    ],
+    "answer": "D",
+    "explanation": "互联网健身包括健身软件、可穿戴设备、数据服务三方面，不包括\"线下场馆\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "互联网健身的三个方面",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "互联网健身的三个方面",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q030",
+    "question": "以下关于云旅游的描述，不正确的是（）。",
+    "options": [
+      "A. 云旅游可以取代线下旅游",
+      "B. 云旅游具有技术上的先进性",
+      "C. 云旅游具有时空上的无限性",
+      "D. 云旅游与线下旅游是互补关系"
+    ],
+    "answer": "A",
+    "explanation": "文中明确指出\"强调云旅游发展的必要性，并不是要以云旅游取代线下旅游，两者是互补关系，不是替代关系\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "云旅游的",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "云旅游的",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q031",
+    "question": "共享经济的主要特点不包括以下哪项？",
+    "options": [
+      "A. 经济性",
+      "B. 可持续性",
+      "C. 垄断性",
+      "D. 便捷性"
+    ],
+    "answer": "C",
+    "explanation": "共享经济的特点包括经济性、可持续性、便捷性，不包括\"垄断性\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "共享经济的特点",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "共享经济的特点",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q032",
+    "question": "以下关于共享汽车的描述，不正确的是（）。",
+    "options": [
+      "A. 自动驾驶技术提高了汽车安全性",
+      "B. 共享汽车将增加城市汽车购买量",
+      "C. 共享汽车降低了消费者使用成本",
+      "D. 共享汽车有利于城市可持续发展"
+    ],
+    "answer": "B",
+    "explanation": "共享汽车的出现将减少汽车的购买和使用，遏制城市交通拥堵、污染等问题，而非\"增加城市汽车购买量\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "共享汽车的",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "共享汽车的",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q033",
+    "question": "兴趣消费的核心消费群体是（）。",
+    "options": [
+      "A. 60后和70后",
+      "B. 70后和80后",
+      "C. 90后和00后",
+      "D. 00后和10后"
+    ],
+    "answer": "C",
+    "explanation": "随着\"90后\"\"00后\"逐渐成为消费主力军，以兴趣为主导的新型消费不断兴起。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "规划要点",
+    "knowledge_point": "兴趣消费",
+    "source_ref": "references/第23章_新型消费系统规划.md#规划要点",
+    "tags": [
+      "兴趣消费",
+      "规划要点"
+    ]
+  },
+  {
+    "id": "ch23_q034",
+    "question": "2022年我国宠物经济产业规模约为（）。",
+    "options": [
+      "A. 3000亿元",
+      "B. 5000亿元",
+      "C. 8000亿元",
+      "D. 10000亿元"
+    ],
+    "answer": "B",
+    "explanation": "有关数据显示，2022年我国宠物经济产业规模近5000亿元，同比增长超过25%。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "年我国宠物经济产业规模约",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "年我国宠物经济产业规模约",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q035",
+    "question": "新型消费系统规划的需求分析中，以下哪项不属于重点关注内容？",
+    "options": [
+      "A. 确定系统的核心功能和特性",
+      "B. 收集用户需求和期望",
+      "C. 确定开发团队的组织架构",
+      "D. 进行投资回报率预测"
+    ],
+    "answer": "C",
+    "explanation": "需求分析重点关注内容包括确定核心功能、收集用户需求、分析市场、确定性能指标、投资回报率预测等，不包括\"确定开发团队的组织架构\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "需求分析",
+    "knowledge_point": "新型消费系统规划的需求分",
+    "source_ref": "references/第23章_新型消费系统规划.md#需求分析",
+    "tags": [
+      "新型消费系统规划的需求分",
+      "需求分析"
+    ]
+  },
+  {
+    "id": "ch23_q036",
+    "question": "新型消费系统技术架构中，以下哪一层不属于参考架构？",
+    "options": [
+      "A. 设备层",
+      "B. 接口层",
+      "C. 物理层",
+      "D. 数据层"
+    ],
+    "answer": "C",
+    "explanation": "技术架构包括设备层、接口层、服务层、数据层、应用层、支撑平台层，不包括\"物理层\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "技术架构",
+    "knowledge_point": "新型消费系统技术架构中",
+    "source_ref": "references/第23章_新型消费系统规划.md#技术架构",
+    "tags": [
+      "新型消费系统技术架构中",
+      "技术架构"
+    ]
+  },
+  {
+    "id": "ch23_q037",
+    "question": "新型消费系统安全保障措施中，不包括以下哪项？",
+    "options": [
+      "A. 数据加密和身份认证",
+      "B. 防火墙和入侵检测系统",
+      "C. 降低安全标准以提高效率",
+      "D. 系统备份和容灾"
+    ],
+    "answer": "C",
+    "explanation": "安全保障措施包括数据加密、防火墙、安全培训、系统备份、监控日志等，不包括\"降低安全标准\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "新型消费系统安全保障措施",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "新型消费系统安全保障措施",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q038",
+    "question": "在服装智慧门店中，室内定位技术不依赖以下哪种技术？",
+    "options": [
+      "A. 蓝牙",
+      "B. 移动WiFi",
+      "C. RFID",
+      "D. 量子通信"
+    ],
+    "answer": "D",
+    "explanation": "常见的室内定位技术主要依靠蓝牙、移动WiFi、RFID等无线电波通信，不包括\"量子通信\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "规划要点",
+    "knowledge_point": "智慧门店",
+    "source_ref": "references/第23章_新型消费系统规划.md#规划要点",
+    "tags": [
+      "智慧门店",
+      "规划要点"
+    ]
+  },
+  {
+    "id": "ch23_q039",
+    "question": "在农产品新型消费案例中，企业推行的\"新型订单农业\"合作模式参与者不包括（）。",
+    "options": [
+      "A. 政府+银行",
+      "B. 企业+农场主",
+      "C. 高校",
+      "D. 组织"
+    ],
+    "answer": "D",
+    "explanation": "\"新型订单农业\"合作模式为\"政府+银行+企业+农场主+高校\"，不包括\"组织\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "农产品新型消费案例",
+    "knowledge_point": "农产品新型消费案例",
+    "source_ref": "references/第23章_新型消费系统规划.md#农产品新型消费案例",
+    "tags": [
+      "在农产品新型消费案例中",
+      "农产品新型消费案例"
+    ]
+  },
+  {
+    "id": "ch23_q040",
+    "question": "新型消费系统规划中，精准营销需要注意的事项不包括（）。",
+    "options": [
+      "A. 注重联合营销接口的支撑能力",
+      "B. 部署流量计量功能",
+      "C. 关注法律法规的遵循",
+      "D. 忽略数据沉淀和标注"
+    ],
+    "answer": "D",
+    "explanation": "精准营销需要注意联合营销接口、流量计量、法律法规遵循、关注细节数据沉淀等，\"忽略数据沉淀和标注\"是不正确的。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "规划要点",
+    "knowledge_point": "精准营销",
+    "source_ref": "references/第23章_新型消费系统规划.md#规划要点",
+    "tags": [
+      "精准营销",
+      "规划要点"
+    ]
+  },
+  {
+    "id": "ch23_q041",
+    "question": "新型消费系统架构设计需要考虑的能力不包括（）。",
+    "options": [
+      "A. 处理大量用户请求能力",
+      "B. 数据安全和隐私保护能力",
+      "C. 单终端支持能力",
+      "D. 实时响应和交互能力"
+    ],
+    "answer": "C",
+    "explanation": "需要考虑的能力包括处理大量用户请求、大量数据处理、数据安全、实时响应、多终端支持等，是\"多终端\"而非\"单终端\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "系统架构",
+    "knowledge_point": "新型消费系统架构设计需要",
+    "source_ref": "references/第23章_新型消费系统规划.md#系统架构",
+    "tags": [
+      "新型消费系统架构设计需要",
+      "系统架构"
+    ]
+  },
+  {
+    "id": "ch23_q042",
+    "question": "在服装智慧门店案例中，虚拟试衣技术的核心是（）。",
+    "options": [
+      "A. RFID电子标签",
+      "B. 基于身体测量数据构建三维人体模型",
+      "C. 蓝牙室内定位",
+      "D. 互动数字标牌"
+    ],
+    "answer": "B",
+    "explanation": "虚拟试衣技术是基于消费者的身体测量数据构建三维人体模型，进而模拟服装产品的试穿效果。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "规划要点",
+    "knowledge_point": "智慧门店",
+    "source_ref": "references/第23章_新型消费系统规划.md#规划要点",
+    "tags": [
+      "智慧门店",
+      "规划要点"
+    ]
+  },
+  {
+    "id": "ch23_q043",
+    "question": "超六成新青年以什么为消费核心？",
+    "options": [
+      "A. 追求低价",
+      "B. 取悦自我、提升幸福感",
+      "C. 跟随潮流",
+      "D. 满足基本需求"
+    ],
+    "answer": "B",
+    "explanation": "超六成新青年以取悦自我、提升幸福感为消费核心，驱使其购买兴趣消费类产品。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "规划要点",
+    "knowledge_point": "兴趣消费",
+    "source_ref": "references/第23章_新型消费系统规划.md#规划要点",
+    "tags": [
+      "兴趣消费",
+      "规划要点"
+    ]
+  },
+  {
+    "id": "ch23_q044",
+    "question": "新型消费系统灵活扩展的措施中，不包括以下哪项？",
+    "options": [
+      "A. 模块化设计",
+      "B. 基于云计算的架构",
+      "C. 封闭式接口",
+      "D. 自动化运维和部署"
+    ],
+    "answer": "C",
+    "explanation": "灵活扩展措施包括模块化设计、云计算架构、自动化运维、开放式接口和标准化协议等，应是\"开放式接口\"而非\"封闭式接口\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "新型消费系统灵活扩展的措",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "新型消费系统灵活扩展的措",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q045",
+    "question": "《扩大内需战略规划纲要（2022-2035年）》提出要（）。",
+    "options": [
+      "A. 限制新型消费发展",
+      "B. 加快培育新型消费",
+      "C. 取消线上消费",
+      "D. 恢复传统消费模式"
+    ],
+    "answer": "B",
+    "explanation": "《扩大内需战略规划纲要（2022-2035年）》指出要\"加快培育新型消费\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "扩大内需战略规划纲要",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "扩大内需战略规划纲要",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q046",
+    "question": "重庆发展新型消费的特色措施是（）。",
+    "options": [
+      "A. 推进数字人民币落地",
+      "B. 培育数字商圈和直播电商基地",
+      "C. 塑造巴渝文化特色消费场景",
+      "D. 推动便利店进驻地铁站"
+    ],
+    "answer": "C",
+    "explanation": "重庆强调塑造巴渝文化特色消费场景。A为北京措施，B为上海措施，D为北京措施。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统架构",
+    "knowledge_point": "直播电商",
+    "source_ref": "references/第23章_新型消费系统规划.md#系统架构",
+    "tags": [
+      "直播电商",
+      "系统架构"
+    ]
+  },
+  {
+    "id": "ch23_q047",
+    "question": "新型消费系统中，数据驱动的商业模式要求系统具备（）。",
+    "options": [
+      "A. 仅展示商品信息",
+      "B. 分析消费者行为和需求的能力",
+      "C. 仅支持现金支付",
+      "D. 仅支持线下交易"
+    ],
+    "answer": "B",
+    "explanation": "数据驱动的商业模式要求商家可以通过大数据、人工智能等技术分析消费者行为和需求，优化产品和服务。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "发展整体环境",
+    "knowledge_point": "新型消费系统中",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "新型消费系统中",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q048",
+    "question": "服装智慧门店业务闭环逻辑中，线上与线下的关系是（）。",
+    "options": [
+      "A. 线上取代线下",
+      "B. 线下取代线上",
+      "C. 线下体验+线上购买的闭环",
+      "D. 线上线下完全独立"
+    ],
+    "answer": "C",
+    "explanation": "服装智慧门店倡导\"线下体验+线上购买\"的无缝式购物体验闭环。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "规划要点",
+    "knowledge_point": "智慧门店",
+    "source_ref": "references/第23章_新型消费系统规划.md#规划要点",
+    "tags": [
+      "智慧门店",
+      "规划要点"
+    ]
+  },
+  {
+    "id": "ch23_q049",
+    "question": "在农产品案例中，企业打造的\"三位一体\"体系不包括（）。",
+    "options": [
+      "A. 农产品物流加工集结中心",
+      "B. 农产品物流加工中转分拨中心",
+      "C. 农产品物流加工集散中心",
+      "D. 农产品研发中心"
+    ],
+    "answer": "D",
+    "explanation": "三位一体体系包括集结中心、中转分拨中心和集散中心，不包括\"研发中心\"。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "发展整体环境",
+    "knowledge_point": "发展整体环境",
+    "source_ref": "references/第23章_新型消费系统规划.md#发展整体环境",
+    "tags": [
+      "在农产品案例中",
+      "发展整体环境"
+    ]
+  },
+  {
+    "id": "ch23_q050",
+    "question": "新型消费系统中，微服务架构的主要优势是（）。",
+    "options": [
+      "A. 降低系统安全性",
+      "B. 提供更灵活、可扩展、可维护的系统架构",
+      "C. 增加系统耦合度",
+      "D. 减少系统可扩展性"
+    ],
+    "answer": "B",
+    "explanation": "微服务架构可以提供更灵活、可扩展、可维护的系统架构，每个服务都可以独立运行、部署和扩展。",
+    "chapter": "第23章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统架构",
+    "knowledge_point": "新型消费系统中",
+    "source_ref": "references/第23章_新型消费系统规划.md#系统架构",
+    "tags": [
+      "新型消费系统中",
+      "系统架构"
+    ]
+  },
+  {
+    "id": "ch23_q051",
+    "question": "物联网技术在新型消费中，实现物品之间互联互通的功能不包括（ ）。",
+    "options": [
+      "A. 信息共享",
+      "B. 数据传输",
+      "C. 独立决策",
+      "D. 集中处理数据"
+    ],
+    "answer": "D",
+    "explanation": "23.1.4 技术演进推动指出，物联网技术实现物品之间信息共享、数据传输和自主 决策等功能，不包括集中处理数据。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0073"
+  },
+  {
+    "id": "ch23_q052",
+    "question": "数字经济条件下，新消费场景不断涌现，其中不包括（ ）。",
+    "options": [
+      "A. 传统集市购物",
+      "B. 电商直播",
+      "C. “云购物”",
+      "D. 在线教育"
+    ],
+    "answer": "A",
+    "explanation": "23.1.3 数字经济加持指出，数字经济下新消费场景有电商直播、“云购物”、 在线教育等，传统集市购物不属于新消费场景。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0070"
+  },
+  {
+    "id": "ch23_q053",
+    "question": "物联网技术在新型消费中，实现物品之间互联互通的功能不包括( )",
+    "options": [
+      "A. 信息共享",
+      "B. 数据传输",
+      "C. 独立决策",
+      "D. 集中处理数据"
+    ],
+    "answer": "D",
+    "explanation": "23.1.4 技术演进推动指出，物联网技术实现物品之间信息共享、数据传输和自主 决策等功能，不包括集中处理数据。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0153"
+  },
+  {
+    "id": "ch23_q054",
+    "question": "数字经济条件下，新消费场景不断涌现，其中不包括( )",
+    "options": [
+      "A. 传统集市购物",
+      "B. 电商直播",
+      "C. “云购物”",
+      "D. 在线教育"
+    ],
+    "answer": "A",
+    "explanation": "依据23.1.3 数字经济加持，数字经济下新消费场景有电商直播、“云购物”、 在线教育等，传统集市购物不属于新消费场景。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0150"
+  },
+  {
+    "id": "ch23_q055",
+    "question": "在促活锁客方面，导入私域流量时搭建私域流量池，其中销售阵地不包括（ ）。",
+    "options": [
+      "A. 个人号",
+      "B. 社群",
+      "C. 线下智慧门店",
+      "D. 微博"
+    ],
+    "answer": "D",
+    "explanation": "23.3.5 关键要素指出，私域流量池的销售阵地包括个人号、社群、线下智慧门店， 微博属于传播阵地。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0053"
+  },
+  {
+    "id": "ch23_q056",
+    "question": "新型消费是利用信息数字技术实现供需、产销高效匹配，形成一系列新业态，其中 信息数字技术不包括（ ）。",
+    "options": [
+      "A. 3D 建模技术",
+      "B. 区块链技术",
+      "C. 人工智能技术",
+      "D. 互联网技术"
+    ],
+    "answer": "A",
+    "explanation": "新型消费主要利用的是互联网、人工智能、区块链等技术，而3D 建模技术虽然 也是信息技术的一种，但在此处不特指为新型消费所利用的核心技术。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0063"
+  },
+  {
+    "id": "ch23_q057",
+    "question": "在促活锁客方面，导入私域流量时搭建私域流量池，其中销售阵地不包括( )",
+    "options": [
+      "A. 个人号",
+      "B. 社群",
+      "C. 线下智慧门店",
+      "D. 微博"
+    ],
+    "answer": "D",
+    "explanation": "23.3.5 关键要素指出，私域流量池的销售阵地包括个人号、社群、线下智慧门店， 微博属于传播阵地。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0183"
+  },
+  {
+    "id": "ch23_q058",
+    "question": "新型消费系统需具备的能力不包括（ ）。",
+    "options": [
+      "A. 单一化的消费场景和渠道",
+      "B. 智能化的交互方式和个性化的服务",
+      "C. 数据驱动的商业模式和运营决策",
+      "D. 生态化的产业结构和合作模式"
+    ],
+    "answer": "A",
+    "explanation": "23.4 系统架构提到，新型消费系统需具备多元化的消费场景和渠道，并非单一化 的消费场景和渠道。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0015"
+  },
+  {
+    "id": "ch23_q059",
+    "question": "新零售模式下，将传统商业三要素顺序调整的目的是( )",
+    "options": [
+      "A. 满足人类本能对及时获得的强烈感受",
+      "B. 提高从“欲望”到“拥有”的效率",
+      "C. 以消费者为主体",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "23.2.1 新零售业态表明，新零售将“货、场、人”调整为“人、货、场”， 重组零售行业逻辑和链条，目的是满足人类本能对及时获得的强烈感受，同时从以品 牌为主体转换为以消费者为主体，提高从“欲望”到“拥有”的效率。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0200"
+  },
+  {
+    "id": "ch23_q060",
+    "question": "新型消费系统需具备的能力不包括( )",
+    "options": [
+      "A. 单一化的消费场景和渠道",
+      "B. 智能化的交互方式和个性化的服务",
+      "C. 数据驱动的商业模式和运营决策",
+      "D. 生态化的产业结构和合作模式"
+    ],
+    "answer": "A",
+    "explanation": "23.4 系统架构提到，新型消费系统需具备多元化的消费场景和渠道，并非单一化 的消费场景和渠道。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0139"
+  },
+  {
+    "id": "ch23_q061",
+    "question": "新型消费系统架构设计中，采用多终端支持能力相关技术，是因为新型消费场景下 的计算机系统需要支持( )",
+    "options": [
+      "A. PC 端、移动终端等多种终端",
+      "B. 仅PC 端",
+      "C. 仅移动终端",
+      "D. 特定的专业终端"
+    ],
+    "answer": "A",
+    "explanation": "23.4.1 总体架构指出，新型消费场景下的计算机系统需要支持多种终端，例如PC 端、移动终端等，所以要采用响应式设计和移动端开发技术等提高多终端支持能力。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0210"
+  },
+  {
+    "id": "ch23_q062",
+    "question": "为实现新型消费系统的灵活扩展，采用基于云计算的架构，主要是利用云计算的 ( ) 。",
+    "options": [
+      "A. 弹性计算、存储和网络资源，可根据业务需求动态扩展系统资源",
+      "B. 固定计算、存储和网络资源，保证系统稳定运行",
+      "C. 免费计算、存储和网络资源，降低系统成本",
+      "D. 复杂计算、存储和网络资源，提高系统性能"
+    ],
+    "answer": "A",
+    "explanation": "23.4.4 灵活扩展指出，基于云计算的架构，通过使用云计算服务提供商提供的弹 性计算、存储和网络资源，可以根据用户数增加等业务需求动态扩展系统资源，满足不 同业务场景和需求。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0059"
+  },
+  {
+    "id": "ch23_q063",
+    "question": "为实现新型消费系统的灵活扩展，采用基于云计算的架构，主要是利用云计算的 ( )",
+    "options": [
+      "A. 弹性计算、存储和网络资源，可根据业务需求动态扩展系统资源",
+      "B. 固定计算、存储和网络资源，保证系统稳定运行",
+      "C. 免费计算、存储和网络资源，降低系统成本",
+      "D. 复杂计算、存储和网络资源，提高系统性能"
+    ],
+    "answer": "A",
+    "explanation": "23.4.4 灵活扩展指出，基于云计算的架构，通过使用云计算服务提供商提供的弹 性计算、存储和网络资源，可以根据用户数增加等业务需求动态扩展系统资源，满足不 同业务场景和需求。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0188"
+  },
+  {
+    "id": "ch23_q064",
+    "question": "新型消费系统架构设计中，采用微服务架构的优势不包括（ ）。",
+    "options": [
+      "A. 降低系统可扩展性",
+      "B. 每个服务可独立运行、部署和扩展",
+      "C. 快速响应不同业务需求",
+      "D. 提供更灵活、可维护的系统架构"
+    ],
+    "answer": "A",
+    "explanation": "23.4.1 总体架构表明，微服务架构可以提供更灵活、可扩展、可维护的系统架构， 每个服务都可以独立运行、部署和扩展，能快速响应不同的业务需求，A 选项降低系 统 可扩展性错误。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0090"
+  },
+  {
+    "id": "ch23_q065",
+    "question": "新型消费系统架构设计中，采用微服务架构的优势不包括( )",
+    "options": [
+      "A. 降低系统可扩展性",
+      "B. 每个服务可独立运行、部署和扩展",
+      "C. 快速响应不同业务需求",
+      "D. 提供更灵活、可维护的系统架构"
+    ],
+    "answer": "A",
+    "explanation": "23.4.1 总体架构表明，微服务架构可以提供更灵活、可扩展、可维护的系统架构， 每个服务都可以独立运行、部署和扩展，能快速响应不同的业务需求，A 选项降低系 统 可扩展性错误。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0169"
+  },
+  {
+    "id": "ch23_q066",
+    "question": "在新型消费系统规划的需求分析中，收集用户需求和期望可以采用的方式不包括 ( ) 。",
+    "options": [
+      "A. 问卷调查",
+      "B. 强制收集",
+      "C. 用户访谈",
+      "D. 数据挖掘"
+    ],
+    "answer": "B",
+    "explanation": "23.3.1 需求分析表明，收集用户需求和期望可以通过问卷调查、用户访谈、数据 挖掘等方式，强制收集不属于合理方式。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0048"
+  },
+  {
+    "id": "ch23_q067",
+    "question": "以下哪种技术不属于与新型消费紧密相关的关键技术？( )",
+    "options": [
+      "A. 3D 打印技术",
+      "B. 电子商务技术",
+      "C. 移动支付技术",
+      "D. 大数据技术"
+    ],
+    "answer": "A",
+    "explanation": "从23.1.4 技术演进推动可知，与新型消费紧密相关的关键技术主要包括电子商 务技术、移动支付技术、大数据技术、人工智能技术、物联网技术和XR 技术等，不包 含3D 打印技术。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0004"
+  },
+  {
+    "id": "ch23_q068",
+    "question": "新型消费系统规划的需求分析中，收集用户需求和期望可以采用的方式不包括 ( )",
+    "options": [
+      "A. 问卷调查",
+      "B. 强制收集",
+      "C. 用户访谈",
+      "D. 数据挖掘"
+    ],
+    "answer": "B",
+    "explanation": "23.3.1 需求分析表明，收集用户需求和期望可以通过问卷调查、用户访谈、数据 挖掘等方式，强制收集不属于合理方式。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0179"
+  },
+  {
+    "id": "ch23_q069",
+    "question": "新型消费场景下系统架构设计中，采用大规模分布式系统架构和云计算、容器化技 术，主要是为了实现（ ）。",
+    "options": [
+      "A. 处理大量用户请求能力",
+      "B. 大量数据处理分析能力",
+      "C. 数据安全和隐私保护能力",
+      "D. 实时响应和交互能力"
+    ],
+    "answer": "A",
+    "explanation": "23.4.1 总体架构表明，采用大规模分布式系统架构，以及云计算和容器化技术， 可以提高系统处理大量用户请求的能力。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0016"
+  },
+  {
+    "id": "ch23_q070",
+    "question": "进行新型消费系统规划的效益分析时，需要评估系统开发和实施的成本，以下哪项 不属于该成本范畴？( )",
+    "options": [
+      "A. 硬件费用",
+      "B. 用户数量",
+      "C. 人力费用",
+      "D. 软件费用"
+    ],
+    "answer": "B",
+    "explanation": "系统开发和实施的成本包括硬件费用、人力费用、软件费用等，而用户数量是市 场或运营方面的考量，不属于成本范畴。",
+    "chapter": "第23章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "新型消费系统规划",
+    "knowledge_point": "新型消费系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第23章",
+    "tags": [
+      "新型消费系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch23_0013"
+  }
+]

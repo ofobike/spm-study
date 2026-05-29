@@ -1,0 +1,1684 @@
+[
+  {
+    "id": "ch01_q001",
+    "question": "根据诺兰模型，信息系统发展的六个阶段中，以下哪个阶段的主要特点是出现计算机系统的管理组织、数据库技术得到应用、开始从计算机管理向数据管理转变？",
+    "options": [
+      "A. 传播阶段",
+      "B. 控制阶段",
+      "C. 集成阶段",
+      "D. 数据管理阶段"
+    ],
+    "answer": "B",
+    "explanation": "根据诺兰模型，控制阶段的主要特点是：出现了计算机系统的管理组织；数据库（DB）技术得到应用；开始从计算机管理向数据管理转变。传播阶段的特点是数据处理能力快速提高、数据冗余等问题出现、使用效率偏低。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统发展",
+    "knowledge_point": "信息系统",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息系统发展",
+    "tags": [
+      "信息系统",
+      "信息系统发展",
+      "诺兰",
+      "数据库"
+    ]
+  },
+  {
+    "id": "ch01_q002",
+    "question": "在OSI参考模型中，由低层至高层的正确顺序是？",
+    "options": [
+      "A. 物理层、网络层、数据链路层、传输层、会话层、表示层、应用层",
+      "B. 物理层、数据链路层、网络层、传输层、会话层、表示层、应用层",
+      "C. 物理层、数据链路层、传输层、网络层、表示层、会话层、应用层",
+      "D. 数据链路层、物理层、网络层、传输层、应用层、会话层、表示层"
+    ],
+    "answer": "B",
+    "explanation": "OSI/RM的网络体系结构由低层至高层分别为物理层、数据链路层、网络层、传输层、会话层、表示层和应用层，共七层。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "计算机网络",
+    "knowledge_point": "OSI",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#计算机网络",
+    "tags": [
+      "OSI",
+      "计算机网络",
+      "网络"
+    ]
+  },
+  {
+    "id": "ch01_q003",
+    "question": "以下关于信息安全基本属性的描述，不正确的是？",
+    "options": [
+      "A. 保密性即保证信息为授权者享用而不泄漏给未经授权者",
+      "B. 完整性即保证信息和信息系统随时为授权者提供服务",
+      "C. 可控性即保证管理者能够对信息实施必要的控制管理",
+      "D. 不可否认性即人们要为自己的信息行为负责"
+    ],
+    "answer": "B",
+    "explanation": "完整性是指保证信息从真实的发信者传送到真实的收信者手中，传送过程中没有被非法用户添加、删除和替换等。保证信息和信息系统随时为授权者提供服务是可用性的定义，不是完整性的定义。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息安全",
+    "tags": [
+      "信息安全",
+      "信息系统"
+    ]
+  },
+  {
+    "id": "ch01_q004",
+    "question": "物联网架构可分为三层，其中负责传递和处理感知层获取的信息、是整个物联网中枢的是哪一层？",
+    "options": [
+      "A. 感知层",
+      "B. 网络层",
+      "C. 应用层",
+      "D. 传输层"
+    ],
+    "answer": "B",
+    "explanation": "物联网架构分为感知层、网络层和应用层。感知层是物联网识别物体、采集信息的来源；网络层是整个物联网的中枢，负责传递和处理感知层获取的信息；应用层是物联网和用户的接口。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "物联网",
+    "knowledge_point": "物联网",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#物联网",
+    "tags": [
+      "物联网",
+      "网络"
+    ]
+  },
+  {
+    "id": "ch01_q005",
+    "question": "大数据的主要特征通常用4V来描述，以下哪项不属于大数据的4V特征？",
+    "options": [
+      "A. 可视性（Visibility）",
+      "B. 多样性（Variety）",
+      "C. 规模性（Volume）",
+      "D. 速度（Velocity）"
+    ],
+    "answer": "A",
+    "explanation": "大数据的4V特征为：规模性（Volume）、多样性（Variety）、价值密度（Value）和速度（Velocity）。可视性（Visibility）不属于大数据的4V特征。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "大数据",
+    "knowledge_point": "大数据",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#大数据",
+    "tags": [
+      "大数据"
+    ]
+  },
+  {
+    "id": "ch01_q006",
+    "question": "区块链的特点不包括以下哪项？",
+    "options": [
+      "A. 集中控制",
+      "B. 不可篡改",
+      "C. 多中心化",
+      "D. 智能合约"
+    ],
+    "answer": "A",
+    "explanation": "区块链的特点包括：多中心化、多方维护、时序数据、智能合约、不可篡改、开放共识、安全可信。集中控制与区块链的多中心化特征相反，不属于区块链的特点。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "区块链",
+    "knowledge_point": "区块链",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#区块链",
+    "tags": [
+      "区块链",
+      "共识"
+    ]
+  },
+  {
+    "id": "ch01_q007",
+    "question": "云计算按照服务提供的资源层次，可以分为IaaS、PaaS和SaaS三种服务类型。其中SaaS是指？",
+    "options": [
+      "A. 软件即服务",
+      "B. 平台即服务",
+      "C. 基础设施即服务",
+      "D. 安全即服务"
+    ],
+    "answer": "A",
+    "explanation": "按照云计算服务提供的资源层次，IaaS（Infrastructure as a Service）为基础设施即服务，PaaS（Platform as a Service）为平台即服务，SaaS（Software as a Service）为软件即服务。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云计算",
+    "knowledge_point": "SaaS",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#云计算",
+    "tags": [
+      "SaaS",
+      "云计算",
+      "IaaS",
+      "PaaS"
+    ]
+  },
+  {
+    "id": "ch01_q008",
+    "question": "信息安全的四个层次从低到高依次为？",
+    "options": [
+      "A. 设备安全、数据安全、内容安全、行为安全",
+      "B. 数据安全、设备安全、行为安全、内容安全",
+      "C. 设备安全、内容安全、数据安全、行为安全",
+      "D. 行为安全、数据安全、内容安全、设备安全"
+    ],
+    "answer": "A",
+    "explanation": "信息安全可以划分为四个层次：设备安全、数据安全、内容安全和行为安全，按照从底层到上层的顺序排列。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息安全",
+    "tags": [
+      "信息安全"
+    ]
+  },
+  {
+    "id": "ch01_q009",
+    "question": "信息化的主体是？",
+    "options": [
+      "A. 政府和企业",
+      "B. 全体社会成员",
+      "C. 信息技术人员",
+      "D. 科研机构"
+    ],
+    "answer": "B",
+    "explanation": "信息化的主体是全体社会成员，包括政府、企业、事业、团体和个人。信息化不是某一群体的专属行为，而是全社会共同参与的过程。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息化内涵与特征",
+    "knowledge_point": "信息化",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息化内涵与特征",
+    "tags": [
+      "信息化",
+      "信息化内涵与特征"
+    ]
+  },
+  {
+    "id": "ch01_q010",
+    "question": "以下关于信息化特征的描述，不正确的是？",
+    "options": [
+      "A. 广泛性指信息化涉及社会的各个领域",
+      "B. 深度性指信息化改变了生产、经营、管理、服务等活动的方式和内容",
+      "C. 快速性指信息技术不断创新和普及，信息化进程在全球迅速推进",
+      "D. 封闭性指信息化系统之间相互独立，不进行信息交换"
+    ],
+    "answer": "D",
+    "explanation": "信息化的特征包括广泛性、深度性、快速性、数据量巨大、信息交流快速、信息处理能力强大、跨界整合、社会生产方式改变等，不包括封闭性。信息化恰恰强调信息的开放共享和跨界整合。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息化内涵与特征",
+    "knowledge_point": "信息化",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息化内涵与特征",
+    "tags": [
+      "信息化",
+      "信息化内涵与特征"
+    ]
+  },
+  {
+    "id": "ch01_q011",
+    "question": "我国信息化发展战略总目标是分\"三步走\"建设网络强国，其中第二步到2025年的目标不包括以下哪项？",
+    "options": [
+      "A. 信息化全面支撑社会主义现代化国家建设",
+      "B. 根本改变核心关键技术受制于人的局面",
+      "C. 建成国际领先的移动通信网络",
+      "D. 涌现一批具有强大国际竞争力的大型跨国网信企业"
+    ],
+    "answer": "A",
+    "explanation": "第二步到2025年的目标包括建成国际领先的移动通信网络、根本改变核心关键技术受制于人的局面、实现技术先进产业发达应用领先网络安全坚不可摧的战略目标、涌现一批具有强大国际竞争力的大型跨国网信企业。\"信息化全面支撑社会主义现代化国家建设\"是第三步到21世纪中叶的目标。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "计算机网络",
+    "knowledge_point": "信息化",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#计算机网络",
+    "tags": [
+      "信息化",
+      "计算机网络",
+      "网络"
+    ]
+  },
+  {
+    "id": "ch01_q012",
+    "question": "广义的信息系统具有三个维度，以下哪项不属于这三个维度？",
+    "options": [
+      "A. 组织",
+      "B. 管理",
+      "C. 信息技术",
+      "D. 财务"
+    ],
+    "answer": "D",
+    "explanation": "广义的信息系统具有三个维度：组织、管理和信息技术。财务不属于信息系统的三个维度。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统内涵与特征",
+    "knowledge_point": "信息系统",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息系统内涵与特征",
+    "tags": [
+      "信息系统",
+      "信息系统内涵与特征"
+    ]
+  },
+  {
+    "id": "ch01_q013",
+    "question": "以下哪项不是信息系统的特征？",
+    "options": [
+      "A. 单一性",
+      "B. 动态性",
+      "C. 复杂性",
+      "D. 可靠性"
+    ],
+    "answer": "A",
+    "explanation": "信息系统的特征包括：复杂性、动态性、可扩展性、易用性、实时性、安全性、可靠性和成本效益。单一性不是信息系统的特征，信息系统恰恰强调可扩展性和多功能性。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统内涵与特征",
+    "knowledge_point": "信息系统",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息系统内涵与特征",
+    "tags": [
+      "信息系统",
+      "信息系统内涵与特征"
+    ]
+  },
+  {
+    "id": "ch01_q014",
+    "question": "信息系统通用结构自底向上可分为五个层次，其中负责保障信息传输和共享、提供基础数据服务的是哪一层？",
+    "options": [
+      "A. 中间件层",
+      "B. 资源管理层",
+      "C. 基础设施层",
+      "D. 业务逻辑层"
+    ],
+    "answer": "A",
+    "explanation": "中间件层主要负责保障信息（数据）的传输和共享，负责提供某一类特定的基础数据服务，例如传输中间件、交易中间件、GIS中间件等。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统内涵与特征",
+    "knowledge_point": "信息系统",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息系统内涵与特征",
+    "tags": [
+      "信息系统",
+      "信息系统内涵与特征"
+    ]
+  },
+  {
+    "id": "ch01_q015",
+    "question": "按照信息系统硬件在空间上的拓扑结构，信息系统的物理结构一般可分为哪两大类？",
+    "options": [
+      "A. 层次式与网状式",
+      "B. 集中式与分布式",
+      "C. 星形与环形",
+      "D. C/S与B/S"
+    ],
+    "answer": "B",
+    "explanation": "按照信息系统硬件在空间上的拓扑结构，其物理结构一般可分为集中式与分布式两大类。集中式结构指物理资源在空间上进行集中配置，分布式结构通过计算机网络把不同地点的资源联系在一起。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "计算机网络",
+    "knowledge_point": "信息系统",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#计算机网络",
+    "tags": [
+      "信息系统",
+      "计算机网络",
+      "网络"
+    ]
+  },
+  {
+    "id": "ch01_q016",
+    "question": "诺兰模型将计算机信息系统的发展划分为六个阶段，其中前三个阶段具有什么时代的特征？",
+    "options": [
+      "A. 信息时代",
+      "B. 计算机时代",
+      "C. 网络时代",
+      "D. 数字时代"
+    ],
+    "answer": "B",
+    "explanation": "诺兰的六阶段模型中，前三个阶段（初始阶段、传播阶段、控制阶段）具有计算机时代的特征，后三个阶段（集成阶段、数据管理阶段、成熟阶段）具有信息时代的特征。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统发展",
+    "knowledge_point": "信息系统",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息系统发展",
+    "tags": [
+      "信息系统",
+      "信息系统发展",
+      "诺兰",
+      "网络"
+    ]
+  },
+  {
+    "id": "ch01_q017",
+    "question": "冯·诺依曼计算机结构将计算机硬件划分为五部分，以下哪项不属于这五部分？",
+    "options": [
+      "A. 网卡",
+      "B. 运算器",
+      "C. 控制器",
+      "D. 存储器"
+    ],
+    "answer": "A",
+    "explanation": "冯·诺依曼计算机结构将计算机硬件划分为五部分：控制器、运算器、存储器、输入设备和输出设备。网卡不属于这五部分。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统及其发展",
+    "knowledge_point": "诺依曼计算机结构将计算机",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息系统及其发展",
+    "tags": [
+      "诺依曼计算机结构将计算机",
+      "信息系统及其发展"
+    ]
+  },
+  {
+    "id": "ch01_q018",
+    "question": "以下关于计算机网络性能指标的描述，不正确的是？",
+    "options": [
+      "A. 速率指的是数据在数字信道上传送数据的速率，单位是b/s",
+      "B. 带宽表示单位时间内从一个节点到另一个节点所能通过的最高数据率",
+      "C. 时延由发送时延、传播时延、处理时延、排队时延等组成",
+      "D. 吞吐量不受网络带宽的限制"
+    ],
+    "answer": "D",
+    "explanation": "吞吐量受网络的带宽或网络额定速率所限制，因此D选项描述不正确。吞吐量表示在单位时间内通过某个网络（或信道、接口）的数据量。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "计算机网络",
+    "knowledge_point": "计算机网络",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#计算机网络",
+    "tags": [
+      "网络",
+      "计算机网络"
+    ]
+  },
+  {
+    "id": "ch01_q019",
+    "question": "SDN（软件定义网络）的整体架构由下到上分为哪三个平面？",
+    "options": [
+      "A. 物理平面、逻辑平面、应用平面",
+      "B. 数据平面、控制平面、应用平面",
+      "C. 传输平面、管理层、服务平面",
+      "D. 硬件平面、虚拟平面、用户平面"
+    ],
+    "answer": "B",
+    "explanation": "SDN的整体架构由下到上（由南到北）分为数据平面、控制平面和应用平面。数据平面由交换机等网络硬件组成，控制平面包含SDN控制器，应用平面包含各种基于SDN的网络应用。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "计算机网络",
+    "knowledge_point": "SDN",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#计算机网络",
+    "tags": [
+      "SDN",
+      "计算机网络",
+      "网络"
+    ]
+  },
+  {
+    "id": "ch01_q020",
+    "question": "在SDN架构中，南向接口负责与哪个平面进行通信？",
+    "options": [
+      "A. 数据平面",
+      "B. 控制平面",
+      "C. 应用平面",
+      "D. 管理平面"
+    ],
+    "answer": "A",
+    "explanation": "SDN中的南向接口负责与数据平面进行通信，北向接口负责与应用平面进行通信，东西向接口负责多控制器之间的通信。最主流的南向接口采用的是OpenFlow协议。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "计算机网络",
+    "knowledge_point": "SDN",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#计算机网络",
+    "tags": [
+      "SDN",
+      "计算机网络"
+    ]
+  },
+  {
+    "id": "ch01_q021",
+    "question": "5G采用的新型信道编码方案不包括以下哪项？",
+    "options": [
+      "A. Turbo",
+      "B. Polar",
+      "C. LDPC",
+      "D. 以上都不是"
+    ],
+    "answer": "A",
+    "explanation": "5G采用LDPC和Polar两种新型信道编码方案。LDPC是一种具有稀疏校验矩阵的分组纠错码，Polar是一种基于信道极化理论的线性分组码。Turbo码是4G时代的编码方案，不是5G的新型编码方案。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "计算机网络",
+    "knowledge_point": "计算机网络",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#计算机网络",
+    "tags": [
+      "5G",
+      "计算机网络"
+    ]
+  },
+  {
+    "id": "ch01_q022",
+    "question": "在数据存储技术中，以下哪种存储方式将存储设备通过SCSI或光纤通道直接连接到一台主机上，不能实现与其他主机的资源共享？",
+    "options": [
+      "A. DAS",
+      "B. NAS",
+      "C. SAN",
+      "D. 对象存储"
+    ],
+    "answer": "A",
+    "explanation": "DAS（直接附加存储）将存储设备通过SCSI或光纤通道直接连接到一台主机上，主机管理其本身的文件系统，不能实现与其他主机的资源共享。SAN是高速专用存储网络，NAS提供文件访问服务。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "计算机网络",
+    "knowledge_point": "计算机网络",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#计算机网络",
+    "tags": [
+      "网络",
+      "计算机网络"
+    ]
+  },
+  {
+    "id": "ch01_q023",
+    "question": "以下关于数据结构模型的描述，不正确的是？",
+    "options": [
+      "A. 层次模型用树结构表示实体集之间的关联",
+      "B. 网状模型可以清晰地表示非层次关系",
+      "C. 关系模型用二维表格的形式表示实体及实体间的联系",
+      "D. 层次模型可以处理多对多的实体联系"
+    ],
+    "answer": "D",
+    "explanation": "层次模型中记录类型之间的联系是父子之间的一对多的联系，层次数据库系统只能处理一对多的实体联系，不能处理多对多的实体联系。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数据存储和数据库",
+    "knowledge_point": "数据库",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#数据存储和数据库",
+    "tags": [
+      "数据库",
+      "数据存储和数据库"
+    ]
+  },
+  {
+    "id": "ch01_q024",
+    "question": "关系型数据库支持事务的ACID原则，以下哪项不属于ACID原则？",
+    "options": [
+      "A. 可用性（Availability）",
+      "B. 一致性（Consistency）",
+      "C. 原子性（Atomicity）",
+      "D. 持久性（Durability）"
+    ],
+    "answer": "A",
+    "explanation": "ACID原则包括原子性（Atomicity）、一致性（Consistency）、隔离性（Isolation）和持久性（Durability）。可用性（Availability）不属于ACID原则，它是分布式系统CAP理论中的概念。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数据存储和数据库",
+    "knowledge_point": "数据库",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#数据存储和数据库",
+    "tags": [
+      "数据库",
+      "数据存储和数据库"
+    ]
+  },
+  {
+    "id": "ch01_q025",
+    "question": "数据仓库是一个面向主题的、集成的、非易失的且随时间变化的数据集合，其主要用途是？",
+    "options": [
+      "A. 联机事务处理",
+      "B. 支持管理决策",
+      "C. 实时数据采集",
+      "D. 网络安全管理"
+    ],
+    "answer": "B",
+    "explanation": "数据仓库是一个面向主题的、集成的、非易失的且随时间变化的数据集合，用于支持管理决策。传统的数据库技术在联机事务处理中获得了成功，而数据仓库满足的是预测和决策分析的需要。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "计算机网络",
+    "knowledge_point": "数据仓库",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#计算机网络",
+    "tags": [
+      "数据仓库",
+      "计算机网络",
+      "网络",
+      "数据库"
+    ]
+  },
+  {
+    "id": "ch01_q026",
+    "question": "以下关于OLAP实现方式的描述，正确的是？",
+    "options": [
+      "A. HOLAP的基本数据存放于RDBMS之中，聚合数据存放于多维数据库中",
+      "B. MOLAP的基本数据和聚合数据均存放在RDBMS之中",
+      "C. ROLAP的基本数据和聚合数据均存放于多维数据库中",
+      "D. ROLAP和MOLAP的数据存储方式完全相同"
+    ],
+    "answer": "A",
+    "explanation": "HOLAP（混合型OLAP）的基本数据存放于关系数据库管理系统（RDBMS）之中，聚合数据存放于多维数据库中。ROLAP基本数据和聚合数据均存放在RDBMS之中，MOLAP基本数据和聚合数据均存放于多维数据库中。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数据存储和数据库",
+    "knowledge_point": "数据库",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#数据存储和数据库",
+    "tags": [
+      "数据库",
+      "数据存储和数据库"
+    ]
+  },
+  {
+    "id": "ch01_q027",
+    "question": "以下哪项不是常见的访问控制机制？",
+    "options": [
+      "A. 基于频率的访问控制",
+      "B. 基于角色的访问控制",
+      "C. 自主访问控制",
+      "D. 强制访问控制"
+    ],
+    "answer": "A",
+    "explanation": "常见的访问控制机制包括：自主访问控制、基于角色的访问控制、基于规则的访问控制和强制访问控制。基于频率的访问控制不是标准的访问控制机制。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全",
+    "knowledge_point": "不常见的访问控制机制",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息安全",
+    "tags": [
+      "不常见的访问控制机制",
+      "信息安全"
+    ]
+  },
+  {
+    "id": "ch01_q028",
+    "question": "对称加密和非对称加密的典型代表算法分别是？",
+    "options": [
+      "A. RSA和DES",
+      "B. DES和RSA",
+      "C. MD5和SHA",
+      "D. AES和MD5"
+    ],
+    "answer": "B",
+    "explanation": "对称加密以DES（数据加密标准）算法为典型代表，非对称加密通常以RSA算法为代表。对称加密的加密密钥和解密密钥相同，非对称加密的加密密钥和解密密钥不同。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全",
+    "knowledge_point": "对称加密和非对称加密的典",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息安全",
+    "tags": [
+      "对称加密和非对称加密的典",
+      "信息安全"
+    ]
+  },
+  {
+    "id": "ch01_q029",
+    "question": "网络安全态势感知的关键技术不包括以下哪项？",
+    "options": [
+      "A. 海量多元异构数据的汇聚融合技术",
+      "B. 面向多类型的网络安全威胁评估技术",
+      "C. 网络安全态势评估与决策支撑技术",
+      "D. 人工神经网络训练技术"
+    ],
+    "answer": "D",
+    "explanation": "网络安全态势感知的关键技术主要包括：海量多元异构数据的汇聚融合技术、面向多类型的网络安全威胁评估技术、网络安全态势评估与决策支撑技术、网络安全态势可视化。人工神经网络训练技术不属于网络安全态势感知的关键技术。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "计算机网络",
+    "knowledge_point": "计算机网络",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#计算机网络",
+    "tags": [
+      "网络",
+      "计算机网络"
+    ]
+  },
+  {
+    "id": "ch01_q030",
+    "question": "UEBA（用户和实体行为分析）系统架构通常包括哪三层？",
+    "options": [
+      "A. 感知层、网络层、应用层",
+      "B. 数据获取层、算法分析层、场景应用层",
+      "C. 物理层、逻辑层、表示层",
+      "D. 采集层、处理层、展示层"
+    ],
+    "answer": "B",
+    "explanation": "从架构来看，UEBA系统通常包括数据获取层、算法分析层和场景应用层。UEBA提供了用户画像及基于各种分析方法的异常检测，结合基本分析方法和高级分析方法来发现潜在的安全事件。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "计算机网络",
+    "knowledge_point": "计算机网络",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#计算机网络",
+    "tags": [
+      "网络",
+      "计算机网络"
+    ]
+  },
+  {
+    "id": "ch01_q031",
+    "question": "从物联网本质的角度，物联网具有三个特点，以下哪项不是其本质特点？",
+    "options": [
+      "A. 互联",
+      "B. 识别与通信",
+      "C. 智能化",
+      "D. 集中管控"
+    ],
+    "answer": "D",
+    "explanation": "从物联网本质的角度，物联网具有三个特点：互联、识别与通信、智能化。集中管控不是物联网的本质特点，物联网强调的是分布式、泛在的连接和智能。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "物联网",
+    "knowledge_point": "物联网",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#物联网",
+    "tags": [
+      "物联网"
+    ]
+  },
+  {
+    "id": "ch01_q032",
+    "question": "RFID技术中，负责读取信息的设备称为？",
+    "options": [
+      "A. 标签",
+      "B. 阅读器",
+      "C. 天线",
+      "D. 传感器"
+    ],
+    "answer": "B",
+    "explanation": "RFID系统由阅读器（询问器）和标签（应答器）组成。标签由耦合元件及芯片组成，附着在物体上标识目标对象；阅读器就是读取信息的设备，通过天线将射频信息传递给阅读器。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "物联网",
+    "knowledge_point": "RFID",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#物联网",
+    "tags": [
+      "RFID",
+      "物联网"
+    ]
+  },
+  {
+    "id": "ch01_q033",
+    "question": "区块链中，解决分布式系统节点或程序协作一致的基本保障机制称为？",
+    "options": [
+      "A. 加密算法",
+      "B. 共识机制",
+      "C. 分布式账本",
+      "D. 哈希算法"
+    ],
+    "answer": "B",
+    "explanation": "共识机制是解决区块链共识问题的核心机制。共识算法能保证分布式的计算机或软件程序协作一致，对外系统的输入输出做出正确的响应。常用的共识机制主要有PoW、PoS、DPoS等。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "区块链",
+    "knowledge_point": "区块链",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#区块链",
+    "tags": [
+      "区块链",
+      "共识"
+    ]
+  },
+  {
+    "id": "ch01_q034",
+    "question": "区块链的加密算法中，目前区块链主要使用的是哪种哈希算法？",
+    "options": [
+      "A. SHA256",
+      "B. SHA128",
+      "C. MD5",
+      "D. SM3"
+    ],
+    "answer": "A",
+    "explanation": "典型的散列算法有MD5、SHA和SM3，目前区块链主要使用SHA256算法。SHA256是SHA-2家族中的一种算法，生成256位的哈希值。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "区块链",
+    "knowledge_point": "区块链",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#区块链",
+    "tags": [
+      "区块链"
+    ]
+  },
+  {
+    "id": "ch01_q035",
+    "question": "以下关于云计算特征的描述，不正确的是？",
+    "options": [
+      "A. 超大规模指云具有相当大的规模，能赋予用户前所未有的计算能力",
+      "B. 高可靠性指用户无须担心个人计算机崩溃导致的数据丢失",
+      "C. 廉价性指云可以采用廉价的节点来构成",
+      "D. 专用性指每个云只能支撑特定的单一应用"
+    ],
+    "answer": "D",
+    "explanation": "云计算的特征之一是通用性，即云计算没有特定的应用，同一个云可以同时支撑不同的应用。D选项描述的\"专用性\"与通用性相反，是不正确的。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云计算",
+    "knowledge_point": "云计算",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#云计算",
+    "tags": [
+      "云计算"
+    ]
+  },
+  {
+    "id": "ch01_q036",
+    "question": "容器技术属于哪种虚拟化范畴？",
+    "options": [
+      "A. 操作系统虚拟化",
+      "B. 网络虚拟化",
+      "C. 硬件虚拟化",
+      "D. 存储虚拟化"
+    ],
+    "answer": "A",
+    "explanation": "容器（Container）技术是一种全新意义上的虚拟化技术，属于操作系统虚拟化的范畴，由操作系统提供虚拟化的支持。容器技术将单个操作系统的资源划分到孤立的组中。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云计算",
+    "knowledge_point": "云计算",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#云计算",
+    "tags": [
+      "网络",
+      "云计算"
+    ]
+  },
+  {
+    "id": "ch01_q037",
+    "question": "以下哪种非关系型数据库适合将数据以图的方式存储，实体作为顶点、实体之间的关系作为边？",
+    "options": [
+      "A. 键值数据库",
+      "B. 列存储数据库",
+      "C. 面向文档数据库",
+      "D. 图形数据库"
+    ],
+    "answer": "D",
+    "explanation": "图形数据库允许人们将数据以图的方式存储。实体会被作为顶点，而实体之间的关系则会被作为边。键值数据库类似哈希表，列存储数据库将数据存储在列族中，面向文档数据库将数据以文档形式存储。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数据存储和数据库",
+    "knowledge_point": "数据库",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#数据存储和数据库",
+    "tags": [
+      "数据库",
+      "数据存储和数据库"
+    ]
+  },
+  {
+    "id": "ch01_q038",
+    "question": "以下关于大数据技术架构的描述，不正确的是？",
+    "options": [
+      "A. Hadoop常用于离线的、复杂的大数据处理",
+      "B. Spark常用于离线的、快速的大数据处理",
+      "C. Storm常用于在线的、实时的大数据处理",
+      "D. Hadoop常用于在线的、实时的大数据处理"
+    ],
+    "answer": "D",
+    "explanation": "目前主流的分布式计算系统中，Hadoop常用于离线的、复杂的大数据处理，Spark常用于离线的、快速的大数据处理，Storm常用于在线的、实时的大数据处理。D选项将Hadoop描述为在线实时处理是不正确的。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "大数据",
+    "knowledge_point": "大数据",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#大数据",
+    "tags": [
+      "大数据",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch01_q039",
+    "question": "人工智能中，知识图谱本质上是什么？",
+    "options": [
+      "A. 一种深度学习模型",
+      "B. 结构化的语义知识库",
+      "C. 一种自然语言处理技术",
+      "D. 一种计算机视觉算法"
+    ],
+    "answer": "B",
+    "explanation": "知识图谱本质上是结构化的语义知识库，是一种由结点和边组成的图数据结构，以符号形式描述物理世界中的概念及其相互关系。它把所有不同种类的信息连接在一起得到一个关系网络。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "人工智能",
+    "knowledge_point": "知识图谱",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#人工智能",
+    "tags": [
+      "知识图谱",
+      "人工智能",
+      "网络"
+    ]
+  },
+  {
+    "id": "ch01_q040",
+    "question": "专家系统通常由六个部分构成，以下哪项不是专家系统的组成部分？",
+    "options": [
+      "A. 神经网络",
+      "B. 推理机",
+      "C. 知识库",
+      "D. 解释器"
+    ],
+    "answer": "A",
+    "explanation": "专家系统通常由人机交互界面、知识库、推理机、解释器、综合数据库、知识获取等六个部分构成。神经网络不是专家系统的组成部分，它是机器学习的一种形式。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "人工智能",
+    "knowledge_point": "专家系统",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#人工智能",
+    "tags": [
+      "专家系统",
+      "人工智能",
+      "网络",
+      "数据库"
+    ]
+  },
+  {
+    "id": "ch01_q041",
+    "question": "边缘计算的特点不包括以下哪项？",
+    "options": [
+      "A. 集中性",
+      "B. 数据第一入口",
+      "C. 联接性",
+      "D. 分布性"
+    ],
+    "answer": "A",
+    "explanation": "边缘计算的特点包括联接性、数据第一入口、约束性和分布性。集中性不是边缘计算的特点，边缘计算恰恰强调分布性，要求支持分布式计算与存储。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "边缘计算",
+    "knowledge_point": "边缘计算",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#边缘计算",
+    "tags": [
+      "边缘计算"
+    ]
+  },
+  {
+    "id": "ch01_q042",
+    "question": "边缘计算与云计算的关系是？",
+    "options": [
+      "A. 边缘计算将完全替代云计算",
+      "B. 边缘计算与云计算是互补协同关系",
+      "C. 云计算将完全替代边缘计算",
+      "D. 边缘计算与云计算没有任何关系"
+    ],
+    "answer": "B",
+    "explanation": "边缘计算与云计算各有所长，云计算擅长全局性、非实时、长周期的大数据处理与分析，边缘计算更适用于局部性、实时、短周期数据的处理与分析。两者之间不是替代关系，而是互补协同关系。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "边缘计算",
+    "knowledge_point": "边缘计算",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#边缘计算",
+    "tags": [
+      "边缘计算",
+      "云计算",
+      "大数据"
+    ]
+  },
+  {
+    "id": "ch01_q043",
+    "question": "数字孪生的三项核心技术是建模、仿真和？",
+    "options": [
+      "A. 物联网",
+      "B. 基于数据融合的数字线程",
+      "C. 云计算",
+      "D. 大数据"
+    ],
+    "answer": "B",
+    "explanation": "建模、仿真和基于数据融合的数字线程是数字孪生的三项核心技术。物联网是数字孪生的底层伴生技术，云计算、机器学习、大数据、区块链则是数字孪生的外围使能技术。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字挛生",
+    "knowledge_point": "数字孪生",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#数字挛生",
+    "tags": [
+      "数字孪生",
+      "数字挛生",
+      "物联网",
+      "区块链",
+      "云计算"
+    ]
+  },
+  {
+    "id": "ch01_q044",
+    "question": "数字孪生的顶层框架技术是？",
+    "options": [
+      "A. MBSE",
+      "B. CAE",
+      "C. CAD",
+      "D. VR"
+    ],
+    "answer": "A",
+    "explanation": "能够做到统领建模、仿真和数字线程的基于模型的系统工程（MBSE），成为数字孪生的顶层框架技术。MBSE（Model Based System Engineering）是基于模型的系统工程。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字挛生",
+    "knowledge_point": "数字孪生",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#数字挛生",
+    "tags": [
+      "数字孪生",
+      "数字挛生"
+    ]
+  },
+  {
+    "id": "ch01_q045",
+    "question": "以下关于集中式信息系统结构的描述，不正确的是？",
+    "options": [
+      "A. 资源集中、便于管理",
+      "B. 资源利用率较高",
+      "C. 系统规模扩大后维护与管理越来越困难",
+      "D. 某个节点出现的故障不会导致整个系统停止运作"
+    ],
+    "answer": "D",
+    "explanation": "D选项描述的是分布式结构的优点。集中式结构的缺点恰恰是资源过于集中会造成系统的脆弱性，一旦主机出现故障，就会使整个系统瘫痪。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统内涵与特征",
+    "knowledge_point": "信息系统",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息系统内涵与特征",
+    "tags": [
+      "信息系统",
+      "信息系统内涵与特征"
+    ]
+  },
+  {
+    "id": "ch01_q046",
+    "question": "IEEE 802.11标准定义的是？",
+    "options": [
+      "A. 无线局域网WLAN标准协议",
+      "B. 令牌环协议",
+      "C. 以太网协议",
+      "D. 城域网协议"
+    ],
+    "answer": "A",
+    "explanation": "IEEE 802.11是无线局域网WLAN标准协议。802.3是以太网的CSMA/CD协议，802.5是令牌环协议，802.6是城域网MAN协议。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "计算机网络",
+    "knowledge_point": "IEEE",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#计算机网络",
+    "tags": [
+      "IEEE",
+      "计算机网络"
+    ]
+  },
+  {
+    "id": "ch01_q047",
+    "question": "以下哪项不是我国信息化发展的阶段？",
+    "options": [
+      "A. 信息化研究探索阶段（1982—1992年）",
+      "B. 信息化加速推进阶段（1998—2001年）",
+      "C. 信息化全面发展阶段（2002—2011年）",
+      "D. 信息化智能升级阶段（2015年至今）"
+    ],
+    "answer": "D",
+    "explanation": "我国信息化发展分为五个阶段：信息化研究探索阶段（1982—1992年）、信息化形成实践阶段（1993—1997年）、信息化加速推进阶段（1998—2001年）、信息化全面发展阶段（2002—2011年）、信息化创新跨越阶段（2012年至今）。D选项的\"信息化智能升级阶段\"不是官方划分的阶段。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息化内涵与特征",
+    "knowledge_point": "信息化",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息化内涵与特征",
+    "tags": [
+      "信息化",
+      "信息化内涵与特征"
+    ]
+  },
+  {
+    "id": "ch01_q048",
+    "question": "计算机网络从网络的作用范围可划分为PAN、LAN、MAN、WAN，其中MAN是指？",
+    "options": [
+      "A. 城域网",
+      "B. 局域网",
+      "C. 个人局域网",
+      "D. 广域网"
+    ],
+    "answer": "A",
+    "explanation": "MAN（Metropolitan Area Network）是城域网。PAN是个人局域网，LAN是局域网，WAN是广域网。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "计算机网络",
+    "knowledge_point": "计算机网络",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#计算机网络",
+    "tags": [
+      "网络",
+      "计算机网络"
+    ]
+  },
+  {
+    "id": "ch01_q049",
+    "question": "防火墙主要由四个部分组成，以下哪项不是防火墙的组成部分？",
+    "options": [
+      "A. 入侵检测引擎",
+      "B. 验证工具",
+      "C. 服务访问规则",
+      "D. 应用网关"
+    ],
+    "answer": "A",
+    "explanation": "防火墙主要由服务访问规则、验证工具、包过滤和应用网关四个部分组成。入侵检测引擎是入侵检测系统（IDS）的组成部分，不是防火墙的组成部分。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全",
+    "knowledge_point": "防火墙由四个部分组成",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#信息安全",
+    "tags": [
+      "防火墙由四个部分组成",
+      "信息安全"
+    ]
+  },
+  {
+    "id": "ch01_q050",
+    "question": "以下关于人工智能发展趋势的描述，不正确的是？",
+    "options": [
+      "A. 从人工智能向人机混合智能发展",
+      "B. 从'人工+智能'向自主智能系统发展",
+      "C. 人工智能将加速与其他学科领域的交叉渗透",
+      "D. 人工智能将完全取代人类的所有工作"
+    ],
+    "answer": "D",
+    "explanation": "人工智能的发展趋势包括从人工智能向人机混合智能发展、从'人工+智能'向自主智能系统发展、人工智能将加速与其他学科领域的交叉渗透等。人工智能不会完全取代人类的所有工作，人类将全身心投入需要洞察力、想象力及创造性的工作。",
+    "chapter": "第1章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "人工智能",
+    "knowledge_point": "人工智能",
+    "source_ref": "references/第1章_信息系统与信息技术发展.md#人工智能",
+    "tags": [
+      "人工智能"
+    ]
+  },
+  {
+    "id": "ch01_q051",
+    "question": "用户和实体行为分析（UEBA）系统中，场景应用层的主要作用是（ ）。",
+    "options": [
+      "A. 根据分析结果发现潜在事件，并进行相应处理",
+      "B. 收集各类数据，为分析提供数据基础",
+      "C. 结合基本分析方法和高级分析方法对数据进行分析",
+      "D. 对系统进行管理和维护，确保其正常运行"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节表明，UEBA 系统的场景应用层根据算法分析层的结果发现 潜在事件，并将分析结果应用于实际场景进行相应处理；数据获取层负责收集数据；算 法分析层进行数据分析；系统管理和维护不属于场景应用层的主要作用。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0209"
+  },
+  {
+    "id": "ch01_q052",
+    "question": "网络安全态势感知中，面向多类型的网络安全威胁评估技术通过（ ）等大数据分 析方法对威胁项进行跟踪分析。",
+    "options": [
+      "A. 聚类分析、关联分析和序列模式分析",
+      "B. 数据清洗、数据融合和数据可视化",
+      "C. 异常检测、漏洞扫描和入侵检测",
+      "D. 风险评估、安全审计和策略管理"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节提到，面向多类型的网络安全威胁评估技术通过结合聚类分 析、关联分析和序列模式分析等大数据分析方法，对发现的恶意代码、域名信息等威胁 项进行跟踪分析，A 选项正确。数据清洗、数据融合和数据可视化是数据处理和展示的 技术，不属于对威胁项跟踪分析的大数据分析方法，B 错误；异常检测、漏洞扫描和 入侵检测是网络安全检测手段，C 错误；风险评估、安全审计和策略管理是网络安全 管理方面的内容，D 错误。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0264"
+  },
+  {
+    "id": "ch01_q053",
+    "question": "诺兰模型中，组织在集成阶段的主要工作是（ ）。",
+    "options": [
+      "A. 进行规划设计，建立基础数据库并建成统一的信息管理系统",
+      "B. 控制计算机信息系统的投入与发展，解决数据共享问题",
+      "C. 选定统一的数据库平台、数据管理体系和信息管理平台",
+      "D. 使信息系统满足组织各个层次的需求，提升组织竞争力"
+    ],
+    "answer": "A",
+    "explanation": "1.1.3 信息系统发展章节提到，诺兰模型的集成阶段，组织开始进行规划设计， 建立基础数据库并建成统一的信息管理系统，A 选项正确。控制计算机信息系统投入与 发展、解决数据共享问题是控制阶段的工作，B 选项错误；选定统一的数据库平台等是 数据管理阶段的工作，C 选项错误；使信息系统满足各层次需求、提升组织竞争力是成 熟阶段的工作，D 选项错误。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0249"
+  },
+  {
+    "id": "ch01_q054",
+    "question": "信息系统的特征中，信息系统应具备稳定、可靠的运行能力，确保在各种场景下都 能正常工作，这体现的是（ ）。",
+    "options": [
+      "A. 可靠性",
+      "B. 安全性",
+      "C. 实时性",
+      "D. 易用性"
+    ],
+    "answer": "A",
+    "explanation": "1.1.2 信息系统内涵与特征章节表明，可靠性是指信息系统需要具备稳定、可靠 的运行能力，确保在各种场景下都能正常工作，避免因系统故障对组织造成损失。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0145"
+  },
+  {
+    "id": "ch01_q055",
+    "question": "边缘计算在工业物联网场景中的功能包括（ ）。",
+    "options": [
+      "A. 基于OPC UA over TSN 构建统一工业现场网络，实现数据的互联互通与互操作",
+      "B. 实现家庭设备的远程控制和自动化管理",
+      "C. 构建城市的数字孪生模型",
+      "D. 对视频图像进行分析和存储"
+    ],
+    "answer": "A",
+    "explanation": "1.3.6 边缘计算章节提到，在工业物联网场景中，边缘计算的功能包括基于OPC UA over TSN 构建统一工业现场网络，实现数据的互联互通与互操作等。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0116"
+  },
+  {
+    "id": "ch01_q056",
+    "question": "5G 支持的应用场景中，主要面向移动互联网流量爆炸式增长的是（ ）。",
+    "options": [
+      "A. 增强移动宽带",
+      "B. 超高可靠低时延通信",
+      "C. 海量机器类通信",
+      "D. 智能交通通信"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节提到，增强移动宽带主要面向移动互联网流量爆炸式增长， 为移动互联网用户提供更加极致的应用体验。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0127"
+  },
+  {
+    "id": "ch01_q057",
+    "question": "在TCP/IP 协议模型中，应用层协议不包括（ ）。",
+    "options": [
+      "A. IP",
+      "B. HTTP",
+      "C. FTP",
+      "D. SMTP"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节表明，IP 协议属于网际层，HTTP、FTP、SMTP 都属于应用 层协议，A 选项正确，B、C、D 选项错误。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0252"
+  },
+  {
+    "id": "ch01_q058",
+    "question": "大数据技术架构中，大数据获取技术不包括（ ）。",
+    "options": [
+      "A. 大数据存储技术",
+      "B. 数据采集技术",
+      "C. 数据整合技术",
+      "D. 数据清洗技术"
+    ],
+    "answer": "A",
+    "explanation": "1.3.4 大数据章节指出，大数据获取技术的研究主要集中在数据采集、整合和清 洗三个方面，大数据存储技术属于大数据管理技术。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0140"
+  },
+  {
+    "id": "ch01_q059",
+    "question": "计算机软件中，系统软件的核心是（ ）。",
+    "options": [
+      "A. 操作系统",
+      "B. 数据库",
+      "C. 中间件",
+      "D. 编译器"
+    ],
+    "answer": "A",
+    "explanation": "1.2.1 计算机软硬件章节表明，操作系统是系统软件的核心，它负责管理计算机 的硬件资源和软件资源，为其他软件提供运行环境。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0196"
+  },
+  {
+    "id": "ch01_q060",
+    "question": "信息系统的物理结构中，集中式结构的优点是（ ）。",
+    "options": [
+      "A. 资源集中、便于管理、资源利用率较高",
+      "B. 系统管理的标准统一，协调容易",
+      "C. 便于扩展且安全性好",
+      "D. 能适应企业组织结构扁平化与网络化的发展趋势"
+    ],
+    "answer": "A",
+    "explanation": "1.1.2 信息系统内涵与特征章节表明，集中式结构的优点是资源集中、便于管 理、 资源利用率较高，A 选项正确。集中式结构随着系统规模扩大，维护管理困难，系统 管 理标准不易统一，协调困难，B 选项错误；便于扩展且安全性好是分布式结构的优点， C 选项错误；适应企业组织结构扁平化与网络化发展趋势的也是分布式结构，D 选项错 误。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0248"
+  },
+  {
+    "id": "ch01_q061",
+    "question": "信息安全技术中，入侵检测系统依照一定的安全策略，对（ ）进行监视。",
+    "options": [
+      "A. 网络、系统的运行状况",
+      "B. 用户的操作行为",
+      "C. 信息的传输过程",
+      "D. 数据的存储状态"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节提到，入侵检测系统是依照一定的安全策略，通过软硬件对 网络、系统的运行状况进行监视，尽可能发现各种攻击企图、攻击行为或攻击结果，A 选 项正确。虽然入侵检测系统可能间接涉及用户操作行为、信息传输过程和数据存储状 态，但直接监视的对象是网络和系统的运行状况，B、C、D 选项错误。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0235"
+  },
+  {
+    "id": "ch01_q062",
+    "question": "信息安全技术中，防火墙主要由服务访问规则、验证工具、包过滤和应用网关四个 部分组成，其中包过滤的作用是（ ）。",
+    "options": [
+      "A. 检查网络通信数据包，根据规则决定是否允许通过",
+      "B. 对用户身份进行验证",
+      "C. 提供应用层的代理服务",
+      "D. 制定网络访问的规则"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节指出，包过滤是防火墙的重要组成部分，它检查网络通信数 据包，根据预先设定的规则决定是否允许数据包通过，从而保护内部网络安全。对用户 身份进行验证的是验证工具；提供应用层代理服务的是应用网关；制定网络访问规则的 是服务访问规则。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0208"
+  },
+  {
+    "id": "ch01_q063",
+    "question": "网络安全态势感知中，网络安全态势可视化的目的是（ ）。",
+    "options": [
+      "A. 生成网络安全综合态势图，使网络安全态势感知系统的分析处理数据可视化、态势可 视化",
+      "B. 对网络安全数据进行采集汇聚、多维度深度融合",
+      "C. 对网络异常行为、已知攻击手段等进行统计、建模与评估",
+      "D. 对网络空间安全相关信息进行汇聚融合，实现对整体网络安全状况的判定"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节提到，网络安全态势可视化的目的是生成网络安全综合态势 图，使网络安全态势感知系统的分析处理数据可视化、态势可视化，A 选项正确。B 选 项是海量多元异构数据的汇聚融合技术的任务；C 选项是面向多类型的网络安全威胁评 估技术的内容；D 选项是网络安全态势评估与决策支撑技术的目标。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0237"
+  },
+  {
+    "id": "ch01_q064",
+    "question": "软件定义网络（SDN）中，数据平面的主要组成部分是（ ）。",
+    "options": [
+      "A. 交换机等网络通用硬件",
+      "B. 逻辑上为中心的SDN 控制器",
+      "C. 各种基于SDN 的网络应用",
+      "D. 具有逻辑中心化和可编程的控制器"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节表明，SDN 的数据平面由交换机等网络通用硬件组成，各 个网络设备之间通过不同规则形成的SDN 数据通路连接。逻辑上为中心的SDN 控制器 属于控制平面；各种基于SDN 的网络应用属于应用平面；具有逻辑中心化和可编程的 控制器是控制层的部分。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0227"
+  },
+  {
+    "id": "ch01_q065",
+    "question": "区块链技术在数据安全与隐私保护方面的作用是（ ）。",
+    "options": [
+      "A. 支持数据存储和传输的安全性，维护个人隐私权益",
+      "B. 提高数据处理速度，降低数据存储成本",
+      "C. 实现数据的快速共享和高效利用",
+      "D. 简化数据管理流程，提高数据管理效率"
+    ],
+    "answer": "A",
+    "explanation": "1.3.2 区块链章节表明，区块链在数据安全与隐私保护方面支持数据存储和传输 的安全性，通过加密技术和分布式账本等特性，维护个人隐私权益。区块链技术并非主 要用于提高数据处理速度、降低存储成本、实现快速共享利用以及简化数据管理流程， B、C、D 选项错误。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0212"
+  },
+  {
+    "id": "ch01_q066",
+    "question": "在OSI 模型中，传输层的主要功能是（ ）。",
+    "options": [
+      "A. 提供端到端的可靠通信",
+      "B. 处理网络层与数据链路层之间的通信",
+      "C. 建立、管理和终止会话",
+      "D. 将数据转换为可以在网络中传输的信号"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节指出，传输层的主要功能是提供端到端的可靠通信，确保 数据能够准确无误地从源端传输到目的端。处理网络层与数据链路层之间通信的是网络 接口层相关功能；建立、管理和终止会话是会话层的功能；将数据转换为可以在网络中 传输的信号是物理层的功能。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0225"
+  },
+  {
+    "id": "ch01_q067",
+    "question": "软件定义网络（SDN）中，控制层与数据层之间采用（ ）进行交互。",
+    "options": [
+      "A. 开放的统一接口（如OpenFlow 等）",
+      "B. 专用接口",
+      "C. 标准网络接口",
+      "D. 自定义接口"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节表明，SDN 中控制层与数据层之间采用开放的统一接口 （如OpenFlow 等）进行交互，控制器通过标准接口向交换机下发统一标准规则，交换 机仅需按照这些规则执行相应的动作，A 选项正确，B、C、D 选项错误。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0254"
+  },
+  {
+    "id": "ch01_q068",
+    "question": "信息系统的逻辑结构中，业务逻辑层的主要功能是（ ）。",
+    "options": [
+      "A. 通过软件研发创建统一的业务流程驱动引擎",
+      "B. 负责用户的交互界面，通过UI 设计将信息交互在客户端进行展示",
+      "C. 保障信息（数据）的传输和共享，负责提供某一类特定的基础数据服务",
+      "D. 主要包括操作系统和数据库等，负责各类资源的管理与调度"
+    ],
+    "answer": "A",
+    "explanation": "1.1.2 信息系统内涵与特征章节指出，业务逻辑层主要是通过软件研发创建统一 的业务流程驱动引擎，例如工作流引擎、报表引擎和交易处理引擎等。B 选项是应用表 现层的功能；C 选项是中间件层的功能；D 选项是资源管理层的功能。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0221"
+  },
+  {
+    "id": "ch01_q069",
+    "question": "信息化发展中，我国全面部署“构建产业数字化转型发展体系”重大任务，标志着 我国信息化进入（ ）。",
+    "options": [
+      "A. 加快数字化发展、建设数字中国新阶段",
+      "B. 信息化全面发展阶段",
+      "C. 信息化创新跨越阶段",
+      "D. 信息化加速推进阶段"
+    ],
+    "answer": "A",
+    "explanation": "在1.1.1 信息化内涵与特征章节中提到，当前，我国全面部署了“构建产业数字 化转型发展体系”重大任务，明确我国信息化进入加快数字化发展、建设数字中国的 新阶段。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0046"
+  },
+  {
+    "id": "ch01_q070",
+    "question": "用户和实体行为分析（UEBA）系统中，通过结合（ ）来评估用户和其他实体。",
+    "options": [
+      "A. 基本分析方法和高级分析方法",
+      "B. 网络流量分析和系统日志分析",
+      "C. 漏洞扫描和入侵检测",
+      "D. 数据加密和访问控制"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节表明，UEBA 结合基本分析方法（利用签名的规则、模式匹配、 简单统计、阈值等）和高级分析方法（监督和无监督的机器学习等），用打包分析来评 估用户和其他实体。",
+    "chapter": "第1章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统与信息技术发展",
+    "knowledge_point": "信息系统与信息技术发展",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "tags": [
+      "信息系统与信息技术发展",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch01_0135"
+  }
+]

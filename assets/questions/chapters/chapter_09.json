@@ -1,0 +1,1693 @@
+[
+  {
+    "id": "ch09_q001",
+    "question": "信息安全的基本属性不包括以下哪项？",
+    "options": [
+      "A. 保密性",
+      "B. 可控性",
+      "C. 可追溯性",
+      "D. 不可否认性"
+    ],
+    "answer": "C",
+    "explanation": "信息安全的基本属性包括5个方面：保密性、完整性、可用性、可控性和不可否认性。可追溯性不属于信息安全的基本属性。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义"
+    ]
+  },
+  {
+    "id": "ch09_q002",
+    "question": "关于信息安全规划的时效性原则，中长期规划主要针对多少年的工作进行规划？",
+    "options": [
+      "A. 1年以内",
+      "B. 1~3年",
+      "C. 3~5年",
+      "D. 5年以上"
+    ],
+    "answer": "B",
+    "explanation": "按照时间跨度不同，规划可分为短期规划、中长期规划和远景规划。中长期规划主要是针对1~3年的工作进行规划，主要以体系化规划为主。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义"
+    ]
+  },
+  {
+    "id": "ch09_q003",
+    "question": "SABSA安全架构框架提供了几层模型？",
+    "options": [
+      "A. 四层",
+      "B. 五层",
+      "C. 六层",
+      "D. 七层"
+    ],
+    "answer": "C",
+    "explanation": "SABSA提供了一个六层模型，包括情境安全架构、概念安全架构、逻辑安全架构、物理安全架构、组件安全架构和安全服务管理架构。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "SABSA",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "SABSA",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q004",
+    "question": "在国家标准GB/T 20274.1中，信息系统安全保障模型包含几个维度？",
+    "options": [
+      "A. 2个",
+      "B. 3个",
+      "C. 4个",
+      "D. 5个"
+    ],
+    "answer": "B",
+    "explanation": "信息系统安全保障模型包含保障要素、生命周期和能力成熟度3个维度，将风险和策略作为基础和核心。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息系统安全保障模型",
+    "knowledge_point": "信息系统安全保障模型",
+    "source_ref": "references/第9章_信息安全规划.md#信息系统安全保障模型",
+    "tags": [
+      "在国家标准",
+      "信息系统安全保障模型"
+    ]
+  },
+  {
+    "id": "ch09_q005",
+    "question": "信息安全等级保护中，第二级（指导保护级）的特征是什么？",
+    "options": [
+      "A. 对公民、法人和其他组织的合法权益造成损害，但不损害国家安全",
+      "B. 对公民、法人和其他组织的合法权益产生严重损害，或对社会秩序和公共利益造成损害，但不损害国家安全",
+      "C. 对国家安全造成损害",
+      "D. 对国家安全造成特别严重损害"
+    ],
+    "answer": "B",
+    "explanation": "第二级（指导保护级）的特征是：等级保护对象受到破坏后，会对公民、法人和其他组织的合法权益产生严重损害，或者对社会秩序和公共利益造成损害，但不损害国家安全。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "等级保护",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "等级保护",
+      "概述",
+      "信息安全"
+    ]
+  },
+  {
+    "id": "ch09_q006",
+    "question": "以下哪种访问控制机制是将主体划分为不同的角色，然后对每个角色的权限进行定义？",
+    "options": [
+      "A. 自主访问控制（DAC）",
+      "B. 基于角色的访问控制（Role-BAC）",
+      "C. 基于规则的访问控制（Rule-BAC）",
+      "D. 强制访问控制（MAC）"
+    ],
+    "answer": "B",
+    "explanation": "基于角色的访问控制（Role-BAC）是将主体划分为不同的角色，然后对每个角色的权限进行定义。DAC是让客体的所有者定义规则，MAC是基于安全级别标签。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "概述",
+    "knowledge_point": "访问控制",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "访问控制",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q007",
+    "question": "在信息安全运营中，以下哪项原则是指仅授予用户执行工作所需数据或资源的访问权限？",
+    "options": [
+      "A. 最小特权",
+      "B. 因需可知",
+      "C. 职责分离",
+      "D. 双人控制"
+    ],
+    "answer": "B",
+    "explanation": "因需可知是指仅授予用户执行工作所需数据或资源的访问权限，主要目的是让秘密信息保持秘密状态。最小特权是指主体仅被授予执行指定工作所需的特权，既包括访问数据的权限，也包括执行信息系统任务的权力。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义",
+      "双人控制"
+    ]
+  },
+  {
+    "id": "ch09_q008",
+    "question": "关于信息安全与信息系统安全的关系，以下哪项说法是正确的？",
+    "options": [
+      "A. 信息系统安全的范畴大于信息安全",
+      "B. 信息安全的出现晚于信息系统",
+      "C. 信息安全的范畴大于信息系统安全",
+      "D. 信息安全与信息系统安全完全等同"
+    ],
+    "answer": "C",
+    "explanation": "信息安全的范畴大于信息系统安全。在信息系统出现之前，信息安全就早已存在。员工掌握的敏感信息可能以各种载体存储，信息系统只是其中一种。信息安全引起重视是因为信息系统的广泛使用。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义"
+    ]
+  },
+  {
+    "id": "ch09_q009",
+    "question": "以下哪项不属于信息安全规划的基本原则？",
+    "options": [
+      "A. 系统性原则",
+      "B. 适用性原则",
+      "C. 开放性原则",
+      "D. 确定性原则"
+    ],
+    "answer": "C",
+    "explanation": "信息安全规划的基本原则包括：系统性原则、适用性原则、时效性原则、确定性原则、可行性原则、易用性原则、合规性原则。开放性原则不属于信息安全规划的基本原则。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义"
+    ]
+  },
+  {
+    "id": "ch09_q010",
+    "question": "SABSA框架的六层模型中，哪一层关注的是\"谁\"、\"为什么\"的问题？",
+    "options": [
+      "A. 情境安全架构",
+      "B. 概念安全架构",
+      "C. 逻辑安全架构",
+      "D. 物理安全架构"
+    ],
+    "answer": "B",
+    "explanation": "SABSA六层模型中，概念安全架构（Conceptual Architecture）关注的是\"谁\"（Who）和\"为什么\"（Why）的问题，定义了业务需求和安全策略。情境安全架构关注\"什么\"（What）和\"在哪里\"（Where）的问题。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "概述",
+    "knowledge_point": "SABSA",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "SABSA",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q011",
+    "question": "信息安全等级保护中，第一级（自主保护级）的特征是什么？",
+    "options": [
+      "A. 对国家安全造成损害",
+      "B. 对公民、法人和其他组织的合法权益造成损害，但不损害国家安全",
+      "C. 对社会秩序和公共利益造成严重损害",
+      "D. 对国家安全造成特别严重损害"
+    ],
+    "answer": "B",
+    "explanation": "第一级（自主保护级）的特征是：等级保护对象受到破坏后，会对公民、法人和其他组织的合法权益造成损害，但不损害国家安全、社会秩序和公共利益。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "等级保护",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "等级保护",
+      "概述",
+      "信息安全"
+    ]
+  },
+  {
+    "id": "ch09_q012",
+    "question": "以下哪种身份认证技术是基于\"用户所拥有的东西\"进行认证的？",
+    "options": [
+      "A. 密码认证",
+      "B. 智能卡认证",
+      "C. 指纹认证",
+      "D. 虹膜认证"
+    ],
+    "answer": "B",
+    "explanation": "身份认证技术可分为基于用户所知道的（如密码）、基于用户所拥有的（如智能卡、令牌）和基于用户本身的（如生物特征）。智能卡认证基于用户所拥有的东西进行认证。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "哪种身份认证技术基于",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "哪种身份认证技术基于",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q013",
+    "question": "入侵检测系统（IDS）按照检测方法可分为基于特征的检测和基于异常的检测。以下关于基于异常检测的描述，正确的是？",
+    "options": [
+      "A. 需要预先定义攻击特征库",
+      "B. 通过建立正常行为模型来检测异常",
+      "C. 只能检测已知攻击",
+      "D. 误报率通常低于基于特征的检测"
+    ],
+    "answer": "B",
+    "explanation": "基于异常的检测通过建立系统或用户的正常行为模型，当检测到偏离正常模型的行为时认为发生了入侵。其优点是能够检测未知攻击，缺点是误报率较高。基于特征的检测需要预先定义攻击特征库，只能检测已知攻击。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "概述",
+    "knowledge_point": "入侵检测系统按照检测方法",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "入侵检测系统按照检测方法",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q014",
+    "question": "以下关于防火墙的描述，不正确的是？",
+    "options": [
+      "A. 防火墙可以实现网络地址转换（NAT）",
+      "B. 防火墙可以防止所有网络攻击",
+      "C. 防火墙可以实现访问控制策略",
+      "D. 防火墙可以记录网络活动日志"
+    ],
+    "answer": "B",
+    "explanation": "防火墙不能防止所有网络攻击。防火墙可以实现NAT、访问控制、日志记录等功能，但对于绕过防火墙的攻击（如内部攻击、利用合法通道的攻击）无法防范，也不能防止病毒通过其他途径传播。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "访问控制",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "访问控制",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q015",
+    "question": "网闸（GAP）技术的核心思想是什么？",
+    "options": [
+      "A. 在网络边界进行流量过滤",
+      "B. 在物理隔离的基础上实现数据交换",
+      "C. 对所有网络流量进行加密",
+      "D. 实现内外网的完全连通"
+    ],
+    "answer": "B",
+    "explanation": "网闸技术的核心思想是在物理隔离的基础上实现数据交换。网闸采用专用硬件和协议，在两个网络之间形成物理隔离，同时通过安全的方式实现数据的摆渡传输。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "网闸技术",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "网闸技术",
+      "加密",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q016",
+    "question": "在数据加密技术中，对称加密算法的特点是什么？",
+    "options": [
+      "A. 加密和解密使用不同的密钥",
+      "B. 加密和解密使用相同的密钥",
+      "C. 加密速度慢，安全性高",
+      "D. 不需要密钥管理"
+    ],
+    "answer": "B",
+    "explanation": "对称加密算法的特点是加密和解密使用相同的密钥，其优点是加密速度快、效率高，缺点是密钥管理困难，需要安全的密钥分发机制。非对称加密使用不同的密钥。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "对称加密算法",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "对称加密算法",
+      "加密",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q017",
+    "question": "以下关于VPN技术的描述，不正确的是？",
+    "options": [
+      "A. VPN可以在公共网络上建立安全的专用通道",
+      "B. VPN技术包括隧道技术、加密技术和身份认证技术",
+      "C. VPN只能用于远程访问，不能用于站点间连接",
+      "D. IPSec是常用的VPN协议之一"
+    ],
+    "answer": "C",
+    "explanation": "VPN不仅能用于远程访问，也能用于站点间连接。VPN的应用场景包括远程访问VPN和站点间VPN（Site-to-Site VPN）。VPN技术包括隧道技术、加密技术和身份认证技术三大核心技术。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "概述",
+    "knowledge_point": "VPN技术",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "VPN技术",
+      "加密",
+      "概述",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch09_q018",
+    "question": "信息安全运营中，\"双人控制\"原则的核心含义是什么？",
+    "options": [
+      "A. 所有操作都需要两个人同时在场",
+      "B. 关键操作需要两个独立的人员共同完成",
+      "C. 每个岗位都必须配备两个员工",
+      "D. 所有决策都需要两个人同意"
+    ],
+    "answer": "B",
+    "explanation": "双人控制是指关键操作需要两个独立的人员共同完成，确保没有一个人能够单独执行高风险操作。这并不是说所有操作都需要两人，也不是每个岗位都必须配备两个人。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "概述",
+    "knowledge_point": "双人控制",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "双人控制",
+      "概述",
+      "信息安全"
+    ]
+  },
+  {
+    "id": "ch09_q019",
+    "question": "信息安全等级保护的基本框架中，安全保护等级分为几级？",
+    "options": [
+      "A. 3级",
+      "B. 4级",
+      "C. 5级",
+      "D. 6级"
+    ],
+    "answer": "C",
+    "explanation": "信息安全等级保护将安全保护等级分为5级：第一级（自主保护级）、第二级（指导保护级）、第三级（监督保护级）、第四级（强制保护级）、第五级（专控保护级）。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "等级保护",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "等级保护",
+      "概述",
+      "信息安全"
+    ]
+  },
+  {
+    "id": "ch09_q020",
+    "question": "在非对称加密体系中，公钥加密、私钥解密的典型应用场景是什么？",
+    "options": [
+      "A. 数字签名",
+      "B. 数据加密",
+      "C. 密钥交换",
+      "D. 身份认证"
+    ],
+    "answer": "B",
+    "explanation": "公钥加密、私钥解密用于数据加密场景，发送方使用接收方的公钥加密数据，接收方用自己的私钥解密。私钥加密、公钥解密用于数字签名场景。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "非对称加密应用",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "非对称加密应用",
+      "加密",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q021",
+    "question": "SABSA框架中，哪一层关注\"在哪里\"（Where）的问题，定义系统的物理位置和网络架构？",
+    "options": [
+      "A. 概念安全架构",
+      "B. 逻辑安全架构",
+      "C. 物理安全架构",
+      "D. 情境安全架构"
+    ],
+    "answer": "D",
+    "explanation": "SABSA六层模型中，情境安全架构（Contextual Architecture）关注\"什么\"（What）和\"在哪里\"（Where）的问题，定义了业务流程、业务资产以及系统的物理位置和网络架构。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "概述",
+    "knowledge_point": "SABSA",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "SABSA",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q022",
+    "question": "以下关于数字证书的描述，不正确的是？",
+    "options": [
+      "A. 数字证书用于绑定公钥和身份信息",
+      "B. 数字证书由证书颁发机构（CA）签发",
+      "C. 数字证书包含了用户的私钥信息",
+      "D. 数字证书可以通过证书吊销列表（CRL）进行吊销"
+    ],
+    "answer": "C",
+    "explanation": "数字证书不包含用户的私钥信息。私钥由用户自己保管，数字证书包含的是用户的公钥信息、身份信息以及CA的数字签名。泄露私钥会导致严重的安全问题。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "数字证书的",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "数字证书的",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q023",
+    "question": "在信息安全规划中，确定性原则的核心要求是什么？",
+    "options": [
+      "A. 安全措施必须满足合规要求",
+      "B. 安全措施必须简单易用",
+      "C. 安全边界必须清晰明确",
+      "D. 安全投入必须考虑成本效益"
+    ],
+    "answer": "C",
+    "explanation": "确定性原则要求安全边界清晰明确，安全措施的适用范围和保护对象要有明确的定义。这是确保安全策略有效执行的基础。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义"
+    ]
+  },
+  {
+    "id": "ch09_q024",
+    "question": "以下关于入侵检测系统部署位置的描述，不正确的是？",
+    "options": [
+      "A. 可以部署在网络边界处",
+      "B. 可以部署在关键服务器上",
+      "C. 只能部署在内网中",
+      "D. 可以部署在核心交换机旁路"
+    ],
+    "answer": "C",
+    "explanation": "入侵检测系统可以部署在网络的多个位置，不仅限于内网。可以部署在网络边界处、内网关键节点、核心交换机旁路以及关键服务器上（主机入侵检测）。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "入侵检测系统部署位置的",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "入侵检测系统部署位置的",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q025",
+    "question": "信息安全等级保护的实施方法中，安全建设整改阶段的主要工作是什么？",
+    "options": [
+      "A. 对信息系统进行安全评估",
+      "B. 确定信息系统的安全保护等级",
+      "C. 根据安全需求设计和实施安全措施",
+      "D. 对安全事件进行应急响应"
+    ],
+    "answer": "C",
+    "explanation": "安全建设整改阶段的主要工作是根据确定的安全保护等级和安全需求，设计安全方案，实施安全措施，建设符合等级要求的安全防护体系。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "概述",
+    "knowledge_point": "等级保护",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "等级保护",
+      "概述",
+      "信息安全"
+    ]
+  },
+  {
+    "id": "ch09_q026",
+    "question": "以下哪种加密方式是在网络层提供加密保护？",
+    "options": [
+      "A. 链路加密",
+      "B. 节点加密",
+      "C. 端到端加密",
+      "D. 应用层加密"
+    ],
+    "answer": "B",
+    "explanation": "节点加密在网络层提供加密保护，数据在中间节点被解密后重新加密。链路加密在数据链路层提供保护，端到端加密在传输层或应用层提供保护。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "网络层加密",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "网络层加密",
+      "加密",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q027",
+    "question": "信息安全运营中，岗位轮换的主要目的是什么？",
+    "options": [
+      "A. 提高员工的工作技能多样性",
+      "B. 防止员工长期在同一岗位形成舞弊或疏忽",
+      "C. 降低人力资源成本",
+      "D. 满足员工的个人发展需求"
+    ],
+    "answer": "B",
+    "explanation": "岗位轮换的主要安全目的是防止员工长期在同一岗位形成舞弊或疏忽，通过定期轮换可以发现潜在的问题和异常，增强内部控制的有效性。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义"
+    ]
+  },
+  {
+    "id": "ch09_q028",
+    "question": "以下关于PKI体系的描述，不正确的是？",
+    "options": [
+      "A. PKI是公钥基础设施的缩写",
+      "B. PKI的核心是证书颁发机构（CA）",
+      "C. PKI只能用于加密，不能用于签名",
+      "D. PKI包括证书注册机构（RA）和证书库等组件"
+    ],
+    "answer": "C",
+    "explanation": "PKI既能用于加密也能用于数字签名。PKI是公钥基础设施，以CA为核心，包括RA、证书库、证书吊销列表等组件，支持数据加密、数字签名、身份认证等多种安全服务。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "PKI",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "PKI",
+      "概述",
+      "加密"
+    ]
+  },
+  {
+    "id": "ch09_q029",
+    "question": "在信息安全规划中，可行性原则的核心要求是什么？",
+    "options": [
+      "A. 安全措施必须符合法律法规",
+      "B. 安全措施必须在技术、经济和管理上可行",
+      "C. 安全措施必须覆盖所有风险",
+      "D. 安全措施必须采用最先进的技术"
+    ],
+    "answer": "B",
+    "explanation": "可行性原则要求安全措施必须在技术、经济和管理上可行。在制定安全规划时，需要考虑现有技术条件、组织的经济承受能力以及管理的可操作性。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch09_q030",
+    "question": "以下关于生物特征认证的描述，不正确的是？",
+    "options": [
+      "A. 指纹识别是最常用的生物特征认证技术",
+      "B. 虹膜识别的准确率通常高于指纹识别",
+      "C. 生物特征认证完全不会被欺骗或伪造",
+      "D. 面部识别技术可以实现非接触式认证"
+    ],
+    "answer": "C",
+    "explanation": "生物特征认证并非完全不会被欺骗或伪造。例如指纹可以被复制，面部识别可以被照片或面具欺骗。生物特征认证虽然安全性较高，但仍需要与其他认证方式结合使用。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "生物特征认证的",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "生物特征认证的",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q031",
+    "question": "信息安全等级保护中，第三级（监督保护级）的特征是什么？",
+    "options": [
+      "A. 对公民、法人和其他组织的合法权益造成损害",
+      "B. 对社会秩序和公共利益造成严重损害，或对国家安全造成损害",
+      "C. 对国家安全造成严重损害",
+      "D. 对国家安全造成特别严重损害"
+    ],
+    "answer": "B",
+    "explanation": "第三级（监督保护级）的特征是：等级保护对象受到破坏后，会对社会秩序和公共利益造成严重损害，或者对国家安全造成损害。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "等级保护",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "等级保护",
+      "概述",
+      "信息安全"
+    ]
+  },
+  {
+    "id": "ch09_q032",
+    "question": "在访问控制机制中，自主访问控制（DAC）的主要特点是什么？",
+    "options": [
+      "A. 由系统管理员统一管理所有访问权限",
+      "B. 由客体的所有者自主定义访问控制规则",
+      "C. 基于安全级别标签进行强制控制",
+      "D. 基于预定义的规则进行统一控制"
+    ],
+    "answer": "B",
+    "explanation": "自主访问控制（DAC）的主要特点是客体的所有者可以自主定义访问控制规则，决定哪些主体可以访问其拥有的客体。MAC由系统强制执行，Role-BAC基于角色定义权限。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "概述",
+    "knowledge_point": "访问控制",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "访问控制",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q033",
+    "question": "以下关于安全审计的描述，不正确的是？",
+    "options": [
+      "A. 安全审计可以记录用户的操作行为",
+      "B. 安全审计可以用于事后追溯和取证",
+      "C. 安全审计会严重影响系统性能，应尽量避免使用",
+      "D. 安全审计是信息安全运营的重要组成部分"
+    ],
+    "answer": "C",
+    "explanation": "安全审计虽然会对系统性能产生一定影响，但这种影响通常是可控的，不应因此而避免使用。安全审计是信息安全运营的重要组成部分，可以记录用户行为、用于事后追溯和取证。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "安全审计",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "安全审计",
+      "概述",
+      "信息安全"
+    ]
+  },
+  {
+    "id": "ch09_q034",
+    "question": "信息安全规划的系统性原则强调什么？",
+    "options": [
+      "A. 安全措施要简单易用",
+      "B. 安全体系要全面、协调、统一",
+      "C. 安全投入要经济合理",
+      "D. 安全方案要符合标准"
+    ],
+    "answer": "B",
+    "explanation": "系统性原则强调安全体系要全面、协调、统一。信息安全是一个系统工程，需要从整体角度出发，统筹考虑各个层面的安全需求，避免安全措施之间的冲突和遗漏。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义"
+    ]
+  },
+  {
+    "id": "ch09_q035",
+    "question": "以下关于密钥管理的描述，不正确的是？",
+    "options": [
+      "A. 密钥生成应使用安全的随机数生成器",
+      "B. 密钥应定期更换以降低泄露风险",
+      "C. 密钥可以明文存储在普通文件中",
+      "D. 密钥销毁应确保无法恢复"
+    ],
+    "answer": "C",
+    "explanation": "密钥不应明文存储在普通文件中。密钥的安全存储是密钥管理的关键环节，应使用硬件安全模块（HSM）或加密存储等方式保护密钥，防止密钥泄露。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "密钥管理",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "密钥管理",
+      "加密",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q036",
+    "question": "SABSA框架中，逻辑安全架构关注的核心问题是什么？",
+    "options": [
+      "A. 业务需求和安全策略",
+      "B. 安全服务和安全机制的设计",
+      "C. 具体的安全产品和设备",
+      "D. 安全管理和运营"
+    ],
+    "answer": "B",
+    "explanation": "逻辑安全架构关注\"如何\"（How）实现安全，即安全服务和安全机制的设计。它定义了安全策略、安全域、安全服务和安全机制之间的逻辑关系。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "概述",
+    "knowledge_point": "SABSA",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "SABSA",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q037",
+    "question": "信息安全运营中，强制休假的主要目的是什么？",
+    "options": [
+      "A. 让员工休息以提高工作效率",
+      "B. 在员工离岗期间发现潜在的舞弊行为",
+      "C. 满足劳动法对员工休假的要求",
+      "D. 降低组织的人力资源成本"
+    ],
+    "answer": "B",
+    "explanation": "强制休假的主要安全目的是在员工离岗期间，由其他人员接替其工作，通过这种方式可以发现潜在的舞弊行为或管理漏洞，增强内部控制的有效性。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义"
+    ]
+  },
+  {
+    "id": "ch09_q038",
+    "question": "以下哪种防火墙技术可以对应用层协议进行深度检测？",
+    "options": [
+      "A. 包过滤防火墙",
+      "B. 状态检测防火墙",
+      "C. 应用网关防火墙",
+      "D. 个人防火墙"
+    ],
+    "answer": "C",
+    "explanation": "应用网关防火墙（也称为代理防火墙）可以对应用层协议进行深度检测，理解应用层协议的内容和语义，提供更细粒度的访问控制。包过滤防火墙只检查网络层和传输层信息。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "访问控制",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "访问控制",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q039",
+    "question": "信息安全规划的易用性原则强调什么？",
+    "options": [
+      "A. 安全措施必须采用最新技术",
+      "B. 安全措施应尽量减少对用户正常工作的影响",
+      "C. 安全措施必须覆盖所有风险点",
+      "D. 安全措施必须符合行业标准"
+    ],
+    "answer": "B",
+    "explanation": "易用性原则强调安全措施应尽量减少对用户正常工作的影响。过于复杂或繁琐的安全措施可能导致用户绕过安全控制，反而降低整体安全水平。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义"
+    ]
+  },
+  {
+    "id": "ch09_q040",
+    "question": "以下关于安全威胁分类的描述，不正确的是？",
+    "options": [
+      "A. 被动攻击是指攻击者窃听或监视信息的传输",
+      "B. 主动攻击是指攻击者篡改数据流或创建虚假数据流",
+      "C. 内部攻击是指来自组织内部人员的攻击",
+      "D. 所有安全威胁都来自外部攻击者"
+    ],
+    "answer": "D",
+    "explanation": "并非所有安全威胁都来自外部攻击者。安全威胁可分为外部威胁和内部威胁。内部威胁来自组织内部人员，可能出于恶意或疏忽，其危害往往更大，因为内部人员通常拥有合法的访问权限。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "概述",
+    "knowledge_point": "安全威胁分类的",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "安全威胁分类的",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q041",
+    "question": "信息安全等级保护中，第四级（强制保护级）的特征是什么？",
+    "options": [
+      "A. 对公民、法人和其他组织的合法权益造成损害",
+      "B. 对社会秩序和公共利益造成严重损害",
+      "C. 对国家安全造成严重损害",
+      "D. 对国家安全造成特别严重损害"
+    ],
+    "answer": "C",
+    "explanation": "第四级（强制保护级）的特征是：等级保护对象受到破坏后，会对国家安全造成严重损害。第四级系统通常涉及国家安全的重要信息系统。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "等级保护",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "等级保护",
+      "概述",
+      "信息安全"
+    ]
+  },
+  {
+    "id": "ch09_q042",
+    "question": "在信息安全技术中，WAF代表什么？",
+    "options": [
+      "A. 无线应用防火墙",
+      "B. Web应用防火墙",
+      "C. 广域网访问防火墙",
+      "D. 工作站应用框架"
+    ],
+    "answer": "B",
+    "explanation": "WAF是Web Application Firewall的缩写，即Web应用防火墙。WAF专门用于保护Web应用，可以防御SQL注入、XSS、CSRF等常见的Web攻击。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义"
+    ]
+  },
+  {
+    "id": "ch09_q043",
+    "question": "信息安全运营中，特权账户管理的核心要求是什么？",
+    "options": [
+      "A. 所有用户都应拥有管理员权限",
+      "B. 特权账户的使用应受到严格控制和监控",
+      "C. 特权账户的密码可以长期不更换",
+      "D. 特权账户可以共享使用"
+    ],
+    "answer": "B",
+    "explanation": "特权账户管理的核心要求是特权账户的使用应受到严格控制和监控。特权账户拥有系统管理权限，一旦被滥用或泄露将造成严重后果，因此需要严格的申请、审批、使用和审计流程。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义"
+    ]
+  },
+  {
+    "id": "ch09_q044",
+    "question": "以下关于哈希函数的描述，正确的是？",
+    "options": [
+      "A. 哈希函数是可逆的，可以从哈希值恢复原始数据",
+      "B. 不同的输入数据可能产生相同的哈希值",
+      "C. 哈希函数主要用于数据加密",
+      "D. 哈希值的长度随输入数据长度变化"
+    ],
+    "answer": "B",
+    "explanation": "不同的输入数据可能产生相同的哈希值，这称为哈希碰撞。哈希函数是不可逆的单向函数，主要用于数据完整性验证和数字签名，而非数据加密。哈希值的长度是固定的。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "哈希函数",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "哈希函数",
+      "加密",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q045",
+    "question": "SABSA框架的生命周期包括哪几个阶段？",
+    "options": [
+      "A. 规划、设计、实施、运维",
+      "B. 策略、设计、实施、运维、度量",
+      "C. 需求分析、架构设计、开发测试、部署运维",
+      "D. 风险评估、安全设计、安全实施、安全监控"
+    ],
+    "answer": "B",
+    "explanation": "SABSA框架的生命周期包括策略（Strategy）、设计（Design）、实施（Implementation）、运维（Operations）和度量（Measurement）五个阶段，形成一个持续改进的循环。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "风险评估",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "风险评估",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q046",
+    "question": "以下关于信息安全合规性原则的描述，不正确的是？",
+    "options": [
+      "A. 合规性要求安全措施必须符合相关法律法规",
+      "B. 合规性要求安全措施必须符合行业标准",
+      "C. 合规性要求安全措施必须完全独立于业务需求",
+      "D. 合规性要求安全措施必须通过相关认证"
+    ],
+    "answer": "C",
+    "explanation": "合规性并不要求安全措施完全独立于业务需求。相反，安全措施应与业务需求紧密结合，在满足合规要求的同时支持业务目标的实现。安全规划应以业务需求为导向。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch09_q047",
+    "question": "在信息安全技术中，DLP代表什么？",
+    "options": [
+      "A. 数据泄露防护",
+      "B. 分布式日志处理",
+      "C. 数据库安全防护",
+      "D. 直连链路保护"
+    ],
+    "answer": "A",
+    "explanation": "DLP是Data Loss Prevention的缩写，即数据泄露防护。DLP技术用于检测和防止敏感数据的未授权传输或泄露，保护组织的核心数据资产。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义"
+    ]
+  },
+  {
+    "id": "ch09_q048",
+    "question": "以下关于安全培训的描述，不正确的是？",
+    "options": [
+      "A. 安全培训应覆盖所有员工",
+      "B. 安全培训应定期进行",
+      "C. 安全培训只需要针对技术人员",
+      "D. 安全培训应包括安全意识和安全技能两个方面"
+    ],
+    "answer": "C",
+    "explanation": "安全培训不仅需要针对技术人员，而应覆盖所有员工。每个员工都是信息安全的一道防线，都需要具备基本的安全意识和安全技能。安全培训应包括安全意识和安全技能两个方面。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义"
+    ]
+  },
+  {
+    "id": "ch09_q049",
+    "question": "以下关于应急响应的描述，不正确的是？",
+    "options": [
+      "A. 应急响应的目标是尽快恢复系统的正常运行",
+      "B. 应急响应应包括事件检测、分析、遏制、根除和恢复等阶段",
+      "C. 应急响应只需要在安全事件发生后才启动",
+      "D. 应急响应计划应定期演练和更新"
+    ],
+    "answer": "C",
+    "explanation": "应急响应不仅仅在安全事件发生后才启动。应急响应包括事前的预防和准备、事中的检测和响应、事后的恢复和总结。完善的应急响应体系应包括预防措施和演练准备。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概述",
+    "knowledge_point": "应急响应的",
+    "source_ref": "references/第9章_信息安全规划.md#概述",
+    "tags": [
+      "应急响应的",
+      "概述"
+    ]
+  },
+  {
+    "id": "ch09_q050",
+    "question": "信息安全规划中，适用性原则的核心要求是什么？",
+    "options": [
+      "A. 安全措施必须采用最先进的技术",
+      "B. 安全措施必须适合组织的实际情况和需求",
+      "C. 安全措施必须覆盖所有可能的风险",
+      "D. 安全措施必须达到最高的安全等级"
+    ],
+    "answer": "B",
+    "explanation": "适用性原则的核心要求是安全措施必须适合组织的实际情况和需求。安全规划应根据组织的业务特点、风险状况、资源条件等因素，选择最适合的安全措施，而非盲目追求最先进的技术或最高的安全等级。",
+    "chapter": "第9章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息安全的定义",
+    "knowledge_point": "信息安全",
+    "source_ref": "references/第9章_信息安全规划.md#信息安全的定义",
+    "tags": [
+      "信息安全",
+      "信息安全的定义",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch09_q051",
+    "question": "某互联网企业在信息安全规划中，要确保用户数据在不同业务系统间传输和使用的 安全性。在进行身份认证和访问控制规划时，以下哪种技术组合能提供最有效的安全 保障？( )",
+    "options": [
+      "A. 采用单一的静态密码认证方式，并结合自主访问控制",
+      "B. 部署基于生物识别的身份认证技术和基于角色的访问控制",
+      "C. 使用短信验证码进行身份认证，搭配基于规则的访问控制",
+      "D. 引入联邦身份认证技术，结合基于属性的访问控制"
+    ],
+    "answer": "D",
+    "explanation": "静态密码安全性低，单一认证方式风险大，A 选项错误；生物识别技术可能存在 隐私问题，且基于角色的访问控制在复杂业务场景下灵活性不足，B 选项不合适；短信 验证码易受攻击，基于规则的访问控制不够灵活，C 选项错误。联邦身份认证技术可实 现跨系统身份管理，基于属性的访问控制能根据用户属性进行灵活授权，D 选项能更 好地满足需求。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0390"
+  },
+  {
+    "id": "ch09_q052",
+    "question": "信息安全规划过程中，对信息安全架构进行评估时，需要考虑多个方面。如果一个 企 业希望提高信息系统的互操作性、集成性和标准化程度，那么在安全架构设计上应 重点关注（ ）。",
+    "options": [
+      "A. 系统安全架构，从源头打造安全基础",
+      "B. 安全技术体系架构，构建通用安全技术基础设施",
+      "C. 审计架构，确保安全措施有效执行",
+      "D. 强调架构在抽象层面工作，提供可供参考的框架"
+    ],
+    "answer": "D",
+    "explanation": "9.2 节提到，架构在抽象层面工作，提供一个可供参考的框架，使组织更好地实 现互操作性、集成性、易用性、标准化和便于治理性。系统安全架构侧重于从源头打造 安全；安全技术体系架构重点在构建技术基础设施；审计架构主要负责风险发现，均与 提高互操作性、集成性和标准化程度的直接关联较小。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0356"
+  },
+  {
+    "id": "ch09_q053",
+    "question": "信息安全规划中关注利益相关方的安全诉求，利益相关方不包括（ ）。",
+    "options": [
+      "A. 企业合作的供应商",
+      "B. 企业内部的清洁工",
+      "C. 行业协会",
+      "D. 企业的离职员工"
+    ],
+    "answer": "D",
+    "explanation": "利益相关方不包括企业的离职员工。在信息安全规划中，需要关注那些与信息系 统安全相关的利益相关方，包括企业内部员工、合作伙伴、客户等。而离职员工由于已 经离开企业，因此不再被视为利益相关方。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0194"
+  },
+  {
+    "id": "ch09_q054",
+    "question": "某企业在信息安全规划中，依据信息系统安全保障模型进行安全建设。在保障要素 方面，除了技术、管理和工程外，还包括（ ）。",
+    "options": [
+      "A. 人员",
+      "B. 流程",
+      "C. 设备",
+      "D. 环境"
+    ],
+    "answer": "A",
+    "explanation": "9.2.3 节表明，信息系统安全保障需要从技术、工程、管理和人员4 个领域进行 综合保障，由合格的信息安全专业人员，使用合格的信息安全技术和产品，通过规范、 可持续性改进的工程过程能力和管理能力进行建设及运行维护，保障信息系统安全。流 程、设备、环境不属于保障模型中的独立保障要素。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0364"
+  },
+  {
+    "id": "ch09_q055",
+    "question": "某企业在信息安全规划中，为了保障数据安全，采用了数据加密技术。在选择加密 算法时，考虑到数据传输的效率和安全性，对于大量数据的传输，以下哪种加密方式 更合 适？( )",
+    "options": [
+      "A. 对称加密，加密和解密速度快",
+      "B. 非对称加密，密钥管理相对简单",
+      "C. 链路加密，对通信链路上的数据进行加密",
+      "D. 先使用非对称加密传输对称加密的密钥，再用对称加密传输数据"
+    ],
+    "answer": "D",
+    "explanation": "9.3.4 节提到，对称加密速度快但密钥分发管理困难，非对称加密密钥管理相对 简单但速度慢。对于大量数据传输，先使用非对称加密传输对称加密的密钥，再用对称 加密传输数据，既利用了对称加密的速度优势，又借助非对称加密解决了密钥分发问题， 能兼顾效率和安全性。单纯使用对称加密存在密钥分发风险；非对称加密速度慢不适合 大量数据传输；链路加密主要保障通信链路安全，不能完全解决密钥管理和整体效率 问题。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0357"
+  },
+  {
+    "id": "ch09_q056",
+    "question": "某企业在信息安全规划中，对信息安全组织体系进行建设。信息安全协调机构在组 织体系中发挥着重要作用，以下关于信息安全协调机构的职责，说法错误的是（ ）。",
+    "options": [
+      "A. 负责制定信息安全技术标准和规范",
+      "B. 协调信息安全工作在各部门之间的推进",
+      "C. 沟通信息安全工作相关的需求和问题",
+      "D. 促进信息安全工作与企业其他业务的融合"
+    ],
+    "answer": "A",
+    "explanation": "信息安全协调机构主要负责协调各部门之间的信息安全工作，沟通需求和问 题， 促进与其他业务的融合，B、C、D 选项正确。制定信息安全技术标准和规范通常是专业 技术部门或相关标准制定组织的职责，不属于信息安全协调机构的职责，A 选项错误。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0412"
+  },
+  {
+    "id": "ch09_q057",
+    "question": "某企业在信息安全规划中，为了加强对网络攻击的防范，计划部署多种安全设备。 以下关于防火墙和入侵检测系统（IDS）的说法，正确的是（ ）。",
+    "options": [
+      "A. 防火墙可以检测入侵行为，入侵检测系统可以阻止入侵行为",
+      "B. 防火墙主要用于防止外部网络攻击，入侵检测系统主要用于检测内部网络攻击",
+      "C. 防火墙是一种被动防御设备，入侵检测系统是一种主动防御设备",
+      "D. 防火墙和入侵检测系统功能互补，共同保障网络安全"
+    ],
+    "answer": "D",
+    "explanation": "9.3.4 节表明，防火墙主要功能是阻止非法访问，保护内部网络安全，但不能检 测入侵行为；入侵检测系统可检测入侵行为，但不能阻止入侵。两者功能互补，共同保 障网络安全。防火墙和入侵检测系统都可防范内外部网络攻击，且防火墙并非完全被动， 入侵检测系统也不是完全主动。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0355"
+  },
+  {
+    "id": "ch09_q058",
+    "question": "信息安全规划的合规性要求企业遵守多种规范和标准。在国际业务开展过程中，企 业需要遵循国际标准和法规。以下属于国际信息安全相关标准的是（ ）。",
+    "options": [
+      "A. ISO/IEC 27001",
+      "B. 网络安全等级保护制度",
+      "C. 中华人民共和国网络安全法",
+      "D. 企业内部信息安全管理规定"
+    ],
+    "answer": "A",
+    "explanation": "9.3.3 节提到，ISO/IEC 27001 是国际上广泛认可的信息安全管理体系标准。网 络安全等级保护制度是我国的信息安全标准；中华人民共和国网络安全法是我国的法律 法规；企业内部信息安全管理规定是企业自行制定的内部规范，均不属于国际标准。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0352"
+  },
+  {
+    "id": "ch09_q059",
+    "question": "在信息安全规划中，信息安全管理体系规划和信息安全技术体系规划紧密相关。以 下关于两者关系的表述，错误的是（ ）。",
+    "options": [
+      "A. 信息安全管理体系为技术体系提供管理框架和指导",
+      "B. 信息安全技术体系是实现管理体系目标的重要手段",
+      "C. 管理体系侧重于制度、流程等方面，技术体系侧重于具体的安全技术实现",
+      "D. 两者相互独立，在信息安全规划中无需关联考虑"
+    ],
+    "answer": "D",
+    "explanation": "9.3.3 节和9.3.4 节分别阐述了信息安全管理体系和技术体系的内容。信息安全 管理体系通过制定策略、流程等进行管理，为技术体系提供管理框架和指导；信息安全 技术体系借助各种技术手段实现管理体系设定的安全目标。两者相辅相成，在信息安全 规划中需要关联考虑，并非相互独立。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0378"
+  },
+  {
+    "id": "ch09_q060",
+    "question": "应急响应计划中，制定应急响应策略时不包括（ ）。",
+    "options": [
+      "A. 建立紧急联系渠道",
+      "B. 明确责任人和应急响应团队成员",
+      "C. 定义安全事件级别和响应措施",
+      "D. 确定如何通知相关人员和部门"
+    ],
+    "answer": "A",
+    "explanation": "9.3.5 节指出，制定应急响应策略包括明确责任人和应急响应团队成员，定义各 种安全事件的级别和相应的响应措施，以及如何通知相关人员和部门。建立紧急联系渠 道是应急响应计划中独立的一项内容，不属于制定应急响应策略范畴。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0220"
+  },
+  {
+    "id": "ch09_q061",
+    "question": "某跨国公司在全球多个国家开展业务，在进行信息安全规划时，需要考虑不同国家 的法律法规差异。以下关于合规性的做法，正确的是（ ）。",
+    "options": [
+      "A. 以总部所在国的法律法规为准，在全球统一执行",
+      "B. 每个国家的分支机构自行决定合规标准，总部不做统一要求",
+      "C. 梳理不同国家的法律法规，制定符合所有国家要求的统一安全策略",
+      "D. 梳理不同国家的法律法规，针对不同国家制定差异化的安全策略，同时确保符合总部 的总体安全要求"
+    ],
+    "answer": "D",
+    "explanation": "9.1.4 节强调合规性要满足不同层面要求。跨国公司在不同国家开展业务，由于 各国法律法规存在差异，不能仅以总部所在国法规为准，也不能让分支机构自行决定。 制定统一策略难以符合所有国家要求，所以针对不同国家制定差异化策略并符合总部总 体要求才是正确做法。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0340"
+  },
+  {
+    "id": "ch09_q062",
+    "question": "等保“一个中心三重防御”中，“三重防御”不包括（ ）。",
+    "options": [
+      "A. 安全管理中心",
+      "B. 安全计算环境",
+      "C. 安全区域边界",
+      "D. 安全网络通信"
+    ],
+    "answer": "A",
+    "explanation": "9.3.3 节指出，等保“一个中心三重防御”中“一个中心”是安全管理中心，“三 重防御”是安全计算环境、安全区域边界、安全网络通信，A 选项不属于“三重防御”。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0138"
+  },
+  {
+    "id": "ch09_q063",
+    "question": "某企业在信息安全规划中，对信息系统安全保障能力进行评估。按照信息系统安全 保障模型，以下关于能力成熟度等级的描述，正确的是（ ）。",
+    "options": [
+      "A. 基本执行级能够主动地实现基本实践的计划与执行",
+      "B. 计划跟踪级的基本实践具有规范定义与执行",
+      "C. 充分定义级建立了量化目标，基本实践的实现能进行度量与预测",
+      "D. 持续优化级能根据组织的整体目标，不断改进和优化实现基本实践"
+    ],
+    "answer": "D",
+    "explanation": "9.2.3 节指出，基本执行级特征为随机、被动地实现基本实践，依赖个人经验； 计划跟踪级主动地实现基本实践的计划与执行，但未形成体系化；充分定义级是基本实 践的规范定义与执行；持续优化级能根据组织整体目标不断改进和优化基本实践。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0345"
+  },
+  {
+    "id": "ch09_q064",
+    "question": "信息安全规划中，以下不属于信息安全技术体系规划内容的是（ ）。",
+    "options": [
+      "A. 信息安全组织架构设计",
+      "B. 身份认证技术规划",
+      "C. 访问控制技术规划",
+      "D. 数据加密技术规划"
+    ],
+    "answer": "A",
+    "explanation": "9.3.4 节指出，信息安全技术体系规划包括身份认证、访问控制、数据加密等技 术规划，信息安全组织架构设计属于信息安全组织体系规划内容。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0079"
+  },
+  {
+    "id": "ch09_q065",
+    "question": "某企业在信息安全规划中，为了保护客户数据的保密性，采用了数据加密技术。在 加密过程中，密钥的管理至关重要。以下关于密钥管理的说法，错误的是（ ）。",
+    "options": [
+      "A. 对称加密中，密钥的分发和管理比较困难",
+      "B. 非对称加密中，公钥可以公开，私钥需要严格保密",
+      "C. 密钥应定期更换，以提高安全性",
+      "D. 为了方便管理，所有系统使用相同的密钥"
+    ],
+    "answer": "D",
+    "explanation": "9.3.4 节提到，数据加密技术中，对称加密密钥分发管理困难；非对称加密公钥 公开，私钥保密；定期更换密钥可提高安全性。所有系统使用相同密钥会使一个系统密 钥泄露影响多个系统安全，增加安全风险，所以D 选项错误。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0366"
+  },
+  {
+    "id": "ch09_q066",
+    "question": "信息安全规划中，不属于信息安全技术体系规划内容的是（ ）。",
+    "options": [
+      "A. 信息安全组织架构设计",
+      "B. 身份认证技术规划",
+      "C. 访问控制技术规划",
+      "D. 数据加密技术规划"
+    ],
+    "answer": "A",
+    "explanation": "9.3.4 节指出，信息安全技术体系规划包括身份认证、访问控制、数据加密等技 术规划，信息安全组织架构设计属于信息安全组织体系规划内容。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0236"
+  },
+  {
+    "id": "ch09_q067",
+    "question": "某企业在信息安全规划时，对信息系统安全保障能力进行评估。按照信息系统安全 保障模型的能力成熟度等级划分，以下关于充分定义级的描述，正确的是（ ）。",
+    "options": [
+      "A. 基本实践具有规范定义与执行，但未形成体系化",
+      "B. 建立了量化目标，基本实践的实现能进行度量与预测",
+      "C. 能根据组织的整体目标，不断改进和优化实现基本实践",
+      "D. 基本实践的规范定义与执行，实现了体系化"
+    ],
+    "answer": "D",
+    "explanation": "9.2.3 节指出，充分定义级的特征为基本实践的规范定义与执行，且实现了体系 化。A 选项描述的是计划跟踪级；B 选项是量化控制级的特征；C 选项属于持续优化级。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0379"
+  },
+  {
+    "id": "ch09_q068",
+    "question": "安全培训与意识提升中，持续宣传教育通过多种方式进行，其中不包括（ ）。",
+    "options": [
+      "A. 安全培训课程",
+      "B. 内部通信",
+      "C. 安全提示",
+      "D. 宣传海报"
+    ],
+    "answer": "A",
+    "explanation": "9.3.5 节提到，持续宣传教育通过内部通信、安全提示和宣传海报等方式进行， 安全培训课程不属于持续宣传教育方式。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0255"
+  },
+  {
+    "id": "ch09_q069",
+    "question": "在应急响应计划中，进行应急演练的作用不包括（ ）。",
+    "options": [
+      "A. 验证应急响应计划的有效性和可行性",
+      "B. 发现和纠正计划中的不足之处",
+      "C. 提高团队的应急响应能力",
+      "D. 建立应急响应报告和记录机制"
+    ],
+    "answer": "D",
+    "explanation": "9.3.5 节提到，应急演练可验证计划有效性和可行性、发现和纠正问题、提高团 队应急响应能力，建立应急响应报告和记录机制与应急演练作用无关。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0063"
+  },
+  {
+    "id": "ch09_q070",
+    "question": "信息安全架构开发的作用不包括（ ）。",
+    "options": [
+      "A. 提高信息系统的运行速度",
+      "B. 确保安全工作与业务实践结合",
+      "C. 实现标准化",
+      "D. 便于治理"
+    ],
+    "answer": "A",
+    "explanation": "9.2 节指出，开发信息安全架构能确保安全工作与业务实践结合，实现互操作性、 集成性、易用性、标准化和便于治理性，但未提及提高信息系统的运行速度。",
+    "chapter": "第9章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息安全规划",
+    "knowledge_point": "信息安全规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第9章",
+    "tags": [
+      "信息安全规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch09_0280"
+  }
+]

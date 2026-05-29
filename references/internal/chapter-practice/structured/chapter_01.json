@@ -1,0 +1,4772 @@
+[
+  {
+    "id": "internal_qt_ch01_0001",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息化的主体是（ ）。",
+    "options": [
+      "A. 政府",
+      "B. 企业",
+      "C. 全体社会成员",
+      "D. 事业单位"
+    ],
+    "answer": "C",
+    "explanation": "文中明确提到“信息化的主体是全体社会成员，包括政府、企业、事业、团体和 个人”，位于1.1.1 信息化内涵与特征章节。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0002",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息化的时域是（ ）。",
+    "options": [
+      "A. 短期过程",
+      "B. 中期过程",
+      "C. 长期过程",
+      "D. 不确定"
+    ],
+    "answer": "C",
+    "explanation": "在1.1.1 信息化内涵与特征章节中指出“信息化的时域是一个长期的过程”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0003",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "我国信息化发展战略总目标分“三步走”建设网络强国，其中第二步到（ ）年。",
+    "options": [
+      "A. 2020",
+      "B. 2025",
+      "C. 2030",
+      "D. 21 世纪中叶"
+    ],
+    "answer": "B",
+    "explanation": "根据1.1.1 信息化内涵与特征章节，我国信息化发展战略第二步到2025 年，建 成国际领先的移动通信网络等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0004",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的狭义定义中，以（ ）为目的。",
+    "options": [
+      "A. 处理信息流",
+      "B. 决策支持",
+      "C. 资源共享",
+      "D. 数据存储"
+    ],
+    "answer": "A",
+    "explanation": "1.1.2 信息系统内涵与特征章节提到，狭义的信息系统是以处理信息流为目的的 人机一体化系统。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0005",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统抽象模型中，管理模型是指（ ）。",
+    "options": [
+      "A. 系统处理信息的结构和方法",
+      "B. 系统服务对象领域的专门知识及处理该领域问题的模型",
+      "C. 可供应的计算机技术和通信技术",
+      "D. 从事对象领域工作的人员"
+    ],
+    "answer": "B",
+    "explanation": "在1.1.2 信息系统内涵与特征章节，信息系统抽象模型中管理模型是指系统服 务对象领域的专门知识，以及分析和处理该领域问题的模型。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0006",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的物理结构一般可分为（ ）。",
+    "options": [
+      "A. 集中式与分布式",
+      "B. 逻辑结构和功能结构",
+      "C. 硬件结构和软件结构",
+      "D. 主机结构和终端结构"
+    ],
+    "answer": "A",
+    "explanation": "1.1.2 信息系统内涵与特征章节表明，按照信息系统硬件在空间上的拓扑结构， 其物理结构一般可分为集中式与分布式两大类。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0007",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "诺兰模型中，计算机刚开始只作为办公设备使用的阶段是（ ）。",
+    "options": [
+      "A. 初始阶段",
+      "B. 传播阶段",
+      "C. 控制阶段",
+      "D. 集成阶段"
+    ],
+    "answer": "A",
+    "explanation": "1.1.3 信息系统发展章节提到，诺兰模型的初始阶段计算机刚开始只作为办公设 备使用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0008",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息技术中，硬技术是指（ ）。",
+    "options": [
+      "A. 各种信息设备及其功能",
+      "B. 有关信息获取与处理的各种知识",
+      "C. 数据统计分析技术",
+      "D. 规划决策技术"
+    ],
+    "answer": "A",
+    "explanation": "在1.2 信息技术及其发展章节，按表现形态不同，信息技术的硬技术指各种信息 设备及其功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0009",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机硬件中，冯·诺依曼计算机结构将硬件划分为（ ）部分。",
+    "options": [
+      "A. 三",
+      "B. 四",
+      "C. 五",
+      "D. 六"
+    ],
+    "answer": "C",
+    "explanation": "1.2.1 计算机软硬件章节指出，冯·诺依曼计算机结构将计算机硬件划分为控制 器、运算器、存储器、输入设备和输出设备五部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0010",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机软件中，系统软件不包括（ ）。",
+    "options": [
+      "A. 操作系统",
+      "B. 数据库",
+      "C. 图形图像处理软件",
+      "D. 中间件"
+    ],
+    "answer": "C",
+    "explanation": "1.2.1 计算机软硬件章节表明，系统软件主要包括操作系统、数据库和中间件等， 图形图像处理软件属于应用软件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0011",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机网络按照作用范围可划分为（ ）。",
+    "options": [
+      "A. 公用网和专用网",
+      "B. 局域网、城域网和广域网",
+      "C. 个人局域网、局域网、城域网和广域网",
+      "D. 有线网和无线网"
+    ],
+    "answer": "C",
+    "explanation": "1.2.2 计算机网络章节提到，从网络的作用范围可将计算机网络划分为个人局域 网(PAN)、局域网(LAN)、城域网(MAN)、广域网(WAN)。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0012",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "OSI 模型共有（ ）层。",
+    "options": [
+      "A. 四",
+      "B. 五",
+      "C. 六",
+      "D. 七"
+    ],
+    "answer": "D",
+    "explanation": "1.2.2 计算机网络章节指出，国际标准化组织公布的OSI 模型共有七层。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0013",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "TCP/IP 协议模型中，负责逻辑编址、路由选择等功能的是（ ）。",
+    "options": [
+      "A. 网络接口层",
+      "B. 网际层",
+      "C. 传输层",
+      "D. 应用层"
+    ],
+    "answer": "B",
+    "explanation": "在1.2.2 计算机网络章节，TCP/IP 协议模型中网际层的主要特性为逻辑编址、 路由选择等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0014",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "IEEE 802 规范中，定义以太网的CSMA/CD 载波监听多路访问/冲突检测协议的是 ( ) 。",
+    "options": [
+      "A. 802.1",
+      "B. 802.2",
+      "C. 802.3",
+      "D. 802.5"
+    ],
+    "answer": "C",
+    "explanation": "1.2.2 计算机网络章节提到，IEEE 802.3 定义了以太网的CSMA/CD 载波监听多 路访问/冲突检测协议。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0015",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "软件定义网络（SDN）中，南向接口负责（ ）。",
+    "options": [
+      "A. 与数据平面进行通信",
+      "B. 与应用平面进行通信",
+      "C. 多控制器之间的通信",
+      "D. 掌握全局网络信息"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节表明，SDN 中以控制器为逻辑中心，南向接口负责与数据 平面进行通信。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0016",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "第五代移动通信技术（5G）支持的频段是（ ）。",
+    "options": [
+      "A. 中低频",
+      "B. 高频",
+      "C. 中低频和高频",
+      "D. 超高频"
+    ],
+    "answer": "C",
+    "explanation": "1.2.2 计算机网络章节提到，5G 同时支持中低频和高频频段。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0017",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据存储技术架构中，按照存储介质可将存储系统划分为（ ）。",
+    "options": [
+      "A. IP 组网存储、FC 组网存储、IB 组网存储",
+      "B. 文件存储、块存储、对象存储",
+      "C. 磁盘存储、全闪存储、混闪存储、磁带和光盘",
+      "D. SAN 存储、NAS 存储、DAS 存储"
+    ],
+    "answer": "C",
+    "explanation": "在1.2.3 数据存储和数据库章节，按照存储介质的不同，存储系统可以划分为磁 盘存储、全闪存储、混闪存储、磁带和光盘等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0018",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据结构模型中，用“树”结构表示实体集之间关联的是（ ）。",
+    "options": [
+      "A. 层次模型",
+      "B. 网状模型",
+      "C. 关系模型",
+      "D. 面向对象模型"
+    ],
+    "answer": "A",
+    "explanation": "1.2.3 数据存储和数据库章节指出，层次模型用“树”结构表示实体集之间的关 联。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0019",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "关系型数据库支持事务的ACID 原则，其中A 代表（ ）。",
+    "options": [
+      "A. 原子性",
+      "B. 一致性",
+      "C. 隔离性",
+      "D. 持久性"
+    ],
+    "answer": "A",
+    "explanation": "1.2.3 数据存储和数据库章节提到，关系型数据库支持事务的ACID 原则，其中 A 代表原子性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0020",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "非关系型数据库中，类似传统语言中哈希表的是（ ）。",
+    "options": [
+      "A. 键值数据库",
+      "B. 列存储数据库",
+      "C. 面向文档数据库",
+      "D. 图形数据库"
+    ],
+    "answer": "A",
+    "explanation": "1.2.3 数据存储和数据库章节表明，键值数据库类似传统语言中使用的哈希表。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0021",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据仓库是一个（ ）的数据集合。",
+    "options": [
+      "A. 面向操作、集成的、易失的且随时间变化",
+      "B. 面向主题、集成的、非易失的且随时间变化",
+      "C. 面向主题、分散的、非易失的且固定不变",
+      "D. 面向操作、分散的、易失的且固定不变"
+    ],
+    "answer": "B",
+    "explanation": "在1.2.3 数据存储和数据库章节，数据仓库是一个面向主题的、集成的、非易失 的且随时间变化的数据集合。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0022",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全的基本属性中，保证信息从真实的发信者传送到真实的收信者手中，传送 过程中没有被非法用户添加、删除和替换等，这是（ ）。",
+    "options": [
+      "A. 保密性",
+      "B. 完整性",
+      "C. 可用性",
+      "D. 可控性"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节提到，完整性是保证信息从真实的发信者传送到真实的收信 者手中，传送过程中没有被非法用户添加、删除和替换等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0023",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全技术中，防止对任何资源进行未授权访问的是（ ）。",
+    "options": [
+      "A. 身份认证",
+      "B. 访问控制",
+      "C. 入侵检测系统",
+      "D. 防火墙"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节表明，访问控制是指防止对任何资源进行未授权的访问。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0024",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "用户和实体行为分析（UEBA）提供了（ ）及基于各种分析方法的异常检测。",
+    "options": [
+      "A. 用户画像",
+      "B. 系统漏洞检测",
+      "C. 网络攻击预警",
+      "D. 数据加密"
+    ],
+    "answer": "A",
+    "explanation": "在1.2.4 信息安全章节，UEBA 提供了用户画像及基于各种分析方法的异常检测。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0025",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "网络安全态势感知的前提是（ ）。",
+    "options": [
+      "A. 安全大数据",
+      "B. 海量多元异构数据的汇聚融合技术",
+      "C. 面向多类型的网络安全威胁评估技术",
+      "D. 网络安全态势可视化"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节提到，网络安全态势感知的前提是安全大数据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0026",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "物联网的定义中，通过（ ）将物品与互联网相连接。",
+    "options": [
+      "A. 通信设备",
+      "B. 信息传感设备",
+      "C. 网络设备",
+      "D. 智能设备"
+    ],
+    "answer": "B",
+    "explanation": "1.3.1 物联网章节指出，物联网是指通过信息传感设备，按约定的协议将任何物 品与互联网相连接。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0027",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "物联网架构中，感知层由各种（ ）构成。",
+    "options": [
+      "A. 网络",
+      "B. 传感器",
+      "C. 应用程序",
+      "D. 服务器"
+    ],
+    "answer": "B",
+    "explanation": "在1.3.1 物联网章节，物联网架构的感知层由各种传感器构成。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0028",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "物联网的产业链包括（ ）。",
+    "options": [
+      "A. 传感器和芯片、设备、网络运营及服务、软件与应用开发和系统集成",
+      "B. 传感器和芯片、网络运营及服务、数据分析、系统集成",
+      "C. 设备、网络运营及服务、软件与应用开发、数据存储",
+      "D. 传感器和芯片、设备、网络运营及服务、数据挖掘"
+    ],
+    "answer": "A",
+    "explanation": "1.3.1 物联网章节表明，物联网的产业链包括传感器和芯片、设备、网络运营及 服务、软件与应用开发和系统集成。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0029",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "区块链是一种按照（ ）将数据区块以顺序相连的方式组合成的链式数据结构。",
+    "options": [
+      "A. 随机顺序",
+      "B. 时间顺序",
+      "C. 重要性顺序",
+      "D. 数据量顺序"
+    ],
+    "answer": "B",
+    "explanation": "1.3.2 区块链章节提到，区块链是一种按照时间顺序将数据区块以顺序相连的方 式组合成的链式数据结构。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0030",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "区块链的特点中，运用带有时间戳信息的链式结构来存储数据信息，实现数据可追 溯性的是（ ）。",
+    "options": [
+      "A. 多中心化",
+      "B. 时序数据",
+      "C. 不可篡改",
+      "D. 智能合约"
+    ],
+    "answer": "B",
+    "explanation": "在1.3.2 区块链章节，区块链运用带有时间戳信息的链式结构来存储数据信息， 为数据信息添加时间维度的属性，从而可实现数据信息的可追溯性，这体现了时序数据 特点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0031",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "区块链的共识机制中，常用的PoW 是指（ ）。",
+    "options": [
+      "A. 权益证明机制",
+      "B. 工作量证明机制",
+      "C. 委托权益证明机制",
+      "D. 实用拜占庭容错算法"
+    ],
+    "answer": "B",
+    "explanation": "1.3.2 区块链章节指出，PoW 是工作量证明机制，是区块链常用的共识机制之一。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0032",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "云计算是分布式计算的一种，通过网络“云”将巨大的数据计算处理程序分解成 ( ) 。",
+    "options": [
+      "A. 少数大程序",
+      "B. 无数个小程序",
+      "C. 特定数量程序",
+      "D. 几个核心程序"
+    ],
+    "answer": "B",
+    "explanation": "1.3.3 云计算章节提到，云计算是通过网络“云”将巨大的数据计算处理程序分 解成无数个小程序。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0033",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "云计算按照部署范围的不同，可以分为（ ）。",
+    "options": [
+      "A. 基础设施即服务、平台即服务和软件即服务",
+      "B. 公有云、私有云和混合云",
+      "C. 通用云、定制云",
+      "D. 企业云、个人云"
+    ],
+    "answer": "B",
+    "explanation": "在1.3.3 云计算章节，云计算按部署范围的不同，可以分为公有云、私有云和混 合云。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0034",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "云计算的关键技术中，扩大硬件容量，简化软件重新配置过程的是（ ）。",
+    "options": [
+      "A. 虚拟化技术",
+      "B. 云存储技术",
+      "C. 多租户和访问控制管理",
+      "D. 云安全技术"
+    ],
+    "answer": "A",
+    "explanation": "1.3.3 云计算章节表明，虚拟化技术可以扩大硬件容量，简化软件的重新配置过 程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0035",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "大数据是指无法在一定时间范围内用（ ）进行捕捉、管理和处理的数据集合。",
+    "options": [
+      "A. 新型软件工具",
+      "B. 常规软件工具",
+      "C. 高级软件工具",
+      "D. 专用软件工具"
+    ],
+    "answer": "B",
+    "explanation": "1.3.4 大数据章节提到，大数据是指无法在一定时间范围内用常规软件工具进行 捕捉、管理和处理的数据集合。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0036",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "大数据的主要特征中，数据类型繁多，具有异构性和多样性特点的是（ ）。",
+    "options": [
+      "A. 规模性",
+      "B. 多样性",
+      "C. 价值密度",
+      "D. 速度"
+    ],
+    "answer": "B",
+    "explanation": "在1.3.4 大数据章节，大数据的数据类型繁多，具有异构性和多样性的特点，这 体现了多样性特征。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0037",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "大数据获取技术中，实现数据源获取的是（ ）。",
+    "options": [
+      "A. 数据采集技术",
+      "B. 数据整合技术",
+      "C. 数据清洗技术",
+      "D. 数据挖掘技术"
+    ],
+    "answer": "A",
+    "explanation": "1.3.4 大数据章节指出，数据采集技术实现数据源的获取。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0038",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "人工智能是利用计算机或者计算机控制的机器来模拟、延伸和扩展人类的（ ）。",
+    "options": [
+      "A. 体能",
+      "B. 智能和感知环境的能力",
+      "C. 社交能力",
+      "D. 运动能力"
+    ],
+    "answer": "B",
+    "explanation": "1.3.5 人工智能章节提到，人工智能是利用计算机或者计算机控制的机器来模拟、 延伸和扩展人类的智能和感知环境的能力。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0039",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "人工智能的特点中，由人类设计，为人类服务，本质为（ ）。",
+    "options": [
+      "A. 智能",
+      "B. 计算",
+      "C. 数据处理",
+      "D. 模型构建"
+    ],
+    "answer": "B",
+    "explanation": "在1.3.5 人工智能章节，人工智能由人类设计，为人类服务，本质为计算。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0040",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "人工智能的关键技术中，机器获取知识的根本途径是（ ）。",
+    "options": [
+      "A. 自然语言处理",
+      "B. 计算机视觉",
+      "C. 机器学习",
+      "D. 知识图谱"
+    ],
+    "answer": "C",
+    "explanation": "1.3.5 人工智能章节表明，机器学习是机器获取知识的根本途径。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0041",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "边缘计算是一种将主要处理和数据存储放在（ ）的分布式计算形式。",
+    "options": [
+      "A. 网络中心节点",
+      "B. 网络边缘节点",
+      "C. 云端",
+      "D. 本地服务器"
+    ],
+    "answer": "B",
+    "explanation": "1.3.6 边缘计算章节提到，边缘计算是一种将主要处理和数据存储放在网络边缘 节点的分布式计算形式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0042",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "边缘计算的特点中，作为物理世界到数字世界的桥梁，是数据的第一入口，这体现 的是( ) 。",
+    "options": [
+      "A. 联接性",
+      "B. 数据第一入口",
+      "C. 约束性",
+      "D. 分布性"
+    ],
+    "answer": "B",
+    "explanation": "在1.3.6 边缘计算章节，边缘计算作为物理世界到数字世界的桥梁，是数据的第 一入口，这体现了数据第一入口的特点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0043",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "边缘计算与云计算的关系是（ ）。",
+    "options": [
+      "A. 替代关系",
+      "B. 互补协同关系",
+      "C. 竞争关系",
+      "D. 没有关系"
+    ],
+    "answer": "B",
+    "explanation": "1.3.6 边缘计算章节指出，边缘计算与云计算之间不是替代关系，而是互补协同 关系。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0044",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数字孪生是现有的或将有的物理实体对象的（ ）。",
+    "options": [
+      "A. 物理模型",
+      "B. 数字模型",
+      "C. 虚拟模型",
+      "D. 概念模型"
+    ],
+    "answer": "B",
+    "explanation": "1.3.7 数字孪生章节提到，数字孪生是现有的或将有的物理实体对象的数字模型。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0045",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数字孪生的核心技术中，用于验证和确认建模对物理世界理解正确性和有效性的是 ( ) 。",
+    "options": [
+      "A. 建模",
+      "B. 仿真",
+      "C. 数字线程",
+      "D. 物联网"
+    ],
+    "answer": "B",
+    "explanation": "在1.3.7 数字孪生章节，从技术角度看，仿真就是用于验证和确认建模对物理世 界理解的正确性和有效性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0046",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息化发展中，我国全面部署“构建产业数字化转型发展体系”重大任务，标志着 我国信息化进入（ ）。",
+    "options": [
+      "A. 加快数字化发展、建设数字中国新阶段",
+      "B. 信息化全面发展阶段",
+      "C. 信息化创新跨越阶段",
+      "D. 信息化加速推进阶段"
+    ],
+    "answer": "A",
+    "explanation": "在1.1.1 信息化内涵与特征章节中提到，当前，我国全面部署了“构建产业数字 化转型发展体系”重大任务，明确我国信息化进入加快数字化发展、建设数字中国的 新阶段。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0047",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的特征中，信息系统需要不断调整和改进以适应内外部变化，这体现的是 ( ) 。",
+    "options": [
+      "A. 复杂性",
+      "B. 动态性",
+      "C. 可扩展性",
+      "D. 易用性"
+    ],
+    "answer": "B",
+    "explanation": "依据1.1.2 信息系统内涵与特征章节，信息系统的动态性是指其需要不断调整 和改进，以适应外部环境的变化和内部业务需求的发展。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0048",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的逻辑结构自底向上可分为五个层次，其中负责保障信息（数据）传输和 共享的是（ ）。",
+    "options": [
+      "A. 基础设施层",
+      "B. 资源管理层",
+      "C. 中间件层",
+      "D. 业务逻辑层"
+    ],
+    "answer": "C",
+    "explanation": "1.1.2 信息系统内涵与特征章节表明，中间件层主要负责保障信息（数据）的传 输和共享，负责提供某一类特定的基础数据服务。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0049",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "诺兰模型中，组织开始进行规划设计，建立基础数据库并建成统一信息管理系统的 阶段是（ ）。",
+    "options": [
+      "A. 控制阶段",
+      "B. 集成阶段",
+      "C. 数据管理阶段",
+      "D. 成熟阶段"
+    ],
+    "answer": "B",
+    "explanation": "在1.1.3 信息系统发展章节中，诺兰模型的集成阶段，组织开始进行规划设计， 建立基础数据库并建成统一的信息管理系统。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0050",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机软件中，为某类应用需要或解决某个特定问题而设计的软件是（ ）。",
+    "options": [
+      "A. 系统软件",
+      "B. 应用软件",
+      "C. 通用软件",
+      "D. 专用软件"
+    ],
+    "answer": "B",
+    "explanation": "1.2.1 计算机软硬件章节提到，应用软件是指为某类应用需要或解决某个特定问 题而设计的软件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0051",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机网络的功能中，通过计算机网络可扩展计算机系统的功能及其应用范围，这 体现的是（ ）。",
+    "options": [
+      "A. 数据通信",
+      "B. 资源共享",
+      "C. 管理集中化",
+      "D. 实现分布式处理"
+    ],
+    "answer": "D",
+    "explanation": "根据1.2.2 计算机网络章节，实现分布式处理是指通过计算机网络可扩展计算 机系统的功能及其应用范围。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0052",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "在计算机网络协议中，OSI 模型的最低层是（ ）。",
+    "options": [
+      "A. 应用层",
+      "B. 物理层",
+      "C. 数据链路层",
+      "D. 网络层"
+    ],
+    "answer": "B",
+    "explanation": "1.2.2 计算机网络章节指出，OSI 模型由低层至高层分别为物理层、数据链路层、 网络层、传输层、会话层、表示层和应用层，最低层是物理层。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0053",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "TCP/IP 协议族中，用于文件传输的协议是（ ）。",
+    "options": [
+      "A. FTP",
+      "B. HTTP",
+      "C. SMTP",
+      "D. UDP"
+    ],
+    "answer": "A",
+    "explanation": "在1.2.2 计算机网络章节，TCP/IP 协议族中文件传输协议是FTP 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0054",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "软件定义网络（SDN）中，数据平面由（ ）组成。",
+    "options": [
+      "A. 交换机等网络通用硬件",
+      "B. 逻辑上为中心的SDN 控制器",
+      "C. 各种基于SDN 的网络应用",
+      "D. 具有逻辑中心化和可编程的控制器"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节表明，SDN 的数据平面由交换机等网络通用硬件组成。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0055",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "5G 为支持三大应用场景，采用了灵活的全新系统设计，其采用的基础技术是（ ）。",
+    "options": [
+      "A. TD - LTE 和FDD - LTE",
+      "B. OFDMA 和MIMO",
+      "C. CDMA 和TDMA",
+      "D. GSM 和WCDMA"
+    ],
+    "answer": "B",
+    "explanation": "1.2.2 计算机网络章节提到，在正交频分多址（OFDMA）和多入多出（MIMO）基础 技术上，5G 为支持三大应用场景，采用了灵活的全新系统设计。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0056",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据存储技术架构中，按照连接方式可将存储系统划分为（ ）。",
+    "options": [
+      "A. 磁盘存储、全闪存储、混闪存储",
+      "B. IP 组网存储、FC 组网存储、IB 组网存储",
+      "C. 文件存储、块存储、对象存储",
+      "D. SAN 存储、NAS 存储、DAS 存储"
+    ],
+    "answer": "D",
+    "explanation": "依据1.2.3 数据存储和数据库章节，按照连接方式的不同，存储系统可以划分为 SAN 存储、NAS 存储、DAS 存储。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0057",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据结构模型中，用二维表格形式表示实体以及实体之间联系的是（ ）。",
+    "options": [
+      "A. 层次模型",
+      "B. 网状模型",
+      "C. 关系模型",
+      "D. 面向对象模型"
+    ],
+    "answer": "C",
+    "explanation": "1.2.3 数据存储和数据库章节指出，关系模型是在关系结构的数据库中用二维表 格的形式表示实体以及实体之间联系的模型。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0058",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "关系型数据库中，用于保证事务过程当中数据正确性的原则是（ ）。",
+    "options": [
+      "A. SQL 原则",
+      "B. ACID 原则",
+      "C. BASE 原则",
+      "D. CAP 原则"
+    ],
+    "answer": "B",
+    "explanation": "在1.2.3 数据存储和数据库章节，关系型数据库支持事务的ACID 原则，保证在 事务过程当中数据的正确性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0059",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "非关系型数据库中，将数据存储在列族中的是（ ）。",
+    "options": [
+      "A. 键值数据库",
+      "B. 列存储数据库",
+      "C. 面向文档数据库",
+      "D. 图形数据库"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节表明，列存储数据库将数据存储在列族中。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0060",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据仓库的体系结构中，数据仓库系统的核心是（ ）。",
+    "options": [
+      "A. 数据源",
+      "B. 数据的存储与管理",
+      "C. OLAP 服务器",
+      "D. 前端工具"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节提到，数据的存储与管理是整个数据仓库系统的核 心。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0061",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全中，保证信息和信息系统随时为授权者提供服务，保证合法用户对信息和 资源的使用不会被不合理地拒绝，这是信息安全的（ ）属性。",
+    "options": [
+      "A. 保密性",
+      "B. 完整性",
+      "C. 可用性",
+      "D. 可控性"
+    ],
+    "answer": "C",
+    "explanation": "依据1.2.4 信息安全章节，可用性是保证信息和信息系统随时为授权者提供服 务，保证合法用户对信息和资源的使用不会被不合理地拒绝。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0062",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全技术中，在计算机网络中确认操作者身份的过程是（ ）。",
+    "options": [
+      "A. 访问控制",
+      "B. 入侵检测系统",
+      "C. 身份认证",
+      "D. 防火墙"
+    ],
+    "answer": "C",
+    "explanation": "1.2.4 信息安全章节指出，身份认证是指在计算机网络中确认操作者身份的过程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0063",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "网络安全态势感知中，对网络安全数据进行采集汇聚、多维度深度融合等的技术是 ( ) 。",
+    "options": [
+      "A. 面向多类型的网络安全威胁评估技术",
+      "B. 网络安全态势评估与决策支撑技术",
+      "C. 网络安全态势可视化技术",
+      "D. 海量多元异构数据的汇聚融合技术"
+    ],
+    "answer": "D",
+    "explanation": "在1.2.4 信息安全章节，海量多元异构数据的汇聚融合技术用于对网络安全数 据进行采集汇聚、多维度深度融合等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0064",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "物联网的特点中，从产业角度看，物联网技术覆盖工业生产多个环节，这体现的是 ( ) 。",
+    "options": [
+      "A. 感知识别普适化",
+      "B. 异构设备互联化",
+      "C. 应用服务链条化",
+      "D. 管理调控智能化"
+    ],
+    "answer": "C",
+    "explanation": "1.3.1 物联网章节表明，应用服务链条化以工业生产为例，物联网技术覆盖了从 原材料引进、生产调度等各个环节。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0065",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "区块链技术中，能为用户提供灵活可变的脚本代码，支持创建新型智能合约的特点 是( ) 。",
+    "options": [
+      "A. 多中心化",
+      "B. 智能合约",
+      "C. 不可篡改",
+      "D. 开放共识"
+    ],
+    "answer": "B",
+    "explanation": "1.3.2 区块链章节提到，区块链技术的智能合约特点能够为用户提供灵活可变的 脚本代码，以支持其创建新型的智能合约。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0066",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "云计算按照服务提供的资源层次分类，提供操作系统和数据库等资源管理与调度的 是( ) 。",
+    "options": [
+      "A. IaaS",
+      "B. PaaS",
+      "C. SaaS",
+      "D. DaaS"
+    ],
+    "answer": "B",
+    "explanation": "在1.3.3 云计算章节，平台即服务（PaaS）主要包括操作系统和数据库等，负责 各类资源的管理与调度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0067",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "大数据的关键技术中，主流的分布式计算系统不包括（ ）。",
+    "options": [
+      "A. Hadoop",
+      "B. Spark",
+      "C. Storm",
+      "D. Oracle"
+    ],
+    "answer": "D",
+    "explanation": "1.3.4 大数据章节指出，目前主流的分布式计算系统有Hadoop、Spark 和 Storm ，Oracle 是数据库，不属于主流分布式计算系统。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0068",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "人工智能的关键技术中，研究能实现人与计算机之间用自然语言进行有效通信的各 种理论和方法的是（ ）。",
+    "options": [
+      "A. 机器学习",
+      "B. 自然语言处理",
+      "C. 计算机视觉",
+      "D. 知识图谱"
+    ],
+    "answer": "B",
+    "explanation": "1.3.5 人工智能章节表明，自然语言处理研究能实现人与计算机之间用自然语 言进行有效通信的各种理论和方法。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0069",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "边缘计算在智慧园区场景中的主要功能不包括（ ）。",
+    "options": [
+      "A. 海量网络连接与管理",
+      "B. 实时数据采集与处理",
+      "C. 复杂数据分析与决策",
+      "D. 本地业务自治"
+    ],
+    "answer": "C",
+    "explanation": "1.3.6 边缘计算章节提到，智慧园区场景中，边缘计算主要功能包括海量网络连 接与管理、实时数据采集与处理和本地业务自治，不包括复杂数据分析与决策。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0070",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数字孪生在制造领域的产品设计阶段，使用数字孪生不能实现的功能是（ ）。",
+    "options": [
+      "A. 提高设计准确性",
+      "B. 验证产品在真实环境中的性能",
+      "C. 缩短产品导入时间",
+      "D. 模拟产品的结构、外形等性能"
+    ],
+    "answer": "C",
+    "explanation": "1.3.7 数字孪生章节指出，在制造领域产品设计阶段，数字孪生可提高设计准确 性、验证产品性能、模拟产品结构外形等，但缩短产品导入时间是产品制造阶段数字孪 生的功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0071",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息化的特征中，信息化涉及社会的各个领域，这体现的是（ ）。",
+    "options": [
+      "A. 广泛性",
+      "B. 深度性",
+      "C. 快速性",
+      "D. 跨界整合"
+    ],
+    "answer": "A",
+    "explanation": "在1.1.1 信息化内涵与特征章节，广泛性是指信息化涉及社会的各个领域，例如 政府、企业、教育、医疗等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0072",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "我国信息化管理体制演进中，信息化形成实践阶段是（ ）。",
+    "options": [
+      "A. 1982 - 1992 年",
+      "B. 1993 - 1997 年",
+      "C. 1998 - 2001 年",
+      "D. 2002 - 2011 年"
+    ],
+    "answer": "B",
+    "explanation": "1.1.1 信息化内涵与特征章节提到，我国信息化发展中，1993 - 1997 年是信息 化形成实践阶段。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0073",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的物理结构中，早期单机系统属于（ ）。",
+    "options": [
+      "A. 分布式结构",
+      "B. 集中式结构",
+      "C. 混合式结构",
+      "D. 分散式结构"
+    ],
+    "answer": "B",
+    "explanation": "依据1.1.2 信息系统内涵与特征章节，集中式结构指物理资源在空间上进行集 中配置，早期的单机系统是最典型的集中式结构。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0074",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "诺兰模型中，组织的IT 建设开始由分散和单点发展为成体系的阶段是（ ）。",
+    "options": [
+      "A. 传播阶段",
+      "B. 控制阶段",
+      "C. 集成阶段",
+      "D. 数据管理阶段"
+    ],
+    "answer": "C",
+    "explanation": "1.1.3 信息系统发展章节表明，诺兰模型的集成阶段，组织的IT 建设开始由分 散和单点发展为成体系。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0075",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机硬件中，控制单元和运算单元被集成到（ ）中。",
+    "options": [
+      "A. 中央处理器（CPU）",
+      "B. 存储器",
+      "C. 输入设备",
+      "D. 输出设备"
+    ],
+    "answer": "A",
+    "explanation": "1.2.1 计算机软硬件章节指出，在现实硬件构成中，控制单元和运算单元被集成 为一体，封装到中央处理器（CPU）中。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0076",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机网络按照使用者角度可以分为（ ）。",
+    "options": [
+      "A. 局域网和广域网",
+      "B. 公用网和专用网",
+      "C. 城域网和个人局域网",
+      "D. 有线网和无线网"
+    ],
+    "answer": "B",
+    "explanation": "在1.2.2 计算机网络章节，从使用者角度可以将计算机网络分为公用网和专用 网。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0077",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "OSI 模型与TCP/IP 模型对比，TCP/IP 模型中没有明确对应的OSI 模型层次是 （ ）。",
+    "options": [
+      "A. 表示层和会话层",
+      "B. 数据链路层和物理层",
+      "C. 网络层和传输层",
+      "D. 应用层和表示层"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节表明，TCP/IP 模型共分为网络接口层、网际层、传输层和 应用层四层，没有明确对应的OSI 模型的表示层和会话层。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0078",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "软件定义网络（SDN）中，最主流的南向控制数据平面接口采用的协议是（ ）。",
+    "options": [
+      "A. OpenFlow",
+      "B. TCP/IP",
+      "C. UDP",
+      "D. HTTP"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节提到，SDN 中最主流的南向控制数据平面接口采用的是 OpenFlow 协议。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0079",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "5G 针对中低频和高频设计了统一技术方案，并支持（ ）的基础带宽。",
+    "options": [
+      "A. 十兆赫兹",
+      "B. 百兆赫兹",
+      "C. 千兆赫兹",
+      "D. 万兆赫兹"
+    ],
+    "answer": "B",
+    "explanation": "依据1.2.2 计算机网络章节，5G 针对中低频和高频设计了统一的技术方案，并 支持百兆赫兹的基础带宽。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0080",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据存储技术架构中，采用以太网技术进行组网的是（ ）。",
+    "options": [
+      "A. IP 组网存储",
+      "B. FC 组网存储",
+      "C. IB 组网存储",
+      "D. SAN 存储"
+    ],
+    "answer": "A",
+    "explanation": "1.2.3 数据存储和数据库章节指出，按照组网方式的不同，采用以太网技术进行 组网的是IP 组网存储。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0081",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据结构模型中，突破了层次模型不能表示非树状结构限制的是（ ）。",
+    "options": [
+      "A. 关系模型",
+      "B. 网状模型",
+      "C. 面向对象模型",
+      "D. 层次网状混合模型"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节表明，网状模型突破了层次模型不能表示非树状结 构的限制，两个或两个以上的节点都可以有多个双亲节点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0082",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "关系型数据库的优点不包括（ ）。",
+    "options": [
+      "A. 容易理解",
+      "B. 数据读写性能高",
+      "C. 使用方便",
+      "D. 易于维护"
+    ],
+    "answer": "B",
+    "explanation": "在1.2.3 数据存储和数据库章节，关系型数据库的优点有容易理解、使用方便、 易于维护，但数据读写必须经过SQL 解析，大量数据、高并发下读写性能不足。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0083",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "非关系型数据库的缺点是（ ）。",
+    "options": [
+      "A. 不支持分布式",
+      "B. 事务支持较弱",
+      "C. 存储结构复杂",
+      "D. 数据读写性能差"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节提到，非关系型数据库的缺点包括事务支持较弱、 通用性差、无完整约束，复杂业务场景支持较差等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0084",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据仓库中，对分析需要的数据进行有效集成，按多维模型予以组织的是（ ）。",
+    "options": [
+      "A. 数据源",
+      "B. 数据的存储与管理",
+      "C. OLAP 服务器",
+      "D. 前端工具"
+    ],
+    "answer": "C",
+    "explanation": "依据1.2.3 数据存储和数据库章节，OLAP 服务器对分析需要的数据进行有效集 成，按多维模型予以组织，以便进行多角度、多层次的分析。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0085",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全中，从信息安全层次划分来看，数据安全属于（ ）。",
+    "options": [
+      "A. 设备安全",
+      "B. 数据安全",
+      "C. 内容安全",
+      "D. 行为安全"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节指出，信息安全可以划分为设备安全、数据安全、内容安全 和行为安全四个层次，数据安全属于其中之一。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0086",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全技术中，通过软硬件对网络、系统的运行状况进行监视，发现各种攻击企 图等的是（ ）。",
+    "options": [
+      "A. 防火墙",
+      "B. 入侵检测系统",
+      "C. 网闸",
+      "D. 防病毒"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节表明，入侵检测系统是依照一定的安全策略，通过软硬件对 网络、系统的运行状况进行监视，尽可能发现各种攻击企图、攻击行为或攻击结果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0087",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "网络安全态势感知的关键技术中，用于生成网络安全综合态势图的是（ ）。",
+    "options": [
+      "A. 海量多元异构数据的汇聚融合技术",
+      "B. 面向多类型的网络安全威胁评估技术",
+      "C. 网络安全态势评估与决策支撑技术",
+      "D. 网络安全态势可视化"
+    ],
+    "answer": "D",
+    "explanation": "在1.2.4 信息安全章节中提到，网络安全态势可视化的目的是生成网络安全综 合态势图，使网络安全态势感知系统的分析处理数据可视化、态势可视化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0088",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "物联网的应用领域中，借助物联网技术实现家庭设备远程控制和自动化管理的是 ( ) 。",
+    "options": [
+      "A. 智慧城市",
+      "B. 智能家居",
+      "C. 工业自动化",
+      "D. 医疗健康"
+    ],
+    "answer": "B",
+    "explanation": "依据1.3.1 物联网章节，在智能家居领域，借助物联网技术，可以实现家庭设备 的远程控制和自动化管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0089",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "区块链技术在金融领域的应用不包括（ ）。",
+    "options": [
+      "A. 数字货币",
+      "B. 金融服务创新",
+      "C. 供应链管理",
+      "D. 提高资产交易和清算效率"
+    ],
+    "answer": "C",
+    "explanation": "1.3.2 区块链章节表明，区块链技术在金融领域的应用有数字货币、金融服务创 新、提高资产交易和清算效率等，供应链管理虽也是区块链应用领域，但不属于金融领 域应用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0090",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "云计算的特点中，“云”可以动态伸缩，满足应用和用户规模增长的需要，这体现 的是（ ）。",
+    "options": [
+      "A. 超大规模",
+      "B. 高可扩展性",
+      "C. 虚拟化",
+      "D. 高可靠性"
+    ],
+    "answer": "B",
+    "explanation": "在1.3.3 云计算章节，高可扩展性是指“云”不仅规模超大，还可以动态伸缩， 满足应用和用户规模增长的需要。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0091",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "大数据技术架构中，用于实现大数据存储的技术不包括（ ）。",
+    "options": [
+      "A. 采用MPP 架构的新型数据库集群",
+      "B. 围绕Hadoop 衍生的相关技术",
+      "C. 基于集成的服务器等实现的大数据一体机",
+      "D. 分布式数据处理技术"
+    ],
+    "answer": "D",
+    "explanation": "1.3.4 大数据章节指出，大数据存储技术主要有采用MPP 架构的新型数据库集群、 围绕Hadoop 衍生的相关技术、基于集成的服务器等实现的大数据一体机，分布式数据 处理技术不属于大数据存储技术。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0092",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "人工智能的特点中，能感知环境，能产生反应，能与人交互，能与人互补，其中人 与机器间产生交互与互动借助的方式不包括（ ）。",
+    "options": [
+      "A. 键盘",
+      "B. 嗅觉",
+      "C. 手势",
+      "D. 虚拟现实"
+    ],
+    "answer": "B",
+    "explanation": "1.3.5 人工智能章节提到，人与机器间可以借助按钮、键盘、手势、虚拟现实/ 增 强现实等方式产生交互与互动，嗅觉是人类感知环境的方式，并非人机交互方式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0093",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "边缘计算的关键技术中，为边缘计算的发展构建安全可信环境的是（ ）。",
+    "options": [
+      "A. 边云协同",
+      "B. 边缘计算的安全",
+      "C. 边缘智能",
+      "D. 边缘数据处理"
+    ],
+    "answer": "B",
+    "explanation": "在1.3.6 边缘计算章节，边缘安全是边缘计算的重要保障，应增强边缘基础设施、 网络、应用、数据识别和抵抗各种安全威胁的能力，为边缘计算的发展构建安全可信环 境。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0094",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数字孪生在城市建设与发展中的核心价值在于（ ）。",
+    "options": [
+      "A. 构建城市的数字孪生模型",
+      "B. 提高城市建设效率",
+      "C. 在现实世界和数字世界之间全面建立实时联系",
+      "D. 实现城市服务便捷性"
+    ],
+    "answer": "C",
+    "explanation": "1.3.7 数字孪生章节表明，数字孪生在城市建设与发展中的核心价值在于，它能 够在现实世界和数字世界之间全面建立实时联系，进而对城市物理实体全生命期的变化 进行数字化、模型化和可视化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0095",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "新一代信息技术中，网络革命的本质是（ ）。",
+    "options": [
+      "A. 连接主体和连接方式的变化",
+      "B. 信息技术的升级",
+      "C. 数据量的增长",
+      "D. 智能化程度的提高"
+    ],
+    "answer": "A",
+    "explanation": "在1.3.1 物联网章节提到，网络革命的本质是连接主体和连接方式的变化，互联 网是计算机与计算机之间的联网，移动互联网是人和人的联网，物联网是人与物、物与 物的万物互联。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0096",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "区块链技术中，分布式账本的核心思想不包括（ ）。",
+    "options": [
+      "A. 交易记账由多个节点共同完成",
+      "B. 每个节点保存不同的账本副本",
+      "C. 节点可参与监督交易合法性",
+      "D. 账本改动会在所有副本中反映"
+    ],
+    "answer": "B",
+    "explanation": "1.3.2 区块链章节指出，分布式账本的核心思想是交易记账由分布在不同地方的 多个节点共同完成，而且每一个节点保存一个唯一、真实账本的副本，并非不同的账本 副本。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0097",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "云计算按照服务提供的资源层次分类，用户通过网络使用软件应用的服务类型是 ( ) 。",
+    "options": [
+      "A. IaaS",
+      "B. PaaS",
+      "C. SaaS",
+      "D. FaaS"
+    ],
+    "answer": "C",
+    "explanation": "1.3.3 云计算章节表明，软件即服务（SaaS）是用户通过网络使用软件应用的服 务类型，用户无需关心软件的安装、维护等问题。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0098",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "大数据的特点中，单位数据的价值密度在不断降低，但数据的整体价值在提高，这 体现的是（ ）。",
+    "options": [
+      "A. 规模性",
+      "B. 多样性",
+      "C. 价值密度",
+      "D. 速度"
+    ],
+    "answer": "C",
+    "explanation": "在1.3.4 大数据章节，价值密度特征表现为大数据本身存在较大的潜在价值，但 由于数据量过大，单位数据的价值密度在不断降低，而数据的整体价值在提高。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0099",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "人工智能的关键技术中，以符号形式描述物理世界中的概念及其相互关系的是 ( ) 。",
+    "options": [
+      "A. 知识图谱",
+      "B. 专家系统",
+      "C. 计算机视觉",
+      "D. 机器学习"
+    ],
+    "answer": "A",
+    "explanation": "1.3.5 人工智能章节提到，知识图谱本质上是结构化的语义知识库，是一种由结 点和边组成的图数据结构，以符号形式描述物理世界中的概念及其相互关系。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0100",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息化发展中，我国“构建产业数字化转型发展体系”重大任务的部署，对应《国 家信息化发展战略纲要》中“三步走”战略的（ ）。",
+    "options": [
+      "A. 第一步",
+      "B. 第二步",
+      "C. 第三步",
+      "D. 未明确对应"
+    ],
+    "answer": "D",
+    "explanation": "在1.1.1 信息化内涵与特征章节，我国全面部署“构建产业数字化转型发展体 系”重大任务，明确我国信息化进入加快数字化发展、建设数字中国的新阶段，但未 提及与“三步走”战略的对应关系。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0101",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的复杂性体现在（ ）。",
+    "options": [
+      "A. 仅硬件构成复杂",
+      "B. 由多个子系统组成且各要素相互关联影响",
+      "C. 软件功能复杂",
+      "D. 数据量庞大难以处理"
+    ],
+    "answer": "B",
+    "explanation": "根据1.1.2 信息系统内涵与特征章节，信息系统由多个子系统组成，包括硬件、 软件、数据、网络等要素，其相互关联和影响，这体现了信息系统的复杂性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0102",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的逻辑结构中，负责用户交互界面的是（ ）。",
+    "options": [
+      "A. 基础设施层",
+      "B. 资源管理层",
+      "C. 业务逻辑层",
+      "D. 应用表现层"
+    ],
+    "answer": "D",
+    "explanation": "1.1.2 信息系统内涵与特征章节指出，应用表现层主要负责用户的交互界面，通 过UI 设计将信息交互在客户端进行展示。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0103",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "诺兰模型中，数据库技术开始得到应用的阶段是（ ）。",
+    "options": [
+      "A. 初始阶段",
+      "B. 传播阶段",
+      "C. 控制阶段",
+      "D. 集成阶段"
+    ],
+    "answer": "C",
+    "explanation": "在1.1.3 信息系统发展章节，诺兰模型的控制阶段，数据库（DB）技术得到应用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0104",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "关系型数据库的缺点之一是（ ）。",
+    "options": [
+      "A. 不支持事务处理",
+      "B. 数据独立性差",
+      "C. 多表关联查询性能欠佳",
+      "D. 数据存储量有限"
+    ],
+    "answer": "C",
+    "explanation": "1.2.3 数据存储和数据库章节提到，关系型数据库的缺点包括多表的关联查询导 致性能欠佳、数据读写在大量数据和高并发下性能不足、具有固定的表结构扩展困难 等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0105",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "非关系型数据库中，将数据以图的方式存储的是（ ）。",
+    "options": [
+      "A. 键值数据库",
+      "B. 列存储数据库",
+      "C. 面向文档数据库",
+      "D. 图形数据库"
+    ],
+    "answer": "D",
+    "explanation": "1.2.3 数据存储和数据库章节表明，图形数据库允许人们将数据以图的方式存储， 实体会被作为顶点，而实体之间的关系则会被作为边。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0106",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据仓库中，OLAP 服务器的具体实现方式不包括（ ）。",
+    "options": [
+      "A. 基于关系数据库的ROLAP",
+      "B. 基于多维数据组织的MOLAP",
+      "C. 基于混合数据组织的HOLAP",
+      "D. 基于分布式存储的DOLAP"
+    ],
+    "answer": "D",
+    "explanation": "在1.2.3 数据存储和数据库章节中提到，OLAP 服务器的具体实现可以分为基于 关系数据库的ROLAP、基于多维数据组织的MOLAP 和基于混合数据组织的HOLAP，不 包括 基于分布式存储的DOLAP。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0107",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全中，从信息安全层次划分来看，内容安全主要关注（ ）。",
+    "options": [
+      "A. 信息载体的安全",
+      "B. 信息本身的安全",
+      "C. 信息处理过程的安全",
+      "D. 信息使用行为的安全"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节表明，内容安全关注的是信息本身的安全，如信息的真实性、 合法性、完整性等，而不是信息载体、处理过程或使用行为的安全。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0108",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全技术中，网闸的主要作用是（ ）。",
+    "options": [
+      "A. 检测网络入侵行为",
+      "B. 隔离内外网，阻断潜在攻击",
+      "C. 过滤网络病毒",
+      "D. 进行用户身份认证"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节指出，网闸从逻辑上隔离、阻断了外部网和公共网等对内部 网、专用网具有潜在攻击可能的一切网络连接，使外部攻击者无法直接入侵、攻击或破 坏内网，保障了内部主机的安全。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0109",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "用户和实体行为分析（UEBA）系统的架构中，负责将分析结果应用于实际场景的是 ( ) 。",
+    "options": [
+      "A. 数据获取层",
+      "B. 算法分析层",
+      "C. 场景应用层",
+      "D. 综合管理层"
+    ],
+    "answer": "C",
+    "explanation": "1.2.4 信息安全章节提到，UEBA 系统通常包括数据获取层、算法分析层和场景应 用层，场景应用层负责将分析结果应用于实际场景，发现潜在事件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0110",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "网络安全态势感知中，网络安全态势可视化的过程包括（ ）。",
+    "options": [
+      "A. 数据采集、数据分析、数据展示",
+      "B. 数据转化、图像映射、视图变换",
+      "C. 数据清洗、数据融合、数据可视化",
+      "D. 数据获取、态势评估、结果展示"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节表明，网络安全态势可视化是一个层层递进的过程，包括数 据转化、图像映射、视图变换三个部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0111",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "物联网的应用领域中，通过物联网技术实现智能交通系统、智能停车场等改善的是 ( ) 。",
+    "options": [
+      "A. 智慧城市",
+      "B. 智能家居",
+      "C. 工业自动化",
+      "D. 物流追踪"
+    ],
+    "answer": "A",
+    "explanation": "1.3.1 物联网章节指出，在智慧城市领域，物联网技术的应用改善了城市基础设 施建设，智能交通系统、智能停车场等方面都得到了显著改善。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0112",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "区块链技术在供应链管理中的主要作用是（ ）。",
+    "options": [
+      "A. 提高供应链透明度",
+      "B. 降低供应链成本",
+      "C. 优化供应链物流路线",
+      "D. 减少供应链库存"
+    ],
+    "answer": "A",
+    "explanation": "1.3.2 区块链章节表明，区块链技术有望解决供应链透明度问题，提高企业竞争 力，在供应链管理中主要作用是提高透明度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0113",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "云计算的特点中，“云”具有相当大的规模，能赋予用户前所未有的计算能力， 这体现的是（ ）。",
+    "options": [
+      "A. 超大规模",
+      "B. 高可扩展性",
+      "C. 虚拟化",
+      "D. 高可靠性"
+    ],
+    "answer": "A",
+    "explanation": "1.3.3 云计算章节提到，超大规模是指“云”具有相当大的规模，能赋予用户前 所未有的计算能力，支持用户在任何有互联网的地方，使用任何上网终端获取应用服 务。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0114",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "大数据技术架构中，大数据管理技术主要集中在（ ）。",
+    "options": [
+      "A. 大数据存储、大数据协同和安全隐私",
+      "B. 大数据采集、大数据分析和大数据应用",
+      "C. 大数据获取、分布式数据处理和大数据可视化",
+      "D. 大数据清洗、大数据整合和大数据挖掘"
+    ],
+    "answer": "A",
+    "explanation": "1.3.4 大数据章节指出，大数据管理技术主要集中在大数据存储、大数据协同和 安全隐私等方面。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0115",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "人工智能的特点中，有适应特性，有学习能力，有演化迭代，有连接扩展，其中自 适应特性和学习能力表现为（ ）。",
+    "options": [
+      "A. 能感知环境并产生反应",
+      "B. 能与人交互并互补",
+      "C. 能随环境等变化自适应调节参数或更新模型",
+      "D. 能进行复杂计算和处理"
+    ],
+    "answer": "C",
+    "explanation": "1.3.5 人工智能章节表明，人工智能系统应具有一定的自适应特性和学习能 力， 即具有一定的随环境、数据或任务变化而自适应调节参数或更新与优化模型的能力。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0116",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "边缘计算在工业物联网场景中的功能包括（ ）。",
+    "options": [
+      "A. 基于OPC UA over TSN 构建统一工业现场网络，实现数据的互联互通与互操作",
+      "B. 实现家庭设备的远程控制和自动化管理",
+      "C. 构建城市的数字孪生模型",
+      "D. 对视频图像进行分析和存储"
+    ],
+    "answer": "A",
+    "explanation": "1.3.6 边缘计算章节提到，在工业物联网场景中，边缘计算的功能包括基于OPC UA over TSN 构建统一工业现场网络，实现数据的互联互通与互操作等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0117",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数字孪生在战争应用中，单体装备应用主要用于（ ）。",
+    "options": [
+      "A. 战场目标的达成",
+      "B. 装备的研发、维护和保养",
+      "C. 战场综合态势分析",
+      "D. 战略决策支持"
+    ],
+    "answer": "B",
+    "explanation": "1.3.7 数字孪生章节指出，数字孪生技术在军事方面的单体装备应用主要用于装 备的研发、维护和保养等，属于数字孪生制造的范畴。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0118",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息化的特征中，信息化驱动了各行各业的跨界整合，促进新型产业和商业模式创 新，这体现的是（ ）。",
+    "options": [
+      "A. 深度性",
+      "B. 快速性",
+      "C. 跨界整合",
+      "D. 信息安全问题突出"
+    ],
+    "answer": "C",
+    "explanation": "1.1.1 信息化内涵与特征章节表明，跨界整合是指信息化驱动了各行各业的跨界 整合，促进了新型产业和商业模式的创新。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0119",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "我国信息化管理体制演进中，信息化全面发展阶段是（ ）。",
+    "options": [
+      "A. 1982 - 1992 年",
+      "B. 1993 - 1997 年",
+      "C. 1998 - 2001 年",
+      "D. 2002 - 2011 年"
+    ],
+    "answer": "D",
+    "explanation": "1.1.1 信息化内涵与特征章节提到，我国信息化发展中，2002 - 2011 年是信息 化全面发展阶段。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0120",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的物理结构中，集中式结构的缺点是（ ）。",
+    "options": [
+      "A. 资源利用率低",
+      "B. 维护与管理困难，系统脆弱性高",
+      "C. 无法实现资源共享",
+      "D. 不便于用户发挥积极性"
+    ],
+    "answer": "B",
+    "explanation": "1.1.2 信息系统内涵与特征章节表明，集中式结构的缺点是随着系统规模的扩大 以及系统的日趋复杂，维护与管理越来越困难，也不利于用户发挥在信息系统建设过程 中的积极性与主动性，且资源过于集中会造成系统的脆弱性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0121",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "诺兰模型中，组织开始选定统一的数据库平台、数据管理体系和信息管理平台的阶 段是（ ）。",
+    "options": [
+      "A. 控制阶段",
+      "B. 集成阶段",
+      "C. 数据管理阶段",
+      "D. 成熟阶段"
+    ],
+    "answer": "C",
+    "explanation": "1.1.3 信息系统发展章节提到，诺兰模型的数据管理阶段，组织开始选定统一的 数据库平台、数据管理体系和信息管理平台，统一数据的管理和使用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0122",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机软件中，按照应用软件使用面的不同，可以分为（ ）。",
+    "options": [
+      "A. 系统软件和应用软件",
+      "B. 通用应用软件和专用应用软件",
+      "C. 办公软件和游戏软件",
+      "D. 图形软件和数据处理软件"
+    ],
+    "answer": "B",
+    "explanation": "1.2.1 计算机软硬件章节指出，按照应用软件使用面的不同，可以进一步将应用 软件分为专用的应用软件和通用的应用软件两类。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0123",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机网络按照传输介质分类，不包括（ ）。",
+    "options": [
+      "A. 有线网",
+      "B. 无线网",
+      "C. 光纤网",
+      "D. 公用网"
+    ],
+    "answer": "D",
+    "explanation": "计算机网络按照传输介质可分为有线网（如光纤网）、无线网等，公用网是从使 用者角度对网络的分类，不属于按传输介质分类，相关内容在1.2.2 计算机网络章节。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0124",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "在OSI 模型中，负责将数据分割成数据包，并进行路由选择的是（ ）。",
+    "options": [
+      "A. 数据链路层",
+      "B. 网络层",
+      "C. 传输层",
+      "D. 会话层"
+    ],
+    "answer": "B",
+    "explanation": "1.2.2 计算机网络章节表明，网络层负责将数据分割成数据包，并进行路由选择， 以确定数据在网络中的传输路径。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0125",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "TCP/IP 协议族中，用于实现远程登录功能的协议是（ ）。",
+    "options": [
+      "A. TELNET",
+      "B. FTP",
+      "C. SMTP",
+      "D. HTTP"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节提到，TCP/IP 协议族中，虚拟终端协议（TELNET）用于实 现远程登录功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0126",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "软件定义网络（SDN）中，应用平面包含（ ）。",
+    "options": [
+      "A. 各种基于SDN 的网络应用",
+      "B. 逻辑上为中心的SDN 控制器",
+      "C. 交换机等网络通用硬件",
+      "D. 具有逻辑中心化和可编程的控制器"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节表明，SDN 的应用平面包含着各种基于SDN 的网络应用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0127",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "5G 支持的应用场景中，主要面向移动互联网流量爆炸式增长的是（ ）。",
+    "options": [
+      "A. 增强移动宽带",
+      "B. 超高可靠低时延通信",
+      "C. 海量机器类通信",
+      "D. 智能交通通信"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节提到，增强移动宽带主要面向移动互联网流量爆炸式增长， 为移动互联网用户提供更加极致的应用体验。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0128",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据存储技术架构中，直接附加存储（DAS）的特点是（ ）。",
+    "options": [
+      "A. 安装复杂，可实现多主机资源共享",
+      "B. 安装简单，可实现多主机资源共享",
+      "C. 将存储设备直接连接到一台主机上，不能实现多主机资源共享",
+      "D. 通过网络连接存储设备和主机，可实现多主机资源共享"
+    ],
+    "answer": "C",
+    "explanation": "1.2.3 数据存储和数据库章节指出，直接附加存储（DAS）将存储设备通过小型计 算机系统接口或光纤通道直接连接到一台主机上，主机管理其本身的文件系统，不能实 现与其他主机的资源共享。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0129",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据结构模型中，关系模型的基本原理是（ ）。",
+    "options": [
+      "A. 用二维表格表示实体及实体间联系",
+      "B. 信息原理，所有信息都表示为关系中的数据值",
+      "C. 用“树”结构表示实体集之间的关联",
+      "D. 用有向图结构表示实体类型及实体间联系"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节表明，关系模型的基本原理是信息原理，即所有信 息都表示为关系中的数据值。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0130",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "关系型数据库中，事务的ACID 原则中，一致性（Consistency）是指（ ）。",
+    "options": [
+      "A. 事务中的所有操作要么全部执行，要么全部不执行",
+      "B. 事务执行前后，数据的完整性约束没有被破坏",
+      "C. 一个事务的执行不能被其他事务干扰",
+      "D. 事务一旦提交，对数据的修改就是永久性的"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节提到，一致性是指事务执行前后，数据的完整性约 束没有被破坏，保证数据的正确性和一致性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0131",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "非关系型数据库中，面向文档数据库的特点是（ ）。",
+    "options": [
+      "A. 类似传统语言中的哈希表",
+      "B. 将数据存储在列族中",
+      "C. 允许之间嵌套键值，查询效率较高",
+      "D. 将数据以图的方式存储"
+    ],
+    "answer": "C",
+    "explanation": "1.2.3 数据存储和数据库章节表明，面向文档数据库可以看作是键值数据库的升 级版，允许之间嵌套键值，比键值数据库的查询效率更高。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0132",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据仓库中，前端工具不包括（ ）。",
+    "options": [
+      "A. 数据分析工具",
+      "B. 数据挖掘工具",
+      "C. 数据存储工具",
+      "D. 报表工具"
+    ],
+    "answer": "C",
+    "explanation": "1.2.3 数据存储和数据库章节指出，前端工具主要包括各种查询工具、报表工具、 分析工具、数据挖掘工具以及各种基于数据仓库或数据集市的应用开发工具，不包括数 据存储工具。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0133",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全的基本属性中，保证信息为授权者享用而不泄漏给未经授权者的是（ ）。",
+    "options": [
+      "A. 保密性",
+      "B. 完整性",
+      "C. 可用性",
+      "D. 不可否认性"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节表明，保密性是保证信息为授权者享用而不泄漏给未经授权 者。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0134",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全技术中，身份认证的常见措施不包括（ ）。",
+    "options": [
+      "A. 虚拟身份电子标识",
+      "B. 访问控制列表",
+      "C. 动态口令",
+      "D. 生物识别"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节提到，身份认证常见措施包括虚拟身份电子标识、静态密码、 智能卡、短信密码、动态口令、USB Key、公钥基础设施（PKI）、生物识别和虹膜认证 等，访问控制列表不属于身份认证措施。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0135",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "用户和实体行为分析（UEBA）系统中，通过结合（ ）来评估用户和其他实体。",
+    "options": [
+      "A. 基本分析方法和高级分析方法",
+      "B. 网络流量分析和系统日志分析",
+      "C. 漏洞扫描和入侵检测",
+      "D. 数据加密和访问控制"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节表明，UEBA 结合基本分析方法（利用签名的规则、模式匹配、 简单统计、阈值等）和高级分析方法（监督和无监督的机器学习等），用打包分析来评 估用户和其他实体。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0136",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "网络安全态势感知中，海量多元异构数据的汇聚融合技术需要实现（ ）。",
+    "options": [
+      "A. PB 量级多元异构数据的采集汇聚、多维度深度融合、统一存储管理和安全共享",
+      "B. 对网络异常行为的实时监测和预警",
+      "C. 网络安全态势的可视化展示",
+      "D. 对网络安全威胁的评估和决策支持"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节提到，海量多元异构数据的汇聚融合技术需要实现PB 量级 多元异构数据的采集汇聚、多维度深度融合、统一存储管理和安全共享。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0137",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "物联网的技术基础中，网络层的作用是（ ）。",
+    "options": [
+      "A. 识别物体、采集信息",
+      "B. 传递和处理感知层获取的信息",
+      "C. 与行业需求结合实现智能应用",
+      "D. 为物联网提供数据存储服务"
+    ],
+    "answer": "B",
+    "explanation": "1.3.1 物联网章节表明，网络层由各种网络组成，是整个物联网的中枢，负责传 递和处理感知层获取的信息。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0138",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "区块链技术的特点中，通过密码学方式保证数据传输和访问安全的是（ ）。",
+    "options": [
+      "A. 多中心化",
+      "B. 安全可信",
+      "C. 不可篡改",
+      "D. 智能合约"
+    ],
+    "answer": "B",
+    "explanation": "1.3.2 区块链章节表明，安全可信是指数据安全可通过基于非对称加密技术对链 上数据进行加密来实现，分布式系统中各节点通过区块链共识算法所形成的算力来抵御 外部攻击，保证链上数据不被篡改和伪造，从而具有较高的保密性、可信性和安全性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0139",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "云计算按照服务提供的资源层次分类，提供计算资源、存储资源等基础资源的是 ( ) 。",
+    "options": [
+      "A. IaaS",
+      "B. PaaS",
+      "C. SaaS",
+      "D. CaaS"
+    ],
+    "answer": "A",
+    "explanation": "1.3.3 云计算章节提到，基础设施即服务（IaaS）提供计算资源、存储资源等基 础资源，用户可以在这些资源上部署和运行自己的应用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0140",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "大数据技术架构中，大数据获取技术不包括（ ）。",
+    "options": [
+      "A. 大数据存储技术",
+      "B. 数据采集技术",
+      "C. 数据整合技术",
+      "D. 数据清洗技术"
+    ],
+    "answer": "A",
+    "explanation": "1.3.4 大数据章节指出，大数据获取技术的研究主要集中在数据采集、整合和清 洗三个方面，大数据存储技术属于大数据管理技术。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0141",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "人工智能的关键技术中，主要研究人和计算机之间信息交换的是（ ）。",
+    "options": [
+      "A. 人机交互",
+      "B. 机器思维",
+      "C. 机器感知",
+      "D. 机器行为"
+    ],
+    "answer": "A",
+    "explanation": "1.3.5 人工智能章节表明，人机交互主要研究人和计算机之间的信息交换，包括 人到计算机和计算机到人的两部分信息交换。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0142",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "边缘计算在智慧园区场景中，本地业务自治的目的是（ ）。",
+    "options": [
+      "A. 提高园区网络安全性",
+      "B. 减少对云中心的依赖，提高响应速度",
+      "C. 实现园区设备的智能化管理",
+      "D. 优化园区资源配置"
+    ],
+    "answer": "B",
+    "explanation": "1.3.6 边缘计算章节提到，智慧园区场景中本地业务自治可以减少对云中心的依 赖，在本地快速处理业务，提高响应速度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0143",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数字孪生在制造领域的产品制造阶段，数字生产线与物理生产线的关系是（ ）。",
+    "options": [
+      "A. 相互独立，互不影响",
+      "B. 数字生产线指导物理生产线，物理生产线不能反馈",
+      "C. 实时交互，物理环境当前状态作为仿真初始条件，数字生产线参数优化后反馈到物理 生产线调控",
+      "D. 物理生产线为主，数字生产线仅作记录"
+    ],
+    "answer": "C",
+    "explanation": "在1.3.7 数字孪生章节中提到，在制造阶段，数字生产线与物理生产线实时交互， 物理环境的当前状态作为每次仿真的初始条件和计算环境，数字生产线的参数优化之 后，实时反馈到物理生产线进行调控。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0144",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息化发展中，我国信息化管理体制演进的信息化研究探索阶段是（ ）。",
+    "options": [
+      "A. 1982 - 1992 年",
+      "B. 1993 - 1997 年",
+      "C. 1998 - 2001 年",
+      "D. 2002 - 2011 年"
+    ],
+    "answer": "A",
+    "explanation": "依据1.1.1 信息化内涵与特征章节，我国信息化发展中，1982 - 1992 年是信息 化研究探索阶段。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0145",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的特征中，信息系统应具备稳定、可靠的运行能力，确保在各种场景下都 能正常工作，这体现的是（ ）。",
+    "options": [
+      "A. 可靠性",
+      "B. 安全性",
+      "C. 实时性",
+      "D. 易用性"
+    ],
+    "answer": "A",
+    "explanation": "1.1.2 信息系统内涵与特征章节表明，可靠性是指信息系统需要具备稳定、可靠 的运行能力，确保在各种场景下都能正常工作，避免因系统故障对组织造成损失。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0146",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的逻辑结构中，负责各类资源管理与调度的是（ ）。",
+    "options": [
+      "A. 基础设施层",
+      "B. 资源管理层",
+      "C. 中间件层",
+      "D. 业务逻辑层"
+    ],
+    "answer": "B",
+    "explanation": "1.1.2 信息系统内涵与特征章节指出，资源管理层主要包括操作系统和数据库等， 负责各类资源的管理与调度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0147",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "诺兰模型中，组织的IT 建设更加务实，对IT 的利用有了更明确认识和目标的阶 段是( ) 。",
+    "options": [
+      "A. 初始阶段",
+      "B. 传播阶段",
+      "C. 控制阶段",
+      "D. 集成阶段"
+    ],
+    "answer": "C",
+    "explanation": "在1.1.3 信息系统发展章节，诺兰模型的控制阶段，组织管理者意识到计算机使 用的问题，开始从整体上控制计算机信息系统的投入与发展，IT 建设更加务实，对IT 的利用有了更明确的认识和目标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0148",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机硬件中，存储器的主要功能是（ ）。",
+    "options": [
+      "A. 控制计算机的运行",
+      "B. 进行数据运算",
+      "C. 存储程序和数据",
+      "D. 输入和输出数据"
+    ],
+    "answer": "C",
+    "explanation": "1.2.1 计算机软硬件章节提到，存储器用于存储程序和数据，是计算机的重要组 成部分，为计算机的运行提供数据支持。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0149",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机网络按照传输速率分类，传输速率最高的是（ ）。",
+    "options": [
+      "A. 局域网",
+      "B. 城域网",
+      "C. 广域网",
+      "D. 无法确定"
+    ],
+    "answer": "D",
+    "explanation": "传输速率受多种因素影响，不同类型网络（局域网、城域网、广域网）在不同技 术条件下传输速率不同，不能简单判断哪种网络传输速率最高，相关内容在1.2.2 计 算机网络章节。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0150",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "在TCP/IP 协议模型中，传输层负责（ ）。",
+    "options": [
+      "A. 处理应用程序之间的通信",
+      "B. 将数据封装成帧",
+      "C. 处理网络层与数据链路层之间的通信",
+      "D. 提供端到端的可靠通信"
+    ],
+    "answer": "D",
+    "explanation": "1.2.2 计算机网络章节表明，传输层负责提供端到端的可靠通信，如TCP 协议通 过三次握手等机制保证数据传输的可靠性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0151",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "IEEE 802 规范中，定义逻辑链路控制层LLC 协议的是（ ）。",
+    "options": [
+      "A. 802.1",
+      "B. 802.2",
+      "C. 802.3",
+      "D. 802.5"
+    ],
+    "answer": "B",
+    "explanation": "1.2.2 计算机网络章节指出，IEEE 802.2 定义了逻辑链路控制层LLC 协议。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0152",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "软件定义网络（SDN）中，东西向接口的作用是（ ）。",
+    "options": [
+      "A. 使控制器具有可扩展性，为负载均衡和性能提升提供技术保障",
+      "B. 负责与数据平面进行通信",
+      "C. 负责与应用平面进行通信",
+      "D. 用于控制器之间的信息交换和协同工作"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节提到，东西向接口使控制器具有可扩展性，为负载均衡和 性能提升提供了技术保障。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0153",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "5G 为支持低时延、高可靠，采用的技术不包括（ ）。",
+    "options": [
+      "A. 短帧",
+      "B. 快速反馈",
+      "C. 大规模天线技术",
+      "D. 多层/多站数据重传"
+    ],
+    "answer": "C",
+    "explanation": "1.2.2 计算机网络章节表明，5G 为支持低时延、高可靠，采用短帧、快速反馈、 多层/多站数据重传等技术，大规模天线技术主要用于支持高速率传输和更优覆盖。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0154",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据存储技术架构中，存储区域网络（SAN）的特点是（ ）。",
+    "options": [
+      "A. 通过网络接口提供文件访问服务",
+      "B. 将存储设备直接连接到主机",
+      "C. 通过光纤通道交换机等连接设备将磁盘阵列与相关服务器连接起来的高速专用存储 网络",
+      "D. 适合中小组织的文档共享存储"
+    ],
+    "answer": "C",
+    "explanation": "1.2.3 数据存储和数据库章节指出，存储区域网络（SAN）指通过光纤通道交换机、 以太网交换机等连接设备将磁盘阵列与相关服务器连接起来的高速专用存储网络。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0155",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据结构模型中，关系模型与其他模型相比，优势在于（ ）。",
+    "options": [
+      "A. 能处理复杂的层次关系",
+      "B. 允许设计者通过数据库规范化提炼，建立信息一致性模型",
+      "C. 数据冗余度低",
+      "D. 结构简单，易于实现"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节表明，关系模型允许设计者通过数据库规范化的提 炼，去建立一个信息一致性的模型，这是其与其他模型相比的优势之一。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0156",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "关系型数据库中，事务的原子性（Atomicity）是指（ ）。",
+    "options": [
+      "A. 事务中的所有操作要么全部执行，要么全部不执行",
+      "B. 事务执行前后，数据的完整性约束没有被破坏",
+      "C. 一个事务的执行不能被其他事务干扰",
+      "D. 事务一旦提交，对数据的修改就是永久性的"
+    ],
+    "answer": "A",
+    "explanation": "1.2.3 数据存储和数据库章节提到，原子性是指事务中的所有操作要么全部执行， 要么全部不执行，就像一个不可分割的原子一样。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0157",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "非关系型数据库中，键值数据库的优势在于（ ）。",
+    "options": [
+      "A. 支持复杂查询",
+      "B. 简单、易部署、高并发",
+      "C. 适合存储结构化数据",
+      "D. 数据一致性好"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节表明，Key/Value 模型对于信息系统来说，其优势 在于简单、易部署、高并发。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0158",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据仓库中，数据集市是（ ）。",
+    "options": [
+      "A. 企业级数据仓库的别称",
+      "B. 部门级数据仓库",
+      "C. 数据仓库的数据源",
+      "D. 数据仓库的前端工具"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节指出，数据仓库按照数据的覆盖范围可以分为企业 级数据仓库和部门级数据仓库（通常称为数据集市）。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0159",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全中，行为安全主要关注（ ）。",
+    "options": [
+      "A. 信息在存储过程中的安全",
+      "B. 信息在传输过程中的安全",
+      "C. 信息使用过程中的安全",
+      "D. 信息载体的安全"
+    ],
+    "answer": "C",
+    "explanation": "1.2.4 信息安全章节表明，行为安全关注的是信息使用过程中的安全，确保信息 行为的合法性、合规性等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0160",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全技术中，入侵检测可以分为（ ）。",
+    "options": [
+      "A. 主动入侵检测和被动入侵检测",
+      "B. 实时入侵检测和事后入侵检测",
+      "C. 网络入侵检测和系统入侵检测",
+      "D. 基于特征的入侵检测和基于行为的入侵检测"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节提到，入侵检测可以分为实时入侵检测和事后入侵检测两种。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0161",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "用户和实体行为分析（UEBA）系统中，数据获取层的作用是（ ）。",
+    "options": [
+      "A. 收集用于分析的各类数据",
+      "B. 对数据进行分析和处理",
+      "C. 发现与用户或实体标准画像或行为异常的活动",
+      "D. 将分析结果应用于实际场景"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节表明，UEBA 系统的数据获取层负责收集用于分析的各类数 据，为后续的分析提供数据基础。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0162",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "网络安全态势感知中，网络安全态势评估与决策支撑技术以（ ）为驱动。",
+    "options": [
+      "A. 安全大数据",
+      "B. 网络安全事件监测",
+      "C. 海量多元异构数据的汇聚融合",
+      "D. 网络安全威胁评估"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节提到，网络安全态势评估与决策支撑技术需要以网络安全事 件监测为驱动，以安全威胁线索为牵引，对网络空间安全相关信息进行汇聚融合。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0163",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "物联网的应用领域中，通过物联网技术实现精准喷药和灌溉，提高农业生产效率的 是( ) 。",
+    "options": [
+      "A. 智能家居",
+      "B. 智慧城市",
+      "C. 农业智能化",
+      "D. 物流追踪"
+    ],
+    "answer": "C",
+    "explanation": "1.3.1 物联网章节指出，在农业智能化领域，通过物联网技术可以实现精准喷药 和灌溉，降低资源浪费，提高农业生产效率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0164",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "区块链技术在金融服务创新中的作用是（ ）。",
+    "options": [
+      "A. 提高资产交易和清算效率",
+      "B. 降低金融风险",
+      "C. 增加金融监管难度",
+      "D. 减少金融业务种类"
+    ],
+    "answer": "A",
+    "explanation": "1.3.2 区块链章节表明，区块链将促进传统金融行业的变革，提高资产交易和清 算效率，是其在金融服务创新中的重要作用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0165",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "云计算的特点中，用户可以根据自己的需要定制相应的服务、应用及资源，这体现 的是（ ）。",
+    "options": [
+      "A. 高可扩展性",
+      "B. 通用性",
+      "C. 灵活定制",
+      "D. 廉价性"
+    ],
+    "answer": "C",
+    "explanation": "1.3.3 云计算章节提到，灵活定制是指用户可以根据自己的需要来定制相应的服 务、应用及资源；根据用户的需求，“云”来提供所需的服务。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0166",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息化的效用积累过程不包括以下哪一项（ ）。",
+    "options": [
+      "A. 劳动者素质的提高",
+      "B. 国家现代化水平的提升",
+      "C. 信息产业基础的完善",
+      "D. 人民生活质量的进步"
+    ],
+    "answer": "C",
+    "explanation": "在1.1.1 信息化内涵与特征章节，效用积累过程包括劳动者素质、国家现代化水 平和人民生活质量的不断提高，物质文明和精神文明建设的不断进步等，不涉及信息产 业基础的完善。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0167",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的可扩展性是指（ ）。",
+    "options": [
+      "A. 能根据实际情况进行升级、扩展或重组",
+      "B. 系统具有一定的灵活性，不受外部环境影响",
+      "C. 系统的功能可以随意添加",
+      "D. 系统硬件可以无限制扩展"
+    ],
+    "answer": "A",
+    "explanation": "依据1.1.2 信息系统内涵与特征章节，信息系统的可扩展性是指具有一定的灵 活性和可扩展性，可以根据实际情况进行升级、扩展或重组。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0168",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统生命周期中，系统实施阶段不包含以下哪个活动（ ）。",
+    "options": [
+      "A. 编码",
+      "B. 测试",
+      "C. 详细设计",
+      "D. 系统部署"
+    ],
+    "answer": "C",
+    "explanation": "1.1.2 信息系统内涵与特征章节表明，信息系统的生命周期中系统实施阶段包括 编码、测试，详细设计属于系统设计阶段。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0169",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "诺兰模型中，组织在哪个阶段会出现“部门壁垒”与“信息孤岛”现象（ ）。",
+    "options": [
+      "A. 初始阶段",
+      "B. 传播阶段",
+      "C. 控制阶段",
+      "D. 集成阶段"
+    ],
+    "answer": "C",
+    "explanation": "在1.1.3 信息系统发展章节，诺兰模型的控制阶段，各软件系统之间还存在“部 门壁垒”与“信息孤岛”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0170",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机硬件中，运算器的主要功能是（ ）。",
+    "options": [
+      "A. 控制计算机的运行",
+      "B. 进行算术运算和逻辑运算",
+      "C. 存储数据和程序",
+      "D. 与外部设备进行数据交换"
+    ],
+    "answer": "B",
+    "explanation": "1.2.1 计算机软硬件章节提到，运算器的主要功能是进行算术运算和逻辑运算， 对数据进行加工处理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0171",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机网络的性能指标中，吞吐量是指（ ）。",
+    "options": [
+      "A. 网络的通信线路传送数据的能力",
+      "B. 连接在计算机网络上的主机或通信设备在数字信道上传送数据的速率",
+      "C. 在单位时间内通过某个网络（或信道、接口）的数据量",
+      "D. 数据从网络的一端传送到另一端所需的时间"
+    ],
+    "answer": "C",
+    "explanation": "1.2.2 计算机网络章节表明，吞吐量表示在单位时间内通过某个网络（或信道、 接口）的数据量。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0172",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "在OSI 模型中，会话层的主要功能是（ ）。",
+    "options": [
+      "A. 建立、管理和终止会话",
+      "B. 提供端到端的可靠通信",
+      "C. 处理网络层与传输层之间的通信",
+      "D. 将数据转换为可以在网络中传输的信号"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节指出，会话层的主要功能是建立、管理和终止会话，负责 不同设备之间会话的建立、维持和拆除。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0173",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "TCP/IP 协议族中，用于实现文件传输功能的协议是（ ）。",
+    "options": [
+      "A. HTTP",
+      "B. FTP",
+      "C. SMTP",
+      "D. UDP"
+    ],
+    "answer": "B",
+    "explanation": "1.2.2 计算机网络章节提到，文件传输协议（FTP）用于实现文件传输功能，可在 不同设备之间传输文件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0174",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "软件定义网络（SDN）中，控制器的主要功能不包括（ ）。",
+    "options": [
+      "A. 掌握全局网络信息",
+      "B. 负责各种转发规则的控制",
+      "C. 提供简单的数据转发功能",
+      "D. 方便运营商和科研人员管理、配置网络"
+    ],
+    "answer": "C",
+    "explanation": "1.2.2 计算机网络章节表明，提供简单的数据转发功能的是数据层的哑交换机， 控制器掌握全局网络信息，负责管理、配置网络和控制转发规则。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0175",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "5G 的三大类应用场景中，海量机器类通信主要面向以下哪种应用需求（ ）。",
+    "options": [
+      "A. 移动互联网流量爆炸式增长",
+      "B. 工业控制、远程医疗等对时延和可靠性有极高要求的场景",
+      "C. 智慧城市、智能家居、环境监测等以传感和数据采集为目标的场景",
+      "D. 虚拟现实、增强现实等对带宽要求较高的场景"
+    ],
+    "answer": "C",
+    "explanation": "1.2.2 计算机网络章节提到，海量机器类通信主要面向智慧城市、智能家居、环 境监测等以传感和数据采集为目标的应用需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0176",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据存储技术架构中，全闪存储是指（ ）。",
+    "options": [
+      "A. 以机械硬盘为永久存储介质的存储系统",
+      "B. 以固态硬盘为永久存储介质的存储系统",
+      "C. 同时使用机械硬盘和固态硬盘的存储系统",
+      "D. 以磁带为永久存储介质的存储系统"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节指出，全闪存储是以固态硬盘为永久存储介质的存 储系统。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0177",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据结构模型中，以下关于层次模型的说法正确的是（ ）。",
+    "options": [
+      "A. 用有向图结构表示实体类型及实体间联系",
+      "B. 每个节点可以有多个双亲节点",
+      "C. 只能处理一对多的实体联系",
+      "D. 是数据库系统最晚使用的一种模型"
+    ],
+    "answer": "C",
+    "explanation": "1.2.3 数据存储和数据库章节表明，层次模型用“树”结构表示实体集之间的关 联，每个节点表示一个记录类型，记录类型之间的联系是父子之间的一对多的联系，使 得层次数据库系统只能处理一对多的实体联系。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0178",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "关系型数据库中，实现数据完整性的约束不包括（ ）。",
+    "options": [
+      "A. 实体完整性约束",
+      "B. 参照完整性约束",
+      "C. 数据类型完整性约束",
+      "D. 用户定义的完整性约束"
+    ],
+    "answer": "C",
+    "explanation": "1.2.3 数据存储和数据库章节提到，关系型数据库的完整性约束包括实体完整性、 参照完整性和用户定义的完整性，不包括数据类型完整性约束。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0179",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "非关系型数据库中，面向文档数据库将数据以（ ）形式存储。",
+    "options": [
+      "A. 键值对",
+      "B. 列族",
+      "C. 文档",
+      "D. 图"
+    ],
+    "answer": "C",
+    "explanation": "1.2.3 数据存储和数据库章节表明，面向文档数据库会将数据以文档形式存储。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0180",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据仓库中，用于从数据源抽取、清理并有效集成数据的是（ ）。",
+    "options": [
+      "A. OLAP 服务器",
+      "B. 数据的存储与管理环节",
+      "C. 前端工具",
+      "D. 数据集市"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节指出，数据的存储与管理环节针对现有各业务系统 的数据进行抽取、清理并有效集成，按照主题进行组织。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0181",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全的四个层次中，设备安全主要关注（ ）。",
+    "options": [
+      "A. 信息的保密性、完整性和可用性",
+      "B. 设备的物理安全、运行安全和数据安全",
+      "C. 信息内容的合法性、真实性和完整性",
+      "D. 信息行为的合规性和可控性"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节表明，设备安全主要关注设备的物理安全、运行安全和数据 安全，确保设备正常运行且数据不被破坏、泄露。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0182",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全技术中，访问控制的常见机制不包括（ ）。",
+    "options": [
+      "A. 自主访问控制",
+      "B. 基于用户的访问控制",
+      "C. 基于角色的访问控制",
+      "D. 强制访问控制"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节提到，访问控制通常用于系统管理员控制用户对服务器、目 录和文件等网络资源的访问，常见的访问控制机制包括自主访问控制、基于角色的访问 控制、基于规则的访问控制、强制访问控制，不包括基于用户的访问控制。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0183",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "用户和实体行为分析（UEBA）系统中，算法分析层结合的基本分析方法不包括 ( ) 。",
+    "options": [
+      "A. 利用签名的规则",
+      "B. 监督和无监督的机器学习",
+      "C. 模式匹配",
+      "D. 简单统计"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节表明，UEBA 结合的基本分析方法包括利用签名的规则、模式 匹配、简单统计、阈值等，监督和无监督的机器学习属于高级分析方法。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0184",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "网络安全态势感知中，面向多类型的网络安全威胁评估技术从以下哪些数据入手进 行检测（ ）。",
+    "options": [
+      "A. 仅网络流量数据",
+      "B. 流量、域名、报文和恶意代码等多元数据",
+      "C. 系统日志数据",
+      "D. 应用程序数据"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节提到，面向多类型的网络安全威胁评估技术从流量、域名、 报文和恶意代码等多元数据入手，有效处理来自互联网探针、终端、云计算和大数据平 台的威胁数据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0185",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "物联网的产业链中，不包括以下哪个环节（ ）。",
+    "options": [
+      "A. 传感器和芯片",
+      "B. 网络运营及服务",
+      "C. 数据加密服务",
+      "D. 系统集成"
+    ],
+    "answer": "C",
+    "explanation": "1.3.1 物联网章节表明，物联网的产业链包括传感器和芯片、设备、网络运营及 服务、软件与应用开发和系统集成，不涉及数据加密服务。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0186",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "区块链技术的多中心化特点是指（ ）。",
+    "options": [
+      "A. 存在多个中心节点共同管理数据",
+      "B. 运用纯数学方法代替中心化组织机构构建信任关系",
+      "C. 数据存储在多个不同的中心位置",
+      "D. 有多个用户同时对数据进行操作"
+    ],
+    "answer": "B",
+    "explanation": "1.3.2 区块链章节表明，链上数据的验证、核算、存储、维护和传输等过程均依 赖分布式系统结构，运用纯数学方法代替中心化组织机构在多个分布式节点之间构建信 任关系，从而建立去中心化的、可信的分布式系统。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0187",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "云计算的高可靠性体现在（ ）。",
+    "options": [
+      "A. 用户无须担心个人计算机崩溃导致的数据丢失，因为其所有的数据都保存在“云” 上",
+      "B. “云”具有相当大的规模，能赋予用户前所未有的计算能力",
+      "C. 用户可以根据自己的需要来定制相应的服务、应用及资源",
+      "D. “云”可以动态伸缩，满足应用和用户规模增长的需要"
+    ],
+    "answer": "A",
+    "explanation": "1.3.3 云计算章节提到，高可靠性是指用户无须担心个人计算机崩溃导致的数据 丢失，因为其所有的数据都保存在“云”上。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0188",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "大数据的规模性特征表现为（ ）。",
+    "options": [
+      "A. 数据类型繁多，包括结构化和非结构化数据",
+      "B. 数据量增长速度快，数据单位从GB 到TB 再到PB 级甚至更高",
+      "C. 数据价值密度低，但整体价值高",
+      "D. 要求对数据的处理速度快、时效性高"
+    ],
+    "answer": "B",
+    "explanation": "1.3.4 大数据章节表明，规模性表现为非结构化数据的超大规模和增长使其规模 占总数据量的80% - 90%，比结构化数据增长速度快10 - 50 倍，数据单位已从GB 到 TB 再到PB 级，甚至开始以EB 和ZB 来计数。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0189",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "人工智能的关键技术中，计算机视觉主要应用于以下哪个领域（ ）。",
+    "options": [
+      "A. 自然语言处理",
+      "B. 机器人、自动驾驶等领域",
+      "C. 知识图谱构建",
+      "D. 专家系统推理"
+    ],
+    "answer": "B",
+    "explanation": "1.3.5 人工智能章节表明，计算机视觉在自动驾驶、机器人、智能医疗等领域均 有应用，用于从视觉信号中提取并处理信息。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0190",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "边缘计算在工业物联网场景中，基于边缘计算虚拟化平台构建可编程逻辑控制器的 目的是（ ）。",
+    "options": [
+      "A. 实现数据的互联互通与互操作",
+      "B. 支持柔性生产工艺与流程",
+      "C. 实现产品质量缺陷检测",
+      "D. 适配制造场景的边缘计算安全机制与方案"
+    ],
+    "answer": "B",
+    "explanation": "1.3.6 边缘计算章节提到，在工业物联网场景中，基于边缘计算虚拟化平台构建 可编程逻辑控制器，支持柔性生产工艺与流程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0191",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数字孪生的建模技术中，数字模型的视角类型的三个维度不包括（ ）。",
+    "options": [
+      "A. 需求指标",
+      "B. 技术难度",
+      "C. 生存期阶段",
+      "D. 空间尺度"
+    ],
+    "answer": "B",
+    "explanation": "1.3.7 数字孪生章节表明，数字模型的视角类型的三个维度（需求指标、生存期 阶段和空间尺度）构成了数字孪生建模技术体系的三维空间，不包括技术难度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0192",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息化的深度性体现在（ ）。",
+    "options": [
+      "A. 信息化涉及社会的各个领域",
+      "B. 信息化改变了生产、经营、管理、服务等活动的方式和内容",
+      "C. 随着信息技术的不断创新和普及，信息化进程在全球迅速推进",
+      "D. 信息化引发了人类生活方式、交流方式等方面的深刻变革"
+    ],
+    "answer": "B",
+    "explanation": "1.1.1 信息化内涵与特征章节表明，深度性是指信息化改变了生产、经营、管理、 服务等活动的方式和内容，对社会经济的发展具有深刻影响。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0193",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "我国信息化管理体制演进中，信息化创新跨越阶段是从哪一年开始（ ）。",
+    "options": [
+      "A. 2012 年",
+      "B. 2016 年",
+      "C. 2018 年",
+      "D. 2020 年"
+    ],
+    "answer": "A",
+    "explanation": "1.1.1 信息化内涵与特征章节提到，我国信息化发展中，2012 年至今是信息化创 新跨越阶段。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0194",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的物理结构中，分布式结构的缺点是（ ）。",
+    "options": [
+      "A. 资源过于集中，系统脆弱性高",
+      "B. 系统管理的标准不易统一，协调困难",
+      "C. 资源利用率低",
+      "D. 不便于扩展"
+    ],
+    "answer": "B",
+    "explanation": "1.1.2 信息系统内涵与特征章节表明，分布式结构由于资源分散且又分属于各个 子系统，系统管理的标准不易统一，协调困难，不利于对整个资源的规划与管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0195",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "诺兰模型中，组织开始把IT 与管理过程结合起来，提升组织竞争力的阶段是（ ）。",
+    "options": [
+      "A. 数据管理阶段",
+      "B. 成熟阶段",
+      "C. 集成阶段",
+      "D. 控制阶段"
+    ],
+    "answer": "B",
+    "explanation": "1.1.3 信息系统发展章节提到，诺兰模型的成熟阶段，组织真正把IT 与管理过 程结合起来，将组织内部与外部的资源充分整合和利用，从而提升了组织的竞争力和发 展潜力。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0196",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机软件中，系统软件的核心是（ ）。",
+    "options": [
+      "A. 操作系统",
+      "B. 数据库",
+      "C. 中间件",
+      "D. 编译器"
+    ],
+    "answer": "A",
+    "explanation": "1.2.1 计算机软硬件章节表明，操作系统是系统软件的核心，它负责管理计算机 的硬件资源和软件资源，为其他软件提供运行环境。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0197",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机网络的功能中，实现管理集中化的目的是（ ）。",
+    "options": [
+      "A. 提高系统可靠性",
+      "B. 便于对网络资源进行统一管理和调配",
+      "C. 实现分布式处理",
+      "D. 减少系统的整体投资"
+    ],
+    "answer": "B",
+    "explanation": "1.2.2 计算机网络章节表明，管理集中化便于对网络资源进行统一管理和调配， 提高管理效率，实现资源的合理利用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0198",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "在TCP/IP 协议模型中，网络接口层负责（ ）。",
+    "options": [
+      "A. 处理应用程序之间的通信",
+      "B. 处理网络层与数据链路层之间的通信",
+      "C. 将数据封装成帧，并进行传输",
+      "D. 提供端到端的可靠通信"
+    ],
+    "answer": "C",
+    "explanation": "1.2.2 计算机网络章节表明，网络接口层负责将数据封装成帧，并进行传输，处 理与物理网络的连接和数据传输细节。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0199",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "IEEE 802 规范中，定义城域网MAN 协议的是（ ）。",
+    "options": [
+      "A. 802.3",
+      "B. 802.5",
+      "C. 802.6",
+      "D. 802.11"
+    ],
+    "answer": "C",
+    "explanation": "1.2.2 计算机网络章节指出，IEEE 802.6 定义了城域网MAN 协议。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0200",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "软件定义网络（SDN）中，北向接口的作用是（ ）。",
+    "options": [
+      "A. 负责与数据平面进行通信",
+      "B. 负责与应用平面进行通信",
+      "C. 使控制器具有可扩展性",
+      "D. 用于控制器之间的信息交换"
+    ],
+    "answer": "B",
+    "explanation": "1.2.2 计算机网络章节表明，北向接口负责与应用平面进行通信，应用程序通过 北向接口编程来调用所需的各种网络资源，实现对网络的快速配置和部署。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0201",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "5G 采用的新型信道编码方案中，Polar 码基于（ ）理论。",
+    "options": [
+      "A. 信道极化",
+      "B. 稀疏校验矩阵",
+      "C. 线性分组码",
+      "D. 循环冗余校验"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节表明，5G 采用的Polar 码是一种基于信道极化理论的线 性分组码。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0202",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据存储技术架构中，网络接入存储（NAS）的特点是（ ）。",
+    "options": [
+      "A. 是一种专业的网络文件存储及文件备份设备，对不同主机和应用服务器提供文件访问 服务",
+      "B. 将存储设备通过小型计算机系统接口或光纤通道直接连接到一台主机上",
+      "C. 通过光纤通道交换机等连接设备将磁盘阵列与相关服务器连接起来的高速专用存储 网络",
+      "D. 安装困难，适合大型组织的数据中心"
+    ],
+    "answer": "A",
+    "explanation": "1.2.3 数据存储和数据库章节表明，网络接入存储（NAS）是一种专业的网络文件 存储及文件备份设备，对不同主机和应用服务器提供文件访问服务。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0203",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据结构模型中，网状模型的优点是（ ）。",
+    "options": [
+      "A. 结构简单，易于理解和实现",
+      "B. 可以清晰地表示非层次关系",
+      "C. 数据冗余度低",
+      "D. 能直接处理多对多的实体联系"
+    ],
+    "answer": "B",
+    "explanation": "在1.2.3 数据存储和数据库章节中提到，现实世界中事物之间的联系更多的是 非层次关系，网状模型克服了层次模型的弊病，可以清晰地表示这种非层次关系。虽然 它能处理多对多联系，但不是直接处理，需要通过复杂的指针结构实现，所以D 选项 不准确。而网状模型结构并不简单，数据冗余度也不一定低，A、C 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0204",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "关系型数据库中，事务的持久性（Durability）是指（ ）。",
+    "options": [
+      "A. 事务中的所有操作要么全部执行，要么全部不执行",
+      "B. 事务执行前后，数据的完整性约束没有被破坏",
+      "C. 一个事务的执行不能被其他事务干扰",
+      "D. 事务一旦提交，对数据的修改就是永久性的"
+    ],
+    "answer": "D",
+    "explanation": "依据1.2.3 数据存储和数据库章节，事务的持久性是指事务一旦提交，对数据的 修改就是永久性的，即使系统发生故障也不会丢失。A 选项描述的是原子性；B 选项是 一致性；C 选项是隔离性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0205",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "非关系型数据库中，键值数据库适合存储（ ）类型的数据。",
+    "options": [
+      "A. 结构化且关系复杂的数据",
+      "B. 简单、易扩展且以键值对形式存储的数据",
+      "C. 海量的、需要复杂查询的数据",
+      "D. 具有层次结构的数据"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节表明，键值数据库类似传统语言中使用的哈希表， 可以通过key 来添加、查询或者删除数据库，因为使用key 主键访问，所以会获得很高 的性能及扩展性，适合存储简单、易扩展且以键值对形式存储的数据。结构化且关系复 杂的数据适合关系型数据库；海量需要复杂查询的数据并非键值数据库的优势；具有层 次结构的数据适合层次模型数据库。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0206",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据仓库中，基于关系数据库的OLAP（ROLAP）的基本数据和聚合数据存放于（ ）。",
+    "options": [
+      "A. 多维数据库中",
+      "B. 关系数据库管理系统（RDBMS）之中",
+      "C. 数据集市中",
+      "D. 分布式文件系统中"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节提到，ROLAP 基本数据和聚合数据均存放在RDBMS 之中。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0207",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全的基本属性中，不可否认性是指（ ）。",
+    "options": [
+      "A. 保证信息为授权者享用而不泄漏给未经授权者",
+      "B. 保证信息从真实的发信者传送到真实的收信者手中，传送过程中没有被非法用户添加、 删除和替换等",
+      "C. 保证信息和信息系统随时为授权者提供服务，保证合法用户对信息和资源的使用不会 被不合理地拒绝",
+      "D. 人们要为自己的信息行为负责，提供保证社会依法管理需要的公证、仲裁信息证据"
+    ],
+    "answer": "D",
+    "explanation": "1.2.4 信息安全章节表明，不可否认性是指人们要为自己的信息行为负责，提供 保证社会依法管理需要的公证、仲裁信息证据。A 选项是保密性；B 选项是完整性；C 选 项是可用性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0208",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全技术中，防火墙主要由服务访问规则、验证工具、包过滤和应用网关四个 部分组成，其中包过滤的作用是（ ）。",
+    "options": [
+      "A. 检查网络通信数据包，根据规则决定是否允许通过",
+      "B. 对用户身份进行验证",
+      "C. 提供应用层的代理服务",
+      "D. 制定网络访问的规则"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节指出，包过滤是防火墙的重要组成部分，它检查网络通信数 据包，根据预先设定的规则决定是否允许数据包通过，从而保护内部网络安全。对用户 身份进行验证的是验证工具；提供应用层代理服务的是应用网关；制定网络访问规则的 是服务访问规则。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0209",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "用户和实体行为分析（UEBA）系统中，场景应用层的主要作用是（ ）。",
+    "options": [
+      "A. 根据分析结果发现潜在事件，并进行相应处理",
+      "B. 收集各类数据，为分析提供数据基础",
+      "C. 结合基本分析方法和高级分析方法对数据进行分析",
+      "D. 对系统进行管理和维护，确保其正常运行"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节表明，UEBA 系统的场景应用层根据算法分析层的结果发现 潜在事件，并将分析结果应用于实际场景进行相应处理；数据获取层负责收集数据；算 法分析层进行数据分析；系统管理和维护不属于场景应用层的主要作用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0210",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "网络安全态势感知中，网络安全态势评估与决策支撑技术从“人”的角度评估的内 容不包括（ ）。",
+    "options": [
+      "A. 攻击者的身份",
+      "B. 攻击者的团伙关系",
+      "C. 攻击者的网络要素",
+      "D. 攻击者的行为动机意图"
+    ],
+    "answer": "C",
+    "explanation": "1.2.4 信息安全章节提到，网络安全态势评估与决策支撑技术从“人”的角度评 估攻击者的身份、团伙关系、行为动机意图；从“物”的角度评估其工具手段、网络 要素等。所以C 选项属于从“物”的角度评估的内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0211",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "物联网的特点中，从应用角度来看，物联网具备（ ）。",
+    "options": [
+      "A. 感知识别普适化、异构设备互联化的特征",
+      "B. 领域性、多样化的特征",
+      "C. 联网终端规模化、管理调控智能化的特征",
+      "D. 应用服务链条化、经济发展跨越化的特征"
+    ],
+    "answer": "B",
+    "explanation": "1.3.1 物联网章节表明，从应用角度来看，物联网具备领域性、多样化的特 征， 物联网应用通常具有领域性，几乎在社会生活的各个领域都有物联网应用需求。A、C、 D 选项是从产业角度阐述的物联网特点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0212",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "区块链技术在数据安全与隐私保护方面的作用是（ ）。",
+    "options": [
+      "A. 支持数据存储和传输的安全性，维护个人隐私权益",
+      "B. 提高数据处理速度，降低数据存储成本",
+      "C. 实现数据的快速共享和高效利用",
+      "D. 简化数据管理流程，提高数据管理效率"
+    ],
+    "answer": "A",
+    "explanation": "1.3.2 区块链章节表明，区块链在数据安全与隐私保护方面支持数据存储和传输 的安全性，通过加密技术和分布式账本等特性，维护个人隐私权益。区块链技术并非主 要用于提高数据处理速度、降低存储成本、实现快速共享利用以及简化数据管理流程， B、C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0213",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "云计算的特点中，虚拟化是指（ ）。",
+    "options": [
+      "A. “云”具有相当大的规模，能赋予用户前所未有的计算能力",
+      "B. 用户所请求的资源来自“云”，而不是固定的有形实体",
+      "C. “云”可以动态伸缩，满足应用和用户规模增长的需要",
+      "D. 云计算没有特定的应用，同一个“云”可以同时支撑不同的应用"
+    ],
+    "answer": "B",
+    "explanation": "1.3.3 云计算章节提到，云计算的虚拟化特征是指云计算是一个虚拟的资源池， 用户所请求的资源来自“云”，而不是固定的有形实体。A 选项描述的是超大规模；C 选 项是高可扩展性；D 选项是通用性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0214",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "大数据技术架构中，分布式数据处理技术的主流系统不包括（ ）。",
+    "options": [
+      "A. Hadoop",
+      "B. Spark",
+      "C. Flink",
+      "D. Storm"
+    ],
+    "answer": "C",
+    "explanation": "1.3.4 大数据章节表明，目前主流的分布式计算系统有Hadoop、Spark 和Storm， Flink 虽然也是分布式计算框架，但不属于文中提及的主流系统。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0215",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "人工智能的关键技术中，知识图谱可用于以下哪个方面（ ）。",
+    "options": [
+      "A. 自然语言处理中的词法分析",
+      "B. 反欺诈、不一致性验证等领域",
+      "C. 计算机视觉中的图像识别",
+      "D. 机器学习中的模型训练"
+    ],
+    "answer": "B",
+    "explanation": "1.3.5 人工智能章节表明，知识图谱可用于反欺诈、不一致性验证、组团欺诈等 对公共安全保障形成威胁的领域，需要用到异常分析、静态分析、动态分析等数据挖掘 方法。知识图谱在自然语言处理、计算机视觉、机器学习中有应用，但主要不是用于词 法分析、图像识别和模型训练，A、C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0216",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "边缘计算在视频监控场景中，构建基于边缘计算的智能视频数据存储机制的目的是 ( ) 。",
+    "options": [
+      "A. 提高视频图像分析的效率",
+      "B. 降低对云中心的计算、存储和网络带宽需求",
+      "C. 根据目标行为特征确定视频存储策略，实现有效视频数据的高效存储",
+      "D. 实现安防领域的“事前预警、事中制止、事后复核”理念"
+    ],
+    "answer": "C",
+    "explanation": "1.3.6 边缘计算章节提到，在视频监控场景中，构建基于边缘计算的智能视频数 据存储机制，可以根据目标行为特征确定视频存储策略，实现有效视频数据的高效存 储，提高存储空间利用率。A 选项是构建基于边缘计算的视频分析能力的作用；B 选项 是部分视频分析迁移到边缘侧的作用；D 选项是边缘计算整体在安防领域的作用，并 非该存储机制的目的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0217",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数字孪生在城市建设与发展中的特征不包括（ ）。",
+    "options": [
+      "A. 传感监控即时性",
+      "B. 城市信息分散性",
+      "C. 信息传递交互性",
+      "D. 发展决策科学性"
+    ],
+    "answer": "B",
+    "explanation": "1.3.7 数字孪生章节表明，数字孪生城市具有传感监控即时性、城市信息集成性、 信息传递交互性、发展决策科学性、控制管理智能性、城市服务便捷性等特征，不包括 城市信息分散性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0218",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息化的快速性体现在（ ）。",
+    "options": [
+      "A. 信息化涉及社会的各个领域",
+      "B. 随着信息技术的不断创新和普及，信息化进程在全球迅速推进",
+      "C. 信息化改变了生产、经营、管理、服务等活动的方式和内容",
+      "D. 信息化引发了人类生活方式、交流方式等方面的深刻变革"
+    ],
+    "answer": "B",
+    "explanation": "1.1.1 信息化内涵与特征章节表明，快速性是指随着信息技术的不断创新和普 及，信息化进程在全球迅速推进。A 选项体现的是广泛性；C 选项是深度性；D 选项也 是深度性的体现。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0219",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "我国信息化发展战略中，到2020 年的目标不包括（ ）。",
+    "options": [
+      "A. 核心关键技术部分领域达到国际先进水平",
+      "B. 建成国际领先的移动通信网络",
+      "C. 信息产业国际竞争力大幅提升",
+      "D. 信息化成为驱动现代化建设的先导力量"
+    ],
+    "answer": "B",
+    "explanation": "1.1.1 信息化内涵与特征章节提到，我国信息化发展战略第一步到2020 年，核 心关键技术部分领域达到国际先进水平，信息产业国际竞争力大幅提升，信息化成为驱 动现代化建设的先导力量。建成国际领先的移动通信网络是2025 年的目标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0220",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的特征中，成本效益是指（ ）。",
+    "options": [
+      "A. 信息系统的成本越低越好",
+      "B. 信息系统的收益越高越好",
+      "C. 信息系统的成本与收益应保持合理比例，确保投资产生积极回报",
+      "D. 信息系统的成本与收益没有关系"
+    ],
+    "answer": "C",
+    "explanation": "1.1.2 信息系统内涵与特征章节表明，信息系统的成本效益是指信息系统的成本 与收益应保持合理比例，确保投资产生积极回报，并非单纯追求低成本或高收益，成本 与收益密切相关。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0221",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的逻辑结构中，业务逻辑层的主要功能是（ ）。",
+    "options": [
+      "A. 通过软件研发创建统一的业务流程驱动引擎",
+      "B. 负责用户的交互界面，通过UI 设计将信息交互在客户端进行展示",
+      "C. 保障信息（数据）的传输和共享，负责提供某一类特定的基础数据服务",
+      "D. 主要包括操作系统和数据库等，负责各类资源的管理与调度"
+    ],
+    "answer": "A",
+    "explanation": "1.1.2 信息系统内涵与特征章节指出，业务逻辑层主要是通过软件研发创建统一 的业务流程驱动引擎，例如工作流引擎、报表引擎和交易处理引擎等。B 选项是应用表 现层的功能；C 选项是中间件层的功能；D 选项是资源管理层的功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0222",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "诺兰模型中，组织在传播阶段的主要特点不包括（ ）。",
+    "options": [
+      "A. 数据处理能力得到快速提高",
+      "B. 新的问题不断出现，如数据冗余、难以共享等",
+      "C. 出现了计算机系统的管理组织",
+      "D. 使用效率偏低"
+    ],
+    "answer": "C",
+    "explanation": "1.1.3 信息系统发展章节表明，诺兰模型传播阶段的特点是数据处理能力得到快 速提高，新的问题不断出现（例如，数据冗余、数据不一致、难以共享等），使用效率 偏低等。出现计算机系统的管理组织是控制阶段的特点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0223",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机硬件中，输入设备的作用是（ ）。",
+    "options": [
+      "A. 向计算机输入数据和信息",
+      "B. 输出计算机处理的结果",
+      "C. 存储程序和数据",
+      "D. 控制计算机的运行"
+    ],
+    "answer": "A",
+    "explanation": "1.2.1 计算机软硬件章节提到，输入设备的作用是向计算机输入数据和信息，如 键盘、鼠标等设备可将用户的指令和数据输入计算机。输出计算机处理结果的是输出设 备；存储程序和数据的是存储器；控制计算机运行的是控制器。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0224",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机网络的性能指标中，时延是指（ ）。",
+    "options": [
+      "A. 数据从网络的一端传送到另一端所需的时间",
+      "B. 网络的通信线路传送数据的能力",
+      "C. 连接在计算机网络上的主机或通信设备在数字信道上传送数据的速率",
+      "D. 在单位时间内通过某个网络（或信道、接口）的数据量"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节表明，时延是指数据（一个报文、分组甚至比特）从网络 （或链路）的一端传送到另一端所需的时间。B 选项是带宽的定义；C 选项是速率的定 义；D 选项是吞吐量的定义。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0225",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "在OSI 模型中，传输层的主要功能是（ ）。",
+    "options": [
+      "A. 提供端到端的可靠通信",
+      "B. 处理网络层与数据链路层之间的通信",
+      "C. 建立、管理和终止会话",
+      "D. 将数据转换为可以在网络中传输的信号"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节指出，传输层的主要功能是提供端到端的可靠通信，确保 数据能够准确无误地从源端传输到目的端。处理网络层与数据链路层之间通信的是网络 接口层相关功能；建立、管理和终止会话是会话层的功能；将数据转换为可以在网络中 传输的信号是物理层的功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0226",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "TCP/IP 协议族中，用于实现电子邮件传输功能的协议是（ ）。",
+    "options": [
+      "A. FTP",
+      "B. HTTP",
+      "C. SMTP",
+      "D. UDP"
+    ],
+    "answer": "C",
+    "explanation": "1.2.2 计算机网络章节提到，电子邮件传输协议（SMTP）用于实现电子邮件的传 输功能。FTP 用于文件传输；HTTP 用于网页传输；UDP 是一种传输层协议，但不是专 门用于电子邮件传输。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0227",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "软件定义网络（SDN）中，数据平面的主要组成部分是（ ）。",
+    "options": [
+      "A. 交换机等网络通用硬件",
+      "B. 逻辑上为中心的SDN 控制器",
+      "C. 各种基于SDN 的网络应用",
+      "D. 具有逻辑中心化和可编程的控制器"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节表明，SDN 的数据平面由交换机等网络通用硬件组成，各 个网络设备之间通过不同规则形成的SDN 数据通路连接。逻辑上为中心的SDN 控制器 属于控制平面；各种基于SDN 的网络应用属于应用平面；具有逻辑中心化和可编程的 控制器是控制层的部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0228",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "5G 支持的频段中，高频频段的作用是（ ）。",
+    "options": [
+      "A. 满足覆盖和容量需求",
+      "B. 满足在热点区域提升容量的需求",
+      "C. 提供更稳定的网络连接",
+      "D. 降低网络延迟"
+    ],
+    "answer": "B",
+    "explanation": "1.2.2 计算机网络章节表明，5G 中低频满足覆盖和容量需求，高频满足在热点区 域提升容量的需求。高频频段并非主要用于提供更稳定连接和降低网络延迟，A、C、D 选 项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0229",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据存储技术架构中，按照组网方式划分，不包括以下哪种存储（ ）。",
+    "options": [
+      "A. IP 组网存储",
+      "B. 块存储",
+      "C. FC 组网存储",
+      "D. IB 组网存储"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节表明，按照组网方式的不同，存储系统可以划分为 采用以太网技术进行组网的IP 组网存储、采用FC 光纤技术进行组网的FC 组网存储、 采用无线带宽技术进行组网的IB 组网存储。块存储是按照存储类型和协议划分的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0230",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据结构模型中，关系模型的缺点是（ ）。",
+    "options": [
+      "A. 不支持复杂查询",
+      "B. 数据独立性差",
+      "C. 数据读写必须经过SQL 解析，大量数据、高并发下读写性能不足",
+      "D. 不适合处理结构化数据"
+    ],
+    "answer": "C",
+    "explanation": "1.2.3 数据存储和数据库章节表明，关系型数据库（基于关系模型）的缺点包括 数据读写必须经过SQL 解析，大量数据、高并发下读写性能不足（对于传统关系型数 据库来说，硬盘I/O 是一个很大的瓶颈），具有固定的表结构，因此扩展困难，多表 的关联查询导致性能欠佳等。关系模型支持复杂查询，数据独立性较好，适合处理结 构化数据，A、B、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0231",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "关系型数据库中，实现参照完整性的主要手段是（ ）。",
+    "options": [
+      "A. 主键约束",
+      "B. 外键约束",
+      "C. 唯一约束",
+      "D. 非空约束"
+    ],
+    "answer": "B",
+    "explanation": "在1.2.3 数据存储和数据库章节中提到，参照完整性用于维护多个表之间数据 的一致性，外键约束是实现参照完整性的主要手段，通过外键建立表与表之间的关联关 系，确保数据的一致性和准确性。主键约束主要用于保证实体完整性；唯一约束确保字 段值的唯一性；非空约束保证字段值不能为空，A、C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0232",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "非关系型数据库中，列存储数据库适合的应用场景是（ ）。",
+    "options": [
+      "A. 对数据读写性能要求高，数据结构简单的场景",
+      "B. 分布式存储海量数据，且经常需要按列查询的场景",
+      "C. 数据具有复杂的关系，需要频繁进行关联查询的场景",
+      "D. 对数据一致性要求极高，事务处理频繁的场景"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节表明，列存储数据库将数据存储在列族中，通常 用 来应对分布式存储海量数据，并且当人们经常会按某些列进行查询时，这种存储方式能 提高查询效率，B 选项正确。A 选项是键值数据库的优势场景；C 选项是关系型数据库 擅长的场景；D 选项是关系型数据库（支持事务ACID 原则）更适合的场景。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0233",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据仓库中，数据集市与企业级数据仓库的区别在于（ ）。",
+    "options": [
+      "A. 数据集市的数据量更大",
+      "B. 数据集市是企业级数据仓库的备份",
+      "C. 数据集市是部门级数据仓库，数据覆盖范围小于企业级数据仓库",
+      "D. 数据集市的数据更新频率低于企业级数据仓库"
+    ],
+    "answer": "C",
+    "explanation": "依据1.2.3 数据存储和数据库章节，数据仓库按照数据的覆盖范围可以分为企 业级数据仓库和部门级数据仓库（通常称为数据集市），数据集市是部门级的，数据覆 盖范围小于企业级数据仓库，C 选项正确。一般企业级数据仓库数据量更大，A 选项 错误；数据集市不是企业级数据仓库的备份，B 选项错误；数据集市和企业级数据仓库 的数据更新频率取决于业务需求，并无固定的高低之分，D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0234",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全中，从信息安全层次划分来看，设备安全是信息安全的（ ）。",
+    "options": [
+      "A. 核心层次",
+      "B. 基础层次",
+      "C. 最高层次",
+      "D. 无关层次"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节表明，信息安全可以划分为设备安全、数据安全、内容安全 和行为安全四个层次，设备安全是信息安全的基础，只有保障了设备的正常运行和安 全，才能进一步确保数据、内容和行为的安全，B 选项正确，A、C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0235",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全技术中，入侵检测系统依照一定的安全策略，对（ ）进行监视。",
+    "options": [
+      "A. 网络、系统的运行状况",
+      "B. 用户的操作行为",
+      "C. 信息的传输过程",
+      "D. 数据的存储状态"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节提到，入侵检测系统是依照一定的安全策略，通过软硬件对 网络、系统的运行状况进行监视，尽可能发现各种攻击企图、攻击行为或攻击结果，A 选 项正确。虽然入侵检测系统可能间接涉及用户操作行为、信息传输过程和数据存储状 态，但直接监视的对象是网络和系统的运行状况，B、C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0236",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "用户和实体行为分析（UEBA）系统中，通过（ ）来评估用户和其他实体。",
+    "options": [
+      "A. 单一的分析方法",
+      "B. 基本分析方法和高级分析方法相结合",
+      "C. 仅依靠用户画像",
+      "D. 只运用高级分析方法"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节表明，UEBA 结合基本分析方法（利用签名的规则、模式匹 配、简单统计、阈值等）和高级分析方法（监督和无监督的机器学习等），用打包分析 来评估用户和其他实体（主机、应用程序、网络、数据库等），B 选项正确，A、C、D 选项 错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0237",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "网络安全态势感知中，网络安全态势可视化的目的是（ ）。",
+    "options": [
+      "A. 生成网络安全综合态势图，使网络安全态势感知系统的分析处理数据可视化、态势可 视化",
+      "B. 对网络安全数据进行采集汇聚、多维度深度融合",
+      "C. 对网络异常行为、已知攻击手段等进行统计、建模与评估",
+      "D. 对网络空间安全相关信息进行汇聚融合，实现对整体网络安全状况的判定"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节提到，网络安全态势可视化的目的是生成网络安全综合态势 图，使网络安全态势感知系统的分析处理数据可视化、态势可视化，A 选项正确。B 选 项是海量多元异构数据的汇聚融合技术的任务；C 选项是面向多类型的网络安全威胁评 估技术的内容；D 选项是网络安全态势评估与决策支撑技术的目标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0238",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "物联网的技术基础中，应用层的作用是（ ）。",
+    "options": [
+      "A. 识别物体、采集信息",
+      "B. 传递和处理感知层获取的信息",
+      "C. 与行业需求结合，实现物联网的智能应用",
+      "D. 为物联网提供网络通信支持"
+    ],
+    "answer": "C",
+    "explanation": "1.3.1 物联网章节表明，物联网架构的应用层是物联网和用户的接口，它与行 业 需求结合以实现物联网的智能应用，C 选项正确。A 选项是感知层的作用；B 选项是网 络层的作用；D 选项是网络层和部分通信技术的作用，并非应用层的主要作用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0239",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "区块链技术的特点中，开放共识是指（ ）。",
+    "options": [
+      "A. 链上数据的验证、核算、存储、维护和传输等过程均依赖分布式系统结构",
+      "B. 激励机制可确保分布式系统中的所有节点均可参与数据区块的验证过程",
+      "C. 区块链运用带有时间戳信息的链式结构来存储数据信息",
+      "D. 在区块链网络中，每台物理设备均可作为该网络中的一个节点，任意节点可自由加入 且拥有一份完整的数据库拷贝"
+    ],
+    "answer": "D",
+    "explanation": "1.3.2 区块链章节表明，开放共识是指在区块链网络中，每台物理设备均可作为 该网络中的一个节点，任意节点可自由加入且拥有一份完整的数据库拷贝，D 选项正确。 A 选项描述的是多中心化；B 选项是多方维护；C 选项是时序数据的特点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0240",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "云计算按照部署范围分类，企业构建自己的云计算环境，仅供内部使用，这种属于 ( ) 。",
+    "options": [
+      "A. 公有云",
+      "B. 私有云",
+      "C. 混合云",
+      "D. 社区云"
+    ],
+    "answer": "B",
+    "explanation": "1.3.3 云计算章节提到，私有云是企业构建自己的云计算环境，仅供内部使用， B 选项正确。公有云是云服务提供商提供的云计算服务，多个用户可以使用；混合云则 结合了公有云和私有云的特点；社区云是为特定的社区或行业提供的云计算服务，A、C、 D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0241",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "大数据的特点中，价值密度低是指（ ）。",
+    "options": [
+      "A. 大数据本身没有价值",
+      "B. 大数据的价值需要经过复杂的处理才能体现",
+      "C. 由于大数据的数据量过大，单位数据的价值呈现稀疏性，但整体价值在提高",
+      "D. 大数据的价值随着时间的推移会逐渐降低"
+    ],
+    "answer": "C",
+    "explanation": "1.3.4 大数据章节表明，大数据本身存在较大的潜在价值，但由于大数据的数 据 量过大，其价值往往呈现稀疏性的特点，单位数据的价值密度在不断降低，但是数据的 整体价值在提高，C 选项正确。A 选项大数据有价值，错误；B 选项未准确描述价值密 度低的含义；D 选项价值密度低与时间推移无关。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0242",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "人工智能的关键技术中，自然语言处理解决的核心问题不包括（ ）。",
+    "options": [
+      "A. 信息抽取",
+      "B. 图像识别",
+      "C. 自动文摘/分词",
+      "D. 识别转化"
+    ],
+    "answer": "B",
+    "explanation": "1.3.5 人工智能章节表明，自然语言处理解决的核心问题是信息抽取、自动文 摘/分词、识别转化等，用于解决内容有效界定、消除歧义和模糊性等问题。图像识别 属于计算机视觉的范畴，不属于自然语言处理解决的核心问题，B 选项正确，A、C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0243",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "边缘计算在智慧园区场景中，海量网络连接与管理的目的是（ ）。",
+    "options": [
+      "A. 实现园区设备的智能化管理",
+      "B. 减少对云中心的依赖",
+      "C. 满足园区内大量设备的联网需求，确保网络稳定运行",
+      "D. 实现本地业务自治"
+    ],
+    "answer": "C",
+    "explanation": "1.3.6 边缘计算章节提到，智慧园区场景中存在大量设备需要联网，海量网络连 接与管理的目的是满足园区内大量设备的联网需求，确保网络稳定运行，C 选项正确。 实现园区设备的智能化管理、减少对云中心的依赖和实现本地业务自治是边缘计算在智 慧园区的其他功能和目标，并非海量网络连接与管理的直接目的，A、B、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0244",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数字孪生在制造领域的产品设计阶段，使用数字孪生进行半实物仿真的作用是 ( ) 。",
+    "options": [
+      "A. 提高设计的准确性",
+      "B. 验证产品在真实环境中的性能",
+      "C. 降低成本",
+      "D. 实时反馈产品当前运行数据"
+    ],
+    "answer": "B",
+    "explanation": "1.3.7 数字孪生章节表明，在产品设计阶段，使用数字孪生进行半实物仿真可以 验证产品在真实环境中的性能，B 选项正确。提高设计准确性、降低成本是使用数字孪 生进行仿真的部分作用，但不是半实物仿真的主要作用；实时反馈产品当前运行数据是 数字孪生在其他阶段的功能，A、C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0245",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息化的特征中，数据量巨大是指（ ）。",
+    "options": [
+      "A. 信息化过程中产生的数据仅为结构化数据，数量庞大",
+      "B. 随着信息技术的发展和普及，数据量呈现出爆炸式增长，包括多种形式的数据",
+      "C. 信息化产生的数据主要是文本数据，数据量增长快",
+      "D. 数据量巨大导致数据处理难度大，且数据价值低"
+    ],
+    "answer": "B",
+    "explanation": "1.1.1 信息化内涵与特征章节表明，随着信息技术的发展和普及，数据量呈现出 爆炸式增长。这些海量数据包括文字、图像、音视频等各种形式，为人们提供了丰富的 知识资源，B 选项正确。信息化过程中产生的数据包含结构化和非结构化数据，A 选项 错 误；数据不仅有文本数据，还有多种其他形式，C 选项错误；大数据虽然价值密度 低，但整体价值高，D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0246",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "我国信息化管理体制演进中，信息化形成实践阶段的主要工作是（ ）。",
+    "options": [
+      "A. 开展信息化相关研究探索",
+      "B. 启动一系列重大信息化工程，推进信息化建设实践",
+      "C. 加强信息化基础设施建设，加速信息化推进",
+      "D. 全面推进信息化建设，提升信息化水平"
+    ],
+    "answer": "B",
+    "explanation": "1.1.1 信息化内涵与特征章节提到，1993 - 1997 年是信息化形成实践阶段，在 这一阶段启动了一系列重大信息化工程，如“三金工程”等，推进了信息化建设实践， B 选项正确。A 选项是信息化研究探索阶段的工作；C 选项是信息化加速推进阶段的工 作；D 选项是信息化全面发展阶段的工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0247",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的实时性是指（ ）。",
+    "options": [
+      "A. 信息系统的开发周期短",
+      "B. 信息系统能对实时数据进行快速处理和响应，及时为决策者提供有效支持",
+      "C. 信息系统的运行速度快",
+      "D. 信息系统的数据更新频率高"
+    ],
+    "answer": "B",
+    "explanation": "1.1.2 信息系统内涵与特征章节表明，信息系统的实时性是指信息系统需要对实 时数据进行快速处理和响应，以便及时为决策者提供有效的支持，B 选项正确。开发周 期短、运行速度快和数据更新频率高都不能准确描述实时性的含义，A、C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0248",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息系统的物理结构中，集中式结构的优点是（ ）。",
+    "options": [
+      "A. 资源集中、便于管理、资源利用率较高",
+      "B. 系统管理的标准统一，协调容易",
+      "C. 便于扩展且安全性好",
+      "D. 能适应企业组织结构扁平化与网络化的发展趋势"
+    ],
+    "answer": "A",
+    "explanation": "1.1.2 信息系统内涵与特征章节表明，集中式结构的优点是资源集中、便于管 理、 资源利用率较高，A 选项正确。集中式结构随着系统规模扩大，维护管理困难，系统 管 理标准不易统一，协调困难，B 选项错误；便于扩展且安全性好是分布式结构的优点， C 选项错误；适应企业组织结构扁平化与网络化发展趋势的也是分布式结构，D 选项错 误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0249",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "诺兰模型中，组织在集成阶段的主要工作是（ ）。",
+    "options": [
+      "A. 进行规划设计，建立基础数据库并建成统一的信息管理系统",
+      "B. 控制计算机信息系统的投入与发展，解决数据共享问题",
+      "C. 选定统一的数据库平台、数据管理体系和信息管理平台",
+      "D. 使信息系统满足组织各个层次的需求，提升组织竞争力"
+    ],
+    "answer": "A",
+    "explanation": "1.1.3 信息系统发展章节提到，诺兰模型的集成阶段，组织开始进行规划设计， 建立基础数据库并建成统一的信息管理系统，A 选项正确。控制计算机信息系统投入与 发展、解决数据共享问题是控制阶段的工作，B 选项错误；选定统一的数据库平台等是 数据管理阶段的工作，C 选项错误；使信息系统满足各层次需求、提升组织竞争力是成 熟阶段的工作，D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0250",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机硬件中，中央处理器（CPU）集成了（ ）。",
+    "options": [
+      "A. 控制器和存储器",
+      "B. 控制器和运算器",
+      "C. 运算器和存储器",
+      "D. 输入设备和输出设备"
+    ],
+    "answer": "B",
+    "explanation": "1.2.1 计算机软硬件章节表明，在现实硬件构成中，控制单元和运算单元被集成 为一体，封装到中央处理器（CPU）中，B 选项正确，A、C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0251",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "计算机网络的功能中，实现负荷均衡的目的是（ ）。",
+    "options": [
+      "A. 提高系统可靠性",
+      "B. 使网络中的各个设备负载均匀，避免部分设备过载",
+      "C. 实现分布式处理",
+      "D. 减少系统的整体投资"
+    ],
+    "answer": "B",
+    "explanation": "1.2.2 计算机网络章节表明，负荷均衡是通过一定的算法将网络负载均匀分配到 各个网络设备上，使网络中的各个设备负载均匀，避免部分设备过载，B 选项正确。提 高系统可靠性、实现分布式处理和减少系统整体投资是计算机网络的其他功能带来的效 果，并非负荷均衡的直接目的，A、C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0252",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "在TCP/IP 协议模型中，应用层协议不包括（ ）。",
+    "options": [
+      "A. IP",
+      "B. HTTP",
+      "C. FTP",
+      "D. SMTP"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节表明，IP 协议属于网际层，HTTP、FTP、SMTP 都属于应用 层协议，A 选项正确，B、C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0253",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "IEEE 802 规范中，定义令牌环Token Ring 协议的是（ ）。",
+    "options": [
+      "A. 802.3",
+      "B. 802.4",
+      "C. 802.5",
+      "D. 802.6"
+    ],
+    "answer": "C",
+    "explanation": "1.2.2 计算机网络章节指出，IEEE 802.5 定义了令牌环Token Ring 协议，C 选 项正确，A、B、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0254",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "软件定义网络（SDN）中，控制层与数据层之间采用（ ）进行交互。",
+    "options": [
+      "A. 开放的统一接口（如OpenFlow 等）",
+      "B. 专用接口",
+      "C. 标准网络接口",
+      "D. 自定义接口"
+    ],
+    "answer": "A",
+    "explanation": "1.2.2 计算机网络章节表明，SDN 中控制层与数据层之间采用开放的统一接口 （如OpenFlow 等）进行交互，控制器通过标准接口向交换机下发统一标准规则，交换 机仅需按照这些规则执行相应的动作，A 选项正确，B、C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0255",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "5G 为支持低时延、高可靠采用的技术中，短帧技术的作用是（ ）。",
+    "options": [
+      "A. 提高数据传输速率",
+      "B. 减少数据传输时延",
+      "C. 提升网络覆盖范围",
+      "D. 增强网络稳定性"
+    ],
+    "answer": "B",
+    "explanation": "1.2.2 计算机网络章节表明，5G 为支持低时延、高可靠采用了短帧、快速反馈、 多层/多站数据重传等技术，短帧技术的作用是减少数据传输时延，B 选项正确。提高数 据传输速率主要依靠其他技术，如新型信道编码方案等，A 选项错误；提升网络覆盖范 围和增强网络稳定性并非短帧技术的主要作用，C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0256",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据存储技术架构中，直接附加存储（DAS）的适用场景是（ ）。",
+    "options": [
+      "A. 大型组织的数据中心，需要集中管理大量存储设备",
+      "B. 中小组织服务器捆绑磁盘（JBOD），文档共享程度低，独立操作平台，服务器数量少",
+      "C. 企业需要实现不同主机之间的资源共享，对存储性能要求高",
+      "D. 分布式存储海量数据，需要频繁进行数据读写操作"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节表明，直接附加存储（DAS）将存储设备直接连接到 一台主机上，不能实现与其他主机的资源共享，适合中小组织服务器捆绑磁盘（JBOD）， 文档共享程度低，独立操作平台，服务器数量少的场景，B 选项正确。大型组织的数 据中心适合SAN 存储等；需要实现不同主机资源共享的场景不适合DAS；分布式存储 海量数据是分布式存储的应用场景，不是DAS 的，A、C、D 选项",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0257",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据结构模型中，以下关于关系模型的说法，错误的是（ ）。",
+    "options": [
+      "A. 关系模型中实体和实体间的联系均由关系表示",
+      "B. 关系模型允许通过数据库规范化提炼建立信息一致性模型",
+      "C. 关系模型的数据独立性较差",
+      "D. 关系模型以集合论中的关系概念为基础发展起来"
+    ],
+    "answer": "C",
+    "explanation": "根据1.2.3 数据存储和数据库章节，关系模型以集合论中的关系概念为基础发 展起来，无论是实体还是实体间的联系均由单一的结构类型关系来表示，且允许设计者 通过数据库规范化的提炼，去建立一个信息一致性的模型。关系模型的数据独立性较 好，C 选项说法错误，A、B、D 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0258",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "关系型数据库中，事务的隔离性（Isolation）是指（ ）。",
+    "options": [
+      "A. 事务中的所有操作要么全部执行，要么全部不执行",
+      "B. 事务执行前后，数据的完整性约束没有被破坏",
+      "C. 一个事务的执行不能被其他事务干扰",
+      "D. 事务一旦提交，对数据的修改就是永久性的"
+    ],
+    "answer": "C",
+    "explanation": "1.2.3 数据存储和数据库章节表明，事务的隔离性是指一个事务的执行不能被其 他事务干扰，保证事务在并发执行时的正确性和一致性。A 选项描述的是原子性；B 选 项是一致性；D 选项是持久性，C 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0259",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "非关系型数据库中，图形数据库的特点是（ ）。",
+    "options": [
+      "A. 以文档形式存储数据，支持复杂查询",
+      "B. 将数据存储在列族中，适合分布式存储海量数据",
+      "C. 允许人们将数据以图的方式存储，实体会被作为顶点，实体之间的关系作为边",
+      "D. 类似传统语言中的哈希表，通过key 来添加、查询或者删除数据"
+    ],
+    "answer": "C",
+    "explanation": "1.2.3 数据存储和数据库章节提到，图形数据库允许人们将数据以图的方式存储， 实体会被作为顶点，而实体之间的关系则会被作为边，C 选项正确。以文档形式存储数 据的是面向文档数据库，A 错误；将数据存储在列族中的是列存储数据库，B 错误；类 似哈希表的是键值数据库，D 错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0260",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "数据仓库中，OLAP 服务器基于多维数据组织的实现方式是（ ）。",
+    "options": [
+      "A. ROLAP",
+      "B. MOLAP",
+      "C. HOLAP",
+      "D. EOLAP"
+    ],
+    "answer": "B",
+    "explanation": "1.2.3 数据存储和数据库章节指出，基于多维数据组织的OLAP（OLAP 服务器对 分析需要的数据进行有效集成，按多维模型予以组织）是MOLAP，其基本数据和聚合数 据 均存放于多维数据库中。ROLAP 基本数据和聚合数据均存放在RDBMS 之中；HOLAP 基本数 据存放于关系数据库管理系统之中，聚合数据存放于多维数据库中，A、C 选 项错误，D 选项不存在。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0261",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全的基本属性中，可控性主要是出于（ ）的需要。",
+    "options": [
+      "A. 保证信息的保密性",
+      "B. 国家和机构的利益及社会管理",
+      "C. 保证信息的完整性",
+      "D. 保证信息系统的可用性"
+    ],
+    "answer": "B",
+    "explanation": "1.2.4 信息安全章节表明，可控性是出于国家和机构的利益和社会管理的需要， 保证管理者能够对信息实施必要的控制管理，以对抗社会犯罪和外敌侵犯，B 选项正确。 可控性与保证信息保密性、完整性、可用性的直接关联较小，A、C、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0262",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "信息安全技术中，身份认证中常见的基于生物识别的认证方式不包括（ ）。",
+    "options": [
+      "A. 指纹识别",
+      "B. 虹膜认证",
+      "C. 短信密码",
+      "D. 人脸识别"
+    ],
+    "answer": "C",
+    "explanation": "1.2.4 信息安全章节表明，UEBA 结合基本分析方法（利用签名的规则、模式匹配、 简单统计、阈值等）和高级分析方法（监督和无监督的机器学习等）。深度学习属于机 器学习的一种，也常用于高级分析方法中，简单统计属于基本分析方法，不属于高级分 析方法，C 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0263",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "用户和实体行为分析（UEBA）系统的算法分析层运用高级分析方法，其中不包括 ( ) 。",
+    "options": [
+      "A. 监督机器学习",
+      "B. 无监督机器学习",
+      "C. 简单统计",
+      "D. 深度学习"
+    ],
+    "answer": "C",
+    "explanation": "1.2.4 信息安全章节表明，UEBA 结合基本分析方法（利用签名的规则、模式匹配、 简单统计、阈值等）和高级分析方法（监督和无监督的机器学习等）。深度学习属于机 器学习的一种，也常用于高级分析方法中，简单统计属于基本分析方法，不属于高级分 析方法，C 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0264",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "网络安全态势感知中，面向多类型的网络安全威胁评估技术通过（ ）等大数据分 析方法对威胁项进行跟踪分析。",
+    "options": [
+      "A. 聚类分析、关联分析和序列模式分析",
+      "B. 数据清洗、数据融合和数据可视化",
+      "C. 异常检测、漏洞扫描和入侵检测",
+      "D. 风险评估、安全审计和策略管理"
+    ],
+    "answer": "A",
+    "explanation": "1.2.4 信息安全章节提到，面向多类型的网络安全威胁评估技术通过结合聚类分 析、关联分析和序列模式分析等大数据分析方法，对发现的恶意代码、域名信息等威胁 项进行跟踪分析，A 选项正确。数据清洗、数据融合和数据可视化是数据处理和展示的 技术，不属于对威胁项跟踪分析的大数据分析方法，B 错误；异常检测、漏洞扫描和 入侵检测是网络安全检测手段，C 错误；风险评估、安全审计和策略管理是网络安全 管理方面的内容，D 错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch01_0265",
+    "chapter": "第1章",
+    "chapter_no": 1,
+    "chapter_title": "信息系统与信息技术发展",
+    "question": "物联网的应用领域中，通过物联网技术实现远程监控和优化设备能耗，提高能源使 用效率的是（ ）。",
+    "options": [
+      "A. 智能家居",
+      "B. 智慧城市",
+      "C. 能源管理",
+      "D. 工业自动化"
+    ],
+    "answer": "C",
+    "explanation": "1.3.1 物联网章节表明，在能源管理领域，物联网技术有助于提高能源使用效率， 实现可持续发展，例如远程监控和优化设备的能耗，利用智能电网技术平衡供需、减少 损耗，C 选项正确。智能家居主要实现家庭设备的远程控制和自动化管理；智慧城市涵 盖多个方面的智能化应用，但远程监控和优化设备能耗主要属于能源管理范畴；工业自 动化侧重于工业生产过程的自动化和效率提升，A、B、D 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第1章",
+    "status": "candidate"
+  }
+]

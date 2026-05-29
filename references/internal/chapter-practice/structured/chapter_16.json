@@ -1,0 +1,5582 @@
+[
+  {
+    "id": "internal_qt_ch16_0001",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "信息系统建设和运维服务过程中所需要的资源不包括以下哪一项？( )",
+    "options": [
+      "A. 软件",
+      "B. 人力",
+      "C. 资金",
+      "D. 环境设施"
+    ],
+    "answer": "C",
+    "explanation": "16 章开头部分提到，信息系统建设和运维服务过程中所需要的资源包括软件、硬 件、数据、人力、工具、技术、过程、方法、环境设施等，未提及资金。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0002",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发与测试环境是在基本硬件和宿主软件基础上，为支持系统软件和应用软件的 ( ) 而使用的一组软件。",
+    "options": [
+      "A. 开发和销售",
+      "B. 工程化开发和维护",
+      "C. 测试和推广",
+      "D. 演示和培训"
+    ],
+    "answer": "B",
+    "explanation": "16.1 节指出，研发与测试环境是为支持系统软件和应用软件的工程化开发和维 护而使用的一组软件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0003",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "以下关于软件开发工具的说法，错误的是（ ）。",
+    "options": [
+      "A. 软件开发工具可辅助软件的开发、运行、维护等活动",
+      "B. 孤立的单个软件开发工具彼此独立，有不同的数据存储格式",
+      "C. 集成化的CASE 环境没有共享的信息数据库",
+      "D. 软件开发工具目的是降低成本，提高生产效率和产品质量"
+    ],
+    "answer": "C",
+    "explanation": "16.1.1 节提到集成化的CASE 环境有可以共享的信息数据库，C 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0004",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Visual Studio 不支持以下哪种编程语言？( )",
+    "options": [
+      "A. C/C++",
+      "B. Python",
+      "C. PHP",
+      "D. JavaScript"
+    ],
+    "answer": "C",
+    "explanation": "16.1.1 节表明Visual Studio 支持多种编程语言，包括C/C++ 、C< 、Visual Basic.NET 、F< 、Python、JavaScript 和HTML/CSS 等，但未提及PHP。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0005",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Eclipse 的主要特点不包括（ ）。",
+    "options": [
+      "A. 完全封闭源代码",
+      "B. 跨平台",
+      "C. 插件化",
+      "D. 强大的Java 支持"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节指出Eclipse 的特点包括完全开放源代码、跨平台、插件化、强大的 Java 支持等，A 选项“完全封闭源代码”错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0006",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "PyCharm 是一款用于（ ）语言开发的IDE。",
+    "options": [
+      "A. Java",
+      "B. Python",
+      "C. C",
+      "D. JavaScript"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节明确说明PyCharm 是由JetBrains 公司开发的一款Python IDE。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0007",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "在大规模软件多人协同开发环境下，代码管理工具不具备以下哪种功能？( )",
+    "options": [
+      "A. 管理代码",
+      "B. 协同开发",
+      "C. 进行版本控制",
+      "D. 设计软件界面"
+    ],
+    "answer": "D",
+    "explanation": "16.1.1 节提到代码管理工具可以管理代码、协同开发以及进行版本控制等，未提 及设计软件界面功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0008",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "集中式版本控制工具采用的架构模式是（ ）。",
+    "options": [
+      "A. 客户端/服务器架构",
+      "B. 对等网络架构",
+      "C. 浏览器/服务器架构",
+      "D. 分布式架构"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节指出集中式版本控制工具采用典型的客户端/服务器架构模式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0009",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Subversion（SVN）使用（ ）来标识不同的代码状态。",
+    "options": [
+      "A. 时间戳",
+      "B. 版本号",
+      "C. 文件名",
+      "D. 作者名"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节表明SVN 使用版本号来标识不同的代码状态。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0010",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "分布式版本控制工具采用的模式是（ ）。",
+    "options": [
+      "A. 本地代码仓库和远程代码仓库",
+      "B. 单一中央仓库",
+      "C. 多个独立的本地仓库，无远程仓库",
+      "D. 主从仓库模式"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节提到分布式版本控制工具采用的是本地代码仓库和远程代码仓库的模 式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0011",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Git 是为了帮助管理（ ）开发而开发的版本控制软件。",
+    "options": [
+      "A. Linux 内核",
+      "B. Windows 系统",
+      "C. Android 系统",
+      "D. iOS 系统"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节明确说明Git 是为了帮助管理Linux 内核开发而开发的一个开放源代 码的版本控制软件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0012",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件配置管理为软件开发提供了一套管理办法和活动原则，其功能模块不包括 ( ) 。",
+    "options": [
+      "A. 项目管理",
+      "B. 财务管理",
+      "C. 版本管理",
+      "D. 变更管理"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节指出软件配置管理工具功能模块包括项目管理、版本管理、变更管理等， 未提及财务管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0013",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "以下不属于软件配置管理工具主要功能的是（ ）。",
+    "options": [
+      "A. 提供软件测试用例",
+      "B. 版本管理和基线控制",
+      "C. 流程控制和变更管理",
+      "D. 资源维护"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节阐述了软件配置管理工具的主要功能，不包括提供软件测试用例。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0014",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "随着软件发展，对软件测试管理水平要求不断提高，传统人工管理存在诸多问题， 以下哪项不是其问题？( )",
+    "options": [
+      "A. 浪费人力成本",
+      "B. 高效管理",
+      "C. 无法做到标准化",
+      "D. 无法流程化"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节提到传统的人工管理严重浪费人力成本和时间成本，无法做到高效、标 准化、规范化以及流程化，B 选项“高效管理”错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0015",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件测试工具可分为自动化软件测试工具和测试管理工具，其中自动化软件测试工 具是（ ）。",
+    "options": [
+      "A. 用软件来代替一些人工输入，提高测试用例的复用率",
+      "B. 用于对测试过程进行管理",
+      "C. 对整个测试流程的各个环节进行管理",
+      "D. 主要进行测试计划管理"
+    ],
+    "answer": "A",
+    "explanation": "16.1.2 节指出自动化软件测试工具是用软件来代替一些人工输入，提高测试用 例的复用率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0016",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件自动化测试包括多个阶段，以下不属于其阶段的是（ ）。",
+    "options": [
+      "A. 自动化测试计划",
+      "B. 自动化测试设计",
+      "C. 自动化测试销售",
+      "D. 自动化测试执行"
+    ],
+    "answer": "C",
+    "explanation": "16.1.2 节表明软件自动化测试包括自动化测试计划、自动化测试设计、自动化 测试实施和自动化测试执行4 个阶段，不包括自动化测试销售。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0017",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "UFT 是一款自动化测试工具，它不支持以下哪种测试？( )",
+    "options": [
+      "A. 图形用户界面测试",
+      "B. 音频测试",
+      "C. API 测试",
+      "D. 数据驱动测试"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节提到UFT 旨在帮助测试人员自动化执行GUI 测试和API 测试，支持数 据驱动测试、关键字驱动测试等，未提及音频测试。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0018",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "LoadRunner 是一个应用广泛的性能测试工具，其主要功能组件不包括（ ）。",
+    "options": [
+      "A. Virtual User Generator",
+      "B. Controller",
+      "C. Analyzer",
+      "D. Reporter"
+    ],
+    "answer": "D",
+    "explanation": "16.1.2 节指出LoadRunner 通过三大主要功能组件来覆盖性能测试过程，包括 Virtual User Generator、Controller、Analysis，不包括Reporter。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0019",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "测试管理工具在软件测试过程中起着重要作用，其核心是（ ）。",
+    "options": [
+      "A. 测试计划管理和测试用例管理",
+      "B. 测试用例库和缺陷库",
+      "C. 测试任务执行和缺陷记录跟踪",
+      "D. 报告和分析"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节表明测试管理工具的核心是测试用例库和缺陷库。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0020",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "TestRail 是一个测试用例管理工具，它不提供以下哪种功能？( )",
+    "options": [
+      "A. 需求管理模块",
+      "B. 基于Web 的测试用例管理功能",
+      "C. 跟踪单个测试的状态",
+      "D. 集成众多缺陷追踪工具"
+    ],
+    "answer": "A",
+    "explanation": "16.1.2 节提到TestRail 不提供需求和缺陷管理模块，但其支持集成众多缺陷追 踪工具等功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0021",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Quality Center 包括多个部分，其中对产品定义进行分析，提取测试需求的是 ( ) 。",
+    "options": [
+      "A. 明确需求",
+      "B. 测试计划",
+      "C. 执行测试",
+      "D. 跟踪缺陷"
+    ],
+    "answer": "A",
+    "explanation": "16.1.2 节指出Quality Center 中明确需求部分是对产品定义进行分析，提取测 试需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0022",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Bugzilla 是一个开源的缺陷跟踪系统，以下不属于其主要功能的是（ ）。",
+    "options": [
+      "A. 缺陷报告管理",
+      "B. 软件功能设计",
+      "C. 缺陷查询和过滤",
+      "D. 缺陷状态管理"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节阐述了Bugzilla 的主要功能包括缺陷报告管理、缺陷查询和过滤、缺 陷状态管理等，不包括软件功能设计。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0023",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "在软件开发过程中，研发与测试环境搭建和维护应遵循多个原则，以下错误的是 ( ) 。",
+    "options": [
+      "A. 不可重现性",
+      "B. 可协作性",
+      "C. 与生产环境相似性",
+      "D. 自动化环境管理"
+    ],
+    "answer": "A",
+    "explanation": "16.1.3 节提到研发与测试环境搭建和维护应遵循可重现性、可协作性、与生产环 境相似性、自动化环境管理等原则，A 选项“不可重现性”错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0024",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发测试环境部署包括多个步骤，其中第一步是（ ）。",
+    "options": [
+      "A. 硬件设备的选取和配置",
+      "B. 操作系统的安装和配置",
+      "C. 应用程序的安装和配置",
+      "D. 数据库的安装和配置"
+    ],
+    "answer": "A",
+    "explanation": "研发测试环境部署的第一步通常是硬件设备的选取和配置。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0025",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发测试环境维护需要遵循一些要求，以下说法错误的是（ ）。",
+    "options": [
+      "A. 不需要备份研发测试环境数据",
+      "B. 定期更新研发测试环境软件和补丁",
+      "C. 定期清理研发测试环境数据和日志",
+      "D. 监控研发测试环境状态"
+    ],
+    "answer": "A",
+    "explanation": "16.1.3 节提到研发测试环境中的数据需要进行备份，以确保数据的安全性和完 整性，A 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0026",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "监控工具主要对运行维护服务对象进行数据采集和监控，其种类不包括（ ）。",
+    "options": [
+      "A. IT 基础设施监控",
+      "B. 财务状况监控",
+      "C. 性能监控",
+      "D. 业务运营监控"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节指出监控工具的种类包括IT 基础设施监控、性能监控、业务运营监控 等，未提及财务状况监控。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0027",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Zabbix 是一个组织级的开源分布式监控解决方案，它不具备以下哪种特点？( )",
+    "options": [
+      "A. 基于Web 界面提供监控功能",
+      "B. 可监控数千台服务器等",
+      "C. 不支持采集百万级的监控指标",
+      "D. 拥有良好的扩展性"
+    ],
+    "answer": "C",
+    "explanation": "16.2.1 节表明Zabbix 可实时监控数千台服务器等，并支持采集百万级的监控指 标，C 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0028",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Nagios 包括两个主要版本，其中免费的开源网络监视工具是（ ）。",
+    "options": [
+      "A. Nagios Cor",
+      "B. B.Nagios XI",
+      "C. Nagios Pro",
+      "D. Nagios Fre"
+    ],
+    "answer": "A",
+    "explanation": "Nagios Core 是免费的开源网络监视工具。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0029",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Prometheus 是一套开源的系统监控报警框架，它采用的模型架构是（ ）。",
+    "options": [
+      "A. 推（Push）模型",
+      "B. 拉（Pull）模型",
+      "C. 推拉结合模型",
+      "D. 以上都不是"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节指出Prometheus 采用拉（Pull）模型架构。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0030",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "随着系统规模扩大，单一运维监控工具不能满足需求，更多场景是采用（ ）。",
+    "options": [
+      "A. 统一运维监控平台",
+      "B. 多个单一运维监控工具组合",
+      "C. 放弃监控",
+      "D. 人工监控"
+    ],
+    "answer": "A",
+    "explanation": "16.2.1 节提到随着系统规模的不断扩大和复杂性的提高，更多的场景是将所有 业务系统资源纳入统一的运维监控平台中。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0031",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "统一运维监控体系一般包括多个模块，其中负责处理告警事件的是（ ）。",
+    "options": [
+      "A. 数据采集模块",
+      "B. 告警管理模块",
+      "C. 故障管理模块",
+      "D. 视图管理模块"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节表明统一运维监控体系中告警管理模块负责处理告警事件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0032",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "常见的运维监控平台建设方式包括基于开源监控软件自主开发和（ ）。",
+    "options": [
+      "A. 购买国外现成平台",
+      "B. 定制商业化运维监控平台",
+      "C. 自己从头开发新平台",
+      "D. 租用云监控服务"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节提到常见的运维监控平台建设方式包括基于开源监控软件自主开发和 定制商业化运维监控平台。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0033",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "过程管理工具的作用主要是根据（ ）对运行维护服务的交付过程或IT 服务的全 过程进行管理。",
+    "options": [
+      "A. 项目计划",
+      "B. 合同约定的服务级别协议（SL",
+      "C. 领导指示",
+      "D. 行业标准"
+    ],
+    "answer": "B",
+    "explanation": "16.2.2 节指出过程管理工具的作用主要是根据合同约定的服务级别协议（SLA） 对运行维护服务的交付过程或IT 服务的全过程进行管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0034",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ITSM 系统是实现过程管理的主要工具，核心的ITSM 流程不包括（ ）。",
+    "options": [
+      "A. 服务请求管理",
+      "B. 财务管理",
+      "C. 问题管理",
+      "D. 变更管理"
+    ],
+    "answer": "B",
+    "explanation": "16.2.2 节提到核心的ITSM 流程包括服务请求管理、事件管理、问题管理、变更 管理等，未提及财务管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0035",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "JiraService Management 支持运维团队做以下事情，除了（ ）。",
+    "options": [
+      "A. 基于模板创建服务台",
+      "B. 定制请求表单",
+      "C. 进行财务管理",
+      "D. 自动将服务请求分类"
+    ],
+    "answer": "C",
+    "explanation": "16.2.2 节表明JiraService Management 支持运维团队基于模板创建服务台、定 制请求表单、自动将服务请求分类等，未提及进行财务管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0036",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceHot ITSM 提供的服务流程管理套件具有以下特点，除了（ ）。",
+    "options": [
+      "A. 可视化管理能力",
+      "B. 需要繁重的二次开发",
+      "C. 已完成国产化适配",
+      "D. 满足多种服务管理需求"
+    ],
+    "answer": "B",
+    "explanation": "16.2.2 节提到ServiceHot ITSM 系统底层采用可视化引擎、拖拽流程设计，做 到快速落地实施、无须繁重的二次开发，B 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0037",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "作业调度/批处理工具用于实现常规化、标准化作业的统一管理，以下不属于其常见 工具的是（ ）。",
+    "options": [
+      "A. Puppet",
+      "B. SaltStack",
+      "C. Jenkins",
+      "D. Ansible"
+    ],
+    "answer": "C",
+    "explanation": "16.2.3 节指出常见的作业调度和批处理工具包括Puppet、SaltStack、Ansible 等，Jenkins 是持续集成自动化工具，不属于此类。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0038",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Puppet 是较早的Linux 自动化运维工具，它采用的结构是（ ）。",
+    "options": [
+      "A. C/S 结构",
+      "B. B/S 结构",
+      "C. 对等结构",
+      "D. 分布式结构"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节表明Puppet 采用最典型的C/S 结构。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0039",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "SaltStack 加入了（ ）同步机制，可以使执行命令和执行结果高效返回。",
+    "options": [
+      "A. MQ 消息",
+      "B. HTTP",
+      "C. FTP",
+      "D. TCP/IP"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节提到SaltStack 加入了MQ 消息同步机制，可以使执行命令和执行结 果高效返回。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0040",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Ansible 与Puppet、SaltStack 不同之处在于（ ）。",
+    "options": [
+      "A. 它是C/S 模式",
+      "B. 需要在管控对象上安装客户端",
+      "C. 只需要在一台普通的服务器上运行，不需要在管控对象上安装客户端",
+      "D. 不支持批量系统配置"
+    ],
+    "answer": "C",
+    "explanation": "16.2.3 节指出Ansible 只需要在一台普通的服务器上运行即可，不需要在管控 对象上安装客户端，而Puppet、SaltStack 需要安装服务端和客户端。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0041",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "操作自动化工具将IT 服务过程中大量的重复性工作由手工执行转为自动化操作， 以下属于此类工具的是（ ）。",
+    "options": [
+      "A. Jenkins",
+      "B. Nagios",
+      "C. Zabbix",
+      "D. TestRail"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节表明Jenkins 是一款持续集成自动化工具，属于操作自动化工具； Nagios、Zabbix 是监控工具，TestRail 是测试用例管理工具。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0042",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Chef 主要用于自动化部署、配置和管理（ ）。",
+    "options": [
+      "A. 云计算、物联网环境",
+      "B. 传统PC 环境",
+      "C. 大型机环境",
+      "D. 工业控制系统环境"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节明确说明Chef 主要用于自动化部署、配置和管理云计算、物联网环境。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0043",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "服务台在IT 服务支持中扮演重要角色，它是（ ）。",
+    "options": [
+      "A. 供方与需方沟通交互的重要界面",
+      "B. 仅负责组织内部沟通",
+      "C. 只处理技术问题",
+      "D. 不涉及需求处理"
+    ],
+    "answer": "A",
+    "explanation": "16.2.4 节指出服务台是IT 运维服务中供方与需方沟通交互的重要界面，负责 对需方的问题和需求进行响应和处理，以及组织内部各个团队之间的沟通协调。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0044",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceDesk Plus 的功能不包括（ ）。",
+    "options": [
+      "A. 构建IT 服务和业务流程自动化过程",
+      "B. 实现全方位的IT 可视化管理",
+      "C. 进行软件功能设计",
+      "D. 集成事件管理、问题管理等功能模块"
+    ],
+    "answer": "C",
+    "explanation": "16.2.4 节提到ServiceDesk Plus 能够在可视化界面中自由拖拽创建工作流，实 现全方位的IT 可视化管理，集成众多功能模块，但未提及进行软件功能设计。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0045",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceHot 的自助服务门户不支持以下哪种渠道提交服务请求？( )",
+    "options": [
+      "A. 邮件",
+      "B. 短信",
+      "C. Web",
+      "D. 微信"
+    ],
+    "answer": "B",
+    "explanation": "16.2.4 节表明ServiceHot 支持邮件、电话、Web、微信等多种渠道提交服务请 求，未提及短信。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0046",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "云智慧服务台基于（ ）实现0 线服务支持。",
+    "options": [
+      "A. AI 技术和全文检索引擎",
+      "B. 大数据分析",
+      "C. 云计算技术",
+      "D. 物联网技术"
+    ],
+    "answer": "A",
+    "explanation": "16.2.4 节指出云智慧服务台基于AI 技术和全文检索引擎，实现0 线服务支持。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0047",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ChatOps 将人与人、人与工具、工具与工具之间自然地衔接在一起，其以（ ）为 中心。",
+    "options": [
+      "A. 技术",
+      "B. 沟通",
+      "C. 流程",
+      "D. 数据"
+    ],
+    "answer": "B",
+    "explanation": "ChatOps 以沟通为中心，强调在聊天工具中进行高效的协作和沟通。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0048",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "知识库是信息系统建设和维护中的重要资源，以下不属于知识库工具的是（ ）。",
+    "options": [
+      "A. ITSM 内置知识库",
+      "B. Confluence",
+      "C. ServiceDesk Plus",
+      "D. .PingCode Wiki"
+    ],
+    "answer": "C",
+    "explanation": "16.2.5 节介绍了ITSM 内置知识库、Confluence、PingCode Wiki 等知识库工具， ServiceDesk Plus 是服务台工具，不属于知识库工具。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0049",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Confluence 具有强大的编辑和站点管理功能，它可以用于构建（ ）。",
+    "options": [
+      "A. 企业Wiki",
+      "B. 项目计划",
+      "C. 测试用例",
+      "D. 数据库"
+    ],
+    "answer": "A",
+    "explanation": "16.2.5 节表明Confluence 可以用于构建企业Wiki。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0050",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "PingCode Wiki 的特点不包括（ ）。",
+    "options": [
+      "A. 利用自动化技术降低管理成本",
+      "B. 支持多种历史数据一键迁移",
+      "C. 不支持Markdown 语法",
+      "D. 能与代码托管平台无缝集成"
+    ],
+    "answer": "C",
+    "explanation": "16.2.5 节提到PingCode Wiki 支持Markdown 语法，C 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0051",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "备件管理在信息系统建设中占有重要地位，备件库可分为（ ）。",
+    "options": [
+      "A. 实体备件与虚拟备件",
+      "B. 硬件备件与软件备件",
+      "C. 通用备件与专用备件",
+      "D. 常用备件与非常用备件"
+    ],
+    "answer": "A",
+    "explanation": "备件库通常分为实体备件与虚拟备件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0052",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "备品备件管理的常见功能不包括（ ）。",
+    "options": [
+      "A. 库存信息管理",
+      "B. 员工绩效管理",
+      "C. 备件维保服务生命周期管理",
+      "D. 出入库审批流程"
+    ],
+    "answer": "B",
+    "explanation": "16.2.6 节提到备品备件管理的常见功能包括库存信息管理、备件维保服务生命 周期管理、出入库审批流程等，未提及员工绩效管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0053",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ITSM 系统中的资产管理模块不能实现以下哪种功能？( )",
+    "options": [
+      "A. 资产跟踪",
+      "B. 财务管理",
+      "C. 配置管理",
+      "D. 软件许可管理"
+    ],
+    "answer": "B",
+    "explanation": "16.2.6 节表明ITSM 系统中的资产管理模块可进行资产跟踪、配置管理、软件许 可管理等，未提及财务管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0054",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "AIOps 旨在利用（ ）技术，把运维人员从一些纷繁复杂的运维事务中解放出来。",
+    "options": [
+      "A. 大数据、人工智能或机器学习",
+      "B. 云计算",
+      "C. 物联网",
+      "D. 区块链"
+    ],
+    "answer": "A",
+    "explanation": "16.2.7 节指出AIOps 旨在利用大数据、人工智能或机器学习技术，把运维人员从 一些纷繁复杂的运维事务中解放出来。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0055",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "嘉为蓝鲸智能运维解决方案基于（ ）体系。",
+    "options": [
+      "A. 腾讯蓝鲸PaaS",
+      "B. 阿里飞天",
+      "C. 华为云Stack",
+      "D. 百度智能云"
+    ],
+    "answer": "A",
+    "explanation": "16.2.7 节表明嘉为蓝鲸智能运维解决方案基于腾讯蓝鲸PaaS 体系。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0056",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "云智慧智能业务运维平台具备的能力不包括（ ）。",
+    "options": [
+      "A. 可配置、组件化的开发能力",
+      "B. 适配所有国产硬件设备",
+      "C. 提供从数据采集到数据应用的运维数据服务",
+      "D. 面向不同行业提供应用场景模板"
+    ],
+    "answer": "B",
+    "explanation": "16.2.7 节提到云智慧智能业务运维平台可适配国产的主流CPU、操作系统等，但 不是所有国产硬件设备，B 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0057",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "DevOps 目的是让软件开发人员和运维人员更好地沟通合作，通过（ ）实现软件的 快速交付和持续改进。",
+    "options": [
+      "A. 自动化的持续集成、持续部署",
+      "B. 手工测试和部署",
+      "C. 增加人员数量",
+      "D. 延长开发周期"
+    ],
+    "answer": "A",
+    "explanation": "DevOps 通过自动化的持续集成、持续部署实现软件的快速交付和持续改进。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0058",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "以下不属于DevOps 工具的是（ ）。",
+    "options": [
+      "A. Maven（自动化构建工具）",
+      "B. TestRail（测试用例管理工具）",
+      "C. Jenkins（持续集成/持续交付工具）",
+      "D. Docker（容器化工具）"
+    ],
+    "answer": "B",
+    "explanation": "16.2.7 节介绍了DevOps 使用的工具，TestRail 是测试用例管理工具，不属于 DevOps 工具分类中的一种。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0059",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "云管理工具中，虚拟化云CloudOS 工具的作用是（ ）。",
+    "options": [
+      "A. 把硬件资源从物理方式转变为逻辑方式，提升IT 投资回报率",
+      "B. 对各类公有云、私有云等进行统一管理",
+      "C. 保障云资源以及运行在云资源之上的应用安全和数据安全",
+      "D. 为基于云资料的各类专业服务提供支撑"
+    ],
+    "answer": "A",
+    "explanation": "16.2.7 节表明虚拟化云CloudOS 工具把硬件资源从物理方式转变为逻辑方式， 打破原有物理结构，提升IT 投资回报率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0060",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "CMP 云管理工具的功能不包括（ ）。",
+    "options": [
+      "A. 云资源适配器",
+      "B. 云资源管理",
+      "C. 云安全防护",
+      "D. 云运营管理"
+    ],
+    "answer": "C",
+    "explanation": "16.2.7 节提到CMP 云管理工具包含云资源适配器、云资源管理、云服务管理、 云运营管理、云门户等功能，云安全防护是CSM 云安全工具的功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0061",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "CSM 云安全工具提供的能力不包括（ ）。",
+    "options": [
+      "A. 安全监测",
+      "B. 云资源管理",
+      "C. 威胁分析",
+      "D. 安全处置"
+    ],
+    "answer": "B",
+    "explanation": "16.2.7 节指出CSM 云安全工具提供安全监测、安全审计、威胁分析、安全防护、 安全处置等能力，不包括云资源管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0062",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "随着应用程序开发市场演变，具有高集成度的项目管理工具能实现（ ）。",
+    "options": [
+      "A. 软件全生命周期管理",
+      "B. 仅软件测试管理",
+      "C. 仅项目计划管理",
+      "D. 仅需求分析管理"
+    ],
+    "answer": "A",
+    "explanation": "16.3 节提到具有高集成度的项目管理工具在同一个系统平台上实现从需求分析、 项目规划到软件交付的软件全生命周期管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0063",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "PingCode 是一款覆盖软件研发全生命周期的项目管理系统，它不涵盖以下哪个场 景？( )",
+    "options": [
+      "A. 财务管理",
+      "B. 测试管理",
+      "C. 知识管理",
+      "D. 效能度量"
+    ],
+    "answer": "A",
+    "explanation": "16.3 节表明PingCode 涵盖项目管理、测试管理、知识管理、效能度量等场景， 未提及财务管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0064",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "在项目管理方面，PingCode 完整支持的开发流程不包括（ ）。",
+    "options": [
+      "A. 传统的线性开发流程",
+      "B. 标准的Scrum 敏捷开发流程",
+      "C. 敏捷Kanban 开发流程",
+      "D. 规模化敏捷的管理"
+    ],
+    "answer": "A",
+    "explanation": "16.3 节提到PingCode 完整支持标准的Scrum 敏捷开发流程、敏捷Kanban 开 发流程，以及规模化敏捷的管理，未提及传统的线性开发流程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0065",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "禅道是一款国产开源的专业研发项目管理软件，它集多种管理于一体，其中不包括 ( ) 。",
+    "options": [
+      "A. 人力资源管理",
+      "B. 产品管理",
+      "C. 质量管理",
+      "D. 文档管理"
+    ],
+    "answer": "A",
+    "explanation": "16.3 节指出禅道集产品管理、项目管理、质量管理、文档管理、组织管理和事务 管理于一体，未提及人力资源管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0066",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "禅道的4 个核心管理框架中，属于最高层级的是（ ）。",
+    "options": [
+      "A. 项目集",
+      "B. 产品",
+      "C. 项目",
+      "D. 执行"
+    ],
+    "answer": "A",
+    "explanation": "16.3 节表明禅道的4 个核心管理框架中，项目集在整个框架中属于最高层级。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0067",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Jira 是全球知名的IT 项目管理软件，被广泛应用于多个领域，以下不属于其应用 领域的是（ ）。",
+    "options": [
+      "A. 物流管理",
+      "B. 缺陷跟踪",
+      "C. 客户服务",
+      "D. 敏捷管理"
+    ],
+    "answer": "A",
+    "explanation": "16.3 节提到Jira 被广泛应用于缺陷跟踪、客户服务、需求收集、流程审批等工 作领域，未提及物流管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0068",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "在Jira 中，事务从创建到完成所遍历的连续路径称为（ ）。",
+    "options": [
+      "A. 工作流",
+      "B. 项目流程",
+      "C. 任务链",
+      "D. 事务链"
+    ],
+    "answer": "A",
+    "explanation": "在Jira 中，这一连续路径被称为工作流。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0069",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Microsoft Project 软件设计的目的不包括（ ）。",
+    "options": [
+      "A. 协助项目经理制订计划",
+      "B. 进行软件功能开发",
+      "C. 为任务分配资源",
+      "D. 跟踪计划、管理预算"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节指出Microsoft Project 设计的目的在于协助项目经理制订计划、为任 务分配资源、跟踪计划、管理预算和分析工作量，不包括进行软件功能开发。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0070",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Microsoft Project 的主要功能中，用于跟踪项目任务的日期、分配情况和相互关 系的视图是（ ）。",
+    "options": [
+      "A. 网格视图",
+      "B. 板视图",
+      "C. 日程表视图（甘特图）",
+      "D. 路线图视图"
+    ],
+    "answer": "C",
+    "explanation": "16.3 节表明Microsoft Project 中，日程表视图（甘特图）用于跟踪项目任务 的日期、分配情况和相互关系。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0071",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "选择项目管理工具时，不需要考虑以下哪个因素？( )",
+    "options": [
+      "A. 团队成员的性别比例",
+      "B. 团队规模",
+      "C. 团队的工作方式",
+      "D. 业务需求"
+    ],
+    "answer": "A",
+    "explanation": "16.3 节提到选择项目管理工具时需要考虑团队规模、团队的工作方式、业务需求、 自定义和可扩展性、易用性、安全性、成本等因素，未提及团队成员的性别比例。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0072",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "对于小团队来说，选择项目管理工具时可能更适合（ ）。",
+    "options": [
+      "A. 复杂的项目管理工具",
+      "B. 简单的任务列表和进度跟踪工具",
+      "C. 功能全面但价格昂贵的工具",
+      "D. 只具备单一功能的工具"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节指出对于小团队，简单的任务列表和进度跟踪工具也许就足够了。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0073",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "若团队需要经常进行远程协作，选择项目管理工具时应重点考虑（ ）。",
+    "options": [
+      "A. 工具的价格",
+      "B. 工具是否支持远程协作",
+      "C. 工具的界面是否美观",
+      "D. 工具的品牌知名度"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节提到考虑团队的工作方式，例如是否需要远程协作，若团队需要经常进行 远程协作，应重点考虑工具是否支持远程协作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0074",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "在选择项目管理工具时，安全性对于以下哪个行业是必要的？( )",
+    "options": [
+      "A. 教育行业",
+      "B. 医疗保健和金融行业",
+      "C. 制造业",
+      "D. 传媒行业"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节指出对于一些行业（例如医疗保健和金融），安全性是选择项目管理工具 时必要考虑的因素。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0075",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "关于开源项目管理工具，以下说法正确的是（ ）。",
+    "options": [
+      "A. 开源项目管理工具都不需要成本",
+      "B. 开源项目管理工具功能一定比商业软件弱",
+      "C. 开源项目管理工具可能需要进行二次开发",
+      "D. 开源项目管理工具不适合大型团队"
+    ],
+    "answer": "C",
+    "explanation": "16.3 节提到免费的开源工具也许需要进行二次开发，C 选项正确；开源项目管理 工具可能需要二次开发成本，A 错误；开源工具功能不一定比商业软件弱，B 错误；大 型团队也可根据需求选择合适的开源工具，D 错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0076",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "以下哪种情况更适合选择自定义能力强、可扩展的项目管理工具？( )",
+    "options": [
+      "A. 团队规模较小且业务稳定",
+      "B. 团队规模较大且业务有增长和扩展需求",
+      "C. 团队只进行短期项目",
+      "D. 团队预算有限"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节提到考虑团队的未来增长和扩展性，可选择自定义能力强、可扩展的项目 管理工具，团队规模较大且业务有增长和扩展需求时更适合，B 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0077",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "项目管理工具应易于使用，对于非技术用户来说，软件的（ ）应该直观明了。",
+    "options": [
+      "A. 代码结构",
+      "B. 用户界面",
+      "C. 数据库设计",
+      "D. 算法逻辑"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节指出项目管理工具应该易于使用，软件的用户界面应该直观明了，易于导 航和访问关键功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0078",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "在信息系统建设和运维服务过程中，研发管理工具主要聚焦在（ ）。",
+    "options": [
+      "A. 研发或技术部门对其工作进行管理所借助的工具或平台",
+      "B. 整个企业的全面管理工具",
+      "C. 市场推广和销售管理工具",
+      "D. 财务管理工具"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节表明研发管理的工具部分聚焦在研发或技术部门对其工作进行管理所 借助的工具或平台。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0079",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件配置管理工具中，用于记录项目和文件修改轨迹，跟踪修改信息的功能是 ( ) 。",
+    "options": [
+      "A. 项目管理",
+      "B. 版本管理和基线控制",
+      "C. 增强的版本控制",
+      "D. 流程控制和变更管理"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节提到版本管理和基线控制功能是配置管理工具记录项目和文件的修改 轨迹，跟踪修改信息。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0080",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "自动化软件测试工具中，UFT 支持使用（ ）编写脚本实现复杂的测试逻辑。",
+    "options": [
+      "A. Python",
+      "B. Java",
+      "C. VBScript",
+      "D. JavaScript"
+    ],
+    "answer": "C",
+    "explanation": "16.1.2 节表明UFT 支持使用VBScript 编写脚本实现复杂的测试逻辑。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0081",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "LoadRunner 的Analysis 组件主要用于（ ）。",
+    "options": [
+      "A. 捕获最终用户业务流程",
+      "B. 组织、驱动、管理和监控负载测试",
+      "C. 对测试结果数据进行分析",
+      "D. 模拟客户端发出请求"
+    ],
+    "answer": "C",
+    "explanation": "16.1.2 节指出LoadRunner 的Analysis 组件用于对测试结果数据进行分析。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0082",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "测试管理工具TestRail 中，主要的组织单位是（ ）。",
+    "options": [
+      "A. 项目",
+      "B. 测试用例",
+      "C. 测试套件",
+      "D. 里程碑"
+    ],
+    "answer": "A",
+    "explanation": "16.1.2 节表明TestRail 中项目是主要的组织单位。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0083",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Bugzilla 允许管理员进行自定义操作，以下不属于其自定义内容的是（ ）。",
+    "options": [
+      "A. 缺陷的字段",
+      "B. 软件的功能模块",
+      "C. 工作流",
+      "D. 缺陷状态流"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节提到Bugzilla 允许管理员自定义缺陷的字段和工作流、缺陷状态流 等，未提及软件的功能模块。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0084",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发测试环境部署时，若生产环境使用的是Linux 操作系统，研发测试环境应（ ）。",
+    "options": [
+      "A. 使用Windows 操作系统",
+      "B. 使用Linux 操作系统且版本和配置与生产环境相同",
+      "C. 使用任意版本的Linux 操作系统",
+      "D. 不安装操作系统"
+    ],
+    "answer": "B",
+    "explanation": "16.1.3 节指出研发测试环境需要安装并配置与生产环境相似的操作系统，若生 产环境使用Linux 操作系统，研发测试环境也应使用Linux 操作系统，并确保与生产 环境相同的操作系统版本和配置。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0085",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "监控工具Zabbix 可运行在多种主流平台上，以下不属于其支持平台的是（ ）。",
+    "options": [
+      "A. Android",
+      "B. Linux",
+      "C. Solaris",
+      "D. Mac OSX"
+    ],
+    "answer": "A",
+    "explanation": "Zabbix 不支持Android 平台。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0086",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Nagios Core 的缺点不包括（ ）。",
+    "options": [
+      "A. 不支持Web 方式管理和配置",
+      "B. 基于文件的配置方式扩展性和易读性较差",
+      "C. 管理耗时，不易维护",
+      "D. 不支持监控服务的可用性"
+    ],
+    "answer": "D",
+    "explanation": "16.2.1 节提到Nagios Core 侧重于监控服务的可用性，其缺点是不支持Web 方 式管理和配置，基于文件的配置方式扩展性和易读性较差，管理耗时，不易维护，D 选 项",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0087",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Prometheus 采集的所有指标以（ ）的形式进行存储。",
+    "options": [
+      "A. 关系型数据库",
+      "B. 时间序列",
+      "C. 文档型数据库",
+      "D. 键值对"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节提到Prometheus 采集的所有指标都以时间序列的形式进行存储。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0088",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "统一运维监控体系中，负责对采集的数据进行异常检测的模块是（ ）。",
+    "options": [
+      "A. 数据采集模块",
+      "B. 数据检测模块",
+      "C. 告警管理模块",
+      "D. 故障管理模块"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节表明统一运维监控体系中数据检测模块支持多种异常检测算法，负责 对采集的数据进行异常检测。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0089",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "基于开源监控软件自主开发运维监控平台的优势是（ ）。",
+    "options": [
+      "A. 开发难度低",
+      "B. 能结合不同监控软件优势，满足组织自身业务需要",
+      "C. 不需要进行二次开发",
+      "D. 成本高但功能强大"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节提到基于开源监控软件自主开发是在传统开源监控工具基础上，结合 不同监控软件的优势，根据组织自身业务需要进行集成封装和二次开发，B 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0090",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ITSM 系统的核心流程中，负责处理服务请求的是（ ）。",
+    "options": [
+      "A. 事件管理",
+      "B. 服务请求管理",
+      "C. 问题管理",
+      "D. 变更管理"
+    ],
+    "answer": "B",
+    "explanation": "16.2.2 节指出核心的ITSM 流程中服务请求管理负责处理服务请求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0091",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "JiraService Management 中可利用（ ）技术为客户提供自助服务和虚拟支持人员。",
+    "options": [
+      "A. 人工智能",
+      "B. 大数据",
+      "C. 云计算",
+      "D. 物联网"
+    ],
+    "answer": "A",
+    "explanation": "16.2.2 节表明JiraService Management 可利用人工智能技术为客户提供自助 服务和虚拟支持人员。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0092",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceHot ITSM 软件平台已完成国产化适配，可在以下哪种国产数据库中稳定运 行？( )",
+    "options": [
+      "A. MySQL",
+      "B. Oracle",
+      "C. 达梦",
+      "D. SQL Server"
+    ],
+    "answer": "C",
+    "explanation": "16.2.2 节提到ServiceHot ITSM 软件平台可在国内主流芯片、操作系统、数据 库（如高斯、达梦、人大金仓等）等国产化计算机环境中稳定运行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0093",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Puppet 主要用于管理和部署各种应用程序和服务，它不能实现以下哪种操作？ ( )",
+    "options": [
+      "A. 安装硬件设备",
+      "B. 安装软件",
+      "C. 配置应用程序",
+      "D. 管理服务器角色和功能"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节表明Puppet 可以安装、更新和配置操作系统、安装软件、配置应用程 序、管理服务器角色和功能等，但不能安装硬件设备。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0094",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "SaltStack 使用（ ）方式确认身份，传输采用AES 加密。",
+    "options": [
+      "A. RAS Key",
+      "B. SSH Key",
+      "C. SSL Key",
+      "D. PKI Key"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节提到SaltStack 使用RAS Key 方式确认身份，传输采用AES 加密。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0095",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Ansible 基于（ ）协议进行远程管理。",
+    "options": [
+      "A. FTP",
+      "B. SS",
+      "C. C.HTTP",
+      "D. TCP/IP"
+    ],
+    "answer": "B",
+    "explanation": "16.2.3 节指出Ansible 基于SSH 协议进行远程管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0096",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Jenkins 是一款持续集成自动化工具，它基于（ ）开源。",
+    "options": [
+      "A. Java",
+      "B. Python",
+      "C. C++",
+      "D. Ruby"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节表明Jenkins 基于Java 开源。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0097",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Chef 提供的动态脚本语言是由（ ）编写的。",
+    "options": [
+      "A. Java",
+      "B. Python",
+      "C. Ruby",
+      "D. JavaScript"
+    ],
+    "answer": "C",
+    "explanation": "16.2.3 节提到Chef 提供了一个由Ruby 编写的动态脚本语言。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0098",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "在IT 服务支持中，服务台作为供方与需方之间的单一连接点，应确保（ ）。",
+    "options": [
+      "A. 技术人员随时待命",
+      "B. 沟通渠道的畅通",
+      "C. 所有问题都能当场解决",
+      "D. 只处理需方的技术问题"
+    ],
+    "answer": "B",
+    "explanation": "16.2.4 节指出服务台作为供方与需方之间的单一连接点，须确保沟通渠道的畅 通。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0099",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceDesk Plus 能够集成多种应用软件实现全方位的IT 可视化管理，以下不属 于其集成范围的是（ ）。",
+    "options": [
+      "A. 网络管理软件",
+      "B. 人力资源管理软件",
+      "C. 桌面管理软件",
+      "D. AD 管理软件"
+    ],
+    "answer": "B",
+    "explanation": "16.2.4 节提到ServiceDesk Plus 支持与网络管理、应用管理、桌面管理和AD 管理等应用软件集成，未提及人力资源管理软件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0100",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceHot 的自助服务门户中，不包含以下哪个功能？( )",
+    "options": [
+      "A. 在线游戏功能",
+      "B. 服务台功能",
+      "C. 公告消息功能",
+      "D. 报表统计功能"
+    ],
+    "answer": "A",
+    "explanation": "16.2.4 节表明ServiceHot 的自助服务门户包括服务台、公告消息、自助服务、 排班表、报表统计、系统配置等功能，不包含在线游戏功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0101",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "云智慧服务台融合了多种功能，以下不属于其融合功能的是（ ）。",
+    "options": [
+      "A. 即时通信",
+      "B. 电子邮件管理",
+      "C. 呼叫中心",
+      "D. 自助提单"
+    ],
+    "answer": "B",
+    "explanation": "16.2.4 节提到云智慧服务台融合即时通信、呼叫中心和自助提单，未提及电子邮 件管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0102",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ChatOps 通过（ ）将成员和各项辅助工具连接在一起，以对话的方式完成工作。",
+    "options": [
+      "A. ChatBot（聊天机器人）",
+      "B. 即时通讯软件",
+      "C. 项目管理平台",
+      "D. 邮件系统"
+    ],
+    "answer": "A",
+    "explanation": "16.2.4 节指出ChatOps 通过ChatBot 将成员和各项辅助工具连接在一起，以对 话的方式完成工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0103",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ITSM 内置知识库可与ITSM 中的多个流程紧密耦合，以下不属于这些流程的是 （ ）。",
+    "options": [
+      "A. 采购管理流程",
+      "B. 服务请求流程",
+      "C. 事件流程",
+      "D. 变更管理流程"
+    ],
+    "answer": "A",
+    "explanation": "16.2.5 节提到ITSM 内置知识库可与ITSM 中的服务请求流程、需求管理流程、 事件流程、故障流程、问题管理流程、变更管理流程、发布管理流程、巡检管理流程等 紧密耦合，未提及采购管理流程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0104",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Confluence 借助丰富的插件生态系统可进行定制，以下不属于其插件应用场景的 是( ) 。",
+    "options": [
+      "A. 主题设计",
+      "B. 硬件设备管理",
+      "C. 图表绘制",
+      "D. 工作流管理"
+    ],
+    "answer": "B",
+    "explanation": "16.2.5 节提到Confluence 借助数百种应用（包括主题设计、图表绘制和工作流 管理解决方案）可进行定制，未提及硬件设备管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0105",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "PingCode Wiki 支持多种历史数据一键迁移，其中不包括（ ）。",
+    "options": [
+      "A. Confluence 数据",
+      "B. HTML 数据",
+      "C. XML 数据",
+      "D. Markdown 数据"
+    ],
+    "answer": "C",
+    "explanation": "16.2.5 节提到PingCode Wiki 支持Confluence、HTML、Markdown 等多类型历 史数据一键迁移，未提及XML 数据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0106",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "备件管理中的备件维保服务生命周期管理不包括以下哪个流程？( )",
+    "options": [
+      "A. IT 备件交付过程中的技术服务流程管理",
+      "B. IT 备件销售流程管理",
+      "C. IT 备件维修流程管理",
+      "D. IT 备件报废流程管理"
+    ],
+    "answer": "B",
+    "explanation": "16.2.6 节提到备件维保服务生命周期管理包括IT 备件交付过程中提供技术服 务流程管理、IT 备件维保服务流程管理、IT 备件维修流程管理、IT 备件退换货流程 管理、IT 备件报废流程管理等，未提及IT 备件销售流程管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0107",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ITSM 系统中的资产管理模块与多个IT 管理流程衔接，以下不属于这些流程的是 ( ) 。",
+    "options": [
+      "A. 市场推广流程",
+      "B. 事件管理流程",
+      "C. 问题管理流程",
+      "D. 变更管理流程"
+    ],
+    "answer": "A",
+    "explanation": "市场推广流程不属于ITSM 系统中资产管理模块衔接的流程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0108",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "嘉为蓝鲸智能运维解决方案通过（ ）构建运维人员可用的智能场景。",
+    "options": [
+      "A. 数据治理和数据挖掘平台，以场景式向导方式",
+      "B. 直接使用现有算法，无需调参",
+      "C. 购买第三方智能场景模块",
+      "D. 人工手动配置智能场景参数"
+    ],
+    "answer": "A",
+    "explanation": "16.2.7 节指出嘉为蓝鲸智能运维解决方案基于腾讯蓝鲸PaaS 体系，通过数据 治理和数据挖掘平台，以场景式向导方式，低门槛构建运维人员可用的智能场景。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0109",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "DevOps 使用的工具中，用于自动化构建应用程序的是（ ）。",
+    "options": [
+      "A. 版本控制工具",
+      "B. 自动化构建工具",
+      "C. 持续集成/持续交付工具",
+      "D. 配置管理工具"
+    ],
+    "answer": "B",
+    "explanation": "16.2.7 节提到自动化构建工具用于自动构建应用程序。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0110",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "信息系统建设和运维所需资源中，贯穿信息系统生存周期的是（ ）。",
+    "options": [
+      "A. 软件资源",
+      "B. 项目管理工具",
+      "C. 人力",
+      "D. 数据"
+    ],
+    "answer": "B",
+    "explanation": "16 章指出，项目管理工具贯穿信息系统生存周期。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0111",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发与测试环境集成机制的作用是（ ）。",
+    "options": [
+      "A. 支持软件开发相关过程",
+      "B. 为工具集成和软件开发等提供统一支持",
+      "C. 支持软件测试过程",
+      "D. 支持软件维护过程"
+    ],
+    "answer": "B",
+    "explanation": "16.1 节提到，研发与测试环境的集成机制为工具集成和软件的开发、测试、维护 及管理提供统一的支持。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0112",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "以下关于孤立的单个软件开发工具的描述，正确的是（ ）。",
+    "options": [
+      "A. 有统一用户界面",
+      "B. 数据存储格式相同",
+      "C. 用于支持软件开发过程中的多项活动",
+      "D. 彼此独立"
+    ],
+    "answer": "D",
+    "explanation": "16.1.1 节表明，孤立的单个软件开发工具彼此独立，有不同的用户界面和数据存 储格式，用于支持软件开发过程中的某一项特定活动。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0113",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Visual Studio 支持多种操作系统平台开发，其中不包括（ ）。",
+    "options": [
+      "A. Linux",
+      "B. Windows",
+      "C. Androi",
+      "D. D.iOS"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节提到Visual Studio 支持Windows、Android 和iOS 等操作系统平 台开发，但未提及Linux。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0114",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Eclipse 的插件化特点意味着（ ）。",
+    "options": [
+      "A. 用户不能开发自己的插件",
+      "B. 其功能主要通过插件实现",
+      "C. 所有功能都集成在核心中",
+      "D. 插件之间不能相互协作"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节指出，Eclipse 的功能主要通过插件来实现，用户可以根据需要安装不 同插件，也可开发自己的插件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0115",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "PyCharm 支持的Web 开发技术中，不包含（ ）。",
+    "options": [
+      "A. Vue.js",
+      "B. HTML",
+      "C. CSS",
+      "D. Django"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节提到PyCharm 支持HTML、CSS、JavaScript、Django、Flask 等Web 开发技术，未提及Vue.js。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0116",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "代码管理工具在大规模软件多人协同开发中的关键作用是（ ）。",
+    "options": [
+      "A. 管理开发人员绩效",
+      "B. 管理代码、协同开发与版本控制",
+      "C. 管理项目进度",
+      "D. 管理项目文档"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节表明，代码管理工具在大规模软件多人协同开发环境下，可管理代码、 协同开发以及进行版本控制等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0117",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "集中式版本控制工具中，开发者获取和提交代码的对象是（ ）。",
+    "options": [
+      "A. 本地代码仓库",
+      "B. 其他开发者的终端",
+      "C. 中央服务器",
+      "D. 分布式服务器"
+    ],
+    "answer": "C",
+    "explanation": "16.1.1 节指出，集中式版本控制工具将文件集中存储于服务器，开发者从中央服 务器获取和提交代码。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0118",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "SVN 使用版本号标识代码状态，每次代码变更时（ ）。",
+    "options": [
+      "A. 版本号不变",
+      "B. 生成新的版本号",
+      "C. 版本号随机变化",
+      "D. 版本号减少"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节提到，SVN 每当代码发生变更时，会生成一个新的版本号。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0119",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "分布式版本控制工具的本地代码仓库的作用是（ ）。",
+    "options": [
+      "A. 仅用于存储临时代码",
+      "B. 开发者拥有完整代码库，可用于恢复和本地操作",
+      "C. 与远程代码仓库完全相同",
+      "D. 只用于与远程代码仓库同步"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节表明，分布式版本控制工具的每个开发者都拥有一个完整的代码库，可 用于恢复和在本地进行查看日志、提交代码等操作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0120",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Git 最初开发是为了协助管理（ ）。",
+    "options": [
+      "A. Windows 内核开发",
+      "B. Linux 内核开发",
+      "C. Android 系统开发",
+      "D. iOS 系统开发"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节明确，Git 是为了帮助管理Linux 内核开发而开发的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0121",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件配置管理工具的功能模块中，备份管理属于（ ）。",
+    "options": [
+      "A. 资源维护功能",
+      "B. 项目管理功能",
+      "C. 版本管理功能",
+      "D. 流程控制功能"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节指出，备份管理属于软件配置管理工具资源维护功能的一部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0122",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件配置管理工具在项目管理中的首要工作是（ ）。",
+    "options": [
+      "A. 建立配置管理计划、创建配置库",
+      "B. 进行需求分析",
+      "C. 设计软件架构",
+      "D. 编写测试用例"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节提到，软件配置管理工作贯穿整个项目生命周期，项目启动后建立配置 管理计划、创建配置库是首要工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0123",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "配置管理工具记录项目和文件修改轨迹，这属于（ ）功能。",
+    "options": [
+      "A. 版本管理和基线控制",
+      "B. 流程控制和变更管理",
+      "C. 资源维护",
+      "D. 过程自动化"
+    ],
+    "answer": "A",
+    "explanation": "这属于版本管理和基线控制功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0124",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "快照在配置管理工具中的作用是（ ）。",
+    "options": [
+      "A. 记录文件的详细修改内容",
+      "B. 恢复项目的早期版本，支持批量操作",
+      "C. 控制软件的开发流程",
+      "D. 管理项目的资源分配"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节指出，快照使恢复项目的早期版本变得方便，还支持批量签入、批量签 出和批量加标签等操作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0125",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "配置管理工具通过（ ）实现过程自动化。",
+    "options": [
+      "A. 手动操作触发",
+      "B. 事件触发机制",
+      "C. 定时任务",
+      "D. 人工干预"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节提到，配置管理工具使用事件触发机制来实现过程自动化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0126",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件测试管理工具与自动化软件测试工具的区别在于（ ）。",
+    "options": [
+      "A. 测试管理工具用于管理测试过程，自动化软件测试工具用于代替人工输入",
+      "B. 测试管理工具功能更强大",
+      "C. 自动化软件测试工具不能提高测试效率",
+      "D. 测试管理工具不能与其他工具集成"
+    ],
+    "answer": "A",
+    "explanation": "16.1.2 节表明，测试管理工具用于对测试过程进行管理，自动化软件测试工具 是用软件来代替一些人工输入，提高测试用例的复用率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0127",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件自动化测试过程中，实施测试之后的步骤是（ ）。",
+    "options": [
+      "A. 评估测试",
+      "B. 设计测试",
+      "C. 执行测试",
+      "D. 制订测试计划"
+    ],
+    "answer": "A",
+    "explanation": "16.1.2 节软件自动化测试工具流程图显示，实施测试之后是评估测试。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0128",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "UFT 支持的测试类型中，通过录制和回放用户操作来实现的是（ ）。",
+    "options": [
+      "A. API 测试",
+      "B. 图形用户界面测试",
+      "C. 数据驱动测试",
+      "D. 关键字驱动测试"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节提到，UFT 的图形用户界面测试通过录制和回放用户在应用程序中的 操作，自动化执行GUI 测试。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0129",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "LoadRunner 模拟真实用户行为的目的是（ ）。",
+    "options": [
+      "A. 测试软件的兼容性",
+      "B. 重现生产环境中的业务压力，查找性能问题",
+      "C. 检查软件的功能完整性",
+      "D. 测试软件的安全性"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节指出，LoadRunner 通过模拟真实用户行为，重现生产环境中可能出现 的业务压力，确认和查找软件的性能问题。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0130",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "LoadRunner 的Controller 组件主要负责（ ）。",
+    "options": [
+      "A. 捕获最终用户业务流程",
+      "B. 对测试结果数据进行分析",
+      "C. 组织、驱动、管理和监控负载测试",
+      "D. 创建自动性能测试脚本"
+    ],
+    "answer": "C",
+    "explanation": "16.1.2 节表明，Controller 组件负责组织、驱动、管理和监控负载测试。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0131",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "测试管理工具的核心组成部分是（ ）。",
+    "options": [
+      "A. 测试计划管理和测试用例管理",
+      "B. 测试用例库和缺陷库",
+      "C. 测试任务执行和缺陷记录跟踪",
+      "D. 报告和分析"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节提到，测试管理工具的核心是测试用例库和缺陷库。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0132",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "TestRail 中，测试用例的组织方式基于（ ）。",
+    "options": [
+      "A. 项目模块或区域",
+      "B. 测试人员分工",
+      "C. 测试时间顺序",
+      "D. 测试难度"
+    ],
+    "answer": "A",
+    "explanation": "16.1.2 节指出，TestRail 的测试用例基于产品的特定项目模块或区域，被组织 成Section 和Subsection 的集合。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0133",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Quality Center 中，用于根据测试需求创建测试计划、设计测试用例的部分是 ( ) 。",
+    "options": [
+      "A. 明确需求",
+      "B. 测试计划",
+      "C. 执行测试",
+      "D. 跟踪缺陷"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节表明，Quality Center 的测试计划部分用于根据测试需求创建测试计 划、分析测试要点、设计测试用例。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0134",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Bugzilla 中，允许管理员进行的操作不包括（ ）。",
+    "options": [
+      "A. 自定义缺陷的字段和工作流",
+      "B. 直接修改测试用例",
+      "C. 用户管理和权限设置",
+      "D. 缺陷统计和报告"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节提到，Bugzilla 允许管理员进行自定义缺陷的字段和工作流、用户管 理和权限设置、缺陷统计和报告等操作，但未提及直接修改测试用例。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0135",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发与测试环境搭建原则中，可重现性的目的是（ ）。",
+    "options": [
+      "A. 方便研发测试人员复现问题并调试",
+      "B. 减少环境带来的问题",
+      "C. 提高研发效率",
+      "D. 避免研发测试人员之间的环境干扰"
+    ],
+    "answer": "A",
+    "explanation": "16.1.3 节指出，研发测试环境可重现性是为了方便研发测试人员复现问题并调 试。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0136",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发测试环境部署时，选择硬件设备需要考虑（ ）。",
+    "options": [
+      "A. 硬件设备的品牌",
+      "B. 研发测试所需的资源及相关硬件设备",
+      "C. 硬件设备的外观",
+      "D. 硬件设备的价格"
+    ],
+    "answer": "B",
+    "explanation": "16.1.3 节提到，研发测试环境部署选择硬件设备时，需要考虑研发测试所需的内 存、处理器、硬盘等资源，以及相关的网络架构、存储、备份等硬件设备。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0137",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发测试环境维护中，备份数据的频率通常建议是（ ）。",
+    "options": [
+      "A. 每周一次",
+      "B. 每月一次",
+      "C. 每天一次",
+      "D. 根据项目进度确定"
+    ],
+    "answer": "C",
+    "explanation": "16.1.3 节表明，研发测试环境中的数据备份频率通常建议每天进行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0138",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "监控工具中，IT 基础设施监控不包括对（ ）的监控。",
+    "options": [
+      "A. 业务流程",
+      "B. 主机",
+      "C. 网络",
+      "D. 存储"
+    ],
+    "answer": "A",
+    "explanation": "16.2.1 节指出，IT 基础设施监控包括主机、网络、存储、应用、机房动力环境 监控等，不包括业务流程监控。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0139",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Zabbix 的优势不包括（ ）。",
+    "options": [
+      "A. 良好的扩展性",
+      "B. 仅适用于小型组织",
+      "C. 灵活的通知机制",
+      "D. 可运行在多种主流平台"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节提到，Zabbix 配置得当的话，不管对于小型组织还是大企业都能发挥 作用，并非仅适用于小型组织。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0140",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Nagios Core 的付费扩展版本是（ ）。",
+    "options": [
+      "A. Nagios Pro",
+      "B. Nagios XI",
+      "C. Nagios Plus",
+      "D. Nagios Max"
+    ],
+    "answer": "B",
+    "explanation": "Nagios XI 是Nagios Core 的付费扩展版本。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0141",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Prometheus 采用拉（Pull）模型架构的优点是（ ）。",
+    "options": [
+      "A. 客户端不需要负责在服务端注册",
+      "B. 更适用于传统单体架构",
+      "C. 数据推送更及时",
+      "D. 配置更简单"
+    ],
+    "answer": "A",
+    "explanation": "16.2.1 节指出，Prometheus 采用拉（Pull）模型架构，服务端可以基于某种服 务发现机制自动发现监控对象，客户端不需要负责在服务端上进行注册及监控数据推 送。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0142",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "统一运维监控平台的建设方式中，定制商业化运维监控平台的优势是（ ）。",
+    "options": [
+      "A. 开发成本低",
+      "B. 能满足组织的个性化需求",
+      "C. 不需要进行二次开发",
+      "D. 技术难度低"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节提到，定制商业化运维监控平台选择成熟的运维服务工具供应商提供 的一体化监控平台产品，并根据组织的需求进行裁剪和定制，能满足组织的个性化需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0143",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "过程管理工具依据（ ）对运行维护服务交付过程进行管理。",
+    "options": [
+      "A. 项目预算",
+      "B. 合同约定的服务级别协议（SL",
+      "C. 行业标准",
+      "D. 企业内部规范"
+    ],
+    "answer": "B",
+    "explanation": "16.2.2 节表明，过程管理工具根据合同约定的服务级别协议（SLA），对运行维 护服务的交付过程进行管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0144",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ITSM 系统的核心流程中，用于处理服务请求、事件、问题和变更分类的是（ ）。",
+    "options": [
+      "A. 服务请求管理",
+      "B. 事件管理",
+      "C. 问题管理",
+      "D. 变更管理"
+    ],
+    "answer": "A",
+    "explanation": "16.2.2 节指出，ITSM 系统核心流程中的服务请求管理用于处理服务请求， JiraService Management 可自动将服务请求、事件、问题和变更进行分类。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0145",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "JiraService Management 支持运维团队创建服务台的方式是（ ）。",
+    "options": [
+      "A. 基于模板创建",
+      "B. 只能自定义创建",
+      "C. 由系统自动生成",
+      "D. 从其他系统导入"
+    ],
+    "answer": "A",
+    "explanation": "16.2.2 节提到，JiraService Management 支持运维团队基于模板创建服务台。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0146",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceHot ITSM 的特点是（ ）。",
+    "options": [
+      "A. 功能模块不可扩展",
+      "B. 需要大量二次开发",
+      "C. 提供可视化管理能力",
+      "D. 不支持国产化环境"
+    ],
+    "answer": "C",
+    "explanation": "16.2.2 节表明，ServiceHot ITSM 提供的服务流程管理套件具有可视化管理能力， 功能模块自由扩展，无需繁重的二次开发，且已完成国产化适配。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0147",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "作业调度/批处理工具的主要作用是（ ）。",
+    "options": [
+      "A. 实现常规化、标准化作业的统一管理",
+      "B. 进行复杂算法的运算",
+      "C. 开发新的应用程序",
+      "D. 管理项目文档"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节指出，作业调度/批处理工具用于实现常规化、标准化作业的统一管理， 降低作业执行错误风险等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0148",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Puppet 采用C/S 结构，客户端的操作是（ ）。",
+    "options": [
+      "A. 主动向服务器推送配置信息",
+      "B. 周期地连接服务器，下载最新配置文件",
+      "C. 直接修改服务器上的配置文件",
+      "D. 无需与服务器交互"
+    ],
+    "answer": "B",
+    "explanation": "16.2.3 节提到，Puppet 的客户端周期地连接一次服务器，下载最新的配置文件， 并严格按照配置文件来配置客户端。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0149",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "SaltStack 加入MQ 消息同步机制的作用是（ ）。",
+    "options": [
+      "A. 提高安全性能",
+      "B. 使执行命令和执行结果高效返回",
+      "C. 便于管理多个服务器",
+      "D. 降低部署难度"
+    ],
+    "answer": "B",
+    "explanation": "16.2.3 节表明，SaltStack 加入MQ 消息同步机制，可以使执行命令和执行结果 高效返回。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0150",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Ansible 不需要在管控对象上安装客户端的原因是（ ）。",
+    "options": [
+      "A. 它基于SSH 协议进行远程管理",
+      "B. 它的功能不需要客户端支持",
+      "C. 它是一款轻量级工具",
+      "D. 它采用分布式架构"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节指出，Ansible 基于SSH 协议进行远程管理，Linux 服务器大部分都 离不开SSH，所以不需要为配置添加额外的支持。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0151",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "操作自动化工具中，Jenkins 适用于（ ）。",
+    "options": [
+      "A. 自动构建、测试和部署软件项目",
+      "B. 管理数据库",
+      "C. 进行数据分析",
+      "D. 设计软件界面"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节提到，Jenkins 是一款持续集成自动化工具，适用于自动构建、测试和 部署软件项目。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0152",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Chef 的动态脚本语言可以实现（ ）。",
+    "options": [
+      "A. 自动化执行各种系统和应用程序的配置和管理",
+      "B. 进行复杂的图形处理",
+      "C. 优化网络性能",
+      "D. 开发移动应用"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节表明，Chef 提供的动态脚本语言可以定义全面的IT 任务流程，从而 自动化执行各种系统和应用程序的配置和管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0153",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "服务台在IT 服务支持中的主要职责是（ ）。",
+    "options": [
+      "A. 进行技术研发",
+      "B. 响应和处理需方的问题和需求，协调内部团队沟通",
+      "C. 管理项目进度",
+      "D. 制定公司战略"
+    ],
+    "answer": "B",
+    "explanation": "16.2.4 节指出，服务台负责对需方的问题和需求进行响应和处理，以及组织内部 各个团队之间的沟通协调。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0154",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceDesk Plus 实现全方位IT 可视化管理是通过（ ）。",
+    "options": [
+      "A. 独立运行各个功能模块",
+      "B. 与多种应用软件集成",
+      "C. 提供简单的操作界面",
+      "D. 大量的数据统计分析"
+    ],
+    "answer": "B",
+    "explanation": "16.2.4 节提到ServiceDesk Plus 支持与网络管理、应用管理、桌面管理和AD 管理等应用软件集成，实现全方位的IT 可视化管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0155",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceHot 的自助服务门户支持多种渠道提交服务请求，其中不包括（ ）。",
+    "options": [
+      "A. 短信",
+      "B. 电话",
+      "C. Web",
+      "D. 微信"
+    ],
+    "answer": "A",
+    "explanation": "16.2.4 节表明ServiceHot 支持邮件、电话、Web、微信等多种渠道提交服务请 求，未提及短信。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0156",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "云智慧服务台融合多种功能，提升服务效率和质量，其融合的功能不包括（ ）。",
+    "options": [
+      "A. 视频会议",
+      "B. 即时通信",
+      "C. 呼叫中心",
+      "D. 自助提单"
+    ],
+    "answer": "A",
+    "explanation": "16.2.4 节提到云智慧服务台融合即时通信、呼叫中心和自助提单，未提及视频会 议。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0157",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ChatOps 的主要作用是（ ）。",
+    "options": [
+      "A. 提升沟通效率，消除信息孤岛",
+      "B. 提高软件开发的代码质量",
+      "C. 优化网络配置",
+      "D. 增强硬件设备的性能"
+    ],
+    "answer": "A",
+    "explanation": "16.2.4 节指出ChatOps 将人与人、人与工具、工具与工具之间自然地衔接在一起， 消除信息孤岛问题，提升沟通效率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0158",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ITSM 内置知识库与ITSM 流程紧密耦合的目的是（ ）。",
+    "options": [
+      "A. 方便知识的高效共享和利用",
+      "B. 增加知识库的容量",
+      "C. 简化ITSM 流程",
+      "D. 减少系统维护成本"
+    ],
+    "answer": "A",
+    "explanation": "16.2.5 节提到主流的ITSM 解决方案中，内置知识库与ITSM 流程紧密耦合， 有助于知识的高效共享和利用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0159",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Confluence 的丰富插件生态系统可以帮助团队（ ）。",
+    "options": [
+      "A. 进行项目成本核算",
+      "B. 依据需求对其进行定制",
+      "C. 管理硬件设备资产",
+      "D. 优化数据库性能"
+    ],
+    "answer": "B",
+    "explanation": "Confluence 的插件生态系统可以帮助团队依据需求对其进行定制。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0160",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "PingCode Wiki 支持多种历史数据一键迁移，其中包括（ ）。",
+    "options": [
+      "A. PDF 数据",
+      "B. Confluence 数据",
+      "C. Excel 数据",
+      "D. PowerPoint 数据"
+    ],
+    "answer": "B",
+    "explanation": "16.2.5 节提到PingCode Wiki 支持Confluence、HTML、Markdown 等多类型历 史数据一键迁移，未提及PDF、Excel、PowerPoint 数据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0161",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "备件管理在信息系统建设中的重要性体现在（ ）。",
+    "options": [
+      "A. 提高系统的安全性",
+      "B. 是有效运维的基础",
+      "C. 提升系统的性能",
+      "D. 增加系统的功能"
+    ],
+    "answer": "B",
+    "explanation": "16.2.6 节指出备件管理在信息系统建设中是有效运维的基础。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0162",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "备品备件管理的功能中，库存信息管理不包括（ ）。",
+    "options": [
+      "A. IT 备件库存数量",
+      "B. IT 备件的市场价格波动信息",
+      "C. IT 备件资产信息",
+      "D. IT 备件供应商信息"
+    ],
+    "answer": "B",
+    "explanation": "库存信息管理不包括IT 备件的市场价格波动信息。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0163",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ITSM 系统中的资产管理模块与其他IT 管理流程衔接，不包括（ ）。",
+    "options": [
+      "A. 研发管理流程",
+      "B. 服务请求流程",
+      "C. 事件管理流程",
+      "D. 变更管理流程"
+    ],
+    "answer": "A",
+    "explanation": "16.2.6 节表明ITSM 系统中的资产管理模块可与服务请求、事件管理、问题管理、 变更管理、巡检管理等IT 管理流程衔接，未提及研发管理流程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0164",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "AIOps 旨在利用技术把运维人员从复杂事务中解放出来，这些技术不包括（ ）。",
+    "options": [
+      "A. 区块链",
+      "B. 大数据",
+      "C. 人工智能",
+      "D. 机器学习"
+    ],
+    "answer": "A",
+    "explanation": "16.2.7 节指出AIOps 旨在利用大数据、人工智能或机器学习技术，未提及区块链。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0165",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "嘉为蓝鲸智能运维解决方案基于（ ）构建智能场景。",
+    "options": [
+      "A. 数据治理和数据挖掘平台，以场景式向导方式",
+      "B. 简单的数据处理和分析",
+      "C. 购买第三方智能算法",
+      "D. 人工手动配置参数"
+    ],
+    "answer": "A",
+    "explanation": "16.2.7 节表明嘉为蓝鲸智能运维解决方案基于腾讯蓝鲸PaaS 体系，通过数据 治理和数据挖掘平台，以场景式向导方式构建智能场景。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0166",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "云智慧智能业务运维平台的特点不包括（ ）。",
+    "options": [
+      "A. 可适配所有国产软硬件",
+      "B. 提供从数据采集到数据应用的运维数据服务",
+      "C. 具备可配置、组件化的开发能力",
+      "D. 面向不同行业提供应用场景模板"
+    ],
+    "answer": "A",
+    "explanation": "16.2.7 节提到云智慧智能业务运维平台可适配国产的主流CPU、操作系统等，但 不是所有国产软硬件，A 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0167",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "DevOps 的目的是（ ）。",
+    "options": [
+      "A. 让开发人员和运维人员更好地沟通合作，实现软件快速交付和持续改进",
+      "B. 增加软件开发的人员数量",
+      "C. 延长软件的开发周期",
+      "D. 提高软件的开发成本"
+    ],
+    "answer": "A",
+    "explanation": "16.2.7 节指出DevOps 目的是让软件开发人员和运维人员更好地沟通合作，通过 自动化的持续集成、持续部署，实现软件的快速交付和持续改进。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0168",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "DevOps 使用的工具中，用于自动化配置和管理服务器的是（ ）。",
+    "options": [
+      "A. 持续集成/持续交付工具",
+      "B. 配置管理工具",
+      "C. 自动化测试工具",
+      "D. 日志管理工具"
+    ],
+    "answer": "B",
+    "explanation": "配置管理工具用于自动化配置和管理服务器。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0169",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "云管理工具中，虚拟化云CloudOS 工具的主要作用是（ ）。",
+    "options": [
+      "A. 保障云资源的安全",
+      "B. 对各类云资源进行统一管理",
+      "C. 把硬件资源从物理方式转变为逻辑方式，提升资源利用率",
+      "D. 为基于云的专业服务提供支撑"
+    ],
+    "answer": "C",
+    "explanation": "16.2.7 节表明虚拟化云CloudOS 工具把硬件资源从物理方式转变为逻辑方式， 打破原有物理结构，使用户可以灵活管理这些资源，提升IT 投资回报率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0170",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "CMP 云管理工具的功能包括（ ）。",
+    "options": [
+      "A. 云资源管理、云服务管理、云安全防护等",
+      "B. 云资源适配器、云资源管理、云运营管理等",
+      "C. 安全监测、安全审计、威胁分析等",
+      "D. 云迁移、云测试、云备份等"
+    ],
+    "answer": "B",
+    "explanation": "16.2.7 节提到CMP 云管理工具包含云资源适配器、云资源管理、云服务管理、 云运营管理、云门户等功能，不包括云安全防护，安全监测等是CSM 云安全工具的功 能，云迁移等是CPS 云专业服务工具的功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0171",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "CSM 云安全工具主要保障（ ）。",
+    "options": [
+      "A. 云资源以及运行在云资源之上的应用安全和数据安全",
+      "B. 云管理工具的安全运行",
+      "C. 云服务提供商的运营安全",
+      "D. 云用户的账户安全"
+    ],
+    "answer": "A",
+    "explanation": "16.2.7 节指出CSM 云安全工具保障云资源以及运行在云资源之上的应用安全和 数据安全。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0172",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "随着应用程序开发市场演变，高集成度项目管理工具的优势在于（ ）。",
+    "options": [
+      "A. 实现软件全生命周期管理，提高研发效率和项目综合管理能力",
+      "B. 降低软件研发成本",
+      "C. 减少软件测试工作量",
+      "D. 提高软件的市场占有率"
+    ],
+    "answer": "A",
+    "explanation": "16.3 节提到具有高集成度的项目管理工具在同一个系统平台上实现软件全生命 周期管理，使软件研发过程更高效，项目综合管理能力也更强。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0173",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "PingCode 覆盖软件研发全生命周期，其中测试管理功能不包括（ ）。",
+    "options": [
+      "A. 测试用例的评审",
+      "B. 测试计划的制订与执行",
+      "C. 测试人员的绩效考核",
+      "D. 自动生成测试报告"
+    ],
+    "answer": "C",
+    "explanation": "16.3 节表明PingCode 的测试管理功能包括测试用例的维护、用例版本管理、测 试用例评审、制订测试计划及执行测试计划，并自动生成测试报告，未提及测试人员的 绩效考核。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0174",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "在项目管理方面，PingCode 支持的敏捷开发流程有（ ）。",
+    "options": [
+      "A. Scrum 和Kanban 开发流程",
+      "B. 仅Scrum 开发流程",
+      "C. 仅Kanban 开发流程",
+      "D. 瀑布式开发流程"
+    ],
+    "answer": "A",
+    "explanation": "16.3 节提到PingCode 完整支持标准的Scrum 敏捷开发流程、敏捷Kanban 开 发流程，以及规模化敏捷的管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0175",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "禅道是一款国产开源的专业研发项目管理软件，其核心管理框架中，项目完成的最 终交付物是（ ）。",
+    "options": [
+      "A. 项目集",
+      "B. 产品",
+      "C. 项目",
+      "D. 执行"
+    ],
+    "answer": "B",
+    "explanation": "禅道项目管理的最终交付物是产品。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0176",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "禅道提供的项目管理模型中，通过看板的拉动式管理推进项目进展的是（ ）。",
+    "options": [
+      "A. Scrum 敏捷开发全流程项目管理",
+      "B. 瀑布式项目管理模型",
+      "C. 专业研发看板项目管理",
+      "D. 以上都不是"
+    ],
+    "answer": "C",
+    "explanation": "16.3 节表明禅道的专业研发看板项目管理通过看板的拉动式管理推进项目进展。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0177",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Jira 是全球知名的IT 项目管理软件，其工作流是指（ ）。",
+    "options": [
+      "A. 项目从开始到结束的整个过程",
+      "B. 事务从创建到完成所遍历的连续路径",
+      "C. 团队协作的流程",
+      "D. 软件开发的流程"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节提到在Jira 中，事务从创建到完成所遍历的连续路径称为工作流。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0178",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Jira 的缺点包括（ ）。",
+    "options": [
+      "A. 功能不够全面",
+      "B. 价格不菲，配置复杂，中文界面适配不友好",
+      "C. 不支持敏捷管理",
+      "D. 无法与其他应用程序集成"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节指出Jira 价格不菲，同时其专业性也导致了配置的复杂性，而且Jira 的 中文界面适配也不够友好。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0179",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Microsoft Project 软件在项目管理的哪个阶段可以帮助用户创建项目计划？ ( )",
+    "options": [
+      "A. 建议阶段",
+      "B. 启动和计划阶段",
+      "C. 实施阶段",
+      "D. 控制阶段"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节表明Microsoft Project 在启动和计划阶段可以帮助用户创建项目计划。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0180",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Microsoft Project 的多种视图中，用板视图可以（ ）。",
+    "options": [
+      "A. 规划任务列表",
+      "B. 跟踪项目任务状态",
+      "C. 跟踪项目任务的日期、分配情况和相互关系",
+      "D. 构建直观的交互式路线图"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节提到Microsoft Project 用板视图跟踪项目任务状态。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0181",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "选择项目管理工具时，对于大型团队来说，更需要（ ）。",
+    "options": [
+      "A. 简单易用的工具",
+      "B. 功能复杂、能高效分配任务和促进沟通协作的工具",
+      "C. 价格便宜的工具",
+      "D. 具备单一功能的工具"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节指出对于大型团队，可能需要更复杂的项目管理工具，能够高效分配任务、 促进沟通协作、跟踪整个项目的进度资源和质量。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0182",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "若团队需要实时协作且经常远程办公，选择项目管理工具时应重点关注（ ）。",
+    "options": [
+      "A. 工具的安全性",
+      "B. 工具是否支持实时协作和移动端访问",
+      "C. 工具的价格",
+      "D. 工具的品牌"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节提到选择项目管理工具要考虑团队的工作方式，如是否需要远程协作、是 否需要实时协作、是否需要移动端访问支持等，团队需要实时协作且经常远程办公时， 应重点关注此方面。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0183",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "在选择项目管理工具时，对于医疗保健行业，最重要的考虑因素是（ ）。",
+    "options": [
+      "A. 自定义和可扩展性",
+      "B. 安全性",
+      "C. 易用性",
+      "D. 成本"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节指出对于一些行业（例如医疗保健和金融），安全性是选择项目管理工具 时必要考虑的因素。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0184",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "开源项目管理工具的特点是（ ）。",
+    "options": [
+      "A. 功能一定比商业软件弱",
+      "B. 不需要任何成本",
+      "C. 可能需要进行二次开发",
+      "D. 不适合大型项目"
+    ],
+    "answer": "C",
+    "explanation": "16.3 节提到免费的开源工具也许需要进行二次开发，开源工具功能不一定比商 业软件弱，可能存在二次开发成本，也可适用于大型项目。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0185",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "选择自定义能力强、可扩展的项目管理工具，主要是为了（ ）。",
+    "options": [
+      "A. 满足团队当前的简单需求",
+      "B. 适应团队未来的增长和扩展",
+      "C. 降低工具的使用难度",
+      "D. 提高工具的性价比"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节提到考虑团队的未来增长和扩展性，可选择自定义能力强、可扩展的项目 管理工具。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0186",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "项目管理工具应具备良好的易用性，对于非技术用户而言，关键是（ ）。",
+    "options": [
+      "A. 工具的技术原理简单易懂",
+      "B. 软件的用户界面直观明了，易于导航和访问关键功能",
+      "C. 工具的功能全面",
+      "D. 工具的价格合理"
+    ],
+    "answer": "B",
+    "explanation": "16.3 节指出项目管理工具应该易于使用，软件的用户界面应该直观明了，易于导 航和访问关键功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0187",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "信息系统建设和运维服务中的管理资源和工具，不包括（ ）。",
+    "options": [
+      "A. 企业的人力资源管理系统",
+      "B. 系统服务过程中的运维工具",
+      "C. 信息系统设计开发过程中的研发测试管理环境和工具",
+      "D. 贯穿信息系统生存周期的项目管理工具"
+    ],
+    "answer": "A",
+    "explanation": "16 章指出，信息系统建设和运维服务中的管理资源和工具包括信息系统设计开 发过程中的研发测试管理环境和工具，系统服务过程中的运维工具、服务台、知识库、 备件库及相关管理工具，以及贯穿信息系统生存周期的项目管理工具，不包括企业的 人力资源管理系统。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0188",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发管理工具中，软件开发工具的目的是（ ）。",
+    "options": [
+      "A. 提高软件的市场竞争力",
+      "B. 降低软件开发和维护的成本，提高软件生产效率，改进软件产品的质量",
+      "C. 加快软件的开发速度",
+      "D. 减少软件测试的工作量"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节表明软件开发工具的目的是降低软件开发和维护的成本，提高软件生 产效率，改进软件产品的质量。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0189",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Visual Studio 提供的协作和版本控制功能中，通过（ ）可进行敏捷计划、测试 管理等活动。",
+    "options": [
+      "A. Visual Studio Team Services（VSTS）",
+      "B. 代码编辑器",
+      "C. 图形用户界面设计器",
+      "D. 数据库模式设计器"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节提到通过Visual Studio Team Services（VSTS），开发团队可以进行 敏捷计划、测试管理、持续集成和持续交付等活动。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0190",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Eclipse 的跨平台特性是指它可以运行在（ ）。",
+    "options": [
+      "A. 仅Windows 系统",
+      "B. 仅Linux 系统",
+      "C. 任何支持Java 的平台上",
+      "D. 所有操作系统上"
+    ],
+    "answer": "C",
+    "explanation": "16.1.1 节指出Eclipse 可以运行在任何支持Java 的平台上，包括Windows、 Linux 和Mac OS。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0191",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "PyCharm 的智能代码编辑器功能不包括（ ）。",
+    "options": [
+      "A. 代码语法检查",
+      "B. 代码自动完成",
+      "C. 代码加密",
+      "D. 代码重构"
+    ],
+    "answer": "C",
+    "explanation": "16.1.1 节提到PyCharm 的智能代码编辑器支持Python 语法高亮、代码自动完 成、代码重构等功能，未提及代码加密。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0192",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "代码管理工具中，集中式版本控制工具的缺点是（ ）。",
+    "options": [
+      "A. 管理不方便",
+      "B. 代码一致性难以保证",
+      "C. 提交必须有网络连接，且后提交者可能遇到代码冲突",
+      "D. 安全性差"
+    ],
+    "answer": "C",
+    "explanation": "16.1.1 节指出集中式版本控制工具提交必须有网络连接（非本地版本库），提交 并非每次都能成功，同一部分代码多人先后提交，则后提交者需要基于最新的提交版本 先解决代码冲突才能提交。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0193",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "SVN 的工作示意图中，客户端通过（ ）与服务端进行交互。",
+    "options": [
+      "A. 特定的网络协议",
+      "B. 共享文件夹",
+      "C. 邮件",
+      "D. 即时通讯工具"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节虽未明确指出SVN 客户端与服务端交互的具体网络协议，但可知是通 过特定方式交互，而非共享文件夹、邮件或即时通讯工具。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0194",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件配置管理工具中，基线管理属于（ ）的功能。",
+    "options": [
+      "A. 项目管理",
+      "B. 版本管理和基线控制",
+      "C. 增强的版本控制",
+      "D. 流程控制和变更管理"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节表明，基线管理是版本管理和基线控制功能的一部分，软件配置管理工 具通过基线管理使软件开发工作有序进行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0195",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "配置管理工具中，沙箱技术主要用于（ ）。",
+    "options": [
+      "A. 流程控制",
+      "B. 资源维护",
+      "C. 过程自动化",
+      "D. 版本管理"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节提到，沙箱技术为并行开发提供独立工作空间，属于资源维护功能范畴， 开发团队成员能在沙箱中协同并发工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0196",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件测试管理工具中，测试计划管理不包括（ ）。",
+    "options": [
+      "A. 定义测试目标",
+      "B. 设计测试用例",
+      "C. 制定测试策略",
+      "D. 确定测试范围"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节指出，测试计划管理帮助测试团队创建和管理测试计划，包括定义测试 目标、测试策略、测试范围等，设计测试用例属于测试设计环节，不属于测试计划管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0197",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "自动化软件测试工具中，LoadRunner 的Virtual User Generator 组件的作用是 ( ) 。",
+    "options": [
+      "A. 组织、驱动、管理和监控负载测试",
+      "B. 对测试结果数据进行分析",
+      "C. 捕获最终用户业务流程和创建自动性能测试脚本",
+      "D. 模拟客户端发出请求"
+    ],
+    "answer": "C",
+    "explanation": "16.1.2 节表明，LoadRunner 的Virtual User Generator 用于捕获最终用户业 务流程和创建自动性能测试脚本。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0198",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "UFT 支持的数据驱动测试，可以使用的外部数据源不包括（ ）。",
+    "options": [
+      "A. Word 文档",
+      "B. Excel",
+      "C. 数据库",
+      "D. CSV 文件"
+    ],
+    "answer": "A",
+    "explanation": "UFT 不支持使用Word 文档作为外部数据源。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0199",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "测试管理工具TestRail 中，项目是主要组织单位，所有数据都与特定项目相关联， 其中不包括（ ）。",
+    "options": [
+      "A. 测试用例",
+      "B. 公司财务数据",
+      "C. 测试运行",
+      "D. 里程碑"
+    ],
+    "answer": "B",
+    "explanation": "TestRail 中的项目数据不包括公司财务数据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0200",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Quality Center 的执行测试部分，在测试运行平台上创建测试集的方式是（ ）。",
+    "options": [
+      "A. 只能手动创建",
+      "B. 调用测试计划中的测试用例创建",
+      "C. 由系统自动生成",
+      "D. 从其他测试管理工具导入"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节提到，Quality Center 执行测试时，可在测试运行平台上创建测试集， 或调用测试计划中的测试用例执行测试。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0201",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Bugzilla 的缺陷统计和报告功能，可以根据不同维度和条件生成多种形式的报告， 其中不包括（ ）。",
+    "options": [
+      "A. 饼状图",
+      "B. 柱状图",
+      "C. 折线图",
+      "D. 甘特图"
+    ],
+    "answer": "D",
+    "explanation": "Bugzilla 不生成甘特图形式的报告。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0202",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发与测试环境搭建原则中，与生产环境相似性的目的是（ ）。",
+    "options": [
+      "A. 提高研发测试环境的可维护性",
+      "B. 减少环境带来的问题",
+      "C. 方便多人协作开发",
+      "D. 便于自动化环境管理"
+    ],
+    "answer": "B",
+    "explanation": "16.1.3 节指出，研发测试环境应与生产环境尽量相似，以便减少环境带来的问题。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0203",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发测试环境部署时，安装和配置数据库的要求是（ ）。",
+    "options": [
+      "A. 与生产环境相同或类似",
+      "B. 必须与生产环境完全相同",
+      "C. 可以随意选择数据库类型",
+      "D. 安装最新版本的数据库"
+    ],
+    "answer": "A",
+    "explanation": "16.1.3 节提到，研发测试环境需要安装并配置与生产环境相同或类似的数据库， 以确保软件在生产环境中的数据存储和访问行为能够得到充分验证。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0204",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发测试环境维护中，定期清理数据和日志的目的不包括（ ）。",
+    "options": [
+      "A. 释放磁盘空间",
+      "B. 提高研发测试环境的稳定性",
+      "C. 提高研发测试环境的性能",
+      "D. 备份重要数据"
+    ],
+    "answer": "D",
+    "explanation": "16.1.3 节表明，定期清理研发测试环境中的数据和日志，是为了释放磁盘空间、 提高稳定性和性能，不涉及备份重要数据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0205",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "监控工具中，业务运营监控包括（ ）。",
+    "options": [
+      "A. 主机监控",
+      "B. 业务运营管理、业务流程监控、业务容量监控",
+      "C. 网络性能监控",
+      "D. 应用性能监控"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节指出，业务运营监控包括业务运营管理、业务流程监控、业务容量监控 等，主机监控属于IT 基础设施监控，网络性能监控和应用性能监控属于性能监控。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0206",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Zabbix 可实时监控多种对象，其中不包括（ ）。",
+    "options": [
+      "A. 打印机设备状态",
+      "B. 服务器",
+      "C. 应用程序",
+      "D. 云服务"
+    ],
+    "answer": "A",
+    "explanation": "16.2.1 节提到Zabbix 可实时监控数千台服务器、虚拟机，以及应用程序、服务、 数据库、网站、云等，未提及打印机设备状态。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0207",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Nagios 在发现异常时，通过（ ）等方式及时通知网站运维人员。",
+    "options": [
+      "A. 系统弹窗",
+      "B. 短信、邮件",
+      "C. 即时通讯工具消息",
+      "D. 语音通话"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节表明，Nagios 在发现异常时通过短信、邮件等方式及时通知网站运维 人员。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0208",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Prometheus 采集的监控数据以时间序列存储，每个时间序列由（ ）组成。",
+    "options": [
+      "A. 值、时间戳和标签表",
+      "B. 值、时间戳和数据类型",
+      "C. 值、标签表和数据来源",
+      "D. 时间戳、标签表和数据格式"
+    ],
+    "answer": "A",
+    "explanation": "16.2.1 节提到，Prometheus 采集的所有指标都以时间序列的形式进行存储，每 个时间序列由值、时间戳和标签表组成。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0209",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "统一运维监控平台建设方式中，基于开源监控软件自主开发的优点是（ ）。",
+    "options": [
+      "A. 开发周期短",
+      "B. 能结合组织自身业务需要，集成不同监控软件优势",
+      "C. 技术难度低",
+      "D. 无需进行二次开发"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节指出，基于开源监控软件自主开发是在传统开源监控工具基础上，结合 不同监控软件的优势，根据组织自身业务需要进行集成封装和二次开发，B 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0210",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "过程管理工具的常见逻辑架构中，工作流引擎和基础CMDB 属于（ ）。",
+    "options": [
+      "A. 服务平台层",
+      "B. 门户层",
+      "C. 基础架构层",
+      "D. 外围接口层"
+    ],
+    "answer": "A",
+    "explanation": "16.2.2 节表明，过程管理工具常见逻辑架构中，工作流引擎和基础CMDB 属于服 务平台层，为上层功能提供支撑。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0211",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ITSM 系统中，事件管理流程的主要作用是（ ）。",
+    "options": [
+      "A. 处理服务请求",
+      "B. 对服务请求进行分类",
+      "C. 快速响应和处理突发事件，恢复服务正常运行",
+      "D. 分析服务请求产生的原因"
+    ],
+    "answer": "C",
+    "explanation": "16.2.2 节指出，ITSM 核心流程中的事件管理是为了快速响应和处理突发事件， 尽可能在最短时间内恢复服务的正常运行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0212",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "JiraService Management 中，利用人工智能技术实现的功能是（ ）。",
+    "options": [
+      "A. 基于模板创建服务台",
+      "B. 定制请求表单",
+      "C. 为客户提供自助服务和虚拟支持人员",
+      "D. 自动将服务请求分类"
+    ],
+    "answer": "C",
+    "explanation": "JiraService Management 利用人工智能技术为客户提供自助服务和虚拟支持人 员。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0213",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceHot ITSM 软件平台已完成国产化适配，可在国产芯片上稳定运行，以下不 属于其适配芯片的是（ ）。",
+    "options": [
+      "A. 英特尔芯片",
+      "B. 龙芯中科",
+      "C. 飞腾",
+      "D. 鲲鹏"
+    ],
+    "answer": "A",
+    "explanation": "16.2.2 节表明，ServiceHot ITSM 可在国内主流芯片（如龙芯中科、飞腾、鲲鹏 等）上稳定运行，英特尔芯片不属于国产芯片。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0214",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "作业调度/批处理工具中，Puppet 的Web 界面主要用于（ ）。",
+    "options": [
+      "A. 编写配置文件",
+      "B. 集中管理和更新各个节点",
+      "C. 监控作业执行状态",
+      "D. 与其他工具进行集成"
+    ],
+    "answer": "B",
+    "explanation": "16.2.3 节提到，Puppet 提供的Web 界面用于集中管理和更新各个节点，简化管 理工作，提高管理员的工作效率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0215",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "SaltStack 使用RAS Key 方式确认身份，传输采用AES 加密，其目的是（ ）。",
+    "options": [
+      "A. 提高系统性能",
+      "B. 确保通信安全",
+      "C. 加快命令执行速度",
+      "D. 便于软件部署"
+    ],
+    "answer": "B",
+    "explanation": "这是为了确保通信安全。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0216",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Ansible 基于SSH 协议进行远程管理，其优势在于（ ）。",
+    "options": [
+      "A. 无需在管控对象上安装客户端，且大部分Linux 服务器支持",
+      "B. 支持所有操作系统的远程管理",
+      "C. 可以进行图形化界面操作",
+      "D. 安全性比其他协议更高"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节指出，Ansible 基于SSH 协议进行远程管理，Linux 服务器大部分都 离不开SSH，所以不需要为配置添加额外的支持，无需在管控对象上安装客户端。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0217",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "操作自动化工具中，Chef 的动态脚本语言由Ruby 编写，其优势是（ ）。",
+    "options": [
+      "A. 可以直接调用系统底层函数",
+      "B. 语法简单，容易学习",
+      "C. 能够定义全面的IT 任务流程，实现系统和应用程序的自动化配置和管理",
+      "D. 执行效率比其他脚本语言高"
+    ],
+    "answer": "C",
+    "explanation": "16.2.3 节提到，Chef 提供的由Ruby 编写的动态脚本语言可以定义全面的IT 任 务流程，从而自动化执行各种系统和应用程序的配置和管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0218",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "信息系统建设和运维服务过程中，资源中的“技术”主要是指（ ）。",
+    "options": [
+      "A. 研发与测试技术",
+      "B. 运维技术",
+      "C. 与信息系统相关的各类技术",
+      "D. 项目管理技术"
+    ],
+    "answer": "C",
+    "explanation": "16 章开头提及信息系统建设和运维服务过程中需要多种资源，“技术”涵盖与 信息系统相关的各类技术，研发与测试技术、运维技术、项目管理技术都只是其中一部 分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0219",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发与测试环境中的软件工具是为了（ ）。",
+    "options": [
+      "A. 支持软件开发的相关过程、活动和任务",
+      "B. 仅支持软件测试活动",
+      "C. 进行项目管理",
+      "D. 维护硬件设备"
+    ],
+    "answer": "A",
+    "explanation": "16.1 节指出研发与测试环境中的软件工具用以支持软件开发的相关过程、活动 和任务。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0220",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "以下关于集成化CASE 环境的说法，正确的是（ ）。",
+    "options": [
+      "A. 集成化CASE 环境中各工具用户界面不一致",
+      "B. 集成化CASE 环境没有共享信息数据库",
+      "C. 集成化CASE 环境将软件开发过程不同阶段的工具集成",
+      "D. 集成化CASE 环境只适用于大型项目"
+    ],
+    "answer": "C",
+    "explanation": "16.1.1 节提到集成化CASE 环境将对软件开发过程的不同阶段使用的工具进行 集成，使其有一致的用户界面和可以共享的信息数据库，且未提及只适用于大型项目。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0221",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Visual Studio 支持开发多种类型的项目，其中不包括（ ）。",
+    "options": [
+      "A. 大型机应用",
+      "B. Web 应用",
+      "C. 移动应用",
+      "D. 计算机程序"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节表明Visual Studio 可用于开发计算机程序、Web 站点、Web 应用、 Web 服务和移动应用，未提及大型机应用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0222",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Eclipse 的完全开放源代码特性带来的好处不包括（ ）。",
+    "options": [
+      "A. 用户可以自由使用",
+      "B. 用户不能参与功能开发",
+      "C. 吸引更多开发者",
+      "D. 可基于开源进行定制"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节指出Eclipse 完全开放源代码，用户可以自由使用，也可以参与到 Eclipse 功能开发中，这一特性吸引了越来越多的软件开发人员，且方便基于开源进行 定制。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0223",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "PyCharm 的远程开发功能通过（ ）连接到远程服务器。",
+    "options": [
+      "A. HTTP",
+      "B. SSH",
+      "C. FTP",
+      "D. TCP/IP"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节提到PyCharm 可以通过SSH 连接到远程服务器，进行远程开发和调 试。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0224",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "代码管理工具在软件开发中的主要目的是（ ）。",
+    "options": [
+      "A. 管理开发人员的工作时间",
+      "B. 提高代码质量",
+      "C. 管理代码、协同开发以及版本控制",
+      "D. 优化软件性能"
+    ],
+    "answer": "C",
+    "explanation": "16.1.1 节表明代码管理工具在大规模软件多人协同开发环境下，主要用于管理 代码、协同开发以及进行版本控制等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0225",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "集中式版本控制工具的特点是（ ）。",
+    "options": [
+      "A. 每个开发者拥有完整代码库",
+      "B. 无需网络连接即可提交代码",
+      "C. 文件集中存储于服务器",
+      "D. 安全性较差"
+    ],
+    "answer": "C",
+    "explanation": "16.1.1 节指出集中式版本控制工具采用典型的客户端/服务器架构模式，将文件 集中存储于服务器；每个开发者拥有完整代码库是分布式版本控制工具的特点；集中式 版本控制工具提交必须有网络连接；其集中式服务器机制更能保证安全性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0226",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "SVN 的生命周期中，执行变更之后的步骤是（ ）。",
+    "options": [
+      "A. 复查变化",
+      "B. 检出",
+      "C. 更新",
+      "D. 提交更改"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节提到SVN 的生命周期从创建版本库开始，完成检出、更新、执行变更、 复查变化、修改错误、解决冲突，最后提交更改。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0227",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "分布式版本控制工具的优势在于（ ）。",
+    "options": [
+      "A. 服务器故障时，可从其他开发者本地仓库恢复",
+      "B. 必须依赖服务器才能进行操作",
+      "C. 版本管理效率低于集中式",
+      "D. 不支持分支管理"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节表明分布式版本控制工具每个开发者都拥有一个完整的代码库，不管 是统一的服务器还是某个开发者终端出现故障，都可以用其他开发者的本地仓库快速恢 复；分布式版本控制工具在没有和服务器连接的情况下仍然可以进行查看日志、提交代 码等操作；其比集中式版本控制系统更能提高版本管理的效率，且支持各种分支管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0228",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Git 记录版本历史的方式是（ ）。",
+    "options": [
+      "A. 保存文件内容前后变化的差异数据",
+      "B. 只关心文件数据的整体是否发生变化",
+      "C. 记录每次修改的详细信息",
+      "D. 依赖服务器记录版本历史"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节提到Git 记录版本历史只关心文件数据的整体是否发生变化，不保存 文件内容前后变化的差异数据，且会在本地磁盘上保存项目相关的所有历史更新，不依 赖服务器记录版本历史。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0229",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件配置管理工具的备份管理功能属于（ ）。",
+    "options": [
+      "A. 资源维护",
+      "B. 版本管理",
+      "C. 项目管理",
+      "D. 流程控制"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节指出备份管理属于软件配置管理工具资源维护功能的一部分，通过备 份管理保障数据的安全性和完整性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0230",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件配置管理工具在项目启动后的首要工作是（ ）。",
+    "options": [
+      "A. 建立配置管理计划、创建配置库",
+      "B. 进行版本管理和基线控制",
+      "C. 实施流程控制和变更管理",
+      "D. 进行资源维护"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节表明软件配置管理工作贯穿整个项目的生命周期，项目启动后建立配 置管理计划、创建配置库是首要的工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0231",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "配置管理工具的版本管理和基线控制功能可以（ ）。",
+    "options": [
+      "A. 避免软件开发不受控制的局面",
+      "B. 直接提高软件性能",
+      "C. 管理项目团队成员",
+      "D. 进行软件测试用例设计"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节提到配置管理工具记录项目和文件的修改轨迹，跟踪修改信息，使软件 开发工作以基线渐进方式完成，从而避免软件开发不受控制的局面。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0232",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "配置管理工具中的快照功能比版本高一级的概念，是因为（ ）。",
+    "options": [
+      "A. 快照包含多个文件各自的当前版本",
+      "B. 快照只能恢复整个项目版本",
+      "C. 快照不能进行批量操作",
+      "D. 版本不支持恢复项目早期版本"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节指出快照是项目中多个文件各自的当前版本的集合，使恢复项目的早 期版本变得方便，还支持批量签入、批量签出和批量加标签等操作，而版本通常针对单 个文件或部分内容的变更记录。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0233",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "配置管理工具通过事件触发机制实现过程自动化，例如（ ）。",
+    "options": [
+      "A. “增加项目成员”操作自动触发“产生功能描述表”操作",
+      "B. 自动进行软件测试",
+      "C. 自动修复软件缺陷",
+      "D. 自动升级软件版本"
+    ],
+    "answer": "A",
+    "explanation": "16.1.1 节提到配置管理工具使用事件触发机制，如让“增加项目成员”操作自 动触发“产生功能描述表”操作，要求开发人员填制该文件的功能描述表，规范开发 过程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0234",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件测试管理工具与自动化软件测试工具的关系是（ ）。",
+    "options": [
+      "A. 测试管理工具包含自动化软件测试工具",
+      "B. 两者功能完全相同",
+      "C. 自动化软件测试工具是测试管理工具的一部分",
+      "D. 测试管理工具用于管理测试过程，自动化软件测试工具用于辅助测试执行"
+    ],
+    "answer": "D",
+    "explanation": "16.1.2 节表明软件测试工具分为自动化软件测试工具和测试管理工具，自动化 软件测试工具是用软件来代替一些人工输入，提高测试用例的复用率；测试管理工具用 于对测试过程进行管理，两者功能不同且不存在包含关系。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0235",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件自动化测试过程中，设计测试之后的步骤是（ ）。",
+    "options": [
+      "A. 制订测试计划",
+      "B. 实施测试",
+      "C. 执行测试",
+      "D. 评估测试"
+    ],
+    "answer": "B",
+    "explanation": "设计测试之后的步骤是实施测试。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0236",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "UFT 支持的关键字驱动测试，是指（ ）。",
+    "options": [
+      "A. 通过简单的关键字来定义测试步骤",
+      "B. 用关键字搜索测试用例",
+      "C. 根据关键字选择测试工具",
+      "D. 用关键字生成测试报告"
+    ],
+    "answer": "A",
+    "explanation": "16.1.2 节提到UFT 支持用户通过简单的关键字来定义测试步骤，实现关键字驱 动测试。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0237",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "LoadRunner 模拟真实用户行为时，通过（ ）捕获服务端的响应。",
+    "options": [
+      "A. 自动监控指定的URL 或应用程序所发出的请求",
+      "B. 手动记录服务端响应",
+      "C. 第三方工具辅助捕获",
+      "D. 定期查询服务端状态"
+    ],
+    "answer": "A",
+    "explanation": "16.1.2 节表明LoadRunner 会自动监控指定的URL 或应用程序所发出的请求及 服务器返回的响应，捕获服务端的响应。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0238",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "LoadRunner 的Analysis 组件生成的测试报告格式不包括（ ）。",
+    "options": [
+      "A. PD",
+      "B. B.HTML",
+      "C. XML",
+      "D. EX"
+    ],
+    "answer": "D",
+    "explanation": "16.1.2 节未提及LoadRunner 的Analysis 组件生成的测试报告格式包含EXE， 常见的测试报告格式有PDF、HTML、XML 等用于数据展示和分析。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0239",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "测试管理工具的测试用例管理功能不包括（ ）。",
+    "options": [
+      "A. 用例的设计",
+      "B. 用例的销售",
+      "C. 用例的实施",
+      "D. 用例的维护"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节提到测试管理工具支持测试团队创建、编辑和管理测试用例，包括用例 的设计、实施、执行和维护，不涉及用例的销售。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0240",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "TestRail 提供的测试用例管理方式中，类似Git 分支的是（ ）。",
+    "options": [
+      "A. 普通",
+      "B. 基线",
+      "C. 多套件",
+      "D. 以上都不是"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节指出TestRail 提供普通、基线（类似Git 分支）和多套件三种测试用 例管理方式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0241",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Quality Center 的明确需求部分，主要工作是（ ）。",
+    "options": [
+      "A. 对产品定义进行分析，提取测试需求",
+      "B. 根据测试需求创建测试计划",
+      "C. 在测试运行平台上执行测试",
+      "D. 报告应用程序中的缺陷"
+    ],
+    "answer": "A",
+    "explanation": "16.1.2 节表明Quality Center 的明确需求部分是对产品定义进行分析，提取测 试需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0242",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Bugzilla 的用户管理和权限设置功能中，用户角色不包括（ ）。",
+    "options": [
+      "A. 测试人员",
+      "B. 财务人员",
+      "C. 开发人员",
+      "D. 管理员"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节提到Bugzilla 允许管理员进行用户管理和权限设置，定义用户角色， 常见角色有测试人员、开发人员、管理员等，未提及财务人员。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0243",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发与测试环境搭建原则中，可协作性的目的是（ ）。",
+    "options": [
+      "A. 避免研发测试人员之间的环境干扰",
+      "B. 方便多人协作开发，避免冲突",
+      "C. 便于自动化环境管理",
+      "D. 提高研发测试环境的可维护性"
+    ],
+    "answer": "B",
+    "explanation": "16.1.3 节指出研发测试环境应该可协作，以便多人协作开发，避免冲突。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0244",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发测试环境部署时，选取硬件设备需要考虑的因素不包括（ ）。",
+    "options": [
+      "A. 硬件设备的颜色",
+      "B. 研发测试所需的内存",
+      "C. 能够支持研发测试的网络架构",
+      "D. 研发测试所需的处理器"
+    ],
+    "answer": "A",
+    "explanation": "16.1.3 节提到研发测试环境部署选择硬件设备时，需要考虑研发测试所需的内 存、处理器、硬盘等资源，以及能够支持研发测试的网络架构、存储、备份等方面的硬 件设备，不涉及硬件设备的颜色。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0245",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发测试环境维护中，监控研发测试环境状态可使用的工具是（ ）。",
+    "options": [
+      "A. 任何办公软件",
+      "B. 专门的监控工具",
+      "C. 文本编辑工具",
+      "D. 绘图工具"
+    ],
+    "answer": "B",
+    "explanation": "16.1.3 节表明监控研发测试环境状态可以使用一些监控工具来实现实时监控和 报警，办公软件、文本编辑工具、绘图工具不具备此功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0246",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "监控工具中，性能监控包括（ ）。",
+    "options": [
+      "A. 业务性能监控、应用性能监控和网络性能监控",
+      "B. 主机监控、网络监控、存储监控",
+      "C. 业务运营管理、业务流程监控、业务容量监控",
+      "D. 机房动力环境监控"
+    ],
+    "answer": "A",
+    "explanation": "16.2.1 节指出性能监控包括业务性能监控、应用性能监控和网络性能监控；主机 监控、网络监控、存储监控属于IT 基础设施监控；业务运营管理、业务流程监控、业 务容量监控属于业务运营监控；机房动力环境监控属于IT 基础设施监控。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0247",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Zabbix 可监控的指标不包括（ ）。",
+    "options": [
+      "A. 服务器的温度",
+      "B. CPU 负荷",
+      "C. 日志信息",
+      "D. 软件的功能正确性"
+    ],
+    "answer": "D",
+    "explanation": "16.2.1 节提到Zabbix 可以监控CPU 负荷、内存使用、磁盘使用、网络状况、 端口使用、日志信息等，不涉及软件的功能正确性监控。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0248",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Nagios Core 的基于文件的配置方式导致（ ）。",
+    "options": [
+      "A. 配置简单快捷",
+      "B. 扩展性和易读性较差，管理耗时",
+      "C. 安全性更高",
+      "D. 支持更多的监控协议"
+    ],
+    "answer": "B",
+    "explanation": "这种方式导致扩展性和易读性较差，管理耗时。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0249",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Prometheus 采用拉（Pull）模型架构，其数据拉取行为由（ ）决定。",
+    "options": [
+      "A. 客户端",
+      "B. 服务端",
+      "C. 监控对象",
+      "D. 网络环境"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节表明Prometheus 采用拉（Pull）模型架构，其具体的数据拉取行为完 全由服务端决定。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0250",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "统一运维监控平台的统一告警功能是为了（ ）。",
+    "options": [
+      "A. 全面、及时地发现问题，提前预防故障产生，减少业务损失",
+      "B. 展示监控数据",
+      "C. 进行数据分析",
+      "D. 管理监控对象"
+    ],
+    "answer": "A",
+    "explanation": "16.2.1 节指出统一运维监控平台的统一告警功能是为了全面、及时地发现问 题， 提前预防故障产生，减少业务损失；展示监控数据是统一展示功能的作用；进行数据分 析和管理监控对象分别是其他模块的功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0251",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "过程管理工具根据服务级别协议（SLA）对IT 服务进行管理，目的不包括（ ）。",
+    "options": [
+      "A. 降低服务质量",
+      "B. 提升IT 服务质量",
+      "C. 降低服务风险",
+      "D. 提高服务满意度"
+    ],
+    "answer": "A",
+    "explanation": "16.2.2 节表明过程管理工具根据合同约定的服务级别协议（SLA），对运行维护 服务的交付过程或IT 服务的全过程进行管理，实现IT 服务的可视、可管、可控、可 衡量，从而提升IT 服务质量、降低服务风险、提高服务满意度，并非降低服务质量。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0252",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ITSM 系统的核心流程中，变更管理的主要作用是（ ）。",
+    "options": [
+      "A. 处理服务请求",
+      "B. 快速响应和处理突发事件",
+      "C. 对IT 服务中的变更进行控制和管理",
+      "D. 分析问题产生的根本原因"
+    ],
+    "answer": "C",
+    "explanation": "16.2.2 节指出变更管理是对IT 服务中的变更进行控制和管理，确保变更的实 施不会对业务产生负面影响；处理服务请求是服务请求管理的作用；快速响应和处理突 发事件是事件管理的作用；分析问题产生的根本原因是问题管理的作用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0253",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "JiraService Management 的免费入门版本和收费高级版本的区别在于（ ）。",
+    "options": [
+      "A. 免费版本功能更强大",
+      "B. 收费高级版本提供更多的集成选项和额外功能",
+      "C. 免费版本不支持创建服务台",
+      "D. 收费高级版本不支持移动端访问"
+    ],
+    "answer": "B",
+    "explanation": "16.2.2 节提到JiraService Management 工具有多个服务级别，从免费的入门版 本到收费的高级、组织级工具，收费高级版本提供不同的集成选项和额外功能，如资产 和配置管理，以及用于管理重大问题的事件指挥中心等；免费版本功能相对较少，但支 持创建服务台；收费高级版本支持移动端访问。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0254",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceHot ITSM 的可视化管理能力体现在（ ）。",
+    "options": [
+      "A. 平台内置了IT 服务的全部流程",
+      "B. 系统底层采用可视化引擎、拖拽流程设计",
+      "C. 界面友好简单",
+      "D. 功能模块自由扩展"
+    ],
+    "answer": "B",
+    "explanation": "16.2.2 节表明ServiceHot ITSM 提供的服务流程管理套件具有可视化管理能力， 系统底层采用可视化引擎、拖拽流程设计，做到快速落地实施、无须繁重的二次开 发； 平台内置IT 服务全部流程、界面友好简单、功能模块自由扩展是其其他特点，并非可 视化管理能力的直接体现。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0255",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "SaltStack 在数万台服务器上进行操作时，可能会出现部分机器没有执行结果的原 因是( ) 。",
+    "options": [
+      "A. 网络不稳定",
+      "B. 执行过程需要等待客户端全部返回，部分客户端未及时响应",
+      "C. 软件本身存在漏洞",
+      "D. 服务器配置不足"
+    ],
+    "answer": "B",
+    "explanation": "16.2.3 节指出，SaltStack 执行过程需要等待客户端全部返回，如果客户端没有 及时返回或者没有响应的话，可能会导致部分机器没有执行结果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0256",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Ansible 基于SSH 协议进行远程管理，它可以实现的功能不包括（ ）。",
+    "options": [
+      "A. 批量运行命令",
+      "B. 硬件设备管理",
+      "C. 批量程序部署",
+      "D. 批量系统配置"
+    ],
+    "answer": "B",
+    "explanation": "16.2.3 节表明，Ansible 可基于上千个插件和模块实现各种软件、平台、版本的 批量系统配置、批量程序部署、批量运行命令等功能，但未提及能进行硬件设备管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0257",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "操作自动化工具中，Jenkins 作为持续集成自动化工具，其基于Java 开源的优势 是( ) 。",
+    "options": [
+      "A. 运行速度快",
+      "B. 可以兼容各种持续集成/开发工具，便于二次开发",
+      "C. 占用系统资源少",
+      "D. 对硬件要求低"
+    ],
+    "answer": "B",
+    "explanation": "16.2.3 节提到，Jenkins 基于Java 开源，可以兼容各种持续集成/开发工具， 便于使用者对其进行二次开发，以更好地集成和支持各种自动化工具和开发软件的过程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0258",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Chef 主要用于自动化部署、配置和管理云计算、物联网环境，它提供的动态脚本 语言( ) 。",
+    "options": [
+      "A. 只能在特定的云平台使用",
+      "B. 由Python 编写",
+      "C. 可以定义全面的IT 任务流程",
+      "D. 不支持自定义仓库和应用库"
+    ],
+    "answer": "C",
+    "explanation": "16.2.3 节指出，Chef 提供了一个由Ruby 编写的动态脚本语言，可以定义全面的 IT 任务流程，支持多个平台和云服务，内部有自定义仓库和应用库。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0259",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "服务台在IT 服务支持中，作为供方与需方沟通交互的重要界面，不需要（ ）。",
+    "options": [
+      "A. 联系特定技术人员处理所有问题",
+      "B. 对需方的问题和需求进行响应和处理",
+      "C. 组织内部各个团队之间的沟通协调",
+      "D. 确保沟通渠道的畅通"
+    ],
+    "answer": "A",
+    "explanation": "16.2.4 节表明，服务台作为供方与需方之间的单一连接点，须确保沟通渠道的畅 通，可以在不联系特定技术人员的情况下处理大部分的服务请求，同时负责组织内部各 个团队之间的沟通协调。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0260",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "在ITSM 中，服务台与自助门户网站和知识库的关系是（ ）。",
+    "options": [
+      "A. 服务台独立于自助门户网站和知识库",
+      "B. 服务台负责运营和维护与ITSM 相关的自助门户网站和知识库",
+      "C. 自助门户网站和知识库属于服务台的一部分",
+      "D. 服务台只使用自助门户网站和知识库的信息，不参与其管理"
+    ],
+    "answer": "B",
+    "explanation": "16.2.4 节提到，在许多情况下，服务台还负责运营和维护与ITSM 相关的自助门 户网站和知识库。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0261",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceDesk Plus 构建IT 服务和业务流程自动化过程的方式是（ ）。",
+    "options": [
+      "A. 通过编写复杂代码实现",
+      "B. 在可视化界面中自由拖拽创建工作流",
+      "C. 导入预先编写好的脚本",
+      "D. 依赖第三方插件"
+    ],
+    "answer": "B",
+    "explanation": "16.2.4 节指出，ServiceDesk Plus 能够在可视化界面中自由拖拽创建工作流， 根据业务需求构建IT 服务和业务流程的自动化过程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0262",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceHot 在传统ITSM 软件中融入AI 智能机器学习和分析，其自助服务门户不 包括( ) 。",
+    "options": [
+      "A. 在线培训功能",
+      "B. 服务台功能",
+      "C. 公告消息功能",
+      "D. 报表统计功能"
+    ],
+    "answer": "A",
+    "explanation": "16.2.4 节表明，ServiceHot 的自助服务门户包括服务台、公告消息、自助服务、 排班表、报表统计、系统配置等功能，未提及在线培训功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0263",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "云智慧服务台基于AI 技术和全文检索引擎实现0 线服务支持，0 线服务支持是指 ( ) 。",
+    "options": [
+      "A. 由智能机器人自动解决大部分问题，无需人工干预",
+      "B. 直接转接人工客服",
+      "C. 仅提供常见问题的解答",
+      "D. 服务质量最低的服务层级"
+    ],
+    "answer": "A",
+    "explanation": "16.2.4 节提到，云智慧服务台基于AI技术和全文检索引擎，实现0 线服务支持， 用户也可选择转接人工客服，说明0 线服务支持主要由智能机器人自动解决大部分问 题，无需人工干预。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0264",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ChatOps 以沟通为中心，通过ChatBot 将成员和各项辅助工具连接在一起，其主 要改进了（ ）。",
+    "options": [
+      "A. 软件开发的技术",
+      "B. 用户、开发者、运维人员之间的沟通",
+      "C. 硬件设备的性能",
+      "D. 网络的稳定性"
+    ],
+    "answer": "B",
+    "explanation": "16.2.4 节指出，ChatOps 改进了用户、开发者、运维人员之间的沟通，将人与人、 人与工具、工具与工具之间自然地衔接在一起，消除信息孤岛问题。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0265",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ITSM 内置知识库与ITSM 流程紧密耦合，有助于（ ）。",
+    "options": [
+      "A. 提高软件的开发效率",
+      "B. 知识的高效共享和利用",
+      "C. 降低硬件成本",
+      "D. 优化网络配置"
+    ],
+    "answer": "B",
+    "explanation": "16.2.5 节表明，主流的ITSM 解决方案中，内置知识库与ITSM 流程紧密耦合， 有助于知识的高效共享和利用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0266",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Confluence 的强大编辑功能不包括（ ）。",
+    "options": [
+      "A. 支持多种编程语言代码编辑",
+      "B. 富文本编辑功能",
+      "C. 提供文档模板",
+      "D. 协助团队成员进行信息推送"
+    ],
+    "answer": "A",
+    "explanation": "16.2.5 节提到，Confluence 具有强大的编辑和站点管理功能，提供富文本编辑 功能和文档模板，能够帮助团队成员进行共享信息、文档协作、集体讨论、信息推送， 但未提及支持多种编程语言代码编辑。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0267",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "PingCode Wiki 利用自动化技术降低管理成本，例如（ ）。",
+    "options": [
+      "A. 自动修复文档中的错误",
+      "B. 为新人自动匹配权限和页面",
+      "C. 自动更新文档内容",
+      "D. 自动删除过期文档"
+    ],
+    "answer": "B",
+    "explanation": "16.2.5 节指出，PingCode Wiki 通过配置自动化规则，为新人自动匹配权限和页 面，降低了随着人数规模变大而带来的管理成本。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0268",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "备件管理在信息系统建设中，备件库分为（ ）。",
+    "options": [
+      "A. 大型备件库和小型备件库",
+      "B. 实体备件与虚拟备件",
+      "C. 常用备件库和非常用备件库",
+      "D. 硬件备件库和软件备件库"
+    ],
+    "answer": "B",
+    "explanation": "16.2.6 节表明，备件库可分为实体备件与虚拟备件两种形态。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0269",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "备品备件管理的库存信息管理中，IT 备件供应商信息不包括（ ）。",
+    "options": [
+      "A. 供应商的人员构成",
+      "B. 供应商名称",
+      "C. 供应商联系方式",
+      "D. 供应商提供的维保服务信息"
+    ],
+    "answer": "A",
+    "explanation": "16.2.6 节提到，库存信息管理包括IT 备件供应商信息及维保服务信息，通常包 含供应商名称、联系方式、维保服务信息等，未提及供应商的人员构成。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0270",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ITSM 系统中的资产管理模块与服务请求流程衔接的作用是（ ）。",
+    "options": [
+      "A. 管理服务请求的处理进度",
+      "B. 跟踪与资产关联的服务请求工单",
+      "C. 调整资产配置",
+      "D. 进行服务请求分类"
+    ],
+    "answer": "B",
+    "explanation": "16.2.6 节指出，ITSM 系统中的资产管理模块可与服务请求、事件管理等IT 管 理流程衔接，支持跟踪与资产关联的所有工单，在与服务请求流程衔接时主要用于跟踪 相关工单。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0271",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "AIOps 旨在利用技术实现运维无人化、智能化，其核心技术不包括（ ）。",
+    "options": [
+      "A. 区块链技术",
+      "B. 大数据技术",
+      "C. 人工智能技术",
+      "D. 机器学习技术"
+    ],
+    "answer": "A",
+    "explanation": "16.2.7 节表明，AIOps 旨在利用大数据、人工智能或机器学习技术，未提及区块 链技术。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0272",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "嘉为蓝鲸智能运维解决方案基于腾讯蓝鲸PaaS 体系，通过（ ）进行样本管理、 特征提取等操作。",
+    "options": [
+      "A. 数据治理和数据挖掘平台",
+      "B. 直接调用腾讯的算法库",
+      "C. 购买第三方数据处理服务",
+      "D. 人工手动处理数据"
+    ],
+    "answer": "A",
+    "explanation": "16.2.7 节指出，嘉为蓝鲸智能运维解决方案基于腾讯蓝鲸PaaS 体系，通过数据 治理和数据挖掘平台，进行样本管理、特征提取、算法调参、模型训练、模型发布。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0273",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "云智慧智能业务运维平台的一体化技术底座不包括（ ）。",
+    "options": [
+      "A. 面向运维监控",
+      "B. 面向客户关系管理",
+      "C. 面向服务管理",
+      "D. 面向可视化"
+    ],
+    "answer": "B",
+    "explanation": "16.2.7 节提到，云智慧智能业务运维平台构建面向运维监控、服务管理、可视化 的一体化技术底座，未提及面向客户关系管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0274",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "DevOps 的目的是让软件开发人员和运维人员更好地沟通合作，实现软件快速交付 和持续改进，其中持续集成和持续交付工具的作用是（ ）。",
+    "options": [
+      "A. 管理代码的版本",
+      "B. 自动化配置和管理服务器",
+      "C. 自动化测试和部署应用程序",
+      "D. 进行日志管理"
+    ],
+    "answer": "C",
+    "explanation": "16.2.7 节表明，持续集成/持续交付工具用于自动化测试和部署应用程序；管理 代码的版本是版本控制工具的作用；自动化配置和管理服务器是配置管理工具的作用； 进行日志管理是日志管理工具的作用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0275",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "DevOps 使用的工具中，用于容器化的工具是（ ）。",
+    "options": [
+      "A. Maven",
+      "B. Docker",
+      "C. Selenium",
+      "D. ELK Stack"
+    ],
+    "answer": "B",
+    "explanation": "16.2.7 节提到，Docker、Kubernetes 等是容器化工具；Maven 是自动化构建工 具；Selenium 是自动化测试工具；ELK Stack 是日志管理工具。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0276",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "云管理工具中，CMP 云管理工具对各类云资源进行统一管理，其功能中云资源适配 器的作用是（ ）。",
+    "options": [
+      "A. 适配不同类型的云资源，实现统一管理",
+      "B. 管理云资源的访问权限",
+      "C. 监控云资源的使用情况",
+      "D. 优化云资源的性能"
+    ],
+    "answer": "A",
+    "explanation": "云资源适配器的作用是适配不同类型的云资源，实现统一管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0277",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "信息系统建设和运维中，资源“数据”的管理涉及（ ）。",
+    "options": [
+      "A. 仅数据存储",
+      "B. 数据的收集、存储、处理和使用等全过程",
+      "C. 数据的分析与可视化",
+      "D. 数据的加密传输"
+    ],
+    "answer": "B",
+    "explanation": "信息系统建设和运维中的数据管理涵盖从收集、存储到处理和使用的整个过程， A 选项仅提到存储不全面；C 选项分析与可视化只是其中部分环节；D 选项加密传输是 数据安全范畴的一部分，并非数据管理的核心内容。对应章节为16 章开头提及的各类 资 源管理概念。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0278",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发测试环境中，基本工具的配备依据是（ ）。",
+    "options": [
+      "A. 开发人员的个人喜好",
+      "B. 项目预算",
+      "C. 软件开发和测试的需求",
+      "D. 市场上流行的工具"
+    ],
+    "answer": "C",
+    "explanation": "研发测试环境配备基本工具是为了满足软件开发和测试的实际需求，开发人员个 人喜好不能作为依据，项目预算会影响工具选择但不是决定因素，市场流行工具不一定 符合项目需求。相关内容在16.1 节研发测试环境构成部分有体现。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0279",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "以下关于软件开发工具层次的说法，错误的是（ ）。",
+    "options": [
+      "A. 孤立的单个软件开发工具功能单一",
+      "B. 集成化的CASE 环境能提高开发效率",
+      "C. 集成化CASE 环境各工具间数据不共享",
+      "D. 孤立的单个软件开发工具用户界面不统一"
+    ],
+    "answer": "C",
+    "explanation": "16.1.1 节明确指出集成化的CASE 环境有可以共享的信息数据库，即各工具间 数据是共享的，C 选项错误。孤立的单个软件开发工具确实功能单一且用户界面不统一， 集成化CASE 环境整合多种工具，有助于提高开发效率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0280",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Visual Studio 的代码编辑器不具备以下哪种功能？( )",
+    "options": [
+      "A. 代码调试",
+      "B. 语法高亮显示",
+      "C. 代码自动生成",
+      "D. 代码格式化"
+    ],
+    "answer": "C",
+    "explanation": "16.1.1 节提到Visual Studio 包含代码编辑器、代码调试器等工具，代码编辑器 通常具备代码调试、语法高亮显示、代码格式化等功能，但一般不具备代码自动生成功 能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0281",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Eclipse 的社区资源优势在于（ ）。",
+    "options": [
+      "A. 提供大量免费的开发硬件",
+      "B. 活跃的开发者社区提供大量插件和教程",
+      "C. 社区成员能帮助修复软件漏洞",
+      "D. 社区组织线下技术交流活动"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节表明Eclipse 丰富的社区资源体现在其活跃的开发者社区提供了大量 的插件和教程，A 选项社区不提供免费开发硬件；C 选项帮助修复漏洞不是其社区资源 的 主要优势体现；D 选项文档未提及社区组织线下活动。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0282",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "PyCharm 的集成单元测试功能支持的测试框架中，不包括（ ）。",
+    "options": [
+      "A. unittest",
+      "B. pytest",
+      "C. testng",
+      "D. 以上都不对"
+    ],
+    "answer": "C",
+    "explanation": "16.1.1 节提到PyCharm 支持Python 的单元测试框架，如unittest、pytest 等， 未提及testng 。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0283",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "在代码管理工具中，集中式版本控制工具的服务器故障时，可能导致（ ）。",
+    "options": [
+      "A. 所有开发者无法获取和提交代码",
+      "B. 开发者可以继续在本地修改并提交代码",
+      "C. 数据自动备份到其他服务器",
+      "D. 系统自动切换到分布式版本控制模式"
+    ],
+    "answer": "A",
+    "explanation": "服务器故障时，所有开发者可能无法获取和提交代码。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0284",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "SVN 的生命周期中，解决冲突之后的步骤是（ ）。",
+    "options": [
+      "A. 执行变更",
+      "B. 提交更改",
+      "C. 复查变化",
+      "D. 新建版本库"
+    ],
+    "answer": "B",
+    "explanation": "16.1.1 节提到SVN 的生命周期从创建版本库开始，依次为检出、更新、执行变 更、复查变化、修改错误、解决冲突，最后提交更改。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0285",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "分布式版本控制工具Git 中，分支创建和合并的优势在于（ ）。",
+    "options": [
+      "A. 操作复杂但安全",
+      "B. 仅适用于大型项目",
+      "C. 使并行开发更简单安全",
+      "D. 只能在服务端进行操作"
+    ],
+    "answer": "C",
+    "explanation": "16.1.1 节表明Git 的设计目标之一是让分支的创建和合并操作变得简单而且安 全，方便开发者进行并行开发。操作并不复杂，且适用于各种大小项目，在客户端和服 务端都可操作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0286",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件配置管理工具中，配置管理审核属于（ ）功能模块。",
+    "options": [
+      "A. 备份管理",
+      "B. 流程控制和变更管理",
+      "C. 资源维护",
+      "D. 配置管理"
+    ],
+    "answer": "D",
+    "explanation": "16.1.1 节中软件配置管理工具功能模块图显示，配置管理审核属于配置管理功 能模块的一部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0287",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件配置管理工具的过程自动化功能，通过事件触发机制实现，“软件发布”事 件可能触发（ ）。",
+    "options": [
+      "A. 生成发布报告",
+      "B. 增加项目成员",
+      "C. 调整服务器配置",
+      "D. 启动测试环境"
+    ],
+    "answer": "A",
+    "explanation": "“软件发布”事件与生成发布报告关联紧密，软件发布时通常需要生成报告记录 发布相关信息。增加项目成员、调整服务器配置、启动测试环境与软件发布事件的直接 关联性不强。对应16.1.1 节中过程自动化相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0288",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "软件测试管理工具的缺陷记录跟踪功能，主要是为了（ ）。",
+    "options": [
+      "A. 记录测试人员的工作失误",
+      "B. 统计缺陷数量",
+      "C. 确保发现的问题得到解决",
+      "D. 分析软件功能的实现情况"
+    ],
+    "answer": "C",
+    "explanation": "16.1.2 节提到测试管理工具的缺陷记录跟踪功能是当在测试过程中发现问题时， 帮助测试团队记录和跟踪缺陷，直到问题被解决。不是为了记录测试人员失误，统计缺 陷数量只是其中一个方面，主要目的并非分析软件功能实现情况。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0289",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "自动化软件测试工具UFT 的集成开发环境，用户不能在其中进行（ ）操作。",
+    "options": [
+      "A. 编写测试脚本",
+      "B. 运行测试脚本",
+      "C. 调试硬件设备",
+      "D. 调试测试脚本"
+    ],
+    "answer": "C",
+    "explanation": "16.1.2 节表明UFT 的集成开发环境，用户可以在其中编写、调试和运行测试脚 本，但不能调试硬件设备。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0290",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "LoadRunner 的性能监控和分析功能，可以收集的性能数据不包括（ ）。",
+    "options": [
+      "A. 系统的并发用户数",
+      "B. 数据库的连接数",
+      "C. 服务器的硬件温度",
+      "D. 系统的吞吐量"
+    ],
+    "answer": "C",
+    "explanation": "16.1.2 节提到LoadRunner 可以收集响应时间、吞吐量、错误率等各种性能数据， 并发用户数、数据库连接数与系统性能相关，可被收集，而服务器硬件温度通常不属于 LoadRunner 收集的性能数据范畴。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0291",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "测试管理工具TestRail 中，测试用例的预期结果是（ ）。",
+    "options": [
+      "A. 测试人员随意设定的",
+      "B. 根据软件需求和设计确定的",
+      "C. 由开发人员编写的",
+      "D. 与实际测试结果相同"
+    ],
+    "answer": "B",
+    "explanation": "测试用例的预期结果是依据软件需求和设计来确定的，这样才能判断实际测试结 果是否符合预期，不是测试人员随意设定，也不是由开发人员编写，通常与实际测试结 果不同。对应16.1.2 节中TestRail 相关内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0292",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Quality Center 的跟踪缺陷部分，不包括以下哪种操作？( )",
+    "options": [
+      "A. 缺陷关联",
+      "B. 缺陷修复",
+      "C. 缺陷更新",
+      "D. 缺陷报告"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节指出Quality Center 跟踪缺陷部分包括报告应用程序中的缺陷，在缺 陷管理视图中进行添加新缺陷、匹配缺陷、更新缺陷、缺陷关联等操作，但缺陷修复是 开发人员的工作，不属于Quality Center 跟踪缺陷部分的操作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0293",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Bugzilla 的自定义字段功能，主要用于（ ）。",
+    "options": [
+      "A. 改变软件的功能",
+      "B. 满足项目特定的记录需求",
+      "C. 调整缺陷的优先级",
+      "D. 提高缺陷的处理效率"
+    ],
+    "answer": "B",
+    "explanation": "16.1.2 节提到Bugzilla 允许管理员自定义缺陷的字段，可根据项目的需求进 行灵活配置和扩展，满足项目特定的记录需求，不是为了改变软件功能、调整缺陷优先 级或直接提高处理效率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0294",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发与测试环境搭建原则中，自动化环境管理的目的是（ ）。",
+    "options": [
+      "A. 减少硬件成本",
+      "B. 提高研发效率，减少人为出错",
+      "C. 便于团队成员协作",
+      "D. 使环境更接近生产环境"
+    ],
+    "answer": "B",
+    "explanation": "16.1.3 节表明使用自动化工具来管理和配置研发环境，主要是为了提高研发效 率，减少人为出错，不是为了减少硬件成本、便于团队成员协作或使环境更接近生产环 境。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0295",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发测试环境部署时，安装操作系统的要求是（ ）。",
+    "options": [
+      "A. 安装最新版本的操作系统",
+      "B. 安装与生产环境相似的操作系统",
+      "C. 安装开源操作系统",
+      "D. 安装简单易操作的操作系统"
+    ],
+    "answer": "B",
+    "explanation": "16.1.3 节提到研发测试环境需要安装并配置与生产环境相似的操作系统，以确 保研发测试环境与生产环境的软件支持环境相同，不是安装最新版本、开源或简单易操 作的操作系统。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0296",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "研发测试环境维护中，定期更新软件和补丁时，需要注意（ ）。",
+    "options": [
+      "A. 测试新软件和补丁的功能",
+      "B. 备份相关数据，避免更新出错",
+      "C. 通知所有开发人员",
+      "D. 检查更新的来源是否可靠"
+    ],
+    "answer": "B",
+    "explanation": "16.1.3 节指出研发测试环境中的软件和补丁定期更新时，需要注意备份相关数 据，避免当前的更新操作引起不必要的出错。测试新软件和补丁功能、通知开发人员、 检查更新来源虽然也重要，但不是最需要注意的事项。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0297",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "监控工具中，业务容量监控属于（ ）。",
+    "options": [
+      "A. IT 基础设施监控",
+      "B. 性能监控",
+      "C. 业务运营监控",
+      "D. 综合监控"
+    ],
+    "answer": "C",
+    "explanation": "16.2.1 节表明业务运营监控包括业务运营管理、业务流程监控、业务容量监控等， 业务容量监控不属于IT 基础设施监控、性能监控或综合监控范畴。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0298",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Zabbix 的通知机制可以通过（ ）进行通知。",
+    "options": [
+      "A. 仅邮件",
+      "B. 仅短信",
+      "C. 邮件、短信等多种方式",
+      "D. 系统内部消息"
+    ],
+    "answer": "C",
+    "explanation": "16.2.1 节提到Zabbix 拥有灵活的通知机制，可以通过多种方式进行通知，未明 确仅通过邮件、短信或系统内部消息，通常包括邮件、短信等多种方式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0299",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Nagios XI 相对于Nagios Core 的优势在于（ ）。",
+    "options": [
+      "A. 免费使用",
+      "B. 支持Web 方式管理和配置",
+      "C. 基于文件的配置方式更简单",
+      "D. 监控服务可用性更强"
+    ],
+    "answer": "B",
+    "explanation": "16.2.1 节指出Nagios Core 不支持Web 方式管理和配置，Nagios XI 是其付费 扩展版本，提供用于监控的高级组件和工具，支持Web 方式管理和配置。Nagios XI 不 是免费使用，其配置方式并非基于文件更简单，监控服务可用性在文档中未体现出更 强。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0300",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Prometheus 支持时序数据，其标签表的作用是（ ）。",
+    "options": [
+      "A. 存储监控数据的值",
+      "B. 记录监控数据的时间戳",
+      "C. 记录监控数据的源信息",
+      "D. 对监控数据进行分类"
+    ],
+    "answer": "C",
+    "explanation": "16.2.1 节提到Prometheus 采集的所有指标都以时间序列的形式进行存储，每 个时间序列由值、时间戳和标签表组成，监控数据的源信息全部记录在标签表里，不是 存储监控数据的值、时间戳或对数据进行分类。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0301",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "统一运维监控平台的统一采集功能，是对（ ）进行统一采集。",
+    "options": [
+      "A. 所有业务系统中所涉及的网络、硬件、软件、数据库等资源的数据",
+      "B. 仅网络流量数据",
+      "C. 仅硬件设备状态数据",
+      "D. 仅软件运行日志数据"
+    ],
+    "answer": "A",
+    "explanation": "16.2.1 节表明统一运维监控平台的统一采集是将所有业务系统中所涉及的网 络、硬件、软件、数据库等资源纳入统一采集范围，不是仅采集网络流量、硬件设备状 态或软件运行日志数据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0302",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "过程管理工具的服务台+统一请求功能，主要用于（ ）。",
+    "options": [
+      "A. 接收和处理各种服务请求",
+      "B. 管理服务台人员",
+      "C. 监控服务台的运行状态",
+      "D. 分析服务请求的来源"
+    ],
+    "answer": "A",
+    "explanation": "16.2.2 节提到过程管理工具中服务台+统一请求功能，负责接收各种渠道的服务 请求并进行处理，不是管理服务台人员、监控运行状态或分析请求来源。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0303",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ITSM 系统中，问题管理流程的目标是（ ）。",
+    "options": [
+      "A. 快速响应突发事件",
+      "B. 分析问题产生的根本原因并解决",
+      "C. 处理服务请求",
+      "D. 控制和管理变更"
+    ],
+    "answer": "B",
+    "explanation": "问题管理流程的目标是分析问题产生的根本原因并解决。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0304",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "JiraService Management 的人工智能技术可以实现（ ）。",
+    "options": [
+      "A. 自动修复软件缺陷",
+      "B. 为客户提供自助服务和虚拟支持人员",
+      "C. 自动生成项目计划",
+      "D. 自动优化网络配置"
+    ],
+    "answer": "B",
+    "explanation": "16.2.2 节提到JiraService Management 可利用人工智能技术为客户提供自助 服务和虚拟支持人员，不能自动修复软件缺陷、生成项目计划或优化网络配置。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0305",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "ServiceHot ITSM 的国产化适配体现了（ ）。",
+    "options": [
+      "A. 提高软件的性能",
+      "B. 满足国内企业在国产化环境下的使用需求",
+      "C. 降低软件成本",
+      "D. 增强软件的安全性"
+    ],
+    "answer": "B",
+    "explanation": "16.2.2 节表明ServiceHot ITSM 软件平台已完成国产化适配，可在国内主流芯 片、操作系统、数据库等国产化计算机环境中稳定运行，满足国内企业在国产化环境下 的使用需求，不是为了提高性能、降低成本或增强安全性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0306",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "作业调度/批处理工具中，Puppet 的C/S 结构中，服务端的作用是（ ）。",
+    "options": [
+      "A. 接收客户端的配置请求并提供最新配置文件",
+      "B. 执行客户端发送的作业任务",
+      "C. 监控客户端的运行状态",
+      "D. 负责与其他工具集成"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节提到Puppet 采用C/S 结构，所有的客户端和一个或多个服务器交互， 客户端周期地连接服务器下载最新的配置文件，服务端的作用是接收客户端的配置请 求并提供最新配置文件，不是执行客户端作业任务、监控客户端运行状态或负责与其他 工具集成。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0307",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "SaltStack 的安全性能更高是因为（ ）。",
+    "options": [
+      "A. 使用RAS Key 方式确认身份，传输采用AES 加密",
+      "B. 采用C/S 模式",
+      "C. 能在数万台服务器上快速操作",
+      "D. 加入MQ 消息同步机制"
+    ],
+    "answer": "A",
+    "explanation": "16.2.3 节表明SaltStack 使用RAS Key 方式确认身份，传输采用AES 加密， 所以安全性能更高。采用C/S 模式不是其安全性能高的原因，能在数万台服务器上快 速操作是因为加入MQ 消息同步机制，但这与安全性无关。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0308",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Ansible 基于SSH 协议进行远程管理，对被管理服务器的要求是（ ）。",
+    "options": [
+      "A. 必须安装Ansible 客户端",
+      "B. 必须是Linux 服务器",
+      "C. 大部分支持SSH 协议",
+      "D. 配置必须相同"
+    ],
+    "answer": "C",
+    "explanation": "16.2.3 节指出Ansible 基于SSH 协议进行远程管理，Linux 服务器大部分都离 不开SSH，所以不需要为配置添加额外的支持，不是必须安装Ansible 客户端，也不 要求必须是Linux 服务器，被管理服务器配置也不要求相同。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0309",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "操作自动化工具中，Jenkins 的灵活插件和扩展体系结构可以（ ）。",
+    "options": [
+      "A. 提高服务器的硬件性能",
+      "B. 同时支持不同系统和环境的部署",
+      "C. 自动修复软件漏洞",
+      "D. 优化数据库性能"
+    ],
+    "answer": "B",
+    "explanation": "16.2.3 节提到Jenkins提供了灵活的插件和扩展体系结构，能够同时支持不同系 统和环境的部署，不能提高服务器硬件性能、自动修复软件漏洞或优化数据库性能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch16_0310",
+    "chapter": "第16章",
+    "chapter_no": 16,
+    "chapter_title": "资源与工具管理",
+    "question": "Chef 的动态脚本语言由Ruby 编写，其优势在于（ ）。",
+    "options": [
+      "A. 编写速度快",
+      "B. 可以直接访问硬件资源",
+      "C. 能够定义全面的IT 任务流程",
+      "D. 语法简单易懂"
+    ],
+    "answer": "C",
+    "explanation": "16.2.3 节表明Chef 提供的由Ruby 编写的动态脚本语言可以定义全面的IT 任 务流程，从而自动化执行各种系统和应用程序的配置和管理，未提及编写速度快、可直 接访问硬件资源或语法简单易懂是其主要优势。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第16章",
+    "status": "candidate"
+  }
+]

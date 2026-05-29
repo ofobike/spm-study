@@ -1,0 +1,139 @@
+{
+  "updated_at": "2026-05-25",
+  "mode": "write",
+  "chapter_questions": {
+    "source": "references\\internal\\chapter-practice\\structured\\candidate_questions.json",
+    "mode": "write",
+    "target_new_per_chapter": 20,
+    "added_total": 480,
+    "added_by_chapter": {
+      "1": 20,
+      "2": 20,
+      "3": 20,
+      "4": 20,
+      "5": 20,
+      "6": 20,
+      "7": 20,
+      "8": 20,
+      "9": 20,
+      "10": 20,
+      "11": 20,
+      "12": 20,
+      "13": 20,
+      "14": 20,
+      "15": 20,
+      "16": 20,
+      "17": 20,
+      "18": 20,
+      "19": 20,
+      "20": 20,
+      "21": 20,
+      "22": 20,
+      "23": 20,
+      "24": 20
+    },
+    "answer_distribution_before": {
+      "B": 377,
+      "A": 134,
+      "D": 161,
+      "C": 528
+    },
+    "answer_deficits_target": {
+      "A": 33,
+      "B": 34,
+      "C": 0,
+      "D": 41
+    },
+    "skipped": {
+      "short_explanation": 99,
+      "duplicate_or_empty_question": 78,
+      "short_question": 10
+    },
+    "sample_added_ids": [
+      "ch01_q051",
+      "ch01_q052",
+      "ch01_q053",
+      "ch01_q054",
+      "ch01_q055",
+      "ch01_q056",
+      "ch01_q057",
+      "ch01_q058",
+      "ch01_q059",
+      "ch01_q060",
+      "ch01_q061",
+      "ch01_q062",
+      "ch01_q063",
+      "ch01_q064",
+      "ch01_q065",
+      "ch01_q066",
+      "ch01_q067",
+      "ch01_q068",
+      "ch01_q069",
+      "ch01_q070"
+    ],
+    "answer_distribution_after": {
+      "B": 386,
+      "A": 387,
+      "D": 379,
+      "C": 528
+    }
+  },
+  "case_recitation": {
+    "source": "references\\internal\\case-special\\structured",
+    "mode": "write",
+    "target_items_per_chapter": 5,
+    "added_cases": 24,
+    "added_sub_questions": 120,
+    "skipped_existing_cases": 0,
+    "skipped_invalid_items": 1,
+    "sample_added_case_ids": [
+      "cs_recite_ch01",
+      "cs_recite_ch02",
+      "cs_recite_ch03",
+      "cs_recite_ch04",
+      "cs_recite_ch05",
+      "cs_recite_ch06",
+      "cs_recite_ch07",
+      "cs_recite_ch08",
+      "cs_recite_ch09",
+      "cs_recite_ch10"
+    ]
+  },
+  "index": {
+    "total_questions": 1680,
+    "total_cases": 62,
+    "total_sub_questions": 273,
+    "by_chapter": {
+      "chapter_01": 70,
+      "chapter_02": 70,
+      "chapter_03": 70,
+      "chapter_04": 70,
+      "chapter_05": 70,
+      "chapter_06": 70,
+      "chapter_07": 70,
+      "chapter_08": 70,
+      "chapter_09": 70,
+      "chapter_10": 70,
+      "chapter_11": 70,
+      "chapter_12": 70,
+      "chapter_13": 70,
+      "chapter_14": 70,
+      "chapter_15": 70,
+      "chapter_16": 70,
+      "chapter_17": 70,
+      "chapter_18": 70,
+      "chapter_19": 70,
+      "chapter_20": 70,
+      "chapter_21": 70,
+      "chapter_22": 70,
+      "chapter_23": 70,
+      "chapter_24": 70
+    },
+    "questions_per_chapter": 70
+  },
+  "next_checks": [
+    "python scripts/validate_questions.py",
+    "python scripts/study.py audit --format markdown",
+    "python scripts/study.py regression --format markdown"
+  ]
+}

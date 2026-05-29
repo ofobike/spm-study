@@ -1,0 +1,5384 @@
+[
+  {
+    "id": "internal_qt_ch15_0001",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发的目的不包括以下哪一项？( )",
+    "options": [
+      "A. 通过使用研发成果提高系统服务效率和服务质量",
+      "B. 通过对组织信息系统相关技术和行业新技术的研究，将其应用到系统服务产品和服务 工具中，以丰富和拓展服务范围",
+      "C. 提高组织的市场占有率",
+      "D. 推动组织服务的发展"
+    ],
+    "answer": "C",
+    "explanation": "15.1.1 目标和范围中提到技术研发的目的主要有两个：一是通过使用研发成果 提高系统服务效率和服务质量；二是通过对组织信息系统相关技术和行业新技术的研究， 将其应用到系统服务产品和服务工具中，以丰富和拓展服务范围，推动组织服务的发展。 未提及提高组织的市场占有率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0002",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发管理的目的是（ ）。",
+    "options": [
+      "A. 进行技术创新，提升组织系统服务能力",
+      "B. 提高组织的经济效益",
+      "C. 增强组织的核心竞争力",
+      "D. 降低组织的运营成本"
+    ],
+    "answer": "A",
+    "explanation": "15.1.1 目标和范围中明确指出技术研发管理的目的是进行技术创新，提升组织 系统服务能力。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0003",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "以下哪项不属于技术研发的范围？( )",
+    "options": [
+      "A. 运维工具的研发",
+      "B. 运维中发现问题的相关技术研发",
+      "C. 与运维对象无关的技术研究",
+      "D. 行业技术发展动态的研究和应用"
+    ],
+    "answer": "C",
+    "explanation": "15.1.1 目标和范围中提到技术研发包括运维工具的研发、运维中发现问题的相 关技术和解决问题相关技术的研发，以及与运维对象有关的技术和行业技术发展动态的 研究和应用，不包括与运维对象无关的技术研究。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0004",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "与系统运行相关的技术研发不包括以下哪方面？( )",
+    "options": [
+      "A. 基础环境相关技术，如空调制冷、机房电源设计等",
+      "B. 承载IT 运行的设备和软件采用的技术，如存储技术、操作系统技术等",
+      "C. 支撑IT 高质量、可靠运行的管理技术，如网络与系统管理技术等",
+      "D. 市场营销策略的研究"
+    ],
+    "answer": "D",
+    "explanation": "15.1.1 目标和范围中指出与系统运行相关的技术研发包括对IT 服务对象本身 技术的掌握，如基础环境、承载设备和软件、支撑管理技术等方面，不涉及市场营销策 略的研究。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0005",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "为保证供方提供的IT 服务质量，固化服务行为的是（ ）。",
+    "options": [
+      "A. 服务产品研发",
+      "B. 技术规范研发",
+      "C. 运维工具研发",
+      "D. 发现问题的技术研发"
+    ],
+    "answer": "B",
+    "explanation": "15.1.1 目标和范围中提到为了保证供方提供的IT 服务质量，固化服务行为的 技术规范研发是必不可少的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0006",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术规范是供方设计制定的服务过程中所应用的服务规范和服务提供规范，其中服务 规范规定了（ ）。",
+    "options": [
+      "A. 用于提供服务的方法和手段",
+      "B. 服务应达到的水准和要求",
+      "C. 每一项服务活动如何实施",
+      "D. 服务过程的规范化要求"
+    ],
+    "answer": "B",
+    "explanation": "15.1.1 目标和范围中明确服务规范规定了服务应达到的水准和要求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0007",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现信息系统中存在问题的技术和解决问题相关技术的研发成果可以是（ ）。",
+    "options": [
+      "A. 仅便于人工操作的手册",
+      "B. 仅将经验和方法固化的系统工具",
+      "C. 便于人工操作的手册或将经验和方法固化的系统工具",
+      "D. 以上都不对"
+    ],
+    "answer": "C",
+    "explanation": "15.1.1 目标和范围中指出发现问题相关技术、解决问题相关技术的研发成果可 以是便于人工操作的手册，也可以是将经验和方法固化的系统工具。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0008",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "运行维护工具研发属于技术研发的范畴，使用工具的目的不包括（ ）。",
+    "options": [
+      "A. 提升IT 服务效能",
+      "B. 提高服务准确性",
+      "C. 增加服务成本",
+      "D. 降低服务成本"
+    ],
+    "answer": "C",
+    "explanation": "15.1.1 目标和范围中提到使用工具是为了提升IT 服务效能和服务准确性，也 是降低服务成本的有效利器，不包括增加服务成本。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0009",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务产品研发是供方将IT 服务有形化、标准化的设计过程，服务产品研发需要 ( ) 。",
+    "options": [
+      "A. 多个部门协同配合",
+      "B. 仅研发部门参与",
+      "C. 仅市场部门参与",
+      "D. 仅服务交付部门参与"
+    ],
+    "answer": "A",
+    "explanation": "15.1.1 目标和范围中指出服务产品的研发往往需要多个部门协同配合，共同参 与研发才能完成。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0010",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发的管理对象不包括以下哪一项？( )",
+    "options": [
+      "A. 研发团队",
+      "B. 研发资金",
+      "C. 研发人员的生活需求",
+      "D. 研发过程"
+    ],
+    "answer": "C",
+    "explanation": "15.1.1 目标和范围中提到技术研发管理主要包括研发团队、研发过程、研发成本、 研发项目、研发绩效、研发风险等内容，不涉及研发人员的生活需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0011",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "研发体系是技术战略实现的支撑体系，以下关于研发体系的说法错误的是（ ）。",
+    "options": [
+      "A. 对技术路线、技术储备、人才培养等进行统筹管理",
+      "B. 使研发和技术实现过程不可评估、不可测量、不可控制",
+      "C. 是技术战略实现的支撑体系",
+      "D. 对研发过程进行综合管理"
+    ],
+    "answer": "B",
+    "explanation": "15.1.1 目标和范围中明确研发体系是对技术路线、技术储备、人才培养、研发过 程等统筹后的综合管理，使研发和技术实现过程可评估、可测量、可控制，B 选项说法 错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0012",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "研发团队不仅仅包含研发部门或技术部门，还应包括（ ）。",
+    "options": [
+      "A. 质量、营销、生产、采购、人力资源等部门",
+      "B. 仅质量和营销部门",
+      "C. 仅生产和采购部门",
+      "D. 仅人力资源部门"
+    ],
+    "answer": "A",
+    "explanation": "15.1.1 目标和范围中提到在研发活动中应明确规定各部门所承担的职责，这些 部门至少包含质量、营销、生产、采购、人力资源等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0013",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "研发过程管理是协调各个部门和管理层级共同为需方创造价值的相互关联的活动进 程，它的目的是（ ）。",
+    "options": [
+      "A. 打造组织核心竞争力",
+      "B. 提高研发人员的工资待遇",
+      "C. 增加组织的研发投入",
+      "D. 扩大组织的规模"
+    ],
+    "answer": "A",
+    "explanation": "15.1.1 目标和范围中指出研发过程管理是一套围绕各个研发环节共同打造组织 核心竞争力的管理活动。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0014",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "研发成本控制是指（ ）。",
+    "options": [
+      "A. 压缩研发规模",
+      "B. 减少研发投资",
+      "C. 减少研发中不必要的开支，用较少的投入获取较大的研发成果",
+      "D. 增加研发成本"
+    ],
+    "answer": "C",
+    "explanation": "15.1.1 目标和范围中提到研发成本控制并非指压缩研发规模或者减少研发投资， 而是指减少研发中不必要的开支，用较少的投入获取较大的研发成果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0015",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "研发管理中项目管理不可或缺的原因是（ ）。",
+    "options": [
+      "A. 研发活动是动态的，整个研发过程可能横跨多个部门",
+      "B. 研发项目比较简单",
+      "C. 研发人员喜欢项目管理",
+      "D. 项目管理可以提高研发效率"
+    ],
+    "answer": "A",
+    "explanation": "15.1.1 目标和范围中指出研发活动是动态的，整个研发过程可能横跨多个部门， 所以研发是以项目为导向的，研发管理中项目管理不可或缺。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0016",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "研发管理的绩效评价指标不包括以下哪一项？( )",
+    "options": [
+      "A. 研发项目的难度",
+      "B. 研发人员的数量",
+      "C. 研发效率",
+      "D. 研发质量"
+    ],
+    "answer": "B",
+    "explanation": "15.1.1 目标和范围中提到研发管理的绩效评价指标包括研发项目的难度、研发 效率和研发质量，不包括研发人员的数量。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0017",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "研发风险管理的目标是（ ）。",
+    "options": [
+      "A. 制定一系列规章制度和控制措施",
+      "B. 有效将风险降低到可接受水平之下",
+      "C. 识别研发风险",
+      "D. 评估研发风险"
+    ],
+    "answer": "B",
+    "explanation": "15.1.1 目标和范围中明确研发风险管理是以风险为主要控制目标，制定一系列 规章制度和控制措施，有效将风险降低到可接受水平之下。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0018",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发决策负责人承担的职责不包括（ ）。",
+    "options": [
+      "A. 技术研发的总体决策",
+      "B. 负责与运维相关的技术规划、实施、应用和改进",
+      "C. 技术研发需求调研",
+      "D. 根据IT 服务的发展需求进行决策"
+    ],
+    "answer": "C",
+    "explanation": "技术研发决策负责人主要负责技术研发的总体决策、与运维相关的技术规划等， 但不包括技术研发需求调研，这通常是由项目经理或市场部门负责。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0019",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发需求负责人在技术研发过程中的工作不包括（ ）。",
+    "options": [
+      "A. 进行技术研发规划",
+      "B. 负责技术研发需求调研和技术研发成果应用",
+      "C. 与技术研发部门一起进行技术研发项目规划和立项申请",
+      "D. 对研发成果进行验收和应用，并反馈应用结果"
+    ],
+    "answer": "A",
+    "explanation": "15.1.2 组织架构中指出技术研发需求负责人负责技术研发需求调研和技术研发 成果应用等工作，技术研发规划是技术研发负责人的职责。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0020",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发负责人负责的工作包括（ ）。",
+    "options": [
+      "A. 技术研发规划、技术研发的过程组织以及技术研发成果在IT 服务中的应用支持",
+      "B. 组织质量管理体系的建设、实施、检查和改进",
+      "C. 审查研发的投入产出比、筹措研发费用",
+      "D. 技术研发的总体决策"
+    ],
+    "answer": "A",
+    "explanation": "15.1.2 组织架构中提到技术研发负责人负责技术研发规划、技术研发的过程组 织以及技术研发成果在IT 服务中的应用支持。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0021",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "质量管理负责人在技术研发管理中的工作是（ ）。",
+    "options": [
+      "A. 参与研发管理体系的建设，对研发管理体系的执行进行检查，提出改进意见",
+      "B. 负责技术研发的总体决策",
+      "C. 负责技术研发需求调研和技术研发成果应用",
+      "D. 负责技术研发规划、技术研发的过程组织"
+    ],
+    "answer": "A",
+    "explanation": "15.1.2 组织架构中明确质量管理负责人是组织质量管理体系的建设、实施、检查 和改进的负责人，需要参与研发管理体系的建设，并且对研发管理体系的执行进行检查， 提出改进意见。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0022",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "财务负责人在技术研发管理中的职责是（ ）。",
+    "options": [
+      "A. 审查研发的投入产出比、筹措研发费用、度量研发成果的财务回报",
+      "B. 负责技术研发的总体决策",
+      "C. 参与研发管理体系的建设",
+      "D. 负责技术研发规划、技术研发的过程组织"
+    ],
+    "answer": "A",
+    "explanation": "15.1.2 组织架构中提到财务负责人负责审查研发的投入产出比、筹措研发费用、 度量研发成果的财务回报。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0023",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发的规划过程不包括以下哪一项工作？( )",
+    "options": [
+      "A. 研发需求调研",
+      "B. 产出技术研发成果",
+      "C. 制定研发方案",
+      "D. 形成立项报告"
+    ],
+    "answer": "B",
+    "explanation": "15.1.3 管理过程中提到技术研发规划阶段的工作主要有研发需求调研、确定研 发目标、制定研发方案、投入产出分析、形成立项报告、规划评审发布等，产出技术研 发成果是实施过程的工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0024",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在技术研发实施阶段，实施计划应围绕（ ），系统地确定研发项目的任务、各项 任务的时间进度等。",
+    "options": [
+      "A. 研发人员的能力",
+      "B. 研发资金的多少",
+      "C. 研发目标",
+      "D. 市场需求"
+    ],
+    "answer": "C",
+    "explanation": "15.1.3 管理过程中指出实施计划是研发团队根据研发目标，对研发实施工作所 进行的各项活动做出周密安排，应围绕研发目标进行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0025",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "为确保技术研发能够按照计划完成研发目标，供方需要在组织层面监控技术研发的 过程，监控的内容不包括（ ）。",
+    "options": [
+      "A. 研发质量",
+      "B. 研发人员的生活情况",
+      "C. 研发成本",
+      "D. 研发进度"
+    ],
+    "answer": "B",
+    "explanation": "监控技术研发过程主要包括研发质量、研发成本和研发进度，而研发人员的生活 情况不属于组织层面监控的内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0026",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "研发成果应用是指技术研发结果被推广运用到IT 服务中，通过研发成果的应用可 带来的效果不包括（ ）。",
+    "options": [
+      "A. 组织整体能力的提高",
+      "B. 服务人员素质的降低",
+      "C. 服务效率的增加",
+      "D. 服务工具的改善"
+    ],
+    "answer": "B",
+    "explanation": "15.1.3 管理过程中提到通过研发成果的应用，可带来组织整体能力的提高，如服 务人员素质的提高、技能的提升、服务效率的增加等，服务人员素质不会降低。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0027",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在对技术研发成果的应用中，组织技术负责人和技术研发团队的角色不包括（ ）。",
+    "options": [
+      "A. 研发成果的培训者",
+      "B. 应用技术的支持者",
+      "C. 研发成果的反对者",
+      "D. 对于IT 服务产品，研发团队可能是相应的服务产品经理"
+    ],
+    "answer": "C",
+    "explanation": "15.1.3 管理过程中指出在对技术研发成果的应用中，组织技术负责人和技术研 发团队是研发成果的培训者、应用技术的支持者，对于IT 服务产品，研发团队很可能 就 是相应的服务产品经理，不会是研发成果的反对者。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0028",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发管理至少应具备的条件不包括以下哪一项？( )",
+    "options": [
+      "A. 制造一个鼓励创新、适合研发的环境",
+      "B. 为使有限的资源发挥最大的效益，应将市场的观念融入研发中",
+      "C. 严格限制员工的创意，制定死板的制度",
+      "D. 研发策略的制定与掌握"
+    ],
+    "answer": "C",
+    "explanation": "15.1.4 管理要点中提到技术研发管理至少应具备的条件包括制造一个鼓励创 新、适合研发的环境，将市场的观念融入研发中，研发策略的制定与掌握，不应严格限 制员工的创意，制定死板的制度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0029",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发的需求主要来源是（ ）。",
+    "options": [
+      "A. 需方的需求和IT 服务供方的业务拓展需求",
+      "B. 仅需方的需求",
+      "C. 仅IT 服务供方的业务拓展需求",
+      "D. 市场的需求"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中指出服务产品研发的目标就是提供需方愿意购买的服务产品， 其需求主要有两个来源：需方的需求和IT 服务供方的业务拓展需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0030",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发队伍一般是一个虚拟的团队，团队中一般会设置专门的（ ）负责服 务产品的研发、推广以及团队的管理。",
+    "options": [
+      "A. 项目经理",
+      "B. 产品经理",
+      "C. 技术经理",
+      "D. 市场经理"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中提到服务产品研发队伍一般会设置专门的产品经理负责服务 产品的研发、推广以及团队的管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0031",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品的研发成果不包括以下哪一项？( )",
+    "options": [
+      "A. 服务目录",
+      "B. 服务交付方式",
+      "C. 服务质量管理",
+      "D. 服务人员的个人信息"
+    ],
+    "answer": "D",
+    "explanation": "15.1.4 管理要点中指出服务产品研发成果一般包括服务目录、服务交付方式、服 务质量管理等，不包括服务人员的个人信息。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0032",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范研发管理中，IT 服务规范化是服务产品化的（ ）。",
+    "options": [
+      "A. 前提条件",
+      "B. 后置条件",
+      "C. 无关条件",
+      "D. 唯一条件"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到IT 服务规范化是服务产品化的前提条件，只有建立IT 服务规范，IT 服务的水平才能得以稳定，IT 服务才能批量复制，才能真正实现IT 服 务产品化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0033",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范的研发队伍一般由（ ）组成。",
+    "options": [
+      "A. 质量管理负责人、资深技术专家和资深需方服务经理",
+      "B. 仅质量管理负责人",
+      "C. 仅资深技术专家",
+      "D. 仅资深需方服务经理"
+    ],
+    "answer": "A",
+    "explanation": "IT 服务规范的研发队伍需要涵盖多个角色，包括质量管理负责人、资深技术专 家和资深需方服务经理，以确保规范的全面性和实用性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0034",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范的研发过程一般为（ ）。",
+    "options": [
+      "A. 研发团队编写规范，经过测试演练之后定稿，交由评审组评审，评审通过之后由服务 交付部门负责执行，质量管理部门负责监督",
+      "B. 研发团队编写规范，直接交由评审组评审，评审通过之后由服务交付部门负责执行",
+      "C. 研发团队编写规范，经过测试演练之后定稿，直接由服务交付部门负责执行",
+      "D. 研发团队编写规范，交由评审组评审，评审通过之后由质量管理部门负责执行"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到IT 服务规范的研发过程一般为研发团队编写规范，经 过测试演练之后定稿，交由评审组评审，评审通过之后由服务交付部门负责执行，质量 管理部门负责监督。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0035",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范有过程规范和技术规范，其中技术规范需要进行测试验证，一般需要有 ( ) 。",
+    "options": [
+      "A. 相应的实验环境",
+      "B. 个人电脑和常用办公软件",
+      "C. 仅个人电脑",
+      "D. 仅常用办公软件"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中指出IT 服务规范有过程规范和技术规范，其中过程规范一 般只需要个人电脑和常用办公软件就可以满足要求；而技术规范需要进行测试验证，一 般需要有相应的实验环境。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0036",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范研发的产出物一般不包括以下哪一项？( )",
+    "options": [
+      "A. IT 服务工作指南",
+      "B. 项目开发计划",
+      "C. 过程管理规范",
+      "D. 故障处理手册"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中提到IT 服务规范研发的产出物一般为IT 服务工作指南、 过程管理规范、技术手册、故障处理手册等，不包括项目开发计划。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0037",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务工具主要分为两类，其中面向内部的服务过程管理工具主要用于（ ）。",
+    "options": [
+      "A. 内部的IT 服务管理",
+      "B. 对IT 服务对象进行数据采集和监控",
+      "C. 满足特殊要求",
+      "D. 进行安全防护"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中指出面向内部的服务过程管理工具主要用于内部的IT 服务 管理，可以提高IT 服务管理水平。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0038",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "监控工具的研发团队一般是由（ ）组成。",
+    "options": [
+      "A. 服务交付技术人员和专业软件开发人员",
+      "B. 服务交付管理人员和专业的软件人员",
+      "C. 高级运维工程师和技术专家",
+      "D. 质量管理负责人、资深技术专家和资深需方服务经理"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到监控工具和专用工具的研发团队一般是由服务交付技术 人员和专业软件开发人员组成。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0039",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务工具的研发过程可以参考（ ）。",
+    "options": [
+      "A. 软件的研发过程",
+      "B. 硬件的研发过程",
+      "C. 项目管理的过程",
+      "D. 系统集成的过程"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中指出IT 服务工具的研发一般以软件为主，集成的硬件一般 以直接采购成熟的产品为主，其研发过程可以参考软件的研发过程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0040",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务工具研发环境一般有（ ）。",
+    "options": [
+      "A. 开发环境和测试环境",
+      "B. 生产环境和测试环境",
+      "C. 开发环境和生产环境",
+      "D. 模拟环境和真实环境"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到与软件研发类似，服务工具研发环境一般有开发环境和 测试环境，需要配置必需的硬件和软件环境。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0041",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务工具研发的产出物不包括以下哪一项？( )",
+    "options": [
+      "A. 工具使用手册",
+      "B. 项目验收报告",
+      "C. 工具介绍文档",
+      "D. 工具发布包"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中提到服务工具研发的产出物一般体现为软件产品，包括工具 发布包、工具使用手册、工具介绍文档、服务工具的需求文档、设计文档和源代码等， 不包括项目验收报告。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0042",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题的相关技术主要分为两类，其中信息采集和监控的手段不包括（ ）。",
+    "options": [
+      "A. 通过专业工具自动监测获取",
+      "B. 通过人工巡查",
+      "C. 通过专业的故障诊断软件自动分析",
+      "D. 通过工作过程中的操作方法和步骤进行人工巡查"
+    ],
+    "answer": "C",
+    "explanation": "信息采集和监控通常通过专业工具、人工巡查等方式进行，而专业的故障诊断软 件主要用于自动分析问题，而非信息采集和监控。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0043",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "解决问题的相关技术中，解决问题的判断方法主要解决（ ）。",
+    "options": [
+      "A. IT 服务中遇到问题时应该如何解决问题",
+      "B. 如何对问题解决结果的正确性和有效性进行判断",
+      "C. 指导运维人员找出问题出现的根本原因",
+      "D. 制定解决问题方案和计划的思路"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中提到解决问题的判断方法这类技术主要解决如何对问题解决 结果的正确性和有效性进行判断，判断问题是否得到彻底解决。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0044",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术的研发队伍一般是由（ ）组成。",
+    "options": [
+      "A. 高级运维工程师和技术专家",
+      "B. 服务交付技术人员和专业软件开发人员",
+      "C. 服务交付管理人员和专业的软件人员",
+      "D. 质量管理负责人、资深技术专家和资深需方服务经理"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中指出发现问题和解决问题相关技术的研发团队一般是由高级 运维工程师和技术专家组成。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0045",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发，如果是技术手册资料研发，其过程不包括 ( ) 。",
+    "options": [
+      "A. 建立专门的研发小组，确定研发目标",
+      "B. 按照研发分工，分头完成相关内容的编写",
+      "C. 直接发布执行",
+      "D. 经过测试演练之后定稿，交由评审组评审，评审通过后上传知识库，发布执行"
+    ],
+    "answer": "C",
+    "explanation": "15.1.4 管理要点中提到如果是技术手册资料研发，则按照研发分工，分头完成相 关内容的编写，经过测试演练之后定稿，交由评审组评审，评审通过后上传知识库，发 布执行，不是直接发布执行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0046",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发一般需要（ ）。",
+    "options": [
+      "A. 相应的实验环境，配置必需的硬件和软件",
+      "B. 仅个人电脑和常用办公软件",
+      "C. 仅网络环境",
+      "D. 仅软件环境"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到发现问题和解决问题相关技术研发一般需要相应的实验 环境，需要配置必需的硬件和软件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0047",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发的产出物不包括以下哪一项？( )",
+    "options": [
+      "A. 具备问题诊断分析功能的软硬件工具",
+      "B. 项目可行性报告",
+      "C. 故障分析诊断技术文档",
+      "D. 解决问题操作手册"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中提到发现问题和解决问题相关技术研发的产出物一般包括具 备问题诊断分析功能和有助于问题解决的软硬件工具，故障分析诊断技术文档和相关技 术资料，故障诊断作业指导书，知识案例库，解决问题操作手册等，不包括项目可行性 报告。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0048",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术可以分为两类，其中支撑需方业务的新技术的应用（ ）。",
+    "options": [
+      "A. 必然会提供新的IT 服务机会",
+      "B. 对IT 服务没有影响",
+      "C. 会降低IT 服务的质量",
+      "D. 会减少IT 服务的范围"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到支撑需方业务的新技术的应用必然会提供新的IT 服务 机会，提前进行技术储备可以确保在将来的环境发展中占得先机。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0049",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术的研究队伍一般是由（ ）组成。",
+    "options": [
+      "A. 资深技术专家",
+      "B. 高级运维工程师",
+      "C. 服务交付技术人员",
+      "D. 专业软件开发人员"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中指出新技术的研究团队一般是由资深技术专家组成。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0050",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术研究一般是由资深技术专家对新技术进行跟踪研究，并进行（ ）。",
+    "options": [
+      "A. 新技术应用前景分析和知识积累",
+      "B. 直接应用到生产中",
+      "C. 进行市场推广",
+      "D. 进行产品开发"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到新技术研究一般是由资深技术专家对新技术进行跟踪研 究，并进行新技术应用前景分析和知识积累，在时机成熟之后在内部进行知识传递。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0051",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术研究一般需要（ ）。",
+    "options": [
+      "A. 相应的实验环境，配置必需的硬件和软件",
+      "B. 仅软件环境",
+      "C. 仅硬件环境",
+      "D. 仅网络环境"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到新技术研究一般需要相应的实验环境，需要配置必需的 硬件和软件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0052",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术研究的产出物不包括以下哪一项？( )",
+    "options": [
+      "A. 应用前景分析报告",
+      "B. 技术文档",
+      "C. 项目验收报告",
+      "D. 培训教材"
+    ],
+    "answer": "C",
+    "explanation": "15.1.4 管理要点中提到新技术研究的产出物一般为应用前景分析报告、技术文 档和培训教材，不包括项目验收报告。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0053",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 技术的应用在组织管理中变得越来越重要，IT 技术在组织内能良好地应用，需 要( ) 。",
+    "options": [
+      "A. 有一套应用与推广的机制作为保障",
+      "B. 仅依靠技术人员",
+      "C. 仅依靠管理人员",
+      "D. 不需要任何保障"
+    ],
+    "answer": "A",
+    "explanation": "15.2.1 管理要点中提到IT 技术在组织内能良好地应用，需要有一套应用与推 广的机制作为保障。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0054",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术或研发的新系统、新工具应进行技术评定，形成技术评定报告，经审批后对 新技术进行（ ）。",
+    "options": [
+      "A. 测试",
+      "B. 直接推广",
+      "C. 放弃使用",
+      "D. 重新研发"
+    ],
+    "answer": "A",
+    "explanation": "15.2.1 管理要点中提到新技术或研发的新系统、新工具应进行技术评定，形成技 术评定报告，经审批后对新技术进行测试，通过测试并证明有效性后可形成验收报告， 进行推广阶段。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0055",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在技术应用的管理要点中，对技术引进与服务创新的风险能够进行分析并采取有效 控制措施属于（ ）。",
+    "options": [
+      "A. 技术风险与机遇",
+      "B. 判断与选择",
+      "C. 技术验证",
+      "D. 技术决策"
+    ],
+    "answer": "A",
+    "explanation": "15.2.1 管理要点中提到技术风险与机遇包括对技术引进与服务创新的风险能够 进行分析并采取有效控制措施等内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0056",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "通过科学的方法，对技术在服务中的应用效果进行判断与选择属于（ ）。",
+    "options": [
+      "A. 技术风险与机遇",
+      "B. 判断与选择",
+      "C. 技术验证",
+      "D. 技术决策"
+    ],
+    "answer": "B",
+    "explanation": "15.2.1 管理要点中指出判断与选择包括通过科学的方法，对技术在服务中的应 用效果进行判断与选择等内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0057",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对性价比较高、风险较大的技术应用应进行验证属于（ ）。",
+    "options": [
+      "A. 技术风险与机遇",
+      "B. 判断与选择",
+      "C. 技术验证",
+      "D. 技术决策"
+    ],
+    "answer": "C",
+    "explanation": "15.2.1 管理要点中提到技术验证包括对性价比较高、风险较大的技术应用应进 行验证等内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0058",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术方向的选择属于（ ）。",
+    "options": [
+      "A. 技术风险与机遇",
+      "B. 判断与选择",
+      "C. 技术验证",
+      "D. 技术决策"
+    ],
+    "answer": "D",
+    "explanation": "15.2.1 管理要点中指出技术决策包括技术方向的选择等内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0059",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "将技术传递给人员，转变成人员的服务能力属于（ ）。",
+    "options": [
+      "A. 技术风险与机遇",
+      "B. 技术应用",
+      "C. 技术验证",
+      "D. 技术决策"
+    ],
+    "answer": "B",
+    "explanation": "15.2.1 管理要点中提到技术应用包括将技术传递给人员，转变成人员的服务能 力等内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0060",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "应定期评估技术实现状态属于（ ）。",
+    "options": [
+      "A. 技术风险与机遇",
+      "B. 技术实现跟踪管理",
+      "C. 技术验证",
+      "D. 技术决策"
+    ],
+    "answer": "B",
+    "explanation": "15.2.1 管理要点中提到技术实现跟踪管理包括应定期评估技术实现状态等内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0061",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识转移是技术部署实施的重要环节，完备的知识转移可带来的效果不包括（ ）。",
+    "options": [
+      "A. 提高IT 服务技术支撑能力",
+      "B. 增加风险",
+      "C. 缩减成本",
+      "D. 提升效率"
+    ],
+    "answer": "B",
+    "explanation": "15.2.2 主要应用中提到完备的知识转移可提高IT 服务技术支撑能力，降低风 险，缩减成本，提升效率，不会增加风险。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0062",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识转移的内容中，历史运维资料不包括（ ）。",
+    "options": [
+      "A. 系统部署和网络物理拓扑",
+      "B. 相关工作界面和人员职责说明书",
+      "C. 内外部支持信息",
+      "D. 系统应急、容灾处理方案"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到历史运维资料包括相关工作界面和人员职责说明书、内 外部支持信息，系统部署和网络物理拓扑属于基础架构资料。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0063",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "基础架构资料中不包括以下哪一项？( )",
+    "options": [
+      "A. 系统数据备份与恢复操作说明书",
+      "B. 应用系统测试报告",
+      "C. 系统架构说明，软/硬件配置",
+      "D. 系统日常运维操作手册"
+    ],
+    "answer": "B",
+    "explanation": "15.2.2 主要应用中提到基础架构资料包括系统部署和网络物理拓扑、系统架构 说明，软/硬件配置、系统数据备份与恢复操作说明书、系统应急、容灾处理方案、系 统 日常运维操作手册等，应用系统测试报告属于应用系统资料。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0064",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "应用系统资料不包括（ ）。",
+    "options": [
+      "A. 业务架构图",
+      "B. 应用系统使用手册",
+      "C. 应用系统需求和设计文档",
+      "D. 应用版本说明"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到应用系统资料包括应用系统测试报告、应用系统使用手 册、应用系统需求和设计文档、应用系统安装配置手册、应用版本说明等，业务架构图 属于业务资料。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0065",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "业务资料中不包括以下哪一项？( )",
+    "options": [
+      "A. 业务培训资料",
+      "B. 系统安全验证和评估报告",
+      "C. 业务场景说明",
+      "D. 业务运维文档"
+    ],
+    "answer": "B",
+    "explanation": "15.2.2 主要应用中提到业务资料包括业务架构图、业务流程、业务场景说明、业 务培训资料、业务运维文档等，系统安全验证和评估报告不属于业务资料。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0066",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "应急预案适用于组织IT 系统发生的情况不包括（ ）。",
+    "options": [
+      "A. 自然灾害引起的对IT 系统的灾难性破坏",
+      "B. 日常的系统维护",
+      "C. 网络通信设备、通信线路故障导致IT 系统的重大故障",
+      "D. IT 系统发生网络攻击破坏、计算机病毒传播等引发的重大安全突发事件"
+    ],
+    "answer": "B",
+    "explanation": "15.2.2 主要应用中提到应急预案适用于组织IT 系统发生重大系统性故障等情 况，如自然灾害、网络通信设备故障、网络攻击等，日常的系统维护不属于此范围。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0067",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "应急演练原则不包括（ ）。",
+    "options": [
+      "A. 结合实际、合理定位",
+      "B. 着眼实战、讲求实效",
+      "C. 随意组织、不考虑安全",
+      "D. 统筹规划、厉行节约"
+    ],
+    "answer": "C",
+    "explanation": "15.2.2 主要应用中提到应急演练原则包括结合实际、合理定位，着眼实战、讲求 实效，精心组织、确保安全，统筹规划、厉行节约，不包括随意组织、不考虑安全。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0068",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "SOP 的精髓是（ ）。",
+    "options": [
+      "A. 将细节进行量化",
+      "B. 随意编写操作步骤",
+      "C. 不考虑效率和成本",
+      "D. 不关注关键控制点"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到SOP 的精髓是将细节进行量化，用更通俗的话来说，SOP 就是对某一程序中的关键控制点进行细化和量化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0069",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "SOP 的作用不包括（ ）。",
+    "options": [
+      "A. 使操作人员经过长期培训才能掌握操作技术",
+      "B. 将组织积累下来的技术和经验记录在标准文件中",
+      "C. 树立良好的服务形象，取得客户信赖与满意",
+      "D. 实现服务管理规范化、服务流程条理化、标准化"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到SOP 能使操作人员经过短期培训，快速掌握较为先进合 理的操作技术，A 选项说法错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0070",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "SOP 的编写通常需要遵循的原则不包括（ ）。",
+    "options": [
+      "A. 在人力、财力、物力等资源允许的范围内无法做到",
+      "B. IT 服务人员都能看懂，且每个人的理解都相同",
+      "C. 效率最高和成本最低，并识别出关键风险点",
+      "D. SOP 正式发布前要经过测试与评价环节"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到SOP 的编写应在人力、财力、物力等资源允许的范围内 可以做到，A 选项说法错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0071",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术手册发布的流程包括（ ）。",
+    "options": [
+      "A. 审核、存档、发放",
+      "B. 编写、审核、发放",
+      "C. 编写、存档、发放",
+      "D. 编写、审核、存档"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到技术手册发布的流程包括审核、存档、发放。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0072",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "搭建测试环境的目的不包括（ ）。",
+    "options": [
+      "A. 验证技术的可行性和可靠性",
+      "B. 增加客户和服务提供方的信心",
+      "C. 增加突发事件的发生率",
+      "D. 规避IT 服务的潜在缺陷"
+    ],
+    "answer": "C",
+    "explanation": "15.2.2 主要应用中提到搭建测试环境可以验证技术的可行性和可靠性等，有效 减少突发事件的发生率，C 选项说法错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0073",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果进行培训与知识转移不包括以下哪一项？( )",
+    "options": [
+      "A. 知识性研发成果培训",
+      "B. 工具类研发成果培训",
+      "C. 对员工的生活技能培训",
+      "D. 应急预案与解决方案手册的知识转移"
+    ],
+    "answer": "C",
+    "explanation": "15.2.2 主要应用中提到对技术成果进行培训与知识转移包括知识性研发成果培 训、工具类研发成果培训、应急预案与解决方案手册的知识转移，不包括对员工的生活 技能培训。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0074",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果的内容进行演练或推演包括（ ）。",
+    "options": [
+      "A. 演练和推演",
+      "B. 仅演练",
+      "C. 仅推演",
+      "D. 测试和评估"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到对技术成果的内容进行演练或推演包括演练和推演。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0075",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果进行优化改进是根据（ ），对技术成果进行新一轮的开发。",
+    "options": [
+      "A. 分析或在实践中的信息",
+      "B. 领导的想法",
+      "C. 员工的建议",
+      "D. 市场的随机变化"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到对技术成果进行评价与评估，根据分析或在实践中的信 息，对技术成果进行新一轮的开发，并增加相应的预算。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0076",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "根据GB/T 21374—2008《知识产权文献与信息基本词汇》，知识产权不包括以下哪 一项？( )",
+    "options": [
+      "A. 专利",
+      "B. 员工个人隐私",
+      "C. 著作权",
+      "D. 商业秘密"
+    ],
+    "answer": "B",
+    "explanation": "15.3.1 目标和范围中提到知识产权范围包括专利、商标、著作权及相关权、集成 电路布图设计、地理标志、植物新品种、商业秘密、传统知识、遗传资源以及民间文艺 等，不包括员工个人隐私。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0077",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权对于组织的重要性不包括（ ）。",
+    "options": [
+      "A. 保护组织的技术创新成果，使其能够独占市场获取利润",
+      "B. 防止他人对组织的技术、品牌等进行侵权",
+      "C. 阻碍组织之间的合作和交流",
+      "D. 是组织核心竞争力和创新能力的重要保障"
+    ],
+    "answer": "C",
+    "explanation": "15.3.1 目标和范围中指出知识产权可以促进组织之间的合作和交流，提高行业 的整体创新能力，而不是阻碍，C 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0078",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "专利权是指（ ）。",
+    "options": [
+      "A. 商标所有人对其商标使用和保护的专有权利",
+      "B. 作品的作者对其作品使用和保护的专有权利",
+      "C. 对于发明的一种技术解决方案所享有的专有权利",
+      "D. 组织所拥有的商业信息和技术信息"
+    ],
+    "answer": "C",
+    "explanation": "15.3.1 目标和范围中明确专利权是指对于发明的一种技术解决方案所享有的专 有权利。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0079",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "商标权是指（ ）。",
+    "options": [
+      "A. 对于发明的一种技术解决方案所享有的专有权利",
+      "B. 商标所有人对其商标使用和保护的专有权利",
+      "C. 作品的作者对其作品使用和保护的专有权利",
+      "D. 组织所拥有的商业信息和技术信息"
+    ],
+    "answer": "B",
+    "explanation": "15.3.1 目标和范围中提到商标权是指商标所有人对其商标使用和保护的专有权 利。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0080",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "著作权是指（ ）。",
+    "options": [
+      "A. 对于发明的一种技术解决方案所享有的专有权利",
+      "B. 商标所有人对其商标使用和保护的专有权利",
+      "C. 作品的作者对其作品使用和保护的专有权利",
+      "D. 组织所拥有的商业信息和技术信息"
+    ],
+    "answer": "C",
+    "explanation": "15.3.1 目标和范围中指出著作权是指作品的作者对其作品使用和保护的专有权 利。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0081",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "商业秘密是指（ ）。",
+    "options": [
+      "A. 对于发明的一种技术解决方案所享有的专有权利",
+      "B. 商标所有人对其商标使用和保护的专有权利",
+      "C. 作品的作者对其作品使用和保护的专有权利",
+      "D. 组织所拥有的商业信息和技术信息"
+    ],
+    "answer": "D",
+    "explanation": "15.3.1 目标和范围中提到商业秘密是指组织所拥有的商业信息和技术信息。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0082",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "规范的知识产权管理能够使组织不具备以下哪项能力？( )",
+    "options": [
+      "A. 随时了解核心技术的发展状况和法律状态",
+      "B. 明确自身的产品定位和市场定位",
+      "C. 增加知识产权风险",
+      "D. 防范可能带来的法律风险"
+    ],
+    "answer": "C",
+    "explanation": "规范的知识产权管理有助于组织了解技术发展状况、明确产品定位、防范法律风 险，但会增加知识产权风险的说法是错误的，规范管理正是为了降低风险。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0083",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织在技术与研发管理方面对知识产权管理的需求不包括（ ）。",
+    "options": [
+      "A. 研发新技术、新产品、新工艺",
+      "B. 降低产品附加值，缩小市场份额",
+      "C. 防范知识产权风险，保障经营安全",
+      "D. 提高生产经营效率，增加经济效益"
+    ],
+    "answer": "B",
+    "explanation": "15.3.1 目标和范围中提到组织在技术与研发管理方面对知识产权管理的需求包 括研发新技术、新产品、新工艺，提高产品附加值，扩大市场份额，防范知识产权风险， 保障经营安全，提高生产经营效率，增加经济效益等，B 选项中降低产品附加值、缩小 市场份额错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0084",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权管理是组织对其拥有的知识产权进行一系列活动的总称，这些活动不包括 ( ) 。",
+    "options": [
+      "A. 统计、归纳",
+      "B. 随意处置",
+      "C. 分析、规划",
+      "D. 布局、运用"
+    ],
+    "answer": "B",
+    "explanation": "15.3.2 管理职责中提到知识产权管理是组织对其拥有的知识产权按照组织的发 展目标、方针、战略进行统计、归纳、分析、规划、布局、运用和处理等系列活动，不 是随意处置，B 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0085",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织知识产权管理的指导原则不包括（ ）。",
+    "options": [
+      "A. 战略导向",
+      "B. 领导忽视",
+      "C. 全员参与",
+      "D. 全程管理"
+    ],
+    "answer": "B",
+    "explanation": "15.3.2 管理职责中提到组织知识产权管理的指导原则包括战略导向、领导重视、 全员参与、全程管理，领导忽视不属于指导原则，B 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0086",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "最高管理者在组织知识产权管理中不应该（ ）。",
+    "options": [
+      "A. 确保组织知识产权管理以高质量发展为目标，提升市场竞争力",
+      "B. 忽视知识产权合规承诺",
+      "C. 确保维护知识产权合规承诺，并妥善处理不合规行为",
+      "D. 确保知识产权合规义务得以履行，识别、应对和预防知识产权风险"
+    ],
+    "answer": "B",
+    "explanation": "15.3.2 管理职责中提到最高管理者应该确保维护知识产权合规承诺，并妥善处 理不合规行为，而不是忽视，B 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0087",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织知识产权管理机构承担的职责不包括（ ）。",
+    "options": [
+      "A. 推进识别知识产权合规义务，监督职责分配",
+      "B. 负责组织知识产权工作计划制订和实施，但不监督和考核完成情况",
+      "C. 负责组织知识产权日常管理工作",
+      "D. 统筹与其他管理机构相关的知识产权管理工作"
+    ],
+    "answer": "B",
+    "explanation": "15.3.2 管理职责中提到组织知识产权管理机构负责组织知识产权工作计划制订 和实施，监督和考核完成情况，B 选项中不监督和考核完成情况错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0088",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "为加强组织对研发成果所涉及的知识产权的管理，制定知识产权管理制度或流程不 包括以下哪项措施？( )",
+    "options": [
+      "A. 识别组织知识产权管理目标及实现目标的方法，确定所需资源",
+      "B. 随意确定组织的知识产权类型和管理重点",
+      "C. 按知识产权类型制定获取、维护、运用、保护过程控制的要求",
+      "D. 确定并保持、保留成文信息，确保有效沟通"
+    ],
+    "answer": "B",
+    "explanation": "15.3.3 管理制度和流程中提到应确定组织的知识产权类型和管理重点，不是随 意确定，B 选项错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0089",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权获取措施中，不包括以下哪一项？( )",
+    "options": [
+      "A. 根据知识产权目标，制订获取计划，明确获取方式或途径",
+      "B. 不建立审核机制，随意申请专利",
+      "C. 确保专利质量得到管控，申请前进行检索和分析",
+      "D. 适时办理作品登记，明确著作权权属"
+    ],
+    "answer": "B",
+    "explanation": "15.3.3 管理制度和流程中提到知识产权获取要建立必要的审核机制或工作流程， 防止非正常申请专利行为等，B 选项中不建立审核机制，随意申请专利错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0090",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权的维护不包括（ ）。",
+    "options": [
+      "A. 建立知识产权分类管理档案，进行日常维护",
+      "B. 忽视知识产权权属变更与放弃",
+      "C. 进行知识产权相关会计信息披露",
+      "D. 对涉及知识产权的产品和/或服务的资料加以保管"
+    ],
+    "answer": "B",
+    "explanation": "15.3.3 管理制度和流程中提到知识产权维护要注意知识产权权属变更与放弃等 方面，忽视知识产权权属变更与放弃错误，B 选项符合题意。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0091",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权运用中，促进知识产权的实施和使用，组织可对已实施和使用的知识产权 ( ) 。",
+    "options": [
+      "A. 评估其对组织的贡献",
+      "B. 不进行任何评估",
+      "C. 随意改变使用方式",
+      "D. 禁止使用"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到对于已实施和使用的知识产权，组织可评估知识 产权对组织的贡献，A 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0092",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权许可或转让前，不应（ ）。",
+    "options": [
+      "A. 制定许可或转让方案",
+      "B. 不进行任何评估就转让",
+      "C. 根据相关方要求开展或自行开展知识产权评估",
+      "D. 履行相关审查、备案或登记程序"
+    ],
+    "answer": "B",
+    "explanation": "15.3.3 管理制度和流程中提到知识产权许可或转让前，应制定许可或转让方 案， 根据相关方要求开展或自行开展知识产权评估，并履行相关审查、备案或登记程序，B 选项不进行任何评估就转让错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0093",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织开展投融资活动前，对投融资活动对象涉及的知识产权应（ ）。",
+    "options": [
+      "A. 开展尽职调查，评估其风险和价值",
+      "B. 不进行任何调查",
+      "C. 随意投资，不考虑知识产权风险",
+      "D. 只关注投资收益，不关注知识产权"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到组织开展投融资活动前，对投融资活动对象涉及 的知识产权开展尽职调查，评估其风险和价值，A 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0094",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "企业合并或并购前，关于知识产权的工作不包括（ ）。",
+    "options": [
+      "A. 开展知识产权尽职调查",
+      "B. 不考虑相关方知识产权状况",
+      "C. 根据合并或并购的目的设定调查内容",
+      "D. 进行知识产权评估"
+    ],
+    "answer": "B",
+    "explanation": "15.3.3 管理制度和流程中提到企业合并或并购前，开展知识产权尽职调查，根据 合并或并购的目的设定对相关方知识产权状况的调查内容，并进行知识产权评估，B 选 项不考虑相关方知识产权状况错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0095",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织参与标准化组织前，应（ ）。",
+    "options": [
+      "A. 了解标准化组织的知识产权政策",
+      "B. 不关注知识产权政策",
+      "C. 随意提交包含专利的技术方案",
+      "D. 不做任何准备"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到组织参与标准化组织前，了解标准化组织的知识 产权政策，A 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0096",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权保护主要包括（ ）。",
+    "options": [
+      "A. 风险管理和争议处理",
+      "B. 只关注风险管理",
+      "C. 只关注争议处理",
+      "D. 不进行任何保护措施"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到知识产权保护主要包括风险管理和争议处理两个 方面，A 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0097",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权风险管理中，不应（ ）。",
+    "options": [
+      "A. 采取措施，避免或降低生产经营活动中侵犯他人知识产权的风险",
+      "B. 忽视产品及工艺可能涉及他人知识产权的状况",
+      "C. 将知识产权纳入组织风险管理范围",
+      "D. 建立涉密人员、涉密载体等的管理要求"
+    ],
+    "answer": "B",
+    "explanation": "15.3.3 管理制度和流程中提到应定期监控产品及工艺可能涉及他人知识产权的 状况，分析可能发生的纠纷及其对组织的损害程度，提出防范与应对预案，忽视产品及 工艺可能涉及他人知识产权的状况错误，B 选项符合题意。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0098",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权争议处理中，处理知识产权纠纷时应（ ）。",
+    "options": [
+      "A. 评估通过协商、诉讼、仲裁、调解等不同处理方式对组织的影响，选取适宜的争议解 决方式",
+      "B. 随意选择一种处理方式，不考虑对组织的影响",
+      "C. 只选择诉讼方式",
+      "D. 只选择协商方式"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到在处理知识产权纠纷时，评估通过协商、诉讼、仲 裁、调解等不同处理方式对组织的影响，选取适宜的争议解决方式，A 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0099",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权合规管理是为了（ ）。",
+    "options": [
+      "A. 防止知识产权的泄露和侵权行为的发生",
+      "B. 故意泄露知识产权",
+      "C. 鼓励侵权行为",
+      "D. 不进行任何管理"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到创建管理制度和流程，防止知识产权的泄露和侵 权行为的发生，A 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0100",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织应策划并实施必要的监控和审查，评价知识产权合规管理体系的绩效，定期根 据获得的数据和信息进行分析并形成结果，利用分析结果不评价以下哪一项？( )",
+    "options": [
+      "A. 知识产权价值实现的符合性",
+      "B. 组织员工的个人生活情况",
+      "C. 知识产权合规体系的绩效和有效性",
+      "D. 策划是否得到实施"
+    ],
+    "answer": "B",
+    "explanation": "15.3.4 评价、审核与改进中提到利用分析结果对知识产权价值实现的符合性、知 识产权合规体系的绩效和有效性、策划是否得到实施等方面进行评价，不包括组织员工 的个人生活情况，B 选项符合题意。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0101",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发管理中，研发团队的组建原则是（ ）。",
+    "options": [
+      "A. 只包含研发部门人员",
+      "B. 涵盖所有可能涉及研发工作的部门和岗位",
+      "C. 只选择技术能力最强的人员",
+      "D. 随机挑选人员"
+    ],
+    "answer": "B",
+    "explanation": "15.1.1 目标和范围中提到研发团队并不仅仅包含研发部门或技术部门，而应将 组织内所有可能涉及研发工作的部门和岗位作为技术研发的参与对象加以管理，B 选项 正 确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0102",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发需求负责人在提出研发需求后，需要（ ）。",
+    "options": [
+      "A. 直接进行研发",
+      "B. 与技术研发部门一起进行技术研发项目规划和立项申请",
+      "C. 等待技术研发部门自行规划",
+      "D. 不需要参与后续工作"
+    ],
+    "answer": "B",
+    "explanation": "15.1.2 组织架构中提到技术研发需求负责人在经过相关调研和论证的基础上提 出研发需求，在通过初审之后与技术研发部门一起进行技术研发项目规划和立项申请， B 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0103",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发过程中，监控过程的主要形式不包括（ ）。",
+    "options": [
+      "A. 研发团队内部的项目周报监控",
+      "B. 随意检查",
+      "C. 质量审计监控",
+      "D. 内审和管理评审监控"
+    ],
+    "answer": "B",
+    "explanation": "15.1.3 管理过程中提到监控的形式可多样化，例如研发团队内部的项目周报、月 度报告、里程碑总结报告的监控，以及质量审计、内审和管理评审等监控，随意检查不 属于主要监控形式，B 选项符合题意。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0104",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发中，服务目录不包括以下哪项内容？( )",
+    "options": [
+      "A. 服务名称",
+      "B. 服务人员的私人联系方式",
+      "C. 服务内容",
+      "D. 服务级别协议"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中提到服务目录是服务产品的重要信息，包括服务名称、服务对 象、服务内容、服务价值、服务交付形式、服务级别协议等，不包括服务人员的私人联 系方式，B 选项符合题意。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0105",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范研发的产出物中，过程管理规范主要用于（ ）。",
+    "options": [
+      "A. 规范服务过程的操作步骤和要求",
+      "B. 解决技术难题",
+      "C. 进行服务工具的研发",
+      "D. 开展新技术研究"
+    ],
+    "answer": "A",
+    "explanation": "过程管理规范的主要目的是规范服务过程的操作步骤和要求，以确保服务的一致 性和质量。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0106",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务工具研发中，监控工具的主要作用是（ ）。",
+    "options": [
+      "A. 对IT 服务对象进行数据采集和监控，评估可能导致故障的因素",
+      "B. 进行内部的IT 服务管理",
+      "C. 满足特殊要求",
+      "D. 提供安全防护"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到监控工具主要对IT 服务对象进行数据采集和监控，评 估可能导致IT 服务对象故障的因素，可以显著提高运维的可视性、操作的便利性和安 全性，A 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0107",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发中，诊断和分析问题的方法不包括（ ）。",
+    "options": [
+      "A. 通过专业的故障诊断软件自动分析",
+      "B. 随意猜测问题原因",
+      "C. 通过人工方式按照技术文档对运行情况数据进行对比分析",
+      "D. 通过硬件诊断工具人工使用分析"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中提到诊断和分析问题的方法可以通过专业的故障诊断软件或 硬件诊断工具自动或人工使用分析，也可以通过人工方式按照技术文档对运行情况数据 进行对比分析或趋势分析，随意猜测问题原因不属于诊断和分析问题的方法，B 选项 符合题 意。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0108",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术研究中，支撑IT 服务的新技术的应用可以（ ）。",
+    "options": [
+      "A. 提升IT 服务的质量和效率",
+      "B. 降低IT 服务的质量和效率",
+      "C. 对IT 服务没有影响",
+      "D. 增加IT 服务的成本且降低效率"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到支撑IT 服务的新技术的应用可以有机会提升IT 服务 的质量和效率，A 选项正确。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0109",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 技术应用中，技术决策不包括以下哪一项？( )",
+    "options": [
+      "A. 技术实现条件分析",
+      "B. 服务中使用的相关技术的选择",
+      "C. 技术应用人员的选择",
+      "D. 技术方向的选择"
+    ],
+    "answer": "C",
+    "explanation": "15.2.1 管理要点中提到技术决策包括技术方向的选择、服务中使用的相关技术 的选择、服务工具使用的技术选择、技术可行性分析等，不包括技术应用人员的选择， C 选项符合题意。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0110",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发管理过程中，规划评审发布属于（ ）阶段的工作。",
+    "options": [
+      "A. 规划过程",
+      "B. 实施过程",
+      "C. 监控过程",
+      "D. 应用过程"
+    ],
+    "answer": "A",
+    "explanation": "15.1.3 管理过程中明确提到技术研发规划阶段的工作主要有研发需求调研、确 定研发目标、制定研发方案、投入产出分析、形成立项报告、规划评审发布等，所以规 划评审发布属于规划过程阶段的工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0111",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在技术研发实施阶段，实施计划中关于各项任务的时间进度安排是围绕（ ）确定 的。",
+    "options": [
+      "A. 项目负责人的意愿",
+      "B. 研发资源的分配情况",
+      "C. 研发目标",
+      "D. 市场竞争情况"
+    ],
+    "answer": "C",
+    "explanation": "15.1.3 管理过程中指出实施计划是研发团队根据研发目标，对研发实施工作所 进行的各项活动做出周密安排，各项任务的时间进度等都应围绕研发目标确定。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0112",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发监控过程中，当实际情况与计划发生偏差时，应采取的措施是（ ）。",
+    "options": [
+      "A. 忽视偏差，继续按原计划进行",
+      "B. 及时采取措施，纠正偏差",
+      "C. 重新制定计划，放弃原计划",
+      "D. 等待上级指示，再做决定"
+    ],
+    "answer": "B",
+    "explanation": "15.1.3 管理过程中提到为确保技术研发能够按照计划完成研发目标，当实际情 况与计划发生偏差时要及时采取措施，纠正偏差，保证达成研发目标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0113",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "研发成果应用中，组织技术负责人和技术研发团队作为研发成果的培训者，主要培 训的对象是（ ）。",
+    "options": [
+      "A. 组织内部的高层管理人员",
+      "B. 服务交付团队等相关使用部门人员",
+      "C. 外部合作企业人员",
+      "D. 行业内其他竞争企业人员"
+    ],
+    "answer": "B",
+    "explanation": "15.1.3 管理过程中提到对于IT 服务产品，研发团队很可能就是相应的服务产 品经理，应有责任将研发的IT 服务产品贯彻到服务交付团队，并指导交付团队进行服 务交付，所以培训对象主要是服务交付团队等相关使用部门人员。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0114",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发定位时，需考虑研发该服务产品是为了获取直接的经济利益还是为了 提高需方对服务的黏着度，这体现了对（ ）的思考。",
+    "options": [
+      "A. 服务产品研发的市场策略",
+      "B. 服务产品研发的技术可行性",
+      "C. 服务产品研发的成本控制",
+      "D. 服务产品研发的团队组建"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中在服务产品研发定位时思考获取经济利益还是提高需方黏着 度等问题，这涉及到服务产品如何进入市场、吸引客户，属于市场策略方面的思考。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0115",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发队伍中的产品经理负责的工作不包括（ ）。",
+    "options": [
+      "A. 服务产品的研发",
+      "B. 组织的战略规划制定",
+      "C. 服务产品的推广",
+      "D. 研发队伍的管理"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中提到服务产品研发队伍一般会设置专门的产品经理负责服务 产品的研发、推广以及团队的管理，组织的战略规划制定通常不是产品经理的职责。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0116",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范研发队伍中的资深需方服务经理，其主要作用是（ ）。",
+    "options": [
+      "A. 从需方角度确保规范符合实际服务需求",
+      "B. 负责规范的技术审核",
+      "C. 主导规范的编写工作",
+      "D. 管理规范研发的成本"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，IT 服务规范研发队伍包含资深需方服务经理，其熟悉需方 需求，能从需方角度确保规范符合实际服务需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0117",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范研发过程中，评审组评审通过后，规范由（ ）负责执行。",
+    "options": [
+      "A. 研发团队",
+      "B. 质量管理部门",
+      "C. 服务交付部门",
+      "D. 技术研发决策负责人"
+    ],
+    "answer": "C",
+    "explanation": "15.1.4 管理要点中提到IT 服务规范经过测试演练之后定稿，交由评审组评审， 评审通过之后由服务交付部门负责执行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0118",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务工具研发中，服务过程管理工具研发团队的专业软件人员主要负责（ ）。",
+    "options": [
+      "A. 工具的需求分析",
+      "B. 工具的软件编程实现",
+      "C. 工具的市场推广",
+      "D. 工具的使用培训"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中，服务过程管理工具的研发团队一般是由服务交付管理人员 和专业的软件人员组成，专业软件人员主要负责工具的软件编程实现，将需求转化为实 际可用的软件工具。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0119",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发中，如果是工具类研发，其研发过程参照（ ）。",
+    "options": [
+      "A. 新技术研究过程",
+      "B. 服务工具研发管理过程",
+      "C. IT 服务规范研发过程",
+      "D. 服务产品研发过程"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中提到发现问题和解决问题相关技术研发如果是工具类研发， 则按照上面服务工具研发管理过程执行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0120",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术研究过程中，在时机成熟之后进行的活动是（ ）。",
+    "options": [
+      "A. 在内部进行知识传递",
+      "B. 直接将新技术应用到生产中",
+      "C. 对新技术进行商业推广",
+      "D. 重新评估新技术的研究方向"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到新技术研究一般是由资深技术专家对新技术进行跟踪研 究，并进行新技术应用前景分析和知识积累，在时机成熟之后在内部进行知识传递。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0121",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 技术应用中，技术验证环节对于性价比较高、风险较大的技术应用，除了进行 验证，必要时还需要（ ）。",
+    "options": [
+      "A. 立即投入使用",
+      "B. 开发技术原型，验证应用效果",
+      "C. 放弃该技术应用",
+      "D. 直接进行技术决策"
+    ],
+    "answer": "B",
+    "explanation": "15.2.1 管理要点中提到对性价比较高、风险较大的技术应用应进行验证，必要时， 开发技术原型，验证技术在服务中的应用效果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0122",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识转移内容中的业务流程资料，主要用于（ ）。",
+    "options": [
+      "A. 让运维人员了解业务的操作流程和功能实现方式",
+      "B. 进行系统架构的优化",
+      "C. 制定组织的战略规划",
+      "D. 开展市场推广活动"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到业务流程资料包括系统交互、工作流说明、业务功能说 明、业务对象说明等，这些内容有助于运维人员了解业务的操作流程和功能实现方式， 以便更好地提供IT 服务。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0123",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "应急响应预案的制定中，对于自然灾害引起的对IT 系统的灾难性破坏这一情形， 在制定预案时重点考虑的是（ ）。",
+    "options": [
+      "A. 如何快速恢复系统，减少损失",
+      "B. 追究相关人员责任",
+      "C. 如何预防自然灾害发生",
+      "D. 如何进行灾后重建"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到应急预案适用于多种IT 系统重大突发事件，对于自然 灾害引起的破坏，在制定预案时重点应是如何快速恢复系统，减少损失，保障业务的连 续性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0124",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "SOP 编写原则中，要求在人力、财力、物力等资源允许的范围内可以做到，这体现 了SOP 编写的（ ）原则。",
+    "options": [
+      "A. 可行性",
+      "B. 易懂性",
+      "C. 高效性",
+      "D. 可迭代性"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到SOP 编写需在人力、财力、物力等资源允许的范围内可 以做到，这确保了SOP 在实际操作中能够得以实施，体现的是可行性原则。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0125",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术手册发布流程中，存档环节采用分级管理的方法，其目的是（ ）。",
+    "options": [
+      "A. 便于使用者快速定位到所需要查看的技术手册",
+      "B. 提高技术手册的安全性",
+      "C. 减少技术手册的存储空间",
+      "D. 规范技术手册的管理流程"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到为了能够使技术手册实现高效使用，应采用分级管理的 方法，分级管理便于使用者快速定位到所需要查看的技术手册。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0126",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "搭建测试环境时，运用各类测试模拟工具模拟真实环境中的场景，主要目的是（ ）。",
+    "options": [
+      "A. 验证技术的可行性和可靠性",
+      "B. 测试模拟工具的性能",
+      "C. 展示测试环境的搭建能力",
+      "D. 为测试人员提供练习机会"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到搭建测试环境依据规划设计要求建立测试目标，运用测 试模拟工具模拟场景，通过测试验证技术的可行性和可靠性等要求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0127",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果进行培训与知识转移时，对自行研发的监控或IT 服务流程管理工具进 行培训属于（ ）。",
+    "options": [
+      "A. 知识性研发成果培训",
+      "B. 工具类研发成果培训",
+      "C. 应急预案与解决方案手册的知识转移",
+      "D. 新技术研究成果培训"
+    ],
+    "answer": "B",
+    "explanation": "15.2.2 主要应用中提到对用于优化IT 服务管理的工具的功能进行培训，例如 对自行研发的监控或IT 服务流程管理工具进行培训，属于工具类研发成果培训。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0128",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果的内容进行演练或推演时，通过沙盘或模拟的方式，对可能发生的情况 进行研讨，最终目的是（ ）。",
+    "options": [
+      "A. 对技术研究成果给予改进建议与评价",
+      "B. 检验参与人员的应急反应能力",
+      "C. 展示演练或推演的组织能力",
+      "D. 提高团队的协作能力"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到通过沙盘或模拟的方式，对可能发生的情况进行研讨，根 据多方的圆桌会议，最终对技术研究成果给予改进建议与评价。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0129",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果进行优化改进时，增加相应的预算是基于（ ）。",
+    "options": [
+      "A. 技术成果的市场需求变化",
+      "B. 对技术成果进行新一轮开发的需要",
+      "C. 组织的资金充裕程度",
+      "D. 技术研发人员的要求"
+    ],
+    "answer": "B",
+    "explanation": "15.2.2 主要应用中提到对技术成果进行评价与评估，根据分析或在实践中的信 息，对技术成果进行新一轮的开发，并增加相应的预算，所以增加预算是基于新一轮开 发的需要。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0130",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权管理中，组织建立知识产权管理机构和团队的目的是（ ）。",
+    "options": [
+      "A. 专门负责知识产权的管理工作",
+      "B. 增加组织的人员编制",
+      "C. 提升组织的知名度",
+      "D. 进行知识产权的交易"
+    ],
+    "answer": "A",
+    "explanation": "15.3.2 管理职责中提到组织需要建立起知识产权管理的机构和团队，专门负责 知识产权的管理工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0131",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权管理制度和流程中，识别组织知识产权管理目标及实现目标的方法，需要 确定的内容不包括（ ）。",
+    "options": [
+      "A. 实施知识产权管理所需要的资源",
+      "B. 知识产权管理目标的实现时间",
+      "C. 资源的可获得性",
+      "D. 知识产权管理的具体方法"
+    ],
+    "answer": "B",
+    "explanation": "15.3.3 管理制度和流程中提到识别组织知识产权管理目标及实现目标的方法， 并确定实施知识产权管理所需要的资源和资源的可获得性，未提及确定知识产权管理目 标的实现时间。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0132",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权获取过程中，确保专利质量得到管控，在申请专利前进行必要的检索和分 析，其目的不包括（ ）。",
+    "options": [
+      "A. 评价获得专利权的前景",
+      "B. 提高专利申请的成功率",
+      "C. 保障发明创造人员的署名权",
+      "D. 确定专利的市场价值"
+    ],
+    "answer": "C",
+    "explanation": "15.3.3 管理制度和流程中提到确保专利质量得到管控，在申请专利前进行必要 的检索和分析，以评价获得专利权的前景以及可实现的价值，而保障发明创造人员的署 名权是在整个知识产权管理中都需注意的方面，并非检索和分析的目的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0133",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权维护中，建立知识产权分类管理档案进行日常维护，分类的依据通常不包 括( ) 。",
+    "options": [
+      "A. 知识产权的类型，如专利、商标、著作权等",
+      "B. 知识产权的价值高低",
+      "C. 知识产权的申请时间先后",
+      "D. 知识产权的使用部门"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中未提及按知识产权的使用部门进行分类管理档案，通 常会按知识产权类型、价值高低、申请时间先后等进行分类维护。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0134",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权运用中，对于知识产权密集型产品进行备案管理，主要是为了（ ）。",
+    "options": [
+      "A. 加强对这类产品的知识产权管理和保护",
+      "B. 统计产品的生产数量",
+      "C. 控制产品的市场价格",
+      "D. 提高产品的生产效率"
+    ],
+    "answer": "A",
+    "explanation": "备案管理的主要目的是加强对这类产品的知识产权管理和保护，确保知识产权的 合法使用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0135",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权许可或转让前，制定许可或转让方案时，不需要考虑的因素是（ ）。",
+    "options": [
+      "A. 被许可方或受让方的技术实力",
+      "B. 知识产权的当前市场价值",
+      "C. 许可或转让的期限",
+      "D. 组织内部的人员变动情况"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中，制定许可或转让方案时通常会考虑被许可方或受让 方的技术实力、知识产权的市场价值、许可或转让的期限等，组织内部人员变动情况一 般不是制定方案时的考虑因素。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0136",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织开展投融资活动前，对投融资活动对象涉及的知识产权开展尽职调查，评估的 内容不包括（ ）。",
+    "options": [
+      "A. 知识产权的法律风险",
+      "B. 知识产权的市场竞争力",
+      "C. 知识产权的研发团队成员情况",
+      "D. 知识产权的价值"
+    ],
+    "answer": "C",
+    "explanation": "15.3.3 管理制度和流程中提到组织开展投融资活动前，对投融资活动对象涉及 的知识产权开展尽职调查，评估其风险和价值，包括法律风险、市场竞争力等，一般不 重点评估研发团队成员情况。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0137",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "企业合并或并购前，开展知识产权尽职调查并进行评估，主要是为了（ ）。",
+    "options": [
+      "A. 了解被合并或并购方的知识产权状况，评估对自身的影响",
+      "B. 挖掘被合并或并购方的技术秘密",
+      "C. 提高自身的知识产权数量",
+      "D. 增加合并或并购的谈判筹码"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到企业合并或并购前，开展知识产权尽职调查，根据 合并或并购的目的设定对相关方知识产权状况的调查内容，并进行知识产权评估，目 的是了解对方知识产权状况，评估对自身的影响。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0138",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织参与标准化组织前，了解标准化组织的知识产权政策，主要是为了（ ）。",
+    "options": [
+      "A. 确保自身在标准化活动中的知识产权合规性",
+      "B. 学习标准化组织的先进管理经验",
+      "C. 与标准化组织建立良好的合作关系",
+      "D. 提升组织在行业内的知名度"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到组织参与标准化组织前，了解标准化组织的知识 产权政策，将包含专利和专利申请的技术方案向标准化组织提案时，按照知识产权政策 要求披露并做出许可承诺，主要是为了确保自身在标准化活动中的知识产权合规性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0139",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权保护的风险管理中，定期监控产品及工艺可能涉及他人知识产权的状况， 分析的内容不包括（ ）。",
+    "options": [
+      "A. 可能发生的纠纷类型",
+      "B. 纠纷对组织的损害程度",
+      "C. 组织的知识产权维权成本",
+      "D. 防范与应对预案"
+    ],
+    "answer": "C",
+    "explanation": "15.3.3 管理制度和流程中提到应定期监控产品及工艺可能涉及他人知识产权的 状况，分析可能发生的纠纷及其对组织的损害程度，提出防范与应对预案，未提及分析 组织的知识产权维权成本。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0140",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权争议处理中，运用自力救济途径保护知识产权，不包括以下哪种方式 ( ) 。",
+    "options": [
+      "A. 与侵权方进行协商沟通",
+      "B. 自行采取措施制止侵权行为",
+      "C. 向法院提起诉讼",
+      "D. 通过调解解决纠纷（在双方自愿情况下）"
+    ],
+    "answer": "C",
+    "explanation": "15.3.3 管理制度和流程中提到知识产权争议处理中，自力救济包括与侵权方协 商、自行制止侵权行为、在双方自愿情况下通过调解解决纠纷等，向法院提起诉讼属于 司法救济途径。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0141",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权合规管理中，基于知识产权合规义务的履行，在知识产权管理过程中实施 必要的审查，审查的依据是（ ）。",
+    "options": [
+      "A. 相关法律法规、政策等要求",
+      "B. 组织内部的规章制度",
+      "C. 行业内的通行做法",
+      "D. 组织领导的指示"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到组织若涉及违反相关法律法规、政策等要求的行 为，要以相关法律法规、政策规定为依据，充分评估该行为可能导致的法律后果，所以 审查依据是相关法律法规、政策等要求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0142",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织对知识产权合规管理体系的绩效进行评价时，利用分析结果评价策划是否得到 实施，这里的策划主要是指（ ）。",
+    "options": [
+      "A. 知识产权管理的规划、布局等活动",
+      "B. 组织的战略发展规划",
+      "C. 项目的实施计划",
+      "D. 市场营销策划"
+    ],
+    "answer": "A",
+    "explanation": "15.3.4 评价、审核与改进中提到利用分析结果对策划是否得到实施进行评价，结 合前文知识产权管理内容，这里的策划主要指知识产权管理的规划、布局等活动。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0143",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在技术研发管理的目标和范围中，技术的多元性体现在（ ）。",
+    "options": [
+      "A. 技术既可以是硬件，也可以是软件或有物质载体的信息资料等",
+      "B. 技术研发需要多个部门参与",
+      "C. 技术研发有不同的目的",
+      "D. 技术应用有多种场景"
+    ],
+    "answer": "A",
+    "explanation": "15.1.1 目标和范围中提到，所谓多元性，是指技术既可表现为有形的工具装 备、 机器设备、实体物质等硬件，也可以表现为无形的工艺、方法、规则等知识软件，还可 以表现为虽不是实体物质却又有物质载体的信息资料、设计图纸等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0144",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "以下关于技术研发管理和技术研发的关系，说法正确的是（ ）。",
+    "options": [
+      "A. 技术研发管理是技术研发的一部分",
+      "B. 技术研发是技术研发管理的核心内容",
+      "C. 技术研发管理是对技术研发进行的一系列管理活动",
+      "D. 两者没有明显区别"
+    ],
+    "answer": "C",
+    "explanation": "15.1.1 目标和范围等相关内容表明，技术研发管理是在组织研发体系结构设计 的基础上，对技术研发进行团队建设、过程设计、绩效管理等一系列管理活动，技术研 发是具体的研究和开发活动，二者不同。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0145",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发过程中，研发项目以项目为导向的主要原因是（ ）。",
+    "options": [
+      "A. 便于进行成本核算",
+      "B. 研发活动动态且横跨多个部门",
+      "C. 符合行业惯例",
+      "D. 有利于提高研发效率"
+    ],
+    "answer": "B",
+    "explanation": "15.1.1 目标和范围中明确指出，研发活动是动态的，整个研发过程可能横跨多个 部门，所以研发是以项目为导向的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0146",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发管理过程中，研发绩效评价指标中的研发效率可以通过（ ）来衡量。",
+    "options": [
+      "A. 研发项目的完成时间与计划时间的对比",
+      "B. 研发成果的创新性",
+      "C. 研发项目的投入资金量",
+      "D. 研发团队的人员数量"
+    ],
+    "answer": "A",
+    "explanation": "15.1.1 目标和范围中提到研发管理的绩效评价指标包括研发效率，研发效率可 通过研发项目的完成时间与计划时间的对比来衡量，完成时间越接近或短于计划时间， 效率越高。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0147",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在技术研发的组织架构中，技术研发决策负责人根据（ ）来负责与运维相关的技 术规划、实施、应用和改进。",
+    "options": [
+      "A. 个人经验",
+      "B. IT 服务的发展需求",
+      "C. 组织领导的指示",
+      "D. 市场流行技术趋势"
+    ],
+    "answer": "B",
+    "explanation": "15.1.2 组织架构中提到，技术研发决策负责人根据IT 服务的发展需求，负责与 运维相关的技术规划、实施、应用和改进。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0148",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发需求负责人在研发结果形成之后，需要做的工作是（ ）。",
+    "options": [
+      "A. 对研发成果进行验收和应用，并反馈应用结果",
+      "B. 继续提出新的研发需求",
+      "C. 参与研发成果的二次开发",
+      "D. 对研发过程进行总结汇报"
+    ],
+    "answer": "A",
+    "explanation": "15.1.2 组织架构中指出，在研发结果形成之后，技术研发需求负责人要对研发成 果进行验收和应用，并将应用的结果反馈给技术研发部门。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0149",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发负责人在技术研发成果在IT 服务中的应用支持方面，主要工作是（ ）。",
+    "options": [
+      "A. 指导服务交付团队使用研发成果",
+      "B. 对应用效果进行评估",
+      "C. 协调研发部门与其他部门的沟通",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.1.2 组织架构中，技术研发负责人负责技术研发成果在IT 服务中的应用支 持，包括指导使用、评估效果、协调部门沟通等工作，以确保研发成果能有效应用于IT 服务。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0150",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "质量管理负责人参与研发管理体系建设，主要目的是（ ）。",
+    "options": [
+      "A. 保证研发过程符合质量管理体系要求",
+      "B. 提高研发产品的质量标准",
+      "C. 对研发人员进行质量培训",
+      "D. 监督研发成本的使用情况"
+    ],
+    "answer": "A",
+    "explanation": "15.1.2 组织架构中提到质量管理负责人参与研发管理体系建设，并且对研发管 理体系的执行进行检查，目的是保证研发过程符合质量管理体系要求，确保研发成果 质量。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0151",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "财务负责人在技术研发管理中，审查研发的投入产出比，其目的是（ ）。",
+    "options": [
+      "A. 控制研发成本，提高研发效益",
+      "B. 确定研发项目的资金预算",
+      "C. 评估研发人员的绩效",
+      "D. 决定研发项目的取舍"
+    ],
+    "answer": "A",
+    "explanation": "审查研发的投入产出比是为了控制研发成本，提高研发效益，确保资源的有效利 用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0152",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发规划过程中，制定研发方案后需要进行的工作是（ ）。",
+    "options": [
+      "A. 投入产出分析",
+      "B. 确定研发目标",
+      "C. 研发需求调研",
+      "D. 形成立项报告"
+    ],
+    "answer": "A",
+    "explanation": "15.1.3 管理过程中，技术研发规划阶段的工作顺序是研发需求调研、确定研发目 标、制定研发方案、投入产出分析、形成立项报告、规划评审发布等，制定研发方案后 是投入产出分析。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0153",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发实施计划中，确定各项任务的责任人是为了（ ）。",
+    "options": [
+      "A. 明确职责，确保任务顺利完成",
+      "B. 便于绩效考核",
+      "C. 划分工作范围",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.1.3 管理过程中提到实施计划应围绕研发目标，系统地确定研发项目的任 务、 责任人等。确定责任人既可以明确职责，确保任务顺利完成，也便于进行绩效考核，同 时划分了工作范围。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0154",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发监控过程中，质量审计主要是为了（ ）。",
+    "options": [
+      "A. 检查研发过程是否符合质量标准",
+      "B. 评估研发成果的质量水平",
+      "C. 发现研发过程中的潜在风险",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.1.3 管理过程中，质量审计作为监控形式之一，可检查研发过程是否符合质量 标准，评估研发成果质量水平，同时也能发现研发过程中的潜在风险，保障研发活动的 质量。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0155",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "研发成果应用过程中，将研发成果从研发部门转移到使用部门，首先会使（ ）得 到增强。",
+    "options": [
+      "A. 服务人员的素质",
+      "B. 服务工具",
+      "C. 服务效率",
+      "D. 服务质量"
+    ],
+    "answer": "A",
+    "explanation": "15.1.3 管理过程中提到，研发成果应用是将研发成果从研发部门转移到使用部 门，使服务人员的素质、技能或知识得到增强，服务工具得到改善，服务效率得到提高， 首先是服务人员素质增强。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0156",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在技术研发管理要点中，将市场的观念融入研发中，让市场人员参与研发过程，主 要是为了（ ）。",
+    "options": [
+      "A. 使研发成果更符合市场需求，具有更高价值",
+      "B. 提高研发人员的市场意识",
+      "C. 促进研发部门与市场部门的沟通",
+      "D. 增加研发项目的市场推广力度"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到，为使有限的资源发挥最大的效益，应将市场的观念融入 研发中，让市场人员参与研发过程，这样成果才具有更高价值，更符合市场需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0157",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发定位时，回答“谁是我们的需方”这一问题，有助于（ ）。",
+    "options": [
+      "A. 明确服务产品的目标客户群体",
+      "B. 确定服务产品的功能特性",
+      "C. 制定服务产品的价格策略",
+      "D. 选择服务产品的研发技术"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，在服务产品研发定位时思考“谁是我们的需方”，直接目 的就是明确服务产品的目标客户群体，以便更好地满足客户需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0158",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发队伍中的成员来自不同部门，这种组成方式的优势是（ ）。",
+    "options": [
+      "A. 整合各部门资源和专业知识，提高研发质量",
+      "B. 便于管理和协调",
+      "C. 降低研发成本",
+      "D. 加快研发进度"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，服务产品研发队伍成员来自市场、售前、服务交付、质量管 理等不同部门，可整合各部门资源和专业知识，从多方面考虑问题，提高研发质量。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0159",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发成果中的服务交付方式，不包括（ ）。",
+    "options": [
+      "A. 服务团队组织",
+      "B. 服务内容的详细描述",
+      "C. 服务交付的文档",
+      "D. 服务交付过程"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中提到服务交付方式是服务产品研发的重要内容，包括服务团 队组织、服务交付的文档和服务交付过程等，服务内容的详细描述不属于服务交付方式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0160",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范研发的定位中，IT 服务规范化对服务产品化的重要性在于（ ）。",
+    "options": [
+      "A. 稳定服务水平，实现批量复制",
+      "B. 提高服务价格",
+      "C. 增加服务的创新性",
+      "D. 扩大服务市场份额"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到，IT 服务规范化是服务产品化的前提条件，只有建立 IT 服务规范，IT 服务的水平才能得以稳定，IT 服务才能批量复制，才能真正实现IT 服 务产品化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0161",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范研发队伍中的资深技术专家，在规范研发过程中的主要作用是（ ）。",
+    "options": [
+      "A. 提供专业技术支持，确保规范的技术可行性",
+      "B. 负责规范的整体规划和设计",
+      "C. 协调团队成员之间的工作",
+      "D. 对规范进行审核和把关"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，IT 服务规范研发队伍中的资深技术专家凭借其专业技术知 识，在规范研发过程中提供专业技术支持，确保规范在技术上的可行性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0162",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范研发过程中，测试演练的目的是（ ）。",
+    "options": [
+      "A. 发现规范中存在的问题并进行改进",
+      "B. 验证规范的可操作性",
+      "C. 评估规范的有效性",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "测试演练的目的包括发现规范中存在的问题并进行改进、验证规范的可操作性以 及评估规范的有效性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0163",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务工具研发定位中，面向业务服务的监控工具主要用于（ ）。",
+    "options": [
+      "A. 对IT 服务对象进行数据采集和监控，评估故障因素",
+      "B. 内部的IT 服务管理",
+      "C. 满足特殊业务需求",
+      "D. 提高服务交付的安全性"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到，监控工具主要对IT 服务对象进行数据采集和监控，评 估可能导致IT 服务对象故障的因素，可以显著提高运维的可视性、操作的便利性和安 全性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0164",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务过程管理工具研发团队中的服务交付管理人员，主要负责（ ）。",
+    "options": [
+      "A. 提出工具的业务需求和功能要求",
+      "B. 工具的软件编程实现",
+      "C. 工具的测试和维护",
+      "D. 工具的市场推广和销售"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，服务过程管理工具研发团队中的服务交付管理人员熟悉服 务交付业务，主要负责提出工具的业务需求和功能要求，使工具符合实际业务需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0165",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务工具研发过程中，集成的硬件一般以直接采购成熟的产品为主，原因是（ ）。",
+    "options": [
+      "A. 降低研发成本和风险",
+      "B. 提高研发效率",
+      "C. 成熟产品性能更可靠",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.1.4 管理要点中提到IT 服务工具的研发一般以软件为主，集成的硬件一般 以直接采购成熟的产品为主，这样可以降低研发成本和风险，提高研发效率，且成熟产 品性能更可靠。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0166",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发定位中，诊断和分析问题的方法主要解决的问题 是( ) 。",
+    "options": [
+      "A. IT 服务对象出现问题时如何定位和排查",
+      "B. 如何进行信息采集和监控",
+      "C. 如何解决IT 服务中遇到的问题",
+      "D. 如何判断问题解决结果的正确性"
+    ],
+    "answer": "A",
+    "explanation": "诊断和分析问题的方法主要用于在IT 服务对象出现问题时定位和排查问题。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0167",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发队伍中的高级运维工程师，在研发过程中的主要 工作是（ ）。",
+    "options": [
+      "A. 提供实际运维经验，参与技术研发",
+      "B. 主导技术研发方向",
+      "C. 负责技术研发的管理工作",
+      "D. 对研发成果进行推广应用"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，发现问题和解决问题相关技术研发队伍中的高级运维工程 师具有丰富的实际运维经验，在研发过程中可提供实际运维经验，参与技术研发，使研 发成果更符合实际运维需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0168",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发过程中，如果是技术手册资料研发，测试演练之 后的工作是（ ）。",
+    "options": [
+      "A. 交由评审组评审",
+      "B. 上传知识库",
+      "C. 发布执行",
+      "D. 进行修改完善"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到，如果是技术手册资料研发，则按照研发分工，分头完成 相关内容的编写，经过测试演练之后定稿，交由评审组评审。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0169",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术研究定位中，支撑需方业务的新技术提前进行技术储备，主要是为了（ ）。",
+    "options": [
+      "A. 在将来的环境发展中占得先机",
+      "B. 提高组织的技术水平",
+      "C. 满足需方的当前业务需求",
+      "D. 提升组织的创新能力"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到，支撑需方业务的新技术的应用必然会提供新的IT 服 务机会，提前进行技术储备可以确保在将来的环境发展中占得先机。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0170",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术研究队伍中的资深技术专家进行新技术应用前景分析，主要是为了（ ）。",
+    "options": [
+      "A. 确定新技术是否值得继续研究和应用",
+      "B. 为新技术的推广做准备",
+      "C. 向组织领导汇报工作进展",
+      "D. 提高自身的技术水平"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，新技术研究队伍中的资深技术专家进行新技术应用前景分 析，通过分析判断新技术的应用价值，确定是否值得继续研究和应用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0171",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在IT 技术应用的管理要点中，技术评定的目的是（ ）。",
+    "options": [
+      "A. 确定新技术或研发成果是否满足组织需求",
+      "B. 对技术进行分类管理",
+      "C. 评估技术的市场价值",
+      "D. 选拔优秀的技术人才"
+    ],
+    "answer": "A",
+    "explanation": "15.2.1 管理要点中提到新技术或研发的新系统、新工具应进行技术评定，其目的 是确定新技术或研发成果是否满足组织需求，判断其是否适合在组织内应用和推广。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0172",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 技术应用中，技术验证环节对于新技术的应用效果验证，主要通过（ ）方式。",
+    "options": [
+      "A. 开发技术原型进行测试",
+      "B. 理论分析",
+      "C. 参考其他组织的应用案例",
+      "D. 专家评估"
+    ],
+    "answer": "A",
+    "explanation": "技术验证通常通过开发技术原型进行测试，以验证新技术的应用效果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0173",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识转移内容中的基础架构资料，对于IT 服务的作用是（ ）。",
+    "options": [
+      "A. 帮助运维人员了解系统的架构和配置，保障系统正常运行",
+      "B. 用于系统的升级和优化",
+      "C. 为业务部门提供技术支持",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.2.2 主要应用中提到基础架构资料包括系统部署和网络物理拓扑、系统架构 说明等，这些资料可帮助运维人员保障系统正常运行，也用于系统升级优化，为业务部 门提供技术支持。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0174",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "应急响应预案制定中，网络通信设备、通信线路故障导致IT 系统的重大故障属于 ( ) 需要制定应急预案的情形。",
+    "options": [
+      "A. 常见的故障类型",
+      "B. 可能导致业务中断的故障",
+      "C. 必须立即处理的故障",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.2.2 主要应用中提到网络通信设备、通信线路故障导致IT 系统的重大故障 属于应急预案适用的情形，这类故障常见、可能导致业务中断，必须立即处理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0175",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "SOP 编写原则中，要求效率最高和成本最低，并识别出关键风险点，这体现了SOP 编 写的（ ）原则。",
+    "options": [
+      "A. 高效性和安全性",
+      "B. 可行性和可靠性",
+      "C. 高效性和风险可控性",
+      "D. 可操作性和准确性"
+    ],
+    "answer": "C",
+    "explanation": "15.2.2 主要应用中提到SOP 编写要求效率最高和成本最低，体现了高效性原则， 识别出关键风险点体现了风险可控性原则。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0176",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术手册发布流程中，审核环节主要是验证（ ）。",
+    "options": [
+      "A. 技术手册的内容是否可行",
+      "B. 技术手册的格式是否规范",
+      "C. 技术手册的编写人员资质",
+      "D. 技术手册的成本是否合理"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到技术手册在发布前应进行审核，验证可行后以文档管理 的要求进行存档，审核主要是验证内容是否可行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0177",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "搭建测试环境时，建立测试目标的依据是（ ）。",
+    "options": [
+      "A. 规划设计要求",
+      "B. 以往项目经验",
+      "C. 测试人员的经验",
+      "D. 技术研发团队的建议"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到搭建发现与解决问题所需的测试环境，依据规划设计要 求建立测试目标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0178",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果进行培训与知识转移时，对应急预案与解决方案手册进行知识转移，目 的是（ ）。",
+    "options": [
+      "A. 确保相关人员在遇到问题时能正确应对",
+      "B. 让所有员工了解组织的应急流程",
+      "C. 提高组织整体的应急响应速度",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.2.2 主要应用中提到对应急预案与解决方案手册进行知识转移，能确保相关 人员在遇到问题时能正确应对，让员工了解应急流程，提高组织整体应急响应速度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0179",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果的内容进行演练或推演时，演练计划中演练类型不包括（ ）。",
+    "options": [
+      "A. 模拟演练",
+      "B. 真实演练",
+      "C. 虚拟演练",
+      "D. 其他"
+    ],
+    "answer": "C",
+    "explanation": "15.2.2 主要应用中给出的演练计划模板里，演练类型包括模拟演练、真实演练和 其他，未提及虚拟演练。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0180",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果进行优化改进时，进行评价与评估的信息来源不包括（ ）。",
+    "options": [
+      "A. 领导的主观意见",
+      "B. 分析结果",
+      "C. 实践中的信息",
+      "D. 客户反馈"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到对技术成果进行评价与评估，根据分析或在实践中的信 息，对技术成果进行新一轮的开发，未提及领导的主观意见。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0181",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权管理中，组织的知识产权类型不包括（ ）。",
+    "options": [
+      "A. 技术秘密",
+      "B. 员工个人创意",
+      "C. 商标权",
+      "D. 著作权"
+    ],
+    "answer": "B",
+    "explanation": "15.3.1 目标和范围中提到知识产权包括专利权、商标权、著作权、商业秘密等， 员工个人创意若未形成符合知识产权定义的成果，不属于组织的知识产权类型。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0182",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "规范的知识产权管理能使组织明确自身的产品定位和市场定位，主要是通过（ ） 实现的。",
+    "options": [
+      "A. 了解核心技术的发展状况和法律状态",
+      "B. 制定知识产权战略",
+      "C. 开展知识产权交易",
+      "D. 进行知识产权保护"
+    ],
+    "answer": "A",
+    "explanation": "15.3.1 目标和范围中提到规范的知识产权管理能够使组织随时了解核心技术的 发展状况和法律状态，从而明确自身的产品定位和市场定位。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0183",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织在技术与研发管理方面对知识产权管理的需求中，提高产品附加值主要通过 ( ) 。",
+    "options": [
+      "A. 研发新技术、新产品、新工艺",
+      "B. 扩大市场份额",
+      "C. 防范知识产权风险",
+      "D. 提高生产经营效率"
+    ],
+    "answer": "A",
+    "explanation": "15.3.1 目标和范围中提到组织在技术与研发管理方面对知识产权管理的需求包 括研发新技术、新产品、新工艺，这有助于提高产品附加值。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0184",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权管理是组织对其拥有的知识产权进行一系列活动，其中布局活动主要是指 ( ) 。",
+    "options": [
+      "A. 对知识产权进行合理的规划和安排",
+      "B. 确定知识产权的获取方式",
+      "C. 对知识产权进行分类管理",
+      "D. 开展知识产权交易"
+    ],
+    "answer": "A",
+    "explanation": "15.3.2 管理职责中提到知识产权管理的布局活动是对知识产权进行合理的规划 和安排，以更好地实现知识产权价值。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0185",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织知识产权管理的指导原则中，战略导向强调的是（ ）。",
+    "options": [
+      "A. 统一部署经营发展、创新创造和知识产权战略",
+      "B. 以知识产权战略为核心制定组织战略",
+      "C. 知识产权战略服从于经营发展战略",
+      "D. 知识产权战略独立于其他战略"
+    ],
+    "answer": "A",
+    "explanation": "15.3.2 管理职责中提到组织知识产权管理的指导原则包括战略导向，即统一部 署经营发展、创新创造和知识产权战略，使三者互相支撑、互相促进。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0186",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "最高管理者在组织知识产权管理中，确保维护知识产权合规承诺，主要是为了 ( ) 。",
+    "options": [
+      "A. 避免组织面临法律风险",
+      "B. 提升组织的社会形象",
+      "C. 促进组织内部的创新氛围",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.2 管理职责中提到最高管理者确保维护知识产权合规承诺，这有助于避免 法律风险，提升社会形象，促进内部创新氛围。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0187",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织知识产权管理机构负责组织知识产权工作计划制订和实施，监督和考核完成情 况，其中考核的目的不包括（ ）。",
+    "options": [
+      "A. 提高员工的知识产权意识",
+      "B. 确保工作计划顺利完成",
+      "C. 发现知识产权管理中的问题",
+      "D. 增加员工的工作压力"
+    ],
+    "answer": "D",
+    "explanation": "考核的目的包括提高员工的知识产权意识、确保工作计划顺利完成、发现知识产 权管理中的问题，但增加员工的工作压力不是考核的目的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0188",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权管理制度和流程中，确定组织的知识产权类型和管理重点，需要考虑的因 素不包括（ ）。",
+    "options": [
+      "A. 组织的业务领域和核心技术",
+      "B. 知识产权的市场价值",
+      "C. 知识产权的获取难度",
+      "D. 组织领导的个人偏好"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中提到确定组织的知识产权类型和管理重点，应基于组 织的业务领域、核心技术、知识产权市场价值、获取难度等，而非组织领导个人偏好。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0189",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权获取过程中，建立必要的审核机制或工作流程，主要是为了防止（ ）。",
+    "options": [
+      "A. 非正常申请专利行为、不正当获取他人商业秘密等情况出现",
+      "B. 知识产权侵权行为",
+      "C. 知识产权纠纷",
+      "D. 知识产权价值被低估"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到知识产权获取要建立必要的审核机制或工作流 程，防止非正常申请专利行为、不正当获取他人商业秘密、歪曲篡改剽窃他人作品等情 况的出现。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0190",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权维护中，对涉及知识产权的产品和/或服务的资料加以保管，这些资料不 包括( ) 。",
+    "options": [
+      "A. 产品宣传册",
+      "B. 员工内部培训资料",
+      "C. 服务促销方案",
+      "D. 产品生产设备清单"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中提到对涉及知识产权的产品和/或服务的资料加以保 管，包括宣传、广告、促销、包装、说明书等，产品生产设备清单不属于此类资料。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0191",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权运用中，促进知识产权的实施和使用，组织开展实施场景、成熟度、所需 配套条件等方面的调查，目的是（ ）。",
+    "options": [
+      "A. 确保知识产权能够有效实施和使用",
+      "B. 评估知识产权的市场竞争力",
+      "C. 确定知识产权的实施成本",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中提到促进知识产权实施和使用时开展相关调查，目的 是确保有效实施使用，评估市场竞争力，确定实施成本。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0192",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权许可或转让前，进行知识产权评估，评估的内容不包括（ ）。",
+    "options": [
+      "A. 知识产权的技术先进性",
+      "B. 知识产权的剩余有效期",
+      "C. 知识产权的研发成本",
+      "D. 知识产权的使用部门"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中提到知识产权许可或转让前进行评估，会评估技术先 进性、剩余有效期、研发成本等，一般不评估使用部门。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0193",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织开展投融资活动前，对投融资活动对象涉及的知识产权进行尽职调查，风险分 析不包括（ ）。",
+    "options": [
+      "A. 知识产权的法律风险",
+      "B. 知识产权的市场风险",
+      "C. 知识产权的管理风险",
+      "D. 知识产权的研发团队风险"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中提到组织开展投融资活动前对知识产权尽职调查，评 估风险包括法律风险、市场风险、管理风险等，一般不涉及研发团队风险。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0194",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "企业合并或并购前，开展知识产权尽职调查，根据合并或并购的目的设定调查内容， 调查内容不包括（ ）。",
+    "options": [
+      "A. 被合并或并购方知识产权的数量",
+      "B. 被合并或并购方知识产权的质量",
+      "C. 被合并或并购方知识产权的研发人员年龄结构",
+      "D. 被合并或并购方知识产权的市场价值"
+    ],
+    "answer": "C",
+    "explanation": "15.3.3 管理制度和流程中提到企业合并或并购前开展知识产权尽职调查，会关 注知识产权数量、质量、市场价值等，一般不关注研发人员年龄结构。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0195",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织参与标准化组织前，了解标准化组织的知识产权政策，在将包含专利和专利申 请的技术方案向标准化组织提案时，需要（ ）。",
+    "options": [
+      "A. 按照知识产权政策要求披露并做出许可承诺",
+      "B. 隐藏专利信息",
+      "C. 申请新的专利",
+      "D. 放弃专利申请"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到组织参与标准化组织前了解政策，提案时要按照 知识产权政策要求披露并做出许可承诺。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0196",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权保护的风险管理中，建立涉密人员、涉密载体、涉密设备、涉密区域、涉 密信息的管理要求，主要是为了（ ）。",
+    "options": [
+      "A. 保护组织的商业秘密",
+      "B. 防止内部信息泄露",
+      "C. 符合法律法规要求",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中提到建立相关管理要求，可保护商业秘密，防止内部信 息泄露，符合法律法规要求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0197",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权争议处理中，当发现知识产权被侵犯时，组织选取适宜的争议解决方式， 主要考虑的因素是（ ）。",
+    "options": [
+      "A. 通过协商、诉讼、仲裁、调解等不同处理方式对组织的影响",
+      "B. 侵权方的态度",
+      "C. 知识产权的类型",
+      "D. 争议处理的成本"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到在处理知识产权纠纷时，评估通过协商、诉讼、仲 裁、调解等不同处理方式对组织的影响，选取适宜的争议解决方式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0198",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权合规管理中，组织若涉及违反相关法律法规、政策等要求的行为，以相关 法律法规、政策规定为依据评估法律后果，目的是（ ）。",
+    "options": [
+      "A. 及时纠正违规行为，降低法律风险",
+      "B. 对相关责任人进行处罚",
+      "C. 避免组织声誉受损",
+      "D. 以上都是"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到组织若违规，以法律法规等为依据评估后果，目 的是及时纠正，降低法律风险。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0199",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织对知识产权合规管理体系的绩效进行评价时，评价知识产权价值实现的符合性， 主要是看（ ）。",
+    "options": [
+      "A. 知识产权管理活动是否实现了预期的价值目标",
+      "B. 知识产权的数量是否增加",
+      "C. 知识产权的市场影响力是否扩大",
+      "D. 知识产权的维护成本是否降低"
+    ],
+    "answer": "A",
+    "explanation": "评价知识产权价值实现的符合性主要是看知识产权管理活动是否实现了预期的价 值目标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0200",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在技术研发管理中，技术研发的多元性使得技术既可以表现为有形的硬件，也能是 无形的软件，还能是以物质为载体的信息资料。以下属于以物质为载体的信息资料的 是( ) 。",
+    "options": [
+      "A. 机器设备",
+      "B. 设计图纸",
+      "C. 工艺方法",
+      "D. 工具装备"
+    ],
+    "answer": "B",
+    "explanation": "15.1.1 目标和范围中提到，虽不是实体物质却又有物质载体的信息资料、设计图 纸等属于技术多元性的表现形式之一，A、D 选项属于有形的硬件，C 选项属于无形的 软件。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0201",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发的目的之一是通过对组织信息系统相关技术和行业新技术的研究，丰富和 拓展服务范围。以下哪项活动最能体现这一目的（ ）。",
+    "options": [
+      "A. 研发统一的服务交付管控平台",
+      "B. 研究云计算技术在本组织的应用",
+      "C. 优化现有的系统监控工具",
+      "D. 制定新的技术规范"
+    ],
+    "answer": "B",
+    "explanation": "15.1.1 目标和范围指出，研究行业新技术并应用到系统服务产品和服务工具 中， 可丰富和拓展服务范围。云计算技术属于行业新技术，研究其在本组织的应用符合这一 目的。A、C 选项侧重于现有工具和平台的研发与优化，D 选项制定技术规范与丰富拓 展服务范围关联不紧密。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0202",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发管理的管理对象包括研发团队、研发过程等多个方面。在研发过程管理中， 将一些常规或可能形成常规的环节程序化、制度化，其主要目的是（ ）。",
+    "options": [
+      "A. 提高研发效率",
+      "B. 便于管理和控制",
+      "C. 降低研发成本",
+      "D. 提升研发质量"
+    ],
+    "answer": "B",
+    "explanation": "15.1.1 目标和范围提到，研发过程管理将常规环节程序化、制度化，是对研发运 作的规范，便于管理和控制整个研发过程，虽然这也可能对提高效率、降低成本和提升 质量有一定作用，但最主要目的是便于管理和控制。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0203",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发的组织架构中，不同角色承担着不同职责。技术研发需求负责人在技术研 发项目规划和立项申请过程中，主要负责（ ）。",
+    "options": [
+      "A. 提出研发需求并参与规划和申请",
+      "B. 主导项目规划和立项申请工作",
+      "C. 对项目规划和申请进行审核",
+      "D. 为项目规划和申请提供技术支持"
+    ],
+    "answer": "A",
+    "explanation": "15.1.2 组织架构中表明，技术研发需求负责人在经过相关调研和论证的基础上 提出研发需求，在通过初审之后与技术研发部门一起进行技术研发项目规划和立项申请。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0204",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在技术研发的管理过程中，规划过程的投入产出分析主要是为了（ ）。",
+    "options": [
+      "A. 确定研发项目是否值得投入资源",
+      "B. 计算研发项目的成本",
+      "C. 评估研发项目的收益",
+      "D. 平衡研发项目的成本和收益"
+    ],
+    "answer": "A",
+    "explanation": "15.1.3 管理过程中，在技术研发规划阶段进行投入产出分析，是为了判断研发项 目投入资源的合理性，确定其是否值得投入资源，不仅仅是计算成本或评估收益，也不 是单纯平衡成本和收益。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0205",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发实施过程中，实施计划围绕研发目标确定各项任务的时间进度、责任人等。 若某研发任务的时间进度安排不合理，可能会导致（ ）。",
+    "options": [
+      "A. 研发成本增加",
+      "B. 研发质量下降",
+      "C. 研发项目延误",
+      "D. 以上都有可能"
+    ],
+    "answer": "D",
+    "explanation": "15.1.3 管理过程提到，合理的时间进度安排是确保研发任务在合理时间内、用合 理成本完成高质量工作的关键。时间进度不合理，可能导致研发人员等待时间增加、资 源闲置，从而增加成本；为赶进度可能忽视质量，导致质量下降；最终可能造成研发项 目延误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0206",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发监控过程中，质量审计是重要的监控形式之一。质量审计主要关注（ ）。",
+    "options": [
+      "A. 研发成果是否符合质量标准",
+      "B. 研发过程是否符合质量管理体系要求",
+      "C. 研发人员的工作质量",
+      "D. 研发成本是否超支"
+    ],
+    "answer": "B",
+    "explanation": "15.1.3 管理过程中，质量审计作为监控形式，主要检查研发过程是否符合质量管 理体系要求，虽然也会涉及研发成果质量和人员工作质量，但重点是研发过程的规范性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0207",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "研发成果应用过程中，将研发成果从研发部门转移到使用部门，使服务人员的素质 得到增强。以下哪种方式最能直接体现这一增强（ ）。",
+    "options": [
+      "A. 服务人员参与研发成果的测试",
+      "B. 研发团队对服务人员进行培训",
+      "C. 服务人员使用新的研发工具",
+      "D. 服务人员参与研发项目的部分工作"
+    ],
+    "answer": "B",
+    "explanation": "15.1.3 管理过程提到，研发成果应用中组织技术负责人和技术研发团队是培训 者，通过培训可直接增强服务人员的素质、技能或知识。A 选项服务人员参与测试主要 是协助研发成果的完善；C 选项使用新工具侧重于工具对服务的改善；D 选项参与部 分研发工作并非直接增强素质的最有效方式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0208",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发定位时，考虑“用什么方式提供这个IT 服务产品”这一问题，主 要是为了（ ）。",
+    "options": [
+      "A. 确定服务交付的形式和流程",
+      "B. 选择合适的技术实现方案",
+      "C. 提高服务产品的竞争力",
+      "D. 满足需方的个性化需求"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，在服务产品研发定位时思考此问题，直接目的是确定服务交 付的形式和流程，如服务团队组织、服务交付的文档和服务交付过程等，这有助于后续 服务的顺利开展。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0209",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发队伍一般是虚拟团队，成员来自不同部门。这种团队组成方式可能面 临的挑战是（ ）。",
+    "options": [
+      "A. 沟通协调难度大",
+      "B. 成员积极性不高",
+      "C. 研发成本增加",
+      "D. 研发效率低下"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到服务产品研发队伍成员来自不同部门，由于各部门工作 方式、目标等存在差异，可能导致沟通协调难度大。虽然可能存在成员积极性、成本 和效率方面的问题，但沟通协调难度大是这种团队组成方式较突出的挑战。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0210",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发成果中的服务质量管理包括服务级别协议的指标要求以及相应的度 量方式。以下关于服务级别协议指标要求的说法，正确的是（ ）。",
+    "options": [
+      "A. 指标要求越高越好",
+      "B. 指标要求应根据需方需求和实际情况确定",
+      "C. 指标要求主要由供方决定",
+      "D. 指标要求与服务质量无关"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中提到服务规范规定了服务应达到的水准和要求，服务级别协 议指标要求属于服务规范范畴，应根据需方需求和实际情况确定，并非越高越好，也不 是主要由供方决定，且与服务质量密切相关。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0211",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范研发定位中，IT 服务规范化是服务产品化的前提条件。这是因为只有 规范化，IT 服务才能（ ）。",
+    "options": [
+      "A. 满足不同客户的需求",
+      "B. 实现标准化和批量复制",
+      "C. 提高服务的创新性",
+      "D. 降低服务成本"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中明确指出，只有建立IT 服务规范，IT 服务的水平才能得以 稳定，IT 服务才能批量复制，才能真正实现IT 服务产品化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0212",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范研发队伍中的资深需方服务经理，在规范研发过程中主要从需方角度 提供意见。以下哪项不属于其主要关注的方面（ ）。",
+    "options": [
+      "A. 服务规范是否满足需方业务需求",
+      "B. 服务规范的技术可行性",
+      "C. 服务规范对需方的价值体现",
+      "D. 需方对服务规范的接受程度"
+    ],
+    "answer": "B",
+    "explanation": "15.1.4 管理要点中，资深需方服务经理熟悉需方需求，主要从需方业务需求、对 需方的价值、需方接受程度等方面提供意见，技术可行性主要由资深技术专家关注。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0213",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范研发过程中，评审组评审通过后的规范由服务交付部门负责执行。在 执行过程中，服务交付部门若发现规范存在问题，应（ ）。",
+    "options": [
+      "A. 自行修改规范",
+      "B. 停止执行并等待上级指示",
+      "C. 反馈给研发团队或相关部门",
+      "D. 按照自己的理解继续执行"
+    ],
+    "answer": "C",
+    "explanation": "15.1.4 管理要点中提到IT 服务规范需要根据执行过程中发现的问题进行定期 更新，所以服务交付部门发现问题应反馈给研发团队或相关部门，不能自行修改、停止 执行等待指示或按自己理解继续执行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0214",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务工具研发定位中，面向业务服务的专用工具是为某些IT 服务特制的工具。以 下属于专用工具的是（ ）。",
+    "options": [
+      "A. 安全工具",
+      "B. 监控工具",
+      "C. 服务过程管理工具",
+      "D. 数据分析工具"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到专用工具主要是一些用于特殊要求的工具，比如安全工 具等，监控工具主要用于数据采集和监控，服务过程管理工具用于内部服务管理，数据 分析工具应用较为广泛，不属于专用工具范畴。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0215",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务过程管理工具研发团队中的服务交付管理人员和专业软件人员密切协作。专业 软 件人员主要负责将服务交付管理人员提出的需求转化为软件功能，在这个过程中， 可能出现的问题是（ ）。",
+    "options": [
+      "A. 软件功能无法满足业务需求",
+      "B. 软件性能不稳定",
+      "C. 双方沟通不畅导致需求理解偏差",
+      "D. 软件安全存在漏洞"
+    ],
+    "answer": "C",
+    "explanation": "服务交付管理人员提出业务需求，专业软件人员将其转化为软件功能，由于双方 专业背景不同，可能出现沟通不畅导致需求理解偏差的情况，进而使软件功能无法满足 业务需求、性能不稳定或存在安全漏洞，但最直接可能出现的问题是沟通导致的需求理 解偏差。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0216",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务工具研发过程中，其研发过程参考软件的研发过程，包括需求、设计、编码、 测试等。在测试环节，主要目的是（ ）。",
+    "options": [
+      "A. 发现软件中的缺陷并进行修复",
+      "B. 评估软件的性能和功能是否符合要求",
+      "C. 验证软件是否满足用户需求",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.1.4 管理要点中，服务工具研发测试环节与软件测试目的相似，通过测试发现 软件中的缺陷并修复，评估性能和功能是否符合要求，验证是否满足用户需求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0217",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发定位中，信息采集和监控的手段是发现问题的重 要方式之一。以下哪种方式不属于信息采集和监控的手段（ ）。",
+    "options": [
+      "A. 通过人工方式按照技术文档对运行情况数据进行对比分析",
+      "B. 通过专业工具自动监测获取信息",
+      "C. 通过工作过程中的操作方法和步骤进行人工巡查",
+      "D. 通过专业的故障诊断软件自动分析"
+    ],
+    "answer": "D",
+    "explanation": "15.1.4 管理要点中提到信息采集和监控的手段包括通过专业工具自动监测获 取、通过工作过程中的操作方法和步骤进行人工巡查等，D 选项通过专业的故障诊断软 件自动分析属于诊断和分析问题的方法，不属于信息采集和监控手段。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0218",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发队伍中的高级运维工程师和技术专家共同开展 工作。技术专家在其中主要发挥的作用是（ ）。",
+    "options": [
+      "A. 提供深厚的技术理论支持和创新思路",
+      "B. 负责具体的技术研发工作",
+      "C. 结合实际运维经验提出研发方向",
+      "D. 对研发成果进行推广应用"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，技术专家具有深厚的技术积累，在研发队伍中主要提供技 术理论支持和创新思路；高级运维工程师结合实际运维经验参与研发，具体的技术研发 工作是团队共同完成，研发成果的推广应用通常不是技术专家的主要职责。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0219",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发过程中，如果是工具类研发，按照服务工具研发 管理过程执行。在工具研发的设计阶段，主要工作是（ ）。",
+    "options": [
+      "A. 确定工具的功能和架构",
+      "B. 进行需求分析",
+      "C. 编写代码实现工具功能",
+      "D. 对工具进行测试"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，服务工具研发的设计阶段主要是确定工具的功能和架构，需 求分析在设计之前，编写代码是编码阶段工作，测试是测试阶段工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0220",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术研究定位中，支撑IT 服务的新技术应用可以提升IT 服务的质量和效率。 以下哪种新技术最有可能直接提升IT 服务的效率（ ）。",
+    "options": [
+      "A. 人工智能技术用于智能客服",
+      "B. 区块链技术用于数据安全存储",
+      "C. 虚拟现实技术用于培训场景",
+      "D. 量子计算技术用于复杂算法研究"
+    ],
+    "answer": "A",
+    "explanation": "人工智能技术用于智能客服可以自动化处理大量客服请求，显著提高服务效率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0221",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术研究队伍由资深技术专家组成，他们对新技术进行跟踪研究。在跟踪研究过 程中，需要关注的方面不包括（ ）。",
+    "options": [
+      "A. 新技术的发展动态和趋势",
+      "B. 新技术在其他组织的应用案例",
+      "C. 新技术对组织业务的潜在影响",
+      "D. 新技术研发人员的个人背景"
+    ],
+    "answer": "D",
+    "explanation": "15.1.4 管理要点中，新技术研究过程中，资深技术专家跟踪研究新技术的发展动 态、在其他组织的应用案例以及对组织业务的潜在影响，以评估新技术的应用前景，一 般不需要关注新技术研发人员的个人背景。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0222",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在IT 技术应用的管理要点中，技术评定报告经审批后对新技术进行测试。测试过 程中，如果新技术未能通过测试，应（ ）。",
+    "options": [
+      "A. 放弃该新技术的应用",
+      "B. 分析原因并进行改进后再次测试",
+      "C. 直接进行技术决策选择其他技术",
+      "D. 降低测试标准使其通过测试"
+    ],
+    "answer": "B",
+    "explanation": "15.2.1 管理要点中提到新技术或研发的新系统、新工具应进行技术评定和测 试， 若未通过测试，应分析原因并改进后再次测试，而不是直接放弃、直接选择其他技术或 降低测试标准。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0223",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 技术应用中，技术验证环节开发技术原型的目的是（ ）。",
+    "options": [
+      "A. 更直观地展示技术在服务中的应用效果",
+      "B. 验证技术的可行性和稳定性",
+      "C. 为技术决策提供更可靠的依据",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.2.1 管理要点中提到必要时开发技术原型，验证技术在服务中的应用效果，通 过开发技术原型可更直观展示应用效果，验证可行性和稳定性，为技术决策提供更可靠 依据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0224",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识转移内容中的历史运维资料包含相关工作界面和人员职责说明书。这些说明书 的作用是（ ）。",
+    "options": [
+      "A. 帮助新运维人员快速了解工作流程和职责分工",
+      "B. 明确运维工作的技术标准",
+      "C. 记录运维工作的历史数据",
+      "D. 作为绩效考核的依据"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到历史运维资料中的相关工作界面和人员职责说明书，可 帮助新运维人员快速了解工作流程和职责分工，便于开展运维工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0225",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "应急响应预案制定中，对于IT 系统发生网络攻击破坏引发的重大安全突发事件， 应急预案应重点规划（ ）。",
+    "options": [
+      "A. 如何快速检测和阻止攻击",
+      "B. 攻击发生后的系统恢复和数据修复",
+      "C. 如何追究攻击者的责任",
+      "D. 加强网络安全防护措施"
+    ],
+    "answer": "B",
+    "explanation": "15.2.2 主要应用中提到对于IT 系统发生网络攻击破坏引发的重大安全突发事 件，应急预案除了考虑检测和阻止攻击外，重点应规划攻击发生后的系统恢复和数据修 复，以保障业务尽快恢复正常。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0226",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "SOP 编写原则中，要求IT 服务人员都能看懂，且每个人的理解都相同。这一原则 主要是为了（ ）。",
+    "options": [
+      "A. 确保SOP 的有效执行",
+      "B. 降低SOP 的编写难度",
+      "C. 提高SOP 的通用性",
+      "D. 体现SOP 的标准化"
+    ],
+    "answer": "A",
+    "explanation": "这一原则主要是为了确保SOP 的有效执行，避免因理解差异导致的执行偏差。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0227",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术手册发布流程中，发放环节通知相关人员进行查看并组织培训讲解。培训讲解 的重点是（ ）。",
+    "options": [
+      "A. 技术手册的编写背景",
+      "B. 技术手册中解决问题的方法和操作步骤",
+      "C. 技术手册的更新记录",
+      "D. 技术手册的管理规定"
+    ],
+    "answer": "B",
+    "explanation": "培训讲解的重点是技术手册中解决问题的方法和操作步骤，以确保相关人员能够 正确理解和应用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0228",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "搭建测试环境时，运用各类测试模拟工具模拟真实环境中的场景。在模拟场景时， 需要考虑的因素不包括（ ）。",
+    "options": [
+      "A. 场景的真实性和代表性",
+      "B. 模拟工具的成本",
+      "C. 场景的复杂程度",
+      "D. 模拟场景与实际业务的相关性"
+    ],
+    "answer": "B",
+    "explanation": "15.2.2 主要应用中提到搭建测试环境模拟场景时，重点在于场景本身对技术验 证的有效性，需考虑场景的真实性和代表性、复杂程度以及与实际业务的相关性，而模 拟工具成本并非模拟场景时的关键考虑因素。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0229",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果进行培训与知识转移时，知识性研发成果培训的目的是（ ）。",
+    "options": [
+      "A. 让相关人员掌握新的知识体系或方法论",
+      "B. 提升员工的技术操作技能",
+      "C. 确保员工熟悉应急处理流程",
+      "D. 帮助员工了解新工具的使用方法"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到对知识性研发成果进行培训，如组织自行研发的或基于 方法论衍生的方法论框架，其目的是让相关人员掌握新的知识体系或方法论。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0230",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果的内容进行演练或推演时，演练计划中演练场景的设计依据是（ ）。",
+    "options": [
+      "A. 可能出现的问题和风险",
+      "B. 技术成果的应用场景",
+      "C. 组织的业务流程和需求",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.2.2 主要应用中对技术成果进行演练或推演时，演练场景设计需综合考虑可 能出现的问题和风险、技术成果的应用场景以及组织的业务流程和需求，以保证演练的 有效性和针对性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0231",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果进行优化改进时，增加预算的决策依据主要是（ ）。",
+    "options": [
+      "A. 技术成果优化改进的难度和工作量",
+      "B. 组织的财务状况",
+      "C. 技术成果潜在的经济效益",
+      "D. 市场竞争压力"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到对技术成果进行评价与评估，根据分析或在实践中的信 息，对技术成果进行新一轮的开发，并增加相应的预算。增加预算主要是基于技术成果 优化改进的难度和工作量，当然组织财务状况、潜在经济效益和市场竞争压力也会有 影响，但不是主要依据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0232",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在知识产权管理中，知识产权可以保护组织的技术创新成果，使其能够独占市场获 取利润。这主要是通过（ ）实现的。",
+    "options": [
+      "A. 专利权、商标权等知识产权形式",
+      "B. 商业秘密保护措施",
+      "C. 著作权对作品的保护",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.1 目标和范围中提到知识产权包括专利权、商标权、著作权、商业秘密 等， 这些形式都可以保护组织的技术创新成果，使其在市场竞争中占据优势，获取利润。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0233",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织在技术与研发管理方面对知识产权管理的需求包括防范知识产权风险，保障经 营安全。以下哪种行为可能会增加知识产权风险（ ）。",
+    "options": [
+      "A. 对研发成果及时申请专利",
+      "B. 与合作方签订明确的知识产权协议",
+      "C. 随意使用开源软件且未遵循其许可协议",
+      "D. 定期对组织的知识产权进行评估"
+    ],
+    "answer": "C",
+    "explanation": "15.3.1 目标和范围以及15.3.3 管理制度和流程等相关内容表明，随意使用开 源软件且未遵循其许可协议，可能导致侵权行为，增加知识产权风险；A、B、D 选项的 行为有助于防范知识产权风险。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0234",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权管理职责中，最高管理者全面负责知识产权管理，确保知识产权合规义务 得到履行。以下属于最高管理者在知识产权管理方面工作的是（ ）。",
+    "options": [
+      "A. 制定知识产权管理制度和流程",
+      "B. 推进识别知识产权合规义务",
+      "C. 确保组织知识产权管理以高质量发展为目标",
+      "D. 负责组织知识产权日常管理工作"
+    ],
+    "answer": "C",
+    "explanation": "15.3.2 管理职责中提到最高管理者应确保组织知识产权管理以高质量发展为目 标，提升市场竞争力等；制定知识产权管理制度和流程、推进识别知识产权合规义务、 负责组织知识产权日常管理工作一般是知识产权管理机构或相关部门的职责。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0235",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织知识产权管理机构负责组织知识产权工作计划制订和实施，监督和考核完成情 况。在考核过程中，主要考核的内容不包括（ ）。",
+    "options": [
+      "A. 知识产权申请的数量和质量",
+      "B. 知识产权的维护情况",
+      "C. 员工对知识产权的了解程度",
+      "D. 组织的财务状况"
+    ],
+    "answer": "D",
+    "explanation": "15.3.2 管理职责中，知识产权管理机构考核主要围绕知识产权相关工作，如知识 产权申请、维护情况以及员工对知识产权的了解程度等，组织的财务状况不属于知识产 权管理工作考核范畴。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0236",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权管理制度和流程中，识别组织知识产权管理目标及实现目标的方法时，确 定实施知识产权管理所需要的资源包括（ ）。",
+    "options": [
+      "A. 人力资源、资金、技术和信息资源等",
+      "B. 仅人力资源和资金",
+      "C. 仅技术和信息资源",
+      "D. 仅人力资源"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到识别组织知识产权管理目标及实现目标的方法， 并确定实施知识产权管理所需要的资源，包括人力资源、资金、技术和信息资源等，以 保障知识产权管理工作的开展。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0237",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权获取过程中，在申请专利前进行必要的检索和分析，以下关于检索和分析 的说法错误的是（ ）。",
+    "options": [
+      "A. 可以避免重复研发，节省资源",
+      "B. 能确定专利的市场价值",
+      "C. 有助于评估获得专利权的前景",
+      "D. 能判断专利是否具有新颖性"
+    ],
+    "answer": "B",
+    "explanation": "15.3.3 管理制度和流程中提到在申请专利前进行检索和分析，可避免重复研发， 节省资源，评估获得专利权的前景，判断专利的新颖性，但不能确定专利的市场价值。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0238",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权维护中，建立知识产权分类管理档案，进行日常维护。分类管理的好处不 包括（ ）。",
+    "options": [
+      "A. 便于查找和管理知识产权",
+      "B. 有利于制定针对性的维护策略",
+      "C. 可以提高知识产权的价值",
+      "D. 方便统计各类知识产权的数量和状态"
+    ],
+    "answer": "C",
+    "explanation": "15.3.3 管理制度和流程中提到建立知识产权分类管理档案，便于查找和管理，有 利于制定针对性维护策略，方便统计数量和状态，但分类管理本身并不能直接提高知识 产权的价值。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0239",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权运用中，促进知识产权的实施和使用，对已实施和使用的知识产权评估其 对组织的贡献。评估贡献时主要考虑的因素不包括（ ）。",
+    "options": [
+      "A. 知识产权带来的经济效益",
+      "B. 知识产权对提升组织竞争力的作用",
+      "C. 知识产权的研发成本",
+      "D. 知识产权对业务创新的推动作用"
+    ],
+    "answer": "C",
+    "explanation": "15.3.3 管理制度和流程中提到评估已实施和使用的知识产权对组织的贡献，主 要从经济效益、提升竞争力、推动业务创新等方面考虑，研发成本是在知识产权获取或 维护阶段考虑的因素，不属于评估贡献时的主要考虑因素。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0240",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权许可或转让前，制定许可或转让方案时，需要考虑的因素有被许可方或受 让方的技术实力、知识产权的当前市场价值等。此外，还需要考虑（ ）。",
+    "options": [
+      "A. 许可或转让的地域范围",
+      "B. 组织的发展战略",
+      "C. 知识产权的剩余有效期",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中提到知识产权许可或转让前制定方案，需综合考虑被 许可方或受让方的技术实力、市场价值、许可或转让的地域范围、组织发展战略、知识 产权剩余有效期等因素。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0241",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织开展投融资活动前，对投融资活动对象涉及的知识产权进行尽职调查。在调查 过程中，对于知识产权的法律风险评估，主要关注（ ）。",
+    "options": [
+      "A. 知识产权是否存在侵权纠纷",
+      "B. 知识产权的获取是否合法合规",
+      "C. 知识产权的权利状态是否稳定",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中提到组织开展投融资活动前对知识产权尽职调查，评 估法律风险时，要关注知识产权是否存在侵权纠纷、获取是否合法合规以及权利状态是 否稳定等方面。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0242",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "企业合并或并购前，开展知识产权尽职调查并进行评估。通过评估知识产权，企业 可以（ ）。",
+    "options": [
+      "A. 了解被合并或并购方的核心竞争力",
+      "B. 确定合并或并购的交易价格",
+      "C. 发现潜在的知识产权风险",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中提到企业合并或并购前评估知识产权，可了解被合并 或并购方的核心竞争力，为确定交易价格提供参考，同时发现潜在知识产权风险。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0243",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织参与标准化组织前，了解标准化组织的知识产权政策。这有助于组织（ ）。",
+    "options": [
+      "A. 在标准化活动中保护自身知识产权",
+      "B. 遵守标准化组织的规则",
+      "C. 更好地参与标准制定过程",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "了解标准化组织的知识产权政策有助于组织在标准化活动中保护自身知识产权、 遵守规则并更好地参与标准制定过程。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0244",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权保护的风险管理中，采取措施避免或降低生产经营活动中侵犯他人知识产 权的风险。以下措施中，错误的是（ ）。",
+    "options": [
+      "A. 加强对员工的知识产权培训",
+      "B. 对涉及知识产权的产品进行严格审查",
+      "C. 随意使用他人的知识产权",
+      "D. 建立知识产权侵权预警机制"
+    ],
+    "answer": "C",
+    "explanation": "15.3.3 管理制度和流程中提到应采取措施避免或降低侵犯他人知识产权的风险， 随意使用他人知识产权会增加侵权风险，A、B、D 选项的措施有助于防范侵权风险。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0245",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权争议处理中，在选择争议解决方式时，除了考虑不同处理方式对组织的影 响外，还需要考虑（ ）。",
+    "options": [
+      "A. 争议的性质和复杂程度",
+      "B. 侵权方的态度和经济实力",
+      "C. 证据的收集难度",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中提到处理知识产权纠纷选择解决方式时，需综合考虑 争议性质和复杂程度、侵权方态度和经济实力、证据收集难度以及不同处理方式对组织 的影响等因素。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0246",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权合规管理中，基于知识产权合规义务的履行，在知识产权管理过程中实施 必要的审查。审查的内容包括（ ）。",
+    "options": [
+      "A. 知识产权获取、维护、运用和保护等环节是否合规",
+      "B. 组织的知识产权战略是否符合法律法规",
+      "C. 员工的知识产权行为是否符合规定",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中提到知识产权合规管理审查，涵盖知识产权获取、维护、 运用和保护等环节，以及组织的知识产权战略、员工的知识产权行为等是否符合规定。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0247",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织对知识产权合规管理体系的绩效进行评价时，评价知识产权合规管理体系的绩 效和有效性，主要从（ ）方面进行。",
+    "options": [
+      "A. 知识产权管理目标的达成情况",
+      "B. 知识产权管理制度和流程的执行情况",
+      "C. 知识产权风险的控制效果",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.4 评价、审核与改进中提到评价知识产权合规管理体系的绩效和有效性，可 从知识产权管理目标的达成情况、管理制度和流程的执行情况、知识产权风险的控制效 果等方面进行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0248",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发管理的目标之一是通过使用研发成果提高系统服务效率。以下研发成果中， 对提高系统服务效率最直接的是（ ）。",
+    "options": [
+      "A. 研发新的系统监控工具，能实时发现并预警系统故障",
+      "B. 研发新的服务规范，优化服务流程",
+      "C. 研发新的技术手册，提供更详细的问题解决方法",
+      "D. 研发新的知识体系，提升服务人员的理论水平"
+    ],
+    "answer": "A",
+    "explanation": "15.1.1 目标和范围中提到技术研发目的包括提高系统服务效率，研发新的系统 监控工具能实时发现并预警系统故障，可减少系统故障导致的服务中断时间，最直接地 提高系统服务效率；B 选项优化服务流程、C 选项提供问题解决方法、D 选项提升服 务人员理论水平对提高效率有间接作用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0249",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发的范围包括与系统运行相关的技术研发。在与系统运行相关的技术研发中， 对于承载IT 运行的网络技术研发，主要是为了（ ）。",
+    "options": [
+      "A. 提高网络的稳定性和性能",
+      "B. 开发新的网络产品",
+      "C. 降低网络建设成本",
+      "D. 满足不同用户的网络需求"
+    ],
+    "answer": "A",
+    "explanation": "15.1.1 目标和范围中提到承载IT 运行的网络技术研发，目的是提高网络的稳 定性和性能，保障IT 系统的可靠运行，虽然可能会带来开发新网络产品、降低成本和 满足不同用户需求等结果，但主要目的是提高网络稳定性和性能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0250",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发管理的管理对象包括研发成本。在控制研发成本时，正确的做法是（ ）。",
+    "options": [
+      "A. 减少不必要的研发开支，保证研发资源合理利用",
+      "B. 降低研发人员的薪酬待遇",
+      "C. 压缩研发项目的时间周期",
+      "D. 减少研发设备的投入"
+    ],
+    "answer": "A",
+    "explanation": "15.1.1 目标和范围中提到研发成本控制是减少研发中不必要的开支，用较少的 投入获取较大的研发成果，保证研发资源合理利用；B 选项降低研发人员薪酬待遇可能 影 响人员积极性和研发质量；C 选项压缩时间周期可能导致研发不充分；D 选项减少 研发设 备投入可能影响研发工作开展。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0251",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发的组织架构中，技术研发负责人负责技术研发规划、技术研发的过程组织 以及技术研发成果在IT 服务中的应用支持。在技术研发规划方面，技术研发负责人 需要( ) 。",
+    "options": [
+      "A. 根据组织战略和业务需求制定研发方向",
+      "B. 确定研发项目的具体实施人员",
+      "C. 负责研发项目的成本核算",
+      "D. 对研发成果进行验收"
+    ],
+    "answer": "A",
+    "explanation": "15.1.2 组织架构中提到技术研发负责人负责技术研发规划，需要根据组织战略 和业务需求制定研发方向；确定具体实施人员、负责成本核算、对研发成果进行验收通 常不是技术研发规划阶段的主要工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0252",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在技术研发的管理过程中，实施过程需要制订具体的实施计划。实施计划中确定阶 段里程碑的目的是（ ）。",
+    "options": [
+      "A. 便于监控研发进度，及时发现问题和调整计划",
+      "B. 为研发人员提供明确的工作目标",
+      "C. 确定研发项目的关键节点和成果交付时间",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.1.3 管理过程中提到实施计划确定阶段里程碑，便于监控进度，为研发人员提 供目标，确定关键节点和成果交付时间，以保障研发项目顺利推进。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0253",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发监控过程中，除了对研发质量、成本和进度进行监控外，还需要关注（ ）。",
+    "options": [
+      "A. 研发人员的工作状态",
+      "B. 技术研发的市场需求变化",
+      "C. 研发团队的协作情况",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.1.3 管理过程中提到技术研发监控过程除了关注质量、成本和进度，还需关注 研发人员工作状态、市场需求变化、团队协作情况等，以确保研发项目顺利进行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0254",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "研发成果应用过程中，将技术转变成服务工具，利用工具提高服务质量与效率。在 这个过程中，需要注意（ ）。",
+    "options": [
+      "A. 服务工具的易用性和稳定性",
+      "B. 服务工具与现有系统的兼容性",
+      "C. 服务工具的可维护性",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.1.3 管理过程中提到将技术转变成服务工具时，要注意服务工具的易用性、稳 定性、与现有系统的兼容性以及可维护性等，以保证服务工具能有效提高服务质量与效 率。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0255",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发定位时，思考“需方为什么需要我们提供服务产品”这一问题，有 助于( ) 。",
+    "options": [
+      "A. 明确组织自身的竞争优势",
+      "B. 确定服务产品的价格策略",
+      "C. 选择合适的服务产品推广渠道",
+      "D. 了解需方的潜在需求"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到在服务产品研发定位时思考此问题，可分析组织与其他 竞争对手相比的优势，明确自身竞争优势，确定价格策略、选择推广渠道、了解潜在需 求并非该问题直接关联的作用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0256",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发队伍中的产品经理负责服务产品的研发、推广以及团队的管理。在服 务产品推广方面，产品经理需要（ ）。",
+    "options": [
+      "A. 制定推广计划，选择合适的推广方式",
+      "B. 负责服务产品的技术实现",
+      "C. 对服务产品进行测试和优化",
+      "D. 确定服务产品的研发方向"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到产品经理负责服务产品推广，需要制定推广计划，选择 合适的推广方式；负责技术实现、进行测试优化、确定研发方向通常不是推广阶段的主 要职责。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0257",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务产品研发成果中的服务目录，包括服务名称、服务对象、服务内容等信息。服 务目录的作用是（ ）。",
+    "options": [
+      "A. 为需方提供清晰的服务信息，便于其选择和使用服务",
+      "B. 规范服务产品的研发流程",
+      "C. 作为服务产品定价的依据",
+      "D. 评估服务产品的市场需求"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到服务目录是服务产品的重要信息，其包含的内容能为需 方提供清晰的服务信息，便于需方选择和使用服务，规范研发流程、作为定价依据、评 估市场需求并非服务目录的主要作用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0258",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范研发队伍中的质量管理负责人在规范研发过程中，主要负责（ ）。",
+    "options": [
+      "A. 确保研发过程符合质量管理体系要求",
+      "B. 提供专业的技术支持",
+      "C. 协调与需方的沟通",
+      "D. 编写技术规范文档"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，质量管理负责人在IT 服务规范研发中，主要职责是确保研 发过程符合质量管理体系要求，保证规范的质量。提供专业技术支持一般是资深技术专 家的职责；协调与需方沟通可能是资深需方服务经理的工作；编写技术规范文档是研发 团队共同的工作，并非质量管理负责人的主要职责。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0259",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 服务规范研发过程中，测试演练之后的定稿环节，需要确保规范（ ）。",
+    "options": [
+      "A. 内容完整、准确且符合实际需求",
+      "B. 格式规范统一",
+      "C. 经过所有相关人员签字确认",
+      "D. 包含最新的技术和业务信息"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，IT 服务规范研发经过测试演练后定稿，重点是保证规范 内 容完整、准确且符合实际需求，格式规范统一、包含最新信息是其中部分要求，并非定 稿环节最核心的要点；不一定需要所有相关人员签字确认。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0260",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务工具研发定位中，面向内部的服务过程管理工具用于内部的IT 服务管理。以 下属于这类工具的是（ ）。",
+    "options": [
+      "A. 工单管理系统",
+      "B. 服务器性能监控工具",
+      "C. 数据备份工具",
+      "D. 安全漏洞扫描工具"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到面向内部的服务过程管理工具主要用于内部的IT 服务 管理，工单管理系统用于管理IT 服务流程中的任务工单，属于服务过程管理工具；服 务器性能监控工具、数据备份工具、安全漏洞扫描工具主要用于对IT 服务对象进行 监控、数据保护和安全检测，不属于服务过程管理工具。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0261",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务工具研发队伍中，监控工具研发团队的成员包括服务交付技术人员和专业软件 开发人员。服务交付技术人员在其中的主要作用是（ ）。",
+    "options": [
+      "A. 从实际运维角度提出监控需求和建议",
+      "B. 负责监控工具的软件编程实现",
+      "C. 对监控工具进行测试和优化",
+      "D. 保障监控工具在实际环境中的稳定运行"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，服务交付技术人员熟悉实际运维情况，在监控工具研发中主 要从实际运维角度提出监控需求和建议，使监控工具更符合实际运维需求；负责软件编 程实现的是专业软件开发人员；测试和优化通常是团队共同的工作；保障监控工具在实 际环境中的稳定运行是后续运维阶段的工作。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0262",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "服务工具研发过程中，在需求阶段，需要明确（ ）。",
+    "options": [
+      "A. 服务工具的功能需求、性能需求和用户界面需求等",
+      "B. 服务工具的技术架构和设计方案",
+      "C. 服务工具的开发进度和计划",
+      "D. 服务工具的测试用例和验收标准"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，服务工具研发的需求阶段主要是明确工具的功能需求、性能 需求、用户界面需求等，为后续设计、开发等阶段提供依据；技术架构和设计方案在设 计阶段确定；开发进度和计划在实施计划中明确；测试用例和验收标准在测试和验收相 关阶段确定。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0263",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发定位中，诊断和分析问题的方法中，通过人工方 式按照技术文档对运行情况数据进行对比分析，主要是为了（ ）。",
+    "options": [
+      "A. 发现潜在的问题或隐患",
+      "B. 确定问题的严重程度",
+      "C. 找出问题的根本原因",
+      "D. 验证问题是否已经解决"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到通过人工方式按照技术文档对运行情况数据进行对比分 析，属于诊断和分析问题的方法，主要目的是发现潜在的问题或隐患；确定问题严重程 度、找出根本原因、验证问题是否解决不是该分析方式的主要目的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0264",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发队伍中，高级运维工程师参与研发的优势在于 ( ) 。",
+    "options": [
+      "A. 丰富的实际运维经验，能准确识别和解决实际问题",
+      "B. 深厚的技术理论知识，能提供创新的解决方案",
+      "C. 较强的沟通协调能力，能促进团队协作",
+      "D. 熟悉研发流程，能高效推进研发工作"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，高级运维工程师具有丰富的实际运维经验，在发现问题和解 决问题相关技术研发中，能凭借经验准确识别和解决实际问题；深厚技术理论知识一般 是技术专家的优势；较强沟通协调能力并非高级运维工程师参与研发的主要优势；熟悉 研发流程不是高级运维工程师区别于其他人员的关键优势。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0265",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "发现问题和解决问题相关技术研发过程中，如果是技术手册资料研发，评审组评审 通过后由质量管理部门负责监督。质量管理部门监督的重点是（ ）。",
+    "options": [
+      "A. 技术手册资料是否按照规定的流程进行编写和发布",
+      "B. 技术手册资料的内容是否准确、完整且有效",
+      "C. 技术手册资料是否被正确使用",
+      "D. 技术手册资料是否及时更新"
+    ],
+    "answer": "C",
+    "explanation": "15.1.4 管理要点中提到发现问题和解决问题相关技术研发的技术手册资料研 发，评审通过后上传知识库，发布执行，由质量管理部门负责监督。质量管理部门主要 监督技术手册资料在实际使用过程中是否被正确使用；编写和发布流程在之前环节已 进行把控；内容准确性和完整性在评审环节重点关注；及时更新是后续根据实际情况 进行的工作，不是监督重点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0266",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术研究定位中，支撑需方业务的新技术提前进行技术储备，能为组织带来的好 处是（ ）。",
+    "options": [
+      "A. 在市场竞争中占据先机，满足需方未来业务需求",
+      "B. 提升组织的技术研发能力",
+      "C. 降低组织的技术研发成本",
+      "D. 增强组织内部的创新氛围"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中提到支撑需方业务的新技术的应用必然会提供新的IT 服务 机会，提前进行技术储备可以确保在将来的环境发展中占得先机，满足需方未来业务需 求；提升研发能力、降低研发成本、增强创新氛围并非技术储备的直接好处。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0267",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "新技术研究队伍中，资深技术专家进行知识积累，积累的知识主要包括（ ）。",
+    "options": [
+      "A. 新技术的原理、应用场景、技术优势和局限性等",
+      "B. 组织内部的技术研发流程和规范",
+      "C. 行业内其他组织的技术研发动态",
+      "D. 新技术研发所需的资源和成本信息"
+    ],
+    "answer": "A",
+    "explanation": "15.1.4 管理要点中，新技术研究中资深技术专家进行知识积累，主要积累与新技 术本身相关的知识，如新技术的原理、应用场景、技术优势和局限性等；组织内部研发 流程规范、行业其他组织研发动态、研发资源和成本信息不是知识积累的主要内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0268",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在IT 技术应用的管理要点中，判断与选择技术时，采用结构化方法分析有利与不 利因素。结构化方法的特点是（ ）。",
+    "options": [
+      "A. 将复杂问题分解为多个简单的子问题，逐一分析",
+      "B. 从整体上对技术进行综合评价",
+      "C. 主要依靠专家的经验和判断",
+      "D. 以数据为驱动进行分析"
+    ],
+    "answer": "A",
+    "explanation": "15.2.1 管理要点中提到判断与选择技术时采用结构化方法，其特点是将复杂问 题分解为多个简单的子问题，逐一分析，从而更全面、系统地评估技术；从整体上综合 评价不是结构化方法的典型特点；主要依靠专家经验和判断属于专家判断法；以数据 为驱动进行分析是数据驱动分析方法，并非结构化方法的特点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0269",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "IT 技术应用中，技术实现跟踪管理应定期评估技术实现状态。评估的内容包括 ( ) 。",
+    "options": [
+      "A. 技术的应用进度、应用效果和存在的问题等",
+      "B. 技术研发团队的绩效",
+      "C. 技术应用所涉及的项目成本",
+      "D. 技术应用对组织战略的影响"
+    ],
+    "answer": "A",
+    "explanation": "15.2.1 管理要点中提到技术实现跟踪管理应定期评估技术实现状态，评估内容 包括技术的应用进度、应用效果和存在的问题等；技术研发团队绩效、项目成本、对组 织战略的影响不是技术实现状态评估的主要内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0270",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识转移内容中的应用系统资料包含应用系统需求和设计文档。这些文档对后续的 IT 服务工作的作用是（ ）。",
+    "options": [
+      "A. 帮助运维人员理解系统功能和架构，便于进行维护和升级",
+      "B. 作为开发新应用系统的参考资料",
+      "C. 用于评估应用系统的运行效率",
+      "D. 确定应用系统的用户需求"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到应用系统需求和设计文档包含系统功能和架构等信息， 有助于运维人员理解系统，便于进行维护和升级；开发新应用系统参考资料只是其部分 作用；评估运行效率和确定用户需求不是这些文档的主要作用。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0271",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "应急响应预案制定中，对于应用系统发生重大故障这一情形，应急预案应包含 ( ) 。",
+    "options": [
+      "A. 故障的应急处理流程、恢复措施和数据备份策略等",
+      "B. 对应用系统开发团队的处罚措施",
+      "C. 应用系统的优化方案",
+      "D. 新应用系统的选型和建设计划"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到应急预案针对应用系统重大故障，应包含故障的应急处 理流程、恢复措施和数据备份策略等，以保障系统尽快恢复运行；处罚措施、优化方案、 新系统选型和建设计划不属于应急预案针对故障的主要内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0272",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "SOP 编写原则中，SOP 正式发布前要经过测试与评价环节。测试与评价的目的是 ( ) 。",
+    "options": [
+      "A. 检查SOP 是否符合编写原则，能否有效指导工作",
+      "B. 发现SOP 中的错误和不足，进行改进和完善",
+      "C. 评估SOP 对工作效率和质量的影响",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.2.2 主要应用中提到SOP 正式发布前的测试与评价环节，目的是检查SOP 是否符合编写原则，能否有效指导工作，发现其中的错误和不足进行改进，评估其对 工作效率和质量的影响。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0273",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术手册发布流程中，存档环节采用分级管理的方法，分级的依据可以是（ ）。",
+    "options": [
+      "A. 技术手册的类型、适用范围和重要程度等",
+      "B. 技术手册的编写时间",
+      "C. 技术手册的编写人员",
+      "D. 技术手册的篇幅长短"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到技术手册存档采用分级管理，分级依据通常是技术手册 的类型、适用范围和重要程度等，便于使用者快速定位；编写时间、编写人员、篇幅长 短一般不作为主要分级依据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0274",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "搭建测试环境时，测试环境与真实环境存在一定差异。为了提高测试的有效性，需 要( ) 。",
+    "options": [
+      "A. 尽量缩小测试环境与真实环境的差距，模拟关键场景",
+      "B. 增加测试环境中的设备和软件数量",
+      "C. 延长测试时间",
+      "D. 提高测试人员的技术水平"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到搭建测试环境是为了验证技术的可行性和可靠性，应尽 量缩小测试环境与真实环境的差距，模拟关键场景，以提高测试有效性；增加设备和软 件数量、延长测试时间、提高测试人员技术水平不一定能直接提高测试有效性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0275",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果进行培训与知识转移时，工具类研发成果培训的重点是（ ）。",
+    "options": [
+      "A. 工具的功能、使用方法和注意事项等",
+      "B. 工具研发的技术原理",
+      "C. 工具在组织中的应用案例",
+      "D. 工具的市场价值和发展趋势"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到对工具类研发成果进行培训，重点是让相关人员掌握工 具的功能、使用方法和注意事项等，以便能够正确使用工具；工具研发的技术原理、应 用案例、市场价值和发展趋势不是培训的重点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0276",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果的内容进行演练或推演时，演练过程记录中应详细记录（ ）。",
+    "options": [
+      "A. 演练操作记录、演练结果、操作人、记录人等信息",
+      "B. 演练的目的、地点、时间和参与人员等信息",
+      "C. 演练中发现的问题、所属系统和发生环节等信息",
+      "D. 改进行动描述、负责人和完成时间等信息"
+    ],
+    "answer": "A",
+    "explanation": "15.2.2 主要应用中提到演练过程记录应详细记录演练操作记录、演练结果、操作 人、记录人等信息，以便后续对演练进行分析和总结；演练目的、地点、时间和参与人 员等信息在演练计划中体现；演练中发现的问题、改进行动等信息在演练问题总结和改 进行动记录中体现。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0277",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "对技术成果进行优化改进时，基于实践中的信息进行优化改进的原因是（ ）。",
+    "options": [
+      "A. 实践中的信息能真实反映技术成果在实际应用中的情况",
+      "B. 实践中的信息能发现技术成果存在的潜在问题",
+      "C. 实践中的信息能为优化改进提供方向和依据",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.2.2 主要应用中提到对技术成果进行优化改进时，实践中的信息能真实反映 技术成果在实际应用中的情况，发现潜在问题，为优化改进提供方向和依据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0278",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "在知识产权管理中，知识产权对组织之间的合作和交流的促进作用体现在（ ）。",
+    "options": [
+      "A. 明确合作各方的知识产权归属和使用规则，减少纠纷",
+      "B. 促进知识共享，提高行业整体创新能力",
+      "C. 作为合作的重要资源，实现优势互补",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.1 目标和范围中提到知识产权可以促进组织之间的合作和交流，明确知识 产权归属和使用规则可减少纠纷，促进知识共享能提高行业创新能力，知识产权还可作 为合作资源实现优势互补。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0279",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织在技术与研发管理方面对知识产权管理的需求包括提高生产经营效率，增加经 济效益。通过知识产权管理实现这一需求的途径是（ ）。",
+    "options": [
+      "A. 研发新技术、新产品，提高产品附加值",
+      "B. 加强知识产权保护，防止侵权损失",
+      "C. 合理运用知识产权，促进技术创新成果转化",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.1 目标和范围中提到组织通过研发新技术、新产品提高附加值，加强知识产 权保护防止侵权，合理运用知识产权促进成果转化，都有助于提高生产经营效率，增加 经济效益。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0280",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权管理职责中，组织需要完善知识产权管理的制度和流程。完善制度和流程 的目的是（ ）。",
+    "options": [
+      "A. 明确知识产权的归属和使用规则，规范管理行为",
+      "B. 提高知识产权管理的效率和效果",
+      "C. 保障组织知识产权的安全",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.2 管理职责中提到完善知识产权管理的制度和流程，可明确知识产权归属 和使用规则，规范管理行为，提高管理效率和效果，保障知识产权安全。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0281",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织知识产权管理的指导原则中，全员参与强调的是（ ）。",
+    "options": [
+      "A. 所有人员都应遵守知识产权合规义务",
+      "B. 组织内各部门共同参与知识产权管理工作",
+      "C. 鼓励员工积极参与知识产权的创造和保护",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.2 管理职责中提到全员参与原则，意味着所有人员都应遵守知识产权合规 义务，各部门共同参与管理工作，鼓励员工积极参与知识产权的创造和保护。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0282",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "最高管理者在组织知识产权管理中，确保知识产权合规义务得以履行，需要（ ）。",
+    "options": [
+      "A. 建立知识产权管理机构，配备专业人员",
+      "B. 制定知识产权管理制度和流程",
+      "C. 监督知识产权管理工作的执行情况",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.2 管理职责中提到最高管理者确保知识产权合规义务得以履行，需要建立 管理机构，配备专业人员，制定制度和流程，监督工作执行情况。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0283",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织知识产权管理机构承担推进识别知识产权合规义务的职责。在识别过程中，需 要( ) 。",
+    "options": [
+      "A. 收集相关法律法规、政策文件和合同要求等信息",
+      "B. 分析组织业务活动中涉及的知识产权事项",
+      "C. 确定组织应遵守的知识产权合规义务",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.2 管理职责中提到组织知识产权管理机构推进识别知识产权合规义务，需 收集相关信息，分析业务活动中的知识产权事项，确定应遵守的合规义务。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0284",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权管理制度和流程中，确定并保持、保留成文信息。成文信息包括（ ）。",
+    "options": [
+      "A. 知识产权管理的制度文件、流程记录、合同协议等",
+      "B. 组织的战略规划和业务计划",
+      "C. 员工的培训记录和绩效考核文件",
+      "D. 组织的财务报表和审计报告"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到确定并保持、保留成文信息，这些信息主要围绕知 识产权管理，如知识产权管理的制度文件、流程记录、合同协议等。组织的战略规划、 业务计划、员工培训和绩效考核文件、财务报表和审计报告不属于知识产权管理的成文 信息范畴。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0285",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权获取措施中，确保专利质量得到管控，保障发明创造人员的署名权，是为 了( ) 。",
+    "options": [
+      "A. 维护发明创造人员的合法权益",
+      "B. 提高组织的创新积极性",
+      "C. 保证专利的有效性和价值",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中，保障发明创造人员署名权，一方面维护了其合法权益， 能提高他们创新的积极性；另一方面，确保专利质量管控与保障署名权都是保证专利有 效性和价值的体现。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0286",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权的维护中，对知识产权进行分级管理，分级的依据可以是（ ）。",
+    "options": [
+      "A. 知识产权的重要性、价值和风险程度等",
+      "B. 知识产权的申请时间",
+      "C. 知识产权的类型",
+      "D. 知识产权的研发人员"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到对知识产权进行分级管理，通常依据知识产权的 重要性、价值和风险程度等，以便采取不同的管理策略。申请时间、类型、研发人员并 非主要的分级依据。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0287",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权运用的实施和使用环节，明确知识产权实施和使用的管理要求，建立管理 过程，主要是为了（ ）。",
+    "options": [
+      "A. 确保知识产权的合规实施和使用",
+      "B. 提高知识产权的实施和使用效率",
+      "C. 监控知识产权的实施和使用效果",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中，在知识产权运用的实施和使用环节建立管理要求和 过程，目的包括确保合规实施和使用、提高实施和使用效率、监控实施和使用效果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0288",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权许可或转让前，进行知识产权评估时，评估机构需要考虑的因素不包括 ( ) 。",
+    "options": [
+      "A. 知识产权的研发成本",
+      "B. 市场上类似知识产权的交易价格",
+      "C. 被许可方或受让方的财务状况",
+      "D. 知识产权的剩余保护期限"
+    ],
+    "answer": "C",
+    "explanation": "15.3.3 管理制度和流程中，知识产权许可或转让前评估知识产权，会考虑研发成 本、市场上类似知识产权的交易价格、剩余保护期限等因素。被许可方或受让方的财务 状况不是评估知识产权本身价值的直接考虑因素。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0289",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织开展投融资活动前，对投融资活动对象涉及的知识产权开展尽职调查，评估其 风险和价值，是为了（ ）。",
+    "options": [
+      "A. 避免因知识产权问题导致投融资失败或遭受损失",
+      "B. 确定投融资活动的收益预期",
+      "C. 了解投融资对象的核心竞争力",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中提到组织开展投融资活动前对知识产权尽职调查，评 估风险和价值，可避免因知识产权问题使投融资失败或遭受损失，确定收益预期，了解 投融资对象的核心竞争力。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0290",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "企业合并或并购前，开展知识产权尽职调查，根据合并或并购的目的设定调查内容。 若合并目的是获取技术，调查重点应放在（ ）。",
+    "options": [
+      "A. 被合并方的专利、技术秘密等知识产权情况",
+      "B. 被合并方的商标和品牌价值",
+      "C. 被合并方的著作权相关情况",
+      "D. 被合并方的知识产权管理制度"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中，当企业合并目的是获取技术时，专利、技术秘密等与 技术直接相关的知识产权情况是调查重点。商标和品牌价值、著作权相关情况、知识产 权管理制度并非获取技术目的下的调查重点。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0291",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织参与标准化组织前，了解标准化组织的知识产权政策，在将包含专利和专利申 请的技术方案向标准化组织提案时，按照政策要求披露并做出许可承诺，主要是为了 ( ) 。",
+    "options": [
+      "A. 遵守标准化组织的规定，避免知识产权纠纷",
+      "B. 提高组织在标准化组织中的影响力",
+      "C. 推动技术在行业内的推广和应用",
+      "D. 展示组织的技术实力"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到组织参与标准化组织时，按其知识产权政策披露 和做出许可承诺，主要是为了遵守规定，避免知识产权纠纷。提高影响力、推动技术推 广应用、展示技术实力并非主要目的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0292",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权保护的风险管理中，采取措施避免或降低生产经营活动中侵犯他人知识产 权的风险，组织可以（ ）。",
+    "options": [
+      "A. 建立知识产权侵权预警机制",
+      "B. 对员工进行知识产权培训",
+      "C. 对产品和工艺涉及的知识产权进行审查",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中，组织为避免或降低侵犯他人知识产权风险，可以建立 侵权预警机制、对员工进行培训、对产品和工艺涉及的知识产权进行审查。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0293",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权争议处理中，在评估通过协商、诉讼、仲裁、调解等不同处理方式对组织 的影响时，需要考虑的因素包括（ ）。",
+    "options": [
+      "A. 处理成本、处理时间和处理结果的可执行性等",
+      "B. 侵权方的态度和赔偿能力",
+      "C. 组织的声誉和形象影响",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.3.3 管理制度和流程中提到处理知识产权纠纷时，评估不同处理方式对组织 的影响，要考虑处理成本、时间、结果可执行性，侵权方态度和赔偿能力，以及对组织 声誉和形象的影响。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0294",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "知识产权合规管理中，基于知识产权合规义务的履行，在知识产权管理过程中实施 必要的审查。审查的时间点可以是（ ）。",
+    "options": [
+      "A. 知识产权获取、维护、运用和保护的各个环节",
+      "B. 仅在知识产权获取阶段",
+      "C. 仅在知识产权运用阶段",
+      "D. 仅在知识产权保护阶段"
+    ],
+    "answer": "A",
+    "explanation": "15.3.3 管理制度和流程中提到知识产权合规管理的审查应基于知识产权合规义 务的履行，在知识产权获取、维护、运用和保护的各个环节都要实施必要的审查，以确 保合规。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0295",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "组织对知识产权合规管理体系的绩效进行评价时，评价应对风险和机遇所采取措施 的有效性，其中风险和机遇主要来自（ ）。",
+    "options": [
+      "A. 技术创新、市场变化和法律法规调整等",
+      "B. 组织内部的管理变革",
+      "C. 员工的流动和更替",
+      "D. 组织的财务状况变化"
+    ],
+    "answer": "A",
+    "explanation": "15.3.4 评价、审核与改进中提到组织知识产权管理面临的风险和机遇主要源于 技术创新、市场变化和法律法规调整等外部因素，以及组织内部业务发展等。组织内部 的管理变革、员工流动更替、财务状况变化虽有影响，但不是主要来源。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0296",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发管理的目标和范围中，技术作为提供系统运维服务的核心能力要素之一， 其实现需要（ ）。",
+    "options": [
+      "A. 社会协作，得到社会支持，并受到社会多种条件的制约",
+      "B. 仅依靠组织内部的技术团队",
+      "C. 主要依赖外部的技术供应商",
+      "D. 不需要考虑社会因素"
+    ],
+    "answer": "A",
+    "explanation": "15.1.1 目标和范围中提到技术的实现需要通过社会协作，得到社会支持，并受到 社会多种条件的制约，不能仅依靠组织内部技术团队或主要依赖外部供应商，也不能忽 视社会因素。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0297",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发的范围包括与运维对象有关的技术和行业技术发展动态的研究和应用。了 解行业技术发展动态，组织可以（ ）。",
+    "options": [
+      "A. 及时掌握新技术趋势，提前进行技术储备",
+      "B. 调整组织的技术研发方向",
+      "C. 保持组织在行业中的技术竞争力",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.1.1 目标和范围中提到研究和应用行业技术发展动态，组织能及时掌握新技 术趋势，提前储备技术，调整研发方向，保持技术竞争力。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0298",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发管理的管理对象包括研发团队。在组建研发团队时，除了考虑成员的技术 能力，还需要考虑（ ）。",
+    "options": [
+      "A. 成员的沟通协作能力和团队合作精神",
+      "B. 成员的学历背景",
+      "C. 成员的工作经验年限",
+      "D. 成员的性别比例"
+    ],
+    "answer": "A",
+    "explanation": "15.1.1 目标和范围中提到研发是一项创造性工作，团队成员需要协同合作。在组 建研发团队时，除技术能力外，沟通协作能力和团队合作精神也很重要。学历背景、工 作经验年限不是关键因素，性别比例通常不影响团队组建。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch15_0299",
+    "chapter": "第15章",
+    "chapter_no": 15,
+    "chapter_title": "技术与研发管理",
+    "question": "技术研发的组织架构中，技术研发决策负责人承担技术研发的总体决策。为了做出 科学决策，技术研发决策负责人需要（ ）。",
+    "options": [
+      "A. 了解IT 服务的发展需求和组织战略目标",
+      "B. 掌握行业技术发展动态",
+      "C. 综合考虑组织的资源和能力",
+      "D. 以上都是"
+    ],
+    "answer": "D",
+    "explanation": "15.1.2 组织架构中提到技术研发决策负责人根据IT 服务的发展需求，负责与 运维相关的技术规划、实施、应用和改进。为做出科学决策，需了解发展需求、组织战 略目标，掌握行业技术动态，综合考虑组织资源和能力。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第15章",
+    "status": "candidate"
+  }
+]

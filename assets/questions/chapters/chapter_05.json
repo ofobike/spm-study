@@ -1,0 +1,1678 @@
+[
+  {
+    "id": "ch05_q001",
+    "question": "在应用系统规划设计的基本概念中，以下哪项是指每个模块对其他所有模块都隐蔽自己的规划设计决策，使信息（算法和数据）都包含在模块内？",
+    "options": [
+      "A. 信息隐蔽",
+      "B. 功能独立",
+      "C. 模块化",
+      "D. 抽象"
+    ],
+    "answer": "A",
+    "explanation": "信息隐蔽原则建议模块应该具有的特征是每个模块对其他所有模块都隐蔽自己的规划设计决策，即模块应该被特别说明并规划设计，使信息（算法和数据）都包含在模块内，其他模块无须对这些信息进行访问。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "基本概念",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "应用系统",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q002",
+    "question": "关于应用系统分层体系架构，以下哪项描述是不正确的？",
+    "options": [
+      "A. 数据存储层实现数据读写处理，构造元素主要是基于SQL语言的函数包",
+      "B. 业务处理层实现业务流程控制与业务数据计算",
+      "C. 界面交互层实现系统与环境的交互，构造元素主要是界面控件",
+      "D. 各层面内部由协作元素聚集，层面之间依靠接口实现通信"
+    ],
+    "answer": "A",
+    "explanation": "数据处理层（而非数据存储层）实现数据读写处理，构造元素主要是基于SQL语言的函数包。数据存储层实现数据有效存储，构造元素是数据集合体，如数据表、数据文件等。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch05_q003",
+    "question": "在应用系统生命周期模型中，以下哪项不是迭代模型的优点？",
+    "options": [
+      "A. 阶段间具有顺序性和依赖性，前一阶段的输出成果就是后一阶段的输入内容",
+      "B. 建设失败的风险较低，虽然某些增量构件可能遇到问题，但其他增量构件将能成功交付",
+      "C. 逐步增加应用系统的功能可以使用户有较充裕的时间学习和适应新产品",
+      "D. 优先级最高的服务首先交付，最重要的系统服务将接受最多的测试"
+    ],
+    "answer": "A",
+    "explanation": "阶段间具有顺序性和依赖性是瀑布模型的特点，而非迭代模型的优点。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法"
+    ]
+  },
+  {
+    "id": "ch05_q004",
+    "question": "可行性研究需要从多个方面进行分析论证，以下哪项不属于可行性研究的四个方面之一？",
+    "options": [
+      "A. 操作可行性",
+      "B. 技术可行性",
+      "C. 经济可行性",
+      "D. 管理可行性"
+    ],
+    "answer": "A",
+    "explanation": "可行性研究一般需要从经济、技术、社会、管理四个方面进行综合分析和论证。操作可行性不是独立的可行性分析维度。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "可行性研究",
+    "knowledge_point": "可行性研究需要从多个方面",
+    "source_ref": "references/第5章_应用系统规划.md#可行性研究",
+    "tags": [
+      "可行性研究需要从多个方面",
+      "可行性研究"
+    ]
+  },
+  {
+    "id": "ch05_q005",
+    "question": "在TOGAF架构开发方法（ADM）中，ADM的核心阶段不包括以下哪项？",
+    "options": [
+      "A. 代码实现",
+      "B. 业务架构",
+      "C. 架构愿景",
+      "D. 迁移规划"
+    ],
+    "answer": "A",
+    "explanation": "ADM关注的是架构层面的规划和设计，代码实现不是ADM的核心阶段。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "TOGAF",
+    "knowledge_point": "TOGAF",
+    "source_ref": "references/第5章_应用系统规划.md#TOGAF",
+    "tags": [
+      "TOGAF",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch05_q006",
+    "question": "在组件分布架构中，以下哪个中间层构件是由对象管理组织（OMG）定义的通用分布式对象计算准则？",
+    "options": [
+      "A. CORBA",
+      "B. EJB",
+      "C. DCOM",
+      "D. COM"
+    ],
+    "answer": "A",
+    "explanation": "CORBA是由对象管理组织（OMG）定义的通用的并与机器无关的分布式对象计算准则。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "EJB",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "EJB",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q007",
+    "question": "SOA（面向服务的架构）的设计原则中，以下哪项描述是不正确的？",
+    "options": [
+      "A. 接口需满足稳定、明确、封装性等要求",
+      "B. 服务数量应尽可能多，依靠远程过程调用进行交互",
+      "C. 减少各个服务间的相互依赖和影响",
+      "D. 实现服务的功能实体是完全独立自主的"
+    ],
+    "answer": "B",
+    "explanation": "SOA的设计原则中，粗粒度原则要求服务数量不应太多，依靠消息交互而不是远程过程调用。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "面向服务的架构",
+    "knowledge_point": "面向服务的架构",
+    "source_ref": "references/第5章_应用系统规划.md#面向服务的架构",
+    "tags": [
+      "OA",
+      "面向服务的架构",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch05_q008",
+    "question": "关于面向数据流的体系结构定义方法，以下哪项描述是正确的？",
+    "options": [
+      "A. 变换型数据流应重点区分输入数据、变换中心和输出数据",
+      "B. 变换型数据流是指将输入的数据流分散成许多数据流，形成若干个加工",
+      "C. 面向数据流的方法通常在详细设计阶段使用",
+      "D. 事务型数据流是指把输入的数据处理后转变成另外的输出数据"
+    ],
+    "answer": "A",
+    "explanation": "对于变换型数据流，应该重点区分其输入和输出分支，通过变换分析将数据流图映射为变换结构。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "体系结构定义",
+    "knowledge_point": "面向数据流的体系结构定义",
+    "source_ref": "references/第5章_应用系统规划.md#体系结构定义",
+    "tags": [
+      "面向数据流的体系结构定义",
+      "体系结构定义"
+    ]
+  },
+  {
+    "id": "ch05_q009",
+    "question": "抽象是从众多事物中抽取共同本质性特征的过程。应用系统规划设计中的抽象不包括以下哪种类型？",
+    "options": [
+      "A. 业务抽象",
+      "B. 过程抽象",
+      "C. 数据抽象",
+      "D. 物理抽象"
+    ],
+    "answer": "D",
+    "explanation": "应用系统规划设计中的抽象包括业务抽象、过程抽象、数据抽象和技术抽象。物理抽象不是其中的类型。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法"
+    ]
+  },
+  {
+    "id": "ch05_q010",
+    "question": "功能独立的评估标准包括内聚性和耦合性，以下关于内聚性的描述正确的是？",
+    "options": [
+      "A. 内聚性显示了模块间的相互依赖性",
+      "B. 内聚性显示了某个模块相关功能的强度",
+      "C. 内聚性越高，模块间的依赖性越强",
+      "D. 内聚性与信息隐蔽概念无关"
+    ],
+    "answer": "B",
+    "explanation": "内聚性显示了某个模块相关功能的强度，一个内聚的模块应该只完成一件（或一类）事情。内聚性是信息隐蔽概念的自然扩展。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "功能独立的评估标准内聚性",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "功能独立的评估标准内聚性",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q011",
+    "question": "逐步求精是一种自顶向下的规划设计策略，最初由谁提出？",
+    "options": [
+      "A. 冯·诺依曼",
+      "B. 尼古拉斯·威尔",
+      "C. 图灵",
+      "D. 香农"
+    ],
+    "answer": "B",
+    "explanation": "逐步求精是一种自顶向下的规划设计策略，最初由尼古拉斯·威尔提出。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "逐步求精一种自顶向下的规",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "逐步求精一种自顶向下的规",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q012",
+    "question": "以下关于重构的描述，不正确的是？",
+    "options": [
+      "A. 重构会改变系统的功能或行为",
+      "B. 重构可以简化应用系统及其组成部分的规划设计",
+      "C. 重构是一种重新组织的技术",
+      "D. 重构重点检查现有应用系统的冗余性、低效算法等不足"
+    ],
+    "answer": "A",
+    "explanation": "重构是一种重新组织的技术，可以简化应用系统及其组成部分的规划设计而无须改变其功能或行为。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch05_q013",
+    "question": "B/S架构的优越性不包括以下哪项？",
+    "options": [
+      "A. 数据传输速度和安全性高于传统C/S架构",
+      "B. 能够较好地支持基于互联网的远程信息服务",
+      "C. 无须对客户机专门维护",
+      "D. 只需要通用的Web浏览器即可访问"
+    ],
+    "answer": "A",
+    "explanation": "B/S架构的不足恰恰是数据传输速度、数据安全性、稳定性都将低于传统客户机/服务器架构。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "基本概念",
+    "knowledge_point": "B/S",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "B/S",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q014",
+    "question": "瀑布模型的特点不包括以下哪项？",
+    "options": [
+      "A. 快速交付可用软件",
+      "B. 推迟实现的观点",
+      "C. 阶段间具有顺序性和依赖性",
+      "D. 质量保证的观点"
+    ],
+    "answer": "A",
+    "explanation": "快速交付可用软件是敏捷方法的特点，不是瀑布模型的特点。瀑布模型的特点包括顺序性和依赖性、推迟实现、质量保证。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "基本概念",
+    "knowledge_point": "基本概念",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "敏捷",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q015",
+    "question": "敏捷宣言的4种核心价值中，以下哪项不是其中之一？",
+    "options": [
+      "A. 遵循计划高于响应变化",
+      "B. 工作的软件高于详尽的文档",
+      "C. 个体和互动高于流程和工具",
+      "D. 客户合作高于合同谈判"
+    ],
+    "answer": "A",
+    "explanation": "敏捷宣言的核心价值是：个体和互动高于流程和工具；工作的软件高于详尽的文档；客户合作高于合同谈判；响应变化高于遵循计划。C选项将优先级说反了。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "基本概念",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "敏捷",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q016",
+    "question": "V模型中，由用户主导的验收测试主要检查什么？",
+    "options": [
+      "A. 在系统交付之前所有的需求是否都被实现",
+      "B. 系统设计的正确性",
+      "C. 程序设计的正确性",
+      "D. 编码的正确性"
+    ],
+    "answer": "A",
+    "explanation": "验收测试通过把测试和需求规格说明的每一个元素相关联，进行需求的确认，主要检查在系统交付之前所有的需求是否都被实现了。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "系统设计",
+    "knowledge_point": "系统设计",
+    "source_ref": "references/第5章_应用系统规划.md#系统设计",
+    "tags": [
+      "V",
+      "系统设计"
+    ]
+  },
+  {
+    "id": "ch05_q017",
+    "question": "面向数据结构的定义方法中，Jackson方法把数据结构分为三种基本类型，以下哪项不是其中之一？",
+    "options": [
+      "A. 顺序型结构",
+      "B. 选择型结构",
+      "C. 循环型结构",
+      "D. 网状型结构"
+    ],
+    "answer": "D",
+    "explanation": "Jackson方法把数据结构分为三种基本类型：顺序型结构、选择型结构和循环型结构。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "面向数据结构的定义方法中",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "面向数据结构的定义方法中",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q018",
+    "question": "接口定义中，用来说明本系统同外界的所有接口安排的是？",
+    "options": [
+      "A. 用户接口",
+      "B. 外部接口",
+      "C. 内部接口",
+      "D. 网络接口"
+    ],
+    "answer": "B",
+    "explanation": "外部接口用来说明本系统同外界的所有接口的安排，包括软件与硬件之间的接口、本系统与各支持系统之间的接口关系。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "接口定义",
+    "knowledge_point": "接口定义中",
+    "source_ref": "references/第5章_应用系统规划.md#接口定义",
+    "tags": [
+      "接口定义中",
+      "接口定义"
+    ]
+  },
+  {
+    "id": "ch05_q019",
+    "question": "数据库定义过程大致可分为5个步骤，以下哪项不是其中之一？",
+    "options": [
+      "A. 需求分析",
+      "B. 定义概念模型",
+      "C. 定义物理数据库",
+      "D. 代码编写"
+    ],
+    "answer": "D",
+    "explanation": "数据库定义过程的5个步骤为：需求分析、定义概念模型、定义逻辑模型、定义物理数据库、验证。代码编写不是数据库定义过程的步骤。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "数据库定义过程大致可分",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "数据库定义过程大致可分",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q020",
+    "question": "用户界面定义的基本原则不包括以下哪项？",
+    "options": [
+      "A. 置用户于控制之下",
+      "B. 减少用户的记忆负担",
+      "C. 保持界面一致",
+      "D. 最大化系统功能"
+    ],
+    "answer": "D",
+    "explanation": "用户界面定义的基本原则包括：置用户于控制之下、减少用户的记忆负担、保持界面一致。最大化系统功能不是界面定义的基本原则。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "基本概念",
+    "knowledge_point": "用户界面定义的基本原则",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "用户界面定义的基本原则",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q021",
+    "question": "以下关于关注点分离的描述，不正确的是？",
+    "options": [
+      "A. 两个问题被结合到一起的认知复杂度等于每个问题各自的认知复杂度之和",
+      "B. 任何复杂问题如果被分解为可以独立解决的若干块，便能更容易地得到处理",
+      "C. 关注点分离是解决复杂问题的一种系统思维方法",
+      "D. 关注点分离在模块化、功能独立、求精等概念中也有体现"
+    ],
+    "answer": "A",
+    "explanation": "两个问题被结合到一起的认知复杂度经常高于每个问题各自的认知复杂度之和，而不是等于。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "关注点分离的",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "关注点分离的",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q022",
+    "question": "模式是一种最佳实践的表达方法，以下哪项不是常见的模式类型？",
+    "options": [
+      "A. 创建型模式",
+      "B. 结构型模式",
+      "C. 行为型模式",
+      "D. 物理型模式"
+    ],
+    "answer": "D",
+    "explanation": "常见的模式包括创建型模式、结构型模式和行为型模式。物理型模式不是常见的模式类型。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "模式一种最佳实践的表达方",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "模式一种最佳实践的表达方",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q023",
+    "question": "以数据为中心的架构中，最常见的设计路线是？",
+    "options": [
+      "A. 功能驱动",
+      "B. 数据驱动",
+      "C. 模型驱动",
+      "D. 接口驱动"
+    ],
+    "answer": "B",
+    "explanation": "数据驱动是以数据为中心的应用系统的最常见的设计路线，即先规划设计好数据环境，然后按照系统对数据的业务应用划分来规划设计各个子系统。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法"
+    ]
+  },
+  {
+    "id": "ch05_q024",
+    "question": "三层客户机/服务器架构相比两层架构的主要优势是？",
+    "options": [
+      "A. 结构更简单",
+      "B. 将容易改变的业务处理部分集中到应用服务器上，便于维护",
+      "C. 数据传输速度更快",
+      "D. 不需要数据库服务器"
+    ],
+    "answer": "B",
+    "explanation": "三层架构将应用系统中容易改变的业务处理部分集中到应用服务器上，使得当系统业务规则改变时，只需要针对应用服务器上的应用程序进行更新，有利于系统的维护。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法"
+    ]
+  },
+  {
+    "id": "ch05_q025",
+    "question": "耦合性表明应用系统架构中多个部分之间的相互连接，在应用系统规划设计中应当？",
+    "options": [
+      "A. 尽力得到最高的耦合",
+      "B. 尽力得到最低可能的耦合",
+      "C. 耦合性不重要",
+      "D. 耦合性越高越好"
+    ],
+    "answer": "B",
+    "explanation": "在应用系统规划设计中，应当尽力得到最低可能的耦合。各部分间简单的连接性使得软件易于理解并减少\"涟漪效果\"。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法"
+    ]
+  },
+  {
+    "id": "ch05_q026",
+    "question": "结构图中，尾部是空心圆的注释箭头表示传递的是？",
+    "options": [
+      "A. 控制信息",
+      "B. 数据",
+      "C. 错误信息",
+      "D. 状态信息"
+    ],
+    "answer": "B",
+    "explanation": "在结构图中，尾部是空心圆表示传递的是数据，尾部是实心圆表示传递的是控制信息。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "结构图中",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "结构图中",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q027",
+    "question": "应用系统规划设计中，数据定义的内容不包括以下哪项？",
+    "options": [
+      "A. 硬件设备的选型",
+      "B. 应用级的数据库定义",
+      "C. 程序级的数据结构定义",
+      "D. 数据元素的组成和类型"
+    ],
+    "answer": "A",
+    "explanation": "数据定义就是将需求分析阶段定义的数据对象转换为数据结构和数据库的过程，注意要对程序级的数据结构和应用级的数据库两个方面进行定义。硬件设备选型不属于数据定义的内容。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "数据定义",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#数据定义",
+    "tags": [
+      "应用系统",
+      "数据定义",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch05_q028",
+    "question": "构件定义的典型任务不包括以下哪项？",
+    "options": [
+      "A. 编写用户手册",
+      "B. 确定所有与基础设施域对应的类",
+      "C. 标识出所有与问题域对应的类",
+      "D. 说明持久数据源并确定管理数据源所需要的类"
+    ],
+    "answer": "A",
+    "explanation": "构件定义的典型任务包括标识问题域类、确定基础设施域类、细化类、说明持久数据源、开发行为表示、细化部署图等。编写用户手册不属于构件定义的任务。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "构件定义",
+    "knowledge_point": "构件定义的典型任务",
+    "source_ref": "references/第5章_应用系统规划.md#构件定义",
+    "tags": [
+      "构件定义的典型任务",
+      "构件定义"
+    ]
+  },
+  {
+    "id": "ch05_q029",
+    "question": "敏捷宣言的12条原则中，以下哪项描述是正确的？",
+    "options": [
+      "A. 详尽的文档是衡量进度的首要标准",
+      "B. 可工作的软件是衡量进度的首要标准",
+      "C. 遵循计划是最高优先级",
+      "D. 合同谈判高于客户合作"
+    ],
+    "answer": "B",
+    "explanation": "敏捷宣言的12条原则中明确指出：可工作的软件是衡量进度的首要标准。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "基本概念",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "敏捷",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q030",
+    "question": "面向数据流的定义方法中，事务型数据流的特点是？",
+    "options": [
+      "A. 把输入的数据处理后转变成另外的输出数据",
+      "B. 将输入的数据流分散成许多数据流，形成若干个加工",
+      "C. 信息沿输入路径流入系统后直接输出",
+      "D. 数据在系统中进行简单的存储操作"
+    ],
+    "answer": "B",
+    "explanation": "事务是指非数据变换的处理，它将输入的数据流分散成许多数据流，形成若干个加工，然后选择其中一个路径来执行。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "基本概念",
+    "knowledge_point": "面向数据流的定义方法中",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "面向数据流的定义方法中",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q031",
+    "question": "以下关于层次图的描述，正确的是？",
+    "options": [
+      "A. 层次图中矩形框间的连线表示数据流",
+      "B. 层次图中一个矩形框代表一个模块",
+      "C. 层次图只能表示两层结构",
+      "D. 层次图不需要编号"
+    ],
+    "answer": "B",
+    "explanation": "在层次图中，一个矩形框代表一个模块，框间的连线表示调用关系。带编号的层次图也称为HIPO图。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "层次图的",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "层次图的",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q032",
+    "question": "界面定义中，联机帮助系统有两类，分别是？",
+    "options": [
+      "A. 在线式和离线式",
+      "B. 集成式和叠加式",
+      "C. 主动式和被动式",
+      "D. 文本式和图形式"
+    ],
+    "answer": "B",
+    "explanation": "联机帮助系统有两类：集成式和叠加式。此外还需考虑帮助范围、用户求助的途径、帮助信息的显示等问题。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "基本概念",
+    "knowledge_point": "界面定义中",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "界面定义中",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q033",
+    "question": "DCOM是基于什么模型的分布式组件对象模型？",
+    "options": [
+      "A. COM",
+      "B. CORBA",
+      "C. Java",
+      "D. EJB"
+    ],
+    "answer": "A",
+    "explanation": "DCOM（分布式组件对象模型）是一系列微软的概念和程序接口，基于组件对象模型（COM）。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "EJB",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "EJB",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q034",
+    "question": "应用系统生命周期中，迭代模型的两种类型是？",
+    "options": [
+      "A. 瀑布型和螺旋型",
+      "B. 演化建设和增量建设",
+      "C. 自顶向下和自底向上",
+      "D. 串行和并行"
+    ],
+    "answer": "B",
+    "explanation": "迭代模型分为两种：一种是演化建设，即开始交付的就是一个完整的应用系统；另一种是增量建设，即将应用系统作为一系列的增量构件来规划设计。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法"
+    ]
+  },
+  {
+    "id": "ch05_q035",
+    "question": "应用系统规划设计中，体系架构的动态模型强调的是？",
+    "options": [
+      "A. 系统的功能层次结构",
+      "B. 体系架构的行为方面",
+      "C. 系统的业务流程设计",
+      "D. 系统的数据结构"
+    ],
+    "answer": "B",
+    "explanation": "动态模型强调体系架构的行为方面，指明结构或系统配置如何随着外部事件的变化而产生变化。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法"
+    ]
+  },
+  {
+    "id": "ch05_q036",
+    "question": "以下关于EJB的描述，正确的是？",
+    "options": [
+      "A. EJB是由OMG定义的分布式对象计算准则",
+      "B. EJB是基于Java的分布式组件对象模型",
+      "C. EJB是微软的分布式组件对象模型",
+      "D. EJB是一种数据库管理系统"
+    ],
+    "answer": "B",
+    "explanation": "EJB是基于Java的分布式组件对象模型，是由Sun公司定义的组件分布中间件标准，主要用在基于Java的组件网络分布计算中。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "EJB",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "EJB",
+      "基本概念",
+      "中间件"
+    ]
+  },
+  {
+    "id": "ch05_q037",
+    "question": "应用系统规划设计中，接口定义的三个重要元素是？",
+    "options": [
+      "A. 用户界面、外部接口、内部接口",
+      "B. 硬件接口、软件接口、网络接口",
+      "C. 输入接口、输出接口、存储接口",
+      "D. 数据接口、控制接口、状态接口"
+    ],
+    "answer": "A",
+    "explanation": "接口规划设计有三个重要元素：用户界面、和其他系统设备网络等的外部接口、各种构件之间的内部接口。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "接口定义",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#接口定义",
+    "tags": [
+      "应用系统",
+      "接口定义"
+    ]
+  },
+  {
+    "id": "ch05_q038",
+    "question": "以下关于耦合性的描述，不正确的是？",
+    "options": [
+      "A. 耦合性越高，软件越容易理解",
+      "B. 耦合性依赖于互操作所在的点",
+      "C. 耦合性依赖于各部分间的接口复杂性",
+      "D. 耦合性依赖于什么数据通过接口进行传递"
+    ],
+    "answer": "A",
+    "explanation": "耦合性越高，表示模块间的相互依赖性越强，软件越不容易理解。应当尽力得到最低可能的耦合。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "耦合性的",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "耦合性的",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q039",
+    "question": "应用系统规划设计中，技术抽象需要考虑的因素不包括以下哪项？",
+    "options": [
+      "A. 业务发展相关的技术",
+      "B. 可以持续支撑业务发展的信息技术",
+      "C. 技术的可持续性",
+      "D. 技术人员的个人偏好"
+    ],
+    "answer": "D",
+    "explanation": "技术抽象需要充分考虑业务发展相关的技术、可以持续支撑业务发展的信息技术，以及技术的可持续性。技术人员的个人偏好不是技术抽象需要考虑的因素。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法"
+    ]
+  },
+  {
+    "id": "ch05_q040",
+    "question": "敏捷方法适用于以下哪种情况？",
+    "options": [
+      "A. 需求不确定、需要快速响应变化的项目",
+      "B. 需求明确且不会变化的项目",
+      "C. 所有项目和所有情况",
+      "D. 只适用于小型项目"
+    ],
+    "answer": "A",
+    "explanation": "敏捷方法是为了克服传统软件工程中认识和实践的弱点而形成的，适用于需求不确定、需要快速响应变化的项目，但并不适用于所有的项目、所有的产品。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "基本概念",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "敏捷",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q041",
+    "question": "应用系统规划设计中，抽象和求精的关系是？",
+    "options": [
+      "A. 两者完全相同",
+      "B. 两者互相对立",
+      "C. 两者是互补的概念",
+      "D. 两者没有任何关系"
+    ],
+    "answer": "C",
+    "explanation": "抽象和求精是互补的概念，抽象能够明确说明内部过程和数据，但对外部使用者隐藏了低层细节；求精有助于在规划设计过程中揭示低层细节。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法"
+    ]
+  },
+  {
+    "id": "ch05_q042",
+    "question": "组件分布架构相比传统C/S架构的优势是？",
+    "options": [
+      "A. 结构更简单",
+      "B. 分布可以对称，某个组件既可以是服务器也可以是客户机",
+      "C. 不需要中间件",
+      "D. 只能部署在局域网中"
+    ],
+    "answer": "B",
+    "explanation": "组件分布架构可突破传统C/S架构对分布的限制，使分布对称，某个组件既可以是服务器，也可以是客户机，其角色只取决于它是在提供服务还是请求服务。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "中间件",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "中间件",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q043",
+    "question": "应用系统规划设计中，模块化是关注点分离最常见的表现，以下关于模块化的描述不正确的是？",
+    "options": [
+      "A. 模块化是一个相对概念",
+      "B. 对于不同的设计场景，定义模块的颗粒度也不同",
+      "C. 模块化意味着将系统划分为独立命名的、可处理的模块",
+      "D. 模块化要求所有模块的颗粒度必须完全相同"
+    ],
+    "answer": "D",
+    "explanation": "模块化是一个相对概念，对于不同的应用系统规划的设计场景，其定义模块的颗粒度也不同。不要求所有模块的颗粒度完全相同。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法"
+    ]
+  },
+  {
+    "id": "ch05_q044",
+    "question": "面向数据结构的定义方法通常在什么阶段使用？",
+    "options": [
+      "A. 需求分析阶段",
+      "B. 概要设计阶段",
+      "C. 详细设计阶段",
+      "D. 编码阶段"
+    ],
+    "answer": "C",
+    "explanation": "面向数据结构的定义方法通常在详细设计阶段使用。面向数据流的方法多在概要阶段使用。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "面向数据结构的定义方法通",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "面向数据结构的定义方法通",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q045",
+    "question": "业务抽象的实质是？",
+    "options": [
+      "A. 编写代码",
+      "B. 面向现实世界的不同\"场景\"进行建模的过程",
+      "C. 设计数据库",
+      "D. 测试系统功能"
+    ],
+    "answer": "B",
+    "explanation": "业务抽象实质上就是面向现实世界的不同\"场景\"进行建模的过程，它用高度概括性和结构化的内容来描述场景最核心的本质。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "业务抽象的实质",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "业务抽象的实质",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q046",
+    "question": "以下关于SOA的描述，正确的是？",
+    "options": [
+      "A. SOA是一种粗粒度、松耦合的服务架构",
+      "B. SOA要求服务数量尽可能多",
+      "C. SOA依靠远程过程调用进行交互",
+      "D. SOA不支持服务复用"
+    ],
+    "answer": "A",
+    "explanation": "SOA是一种粗粒度、松耦合的服务架构，其服务之间通过简单、精确定义的接口进行通信。服务数量不应太多，依靠消息交互而不是远程过程调用。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "基本概念",
+    "knowledge_point": "基本概念",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "OA",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q047",
+    "question": "应用系统规划设计中，功能模型可用于表示什么？",
+    "options": [
+      "A. 系统的配置变化",
+      "B. 系统的功能层次结构",
+      "C. 系统的业务流程",
+      "D. 系统的数据结构"
+    ],
+    "answer": "B",
+    "explanation": "功能模型可用于表示系统的功能层次结构。框架模型可以通过确定相似应用中遇到的可复用体系框架来提高抽象的级别。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法"
+    ]
+  },
+  {
+    "id": "ch05_q048",
+    "question": "以下关于迭代模型需注意的问题，描述不正确的是？",
+    "options": [
+      "A. 新增量构件集成到现有体系架构中时必须不破坏原来已部署的内容",
+      "B. 应用系统体系架构必须是开放的",
+      "C. 向现有应用系统中加入新构件的过程必须简单方便",
+      "D. 迭代模型不需要考虑架构的开放性"
+    ],
+    "answer": "D",
+    "explanation": "采用迭代模型需注意：新构件集成时不能破坏已部署内容、体系架构必须是开放的、加入新构件的过程必须简单方便。D选项的描述与原文相反。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch05_q049",
+    "question": "应用系统规划设计中，体系架构的功能模型可用于表示？",
+    "options": [
+      "A. 系统的动态行为",
+      "B. 系统的功能层次结构",
+      "C. 系统的部署方案",
+      "D. 系统的测试计划"
+    ],
+    "answer": "B",
+    "explanation": "功能模型可用于表示系统的功能层次结构。动态模型强调体系架构的行为方面，过程模型强调业务或技术流程的设计。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统组合法",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#应用系统组合法",
+    "tags": [
+      "应用系统",
+      "应用系统组合法"
+    ]
+  },
+  {
+    "id": "ch05_q050",
+    "question": "应用系统规划设计的基本概念中，信息隐蔽原则的主要好处是？",
+    "options": [
+      "A. 提高系统的运行速度",
+      "B. 在修改过程中不小心引入的错误不太可能传播到应用系统的其他地方",
+      "C. 减少系统的内存占用",
+      "D. 增加系统的功能"
+    ],
+    "answer": "B",
+    "explanation": "将信息隐蔽作为模块化的设计标准，由于大多数数据和过程对应用系统的其他部分是隐蔽的，因此在修改过程中不小心引入的错误就不太可能传播到应用系统的其他地方。",
+    "chapter": "第5章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "基本概念",
+    "knowledge_point": "应用系统",
+    "source_ref": "references/第5章_应用系统规划.md#基本概念",
+    "tags": [
+      "应用系统",
+      "基本概念"
+    ]
+  },
+  {
+    "id": "ch05_q051",
+    "question": "软件发布后运营阶段，安全监控中智能化安全监控平台的作用不包括（ ）。",
+    "options": [
+      "A. 对监控事件统一关联分析，智能识别潜在的安全风险",
+      "B. 实现智能化用户行为分析以及资产数据的安全画像",
+      "C. 对网络攻击处理能统一监视并可视化展示",
+      "D. 降低系统的安全性"
+    ],
+    "answer": "D",
+    "explanation": "5.5.4 应用场景中指出，智能化安全监控平台对于监控事件统一关联分析，智能 识别潜在的安全风险，实现智能化用户行为分析以及资产数据的安全画像，对网络攻击 处理能统一监视并可视化展示，D 选项降低系统的安全性显然不是其作用。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0335"
+  },
+  {
+    "id": "ch05_q052",
+    "question": "软件工厂业务管理的资源管理中，设备管理的内容不包括（ ）。",
+    "options": [
+      "A. 设备的采购和配置",
+      "B. 设备的维护和保养",
+      "C. 设备的软件安装",
+      "D. 设备的市场价格波动"
+    ],
+    "answer": "D",
+    "explanation": "依据5.5.3 建设方法中资源管理模块内容，设备管理包括设备的采购和配置、维 护和保养以及软件安装等工作。设备的市场价格波动与设备的实际管理和使用并无直接 关联，不属于设备管理的内容。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0382"
+  },
+  {
+    "id": "ch05_q053",
+    "question": "应用系统组合法（APA）中，在评估应用系统时，可以采用的方法不包括（ ）。",
+    "options": [
+      "A. 问卷调查",
+      "B. 专家访谈",
+      "C. 数据分析",
+      "D. 系统测试"
+    ],
+    "answer": "D",
+    "explanation": "5.4.1 应用系统组合法中指出，评估应用系统可以通过问卷调查、专家访谈、数 据分析等方法进行，系统测试不属于评估应用系统的方法。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0116"
+  },
+  {
+    "id": "ch05_q054",
+    "question": "在应用系统规划设计的基本概念中，关注点分离在其他相关规划设计概念中也有体 现，其中不包括（ ）。",
+    "options": [
+      "A. 模块化",
+      "B. 功能独立",
+      "C. 抽象",
+      "D. 系统集成"
+    ],
+    "answer": "D",
+    "explanation": "5.1.1 基本概念中提到，关注点分离在模块化、功能独立、求精等概念中也有体 现，未提及系统集成。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0291"
+  },
+  {
+    "id": "ch05_q055",
+    "question": "两层客户机/服务器架构在管理与维护上存在不便，其中客户端程序变更成本大的 原因不包括（ ）。",
+    "options": [
+      "A. 客户端程序承担信息表示与业务处理双重任务",
+      "B. 客户端程序被分散在许多不同的客户机上",
+      "C. 界面风格或业务规则频繁变化",
+      "D. 客户端程序代码质量差"
+    ],
+    "answer": "D",
+    "explanation": "5.1.2 客户机/服务器架构中提到，两层结构客户端程序变更成本大是因为客户 端程序承担双重任务且分散，当界面风格或业务规则改变时需要大量变更，未提及代码 质量差。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0302"
+  },
+  {
+    "id": "ch05_q056",
+    "question": "应用系统规划设计的基本概念中，扇入和扇出是衡量模块（ ）的指标。",
+    "options": [
+      "A. 内聚性",
+      "B. 耦合性",
+      "C. 独立性",
+      "D. 复杂度"
+    ],
+    "answer": "D",
+    "explanation": "根据5.1.1 基本概念，扇入和扇出是衡量模块复杂度的指标。扇入指有多少个上 级模块调用该模块，扇出指该模块调用其他模块的数量。内聚性和耦合性是衡量模块独 立性的另外两个指标。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0421"
+  },
+  {
+    "id": "ch05_q057",
+    "question": "应用系统组合法（APA）中，对应用系统进行分类的依据不包括（ ）。",
+    "options": [
+      "A. 业务功能",
+      "B. 技术架构",
+      "C. 开发时间",
+      "D. 数据量大小"
+    ],
+    "answer": "D",
+    "explanation": "参考5.4.1 应用系统组合法，对应用系统进行分类通常依据业务功能、技术架构、 开发时间等因素，以便更好地分析和管理应用系统。数据量大小一般不作为分类的主要 依据。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0376"
+  },
+  {
+    "id": "ch05_q058",
+    "question": "软件发布后运营阶段，故障管理流程的第一步是（ ）。",
+    "options": [
+      "A. 故障修复",
+      "B. 故障记录",
+      "C. 故障分类",
+      "D. 故障报告"
+    ],
+    "answer": "D",
+    "explanation": "依据5.5.4 应用场景，故障管理流程的第一步是故障报告，当发现系统出现故障 时，相关人员需要及时报告故障，然后进行记录、分类和修复等后续操作。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0390"
+  },
+  {
+    "id": "ch05_q059",
+    "question": "组件分布架构中，目前应用中的主要组件分布中间层构件不包括（ ）。",
+    "options": [
+      "A. CORB",
+      "B. B.DCOM",
+      "C. EJ",
+      "D. D.JVM"
+    ],
+    "answer": "D",
+    "explanation": "5.1.2 组件分布架构中提到，目前应用中的主要的组件分布中间层构件有CORBA、 DCOM、EJB，不包括JVM。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0028"
+  },
+  {
+    "id": "ch05_q060",
+    "question": "应用系统组合法（APA）中，在实施优化计划时，可能涉及的工作不包括（ ）。",
+    "options": [
+      "A. 系统开发",
+      "B. 数据迁移",
+      "C. 系统测试",
+      "D. 市场推广"
+    ],
+    "answer": "D",
+    "explanation": "5.4.1 应用系统组合法中提到，实施优化计划可能涉及系统开发、数据迁移、培 训等工作，不包括市场推广。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0190"
+  },
+  {
+    "id": "ch05_q061",
+    "question": "系统设计的灵活性原则要求系统具有较好的开放性和结构的可变性，以下哪种做法 不符合该原则？( )",
+    "options": [
+      "A. 采用模块化结构",
+      "B. 提高各模块的独立性，减少模块间的耦合",
+      "C. 使各子系统间的数据依赖减至最低限度",
+      "D. 设计固定不变的系统架构"
+    ],
+    "answer": "D",
+    "explanation": "5.3.5 系统设计中表明，灵活性原则要求系统设计人员要有一定的预见性，要从 通用的角度考虑系统设计，系统应具有较好的开放性和结构的可变性，采用模块化结构， 提高各模块的独立性，尽可能减少模块间的耦合，使各子系统间的数据依赖减至最低限 度，设计固定不变的系统架构不符合灵活性原则。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0319"
+  },
+  {
+    "id": "ch05_q062",
+    "question": "软件工厂业务管理的资源管理模块，除了管理人力资源、技术资源、设备和预算外， 还可能管理（ ）。",
+    "options": [
+      "A. 市场资源",
+      "B. 客户资源",
+      "C. 时间资源",
+      "D. 数据资源"
+    ],
+    "answer": "D",
+    "explanation": "结合5.5.3 建设方法中对资源管理模块的描述，虽然未明确提及数据资源，但在 软件工厂环境下，数据作为重要资产，可能由资源管理模块管理。A、B、C 选项在文档 未提及与资源管理模块的关联。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0331"
+  },
+  {
+    "id": "ch05_q063",
+    "question": "软件工厂中，工具和技术中的版本控制系统的作用是（ ）。",
+    "options": [
+      "A. 帮助团队进行项目计划、任务分配和进度跟踪",
+      "B. 提供开发人员所需的编辑器、调试器和构建工具",
+      "C. 自动执行测试用例，并生成测试报告",
+      "D. 管理代码的版本和变更，确保团队成员之间的协作和代码的一致性"
+    ],
+    "answer": "D",
+    "explanation": "5.5.1 发展现状中表明，版本控制系统帮助团队管理代码的版本和变更，确保团 队成员之间的协作和代码的一致性。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0274"
+  },
+  {
+    "id": "ch05_q064",
+    "question": "在应用系统分层体系中，数据存储层的主要功能是（ ）。",
+    "options": [
+      "A. 实现数据读写处理",
+      "B. 实现业务流程控制与业务数据计算",
+      "C. 实现系统与环境的交互",
+      "D. 实现数据有效存储"
+    ],
+    "answer": "D",
+    "explanation": "由5.1.2 基础架构可知，数据存储层实现数据有效存储，构造元素是数据集合体， 如数据表、数据文件等。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0200"
+  },
+  {
+    "id": "ch05_q065",
+    "question": "软件工厂构成中，专业人员包括多种角色，其中负责确保产品满足客户需求的是 ( ) 。",
+    "options": [
+      "A. 软件开发工程师",
+      "B. 测试工程师",
+      "C. 项目经理",
+      "D. 产品主管"
+    ],
+    "answer": "D",
+    "explanation": "5.5.1 发展现状中提到，产品主管负责确保产品满足客户需求。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0229"
+  },
+  {
+    "id": "ch05_q066",
+    "question": "在嵌入式软件开发中，将嵌入式软件拆分为模块，并使用模块化设计和开发方法的 好处不包括（ ）。",
+    "options": [
+      "A. 降低开发效率",
+      "B. 提高开发效率",
+      "C. 提高嵌入式软件的可维护性",
+      "D. 提高嵌入式软件的重用性"
+    ],
+    "answer": "A",
+    "explanation": "5.5.4 应用场景中表明，将嵌入式软件拆分为模块，并使用模块化设计和开发方 法，每个模块有明确的功能和接口，可以独立开发和测试，然后集成到整个嵌入式系统 中，这样可以提高开发效率、可维护性和重用性，A 选项降低开发效率不属于其好处。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0333"
+  },
+  {
+    "id": "ch05_q067",
+    "question": "软件发布后运营阶段，安全监控中抵御常见威胁攻击不包括（ ）。",
+    "options": [
+      "A. 数据丢失风险防范",
+      "B. 暴力破解防范",
+      "C. 网页篡改防范",
+      "D. 拒绝服务攻击（DDoS）防范"
+    ],
+    "answer": "A",
+    "explanation": "5.5.4 应用场景中提到，安全监控能够抵御常见威胁攻击，如DDoS 攻击、暴力 破解、病毒攻击、注入攻击、网页篡改等，数据丢失风险防范不属于常见威胁攻击类型。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0241"
+  },
+  {
+    "id": "ch05_q068",
+    "question": "在嵌入式软件开发中，建立自动化构建和测试环境的好处不包括（ ）。",
+    "options": [
+      "A. 降低开发效率",
+      "B. 减少人为错误",
+      "C. 确保嵌入式软件的质量",
+      "D. 自动化构建嵌入式软件的可执行文件和库文件"
+    ],
+    "answer": "A",
+    "explanation": "5.5.4 应用场景中表明，建立自动化构建和测试环境，利用工具和脚本自动化构 建嵌入式软件的可执行文件和库文件，以及自动化执行单元测试、集成测试和系统测试 等各种测试，可以提高开发效率、减少人为错误，并确保嵌入式软件的质量。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0283"
+  },
+  {
+    "id": "ch05_q069",
+    "question": "软件项目交付阶段确保服务安全上线运营，其中发布管理不包括以下哪项内容？ ( )",
+    "options": [
+      "A. 没有发布安全流程与规范",
+      "B. 发布操作具有权限管控机制",
+      "C. 制定发布策略",
+      "D. 发布流程实现自动化"
+    ],
+    "answer": "A",
+    "explanation": "5.5.4 应用场景中提到，软件项目交付阶段发布管理有相应的发布安全流程与规 范、发布操作权限管控机制、制定发布策略、实现发布流程自动化等，A 选项没有发布 安全流程与规范错误。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0083"
+  },
+  {
+    "id": "ch05_q070",
+    "question": "在嵌入式软件开发中，软件工厂应用不包括以下哪项措施？( )",
+    "options": [
+      "A. 建立非规范化的开发流程",
+      "B. 使用版本控制系统管理资源",
+      "C. 建立自动化构建和测试环境",
+      "D. 引入持续集成和持续交付理念"
+    ],
+    "answer": "A",
+    "explanation": "5.5.4 应用场景中表明，在嵌入式软件开发中，软件工厂应用包括建立规范化开 发流程、使用版本控制系统、建立自动化构建和测试环境、引入持续集成和持续交付理 念等，A 选项建立非规范化开发流程错误。",
+    "chapter": "第5章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "应用系统规划",
+    "knowledge_point": "应用系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第5章",
+    "tags": [
+      "应用系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch05_0082"
+  }
+]

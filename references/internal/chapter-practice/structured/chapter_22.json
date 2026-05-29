@@ -1,0 +1,3818 @@
+[
+  {
+    "id": "internal_qt_ch22_0001",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造是基于新一代信息通信技术与先进制造技术深度融合，具有多种功能的新型 生产方式，以下不属于其功能的是（ ）。",
+    "options": [
+      "A. 自感知",
+      "B. 自修复",
+      "C. 自决策",
+      "D. 自适应"
+    ],
+    "answer": "B",
+    "explanation": "在第22 章开头部分，明确提到智能制造具有自感知、自学习、自决策、自执 行、自适应等功能，未提及自修复。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0002",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造大致经历了三个阶段，其中20 世纪80 年代属于（ ）。",
+    "options": [
+      "A. 概念提出阶段",
+      "B. 技术发展阶段",
+      "C. 成熟阶段",
+      "D. 快速发展阶段"
+    ],
+    "answer": "A",
+    "explanation": "22.1.1 发展演进与历程中指出，20 世纪80 年代人工智能在制造领域应用，智 能制造概念被正式提出。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0003",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "首次提出智能制造概念的是（ ）。",
+    "options": [
+      "A. 美国纽约大学怀特教授和卡内基梅隆大学的布恩教授",
+      "B. 日、美、欧共同发起的研究计划",
+      "C. 德国推出的工业4.0 战略",
+      "D. 中国发布的《中国制造2025》"
+    ],
+    "answer": "A",
+    "explanation": "22.1.1 发展演进与历程中表明，美国纽约大学怀特教授(P.K.Wright)和卡内基 梅隆大学的布恩教授(D.A.Bourne)在《智能制造》一书中首次提出智能制造概念。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0004",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "1991 年，日、美、欧共同发起实施的“智能制造国际合作研究计划”中，对智能制 造系统的定义不包括以下哪一点（ ）。",
+    "options": [
+      "A. 贯穿智能活动",
+      "B. 与智能机器有机融合",
+      "C. 以柔性方式集成制造各环节",
+      "D. 实现生产过程的完全自动化"
+    ],
+    "answer": "D",
+    "explanation": "22.1.1 发展演进与历程中提到该计划对智能制造系统的定义，未提及实现生产 过程的完全自动化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0005",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "德国推出的工业4.0 战略，将企业的机器、存储系统和生产设施融入（ ）。",
+    "options": [
+      "A. 智能制造系统",
+      "B. 虚拟网络- 实体物理系统(CPS)",
+      "C. 工业互联网平台",
+      "D. 智能工厂"
+    ],
+    "answer": "B",
+    "explanation": "22.1.1 发展演进与历程中指出，德国工业4.0 战略将企业相关设施融入“虚拟网 络- 实体物理系统(CPS)”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0006",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "中国是世界上唯一全部工业门类齐全的国家，但面临诸多挑战，促使制造业进行数字 化和智能化转型升级，以下不属于这些挑战的是（ ）。",
+    "options": [
+      "A. 许多高端技术掌握在西方国家手里",
+      "B. 部分行业设备和工艺滞后",
+      "C. 企业综合成本不断下降",
+      "D. 人口负增长带来劳动力短缺"
+    ],
+    "answer": "C",
+    "explanation": "22.1.2 传统制造业的强化转型升级中提到，企业面临原材料、设备运维等综合成 本不断上涨的挑战，并非下降。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0007",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "传统制造升级与智能制造转型在核心方面的差异是（ ）。",
+    "options": [
+      "A. 传统制造升级注重产品质量，智能制造转型注重生产效率",
+      "B. 传统制造升级面向规模化生产，智能制造转型注重产品的全生命周期治理",
+      "C. 传统制造升级强调技术应用，智能制造转型强调管理变革",
+      "D. 传统制造升级依赖人工操作，智能制造转型完全自动化"
+    ],
+    "answer": "B",
+    "explanation": "22.1.2 传统制造业的强化转型升级中的表22 - 1，清晰对比了两者核心的差 异， 传统制造升级面向规模化生产，提高生产效率；智能制造转型是产品的全生命周期治理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0008",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在智能装备方面，以下不属于新型智能化装备的是（ ）。",
+    "options": [
+      "A. 普通车床",
+      "B. 焊接机器人",
+      "C. AGV 智能运输车",
+      "D. 智能立体仓库"
+    ],
+    "answer": "A",
+    "explanation": "22.1.3 信息数字技术突破发展中提到，数控机床、焊接机器人等是新型智能化装 备，普通车床不属于新型智能化装备。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0009",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "从传统ERP 系统和MES 系统向基于工业互联网平台的（ ）系统转变，体现了信息 化建设的发展。",
+    "options": [
+      "A. CRM",
+      "B. APS",
+      "C. MOM",
+      "D. WMS"
+    ],
+    "answer": "C",
+    "explanation": "22.1.3 信息数字技术突破发展中指出，信息化建设方面是从传统系统向基于工 业互联网平台的MOM 系统转变。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0010",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在数据开发利用方面，新一代智能装备通过打通设备底层的（ ）和其他控制系统， 实现设备的动态感知。",
+    "options": [
+      "A. PLC（可编程逻辑控制器）",
+      "B. CAD（计算机辅助设计）",
+      "C. CAE（计算机辅助工程）",
+      "D. ERP（企业资源管理计划）"
+    ],
+    "answer": "A",
+    "explanation": "22.1.3 信息数字技术突破发展中提到，新一代智能装备打通设备底层的PLC 和 其他控制系统实现动态感知。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0011",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "结合大数据、云计算、区块链、人工智能等新型技术手段和工具，可以对人、机、料、 法、环、测等要素进行数据分析，这属于（ ）方面的融合创新。",
+    "options": [
+      "A. 多元信息技术",
+      "B. 智能装备",
+      "C. 信息化建设",
+      "D. 数据开发利用"
+    ],
+    "answer": "A",
+    "explanation": "22.1.3 信息数字技术突破发展中明确，结合多种新型技术手段对相关要素进行 数据分析属于多元信息技术融合创新。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0012",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "美国《先进制造业美国领导力战略》提出通过三大任务确保美国国家安全和经济繁 荣，以下不属于这三大任务的是（ ）。",
+    "options": [
+      "A. 发展和推广新的制造技术",
+      "B. 教育、培训和匹配制造业劳动力",
+      "C. 扩大国内制造业供应链能力",
+      "D. 加大对传统制造业的扶持"
+    ],
+    "answer": "D",
+    "explanation": "22.1.4 各国智能制造发展战略加速中提到该战略的三大任务，不包括加大对传 统制造业的扶持。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0013",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "德国《国家工业战略2030》的根本性目标不包括（ ）。",
+    "options": [
+      "A. 维护和确保德国在工业、技术和经济方面的世界领先地位",
+      "B. 保障德国的就业水平",
+      "C. 提高国家经济实力和促进国家繁荣",
+      "D. 推动全球制造业共同发展"
+    ],
+    "answer": "D",
+    "explanation": "22.1.4 各国智能制造发展战略加速中指出，该战略根本性目标是维护自身领先 地位，保障就业等，未提及推动全球制造业共同发展。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0014",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "《英国工业2050 战略》计划认为未来制造业的主要趋势不包括（ ）。",
+    "options": [
+      "A. 个性化的低成本产品需求增大",
+      "B. 生产重新分配",
+      "C. 制造价值链的数字化",
+      "D. 大规模标准化生产"
+    ],
+    "answer": "D",
+    "explanation": "《英国工业2050 战略》计划认为未来制造业将趋向于个性化、智能化和数字化， 而不是大规模标准化生产。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0015",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "《新工业法国》计划旨在解决三大问题，以下不属于这三大问题的是（ ）。",
+    "options": [
+      "A. 能源",
+      "B. 数字革命",
+      "C. 环境保护",
+      "D. 经济生活"
+    ],
+    "answer": "C",
+    "explanation": "22.1.4 各国智能制造发展战略加速中表明，该计划旨在解决能源、数字革命和经 济生活问题，不包括环境保护。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0016",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "印度“印度制造”计划的五大任务中，不包括以下哪一项（ ）。",
+    "options": [
+      "A. 吸引投资",
+      "B. 推动创新",
+      "C. 降低生产成本",
+      "D. 保护知识产权"
+    ],
+    "answer": "C",
+    "explanation": "22.1.4 各国智能制造发展战略加速中提到“ 印度制造”计划的五大任务，不 包括降低生产成本。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0017",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "韩国《未来增长动力落实计划》重点聚焦的领域不包括（ ）。",
+    "options": [
+      "A. 智能汽车、5G 移动通信",
+      "B. 传统化工产业",
+      "C. 智能机器人、可穿戴智能设备",
+      "D. 大数据、融复合材料"
+    ],
+    "answer": "B",
+    "explanation": "22.1.4 各国智能制造发展战略加速中指出该计划重点聚焦的产业，不包括传统 化工产业。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0018",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "《中国制造2025》是中国实施制造强国战略第一个十年的行动纲领，其指导思想中 以( ) 为主攻方向。",
+    "options": [
+      "A. 推进智能制造",
+      "B. 促进制造业创新发展",
+      "C. 提质增效",
+      "D. 强化工业基础能力"
+    ],
+    "answer": "A",
+    "explanation": "22.1.5《中国制造2025》中明确其指导思想是以推进智能制造为主攻方向。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0019",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "《中国制造2025》确立的基本方针不包括（ ）。",
+    "options": [
+      "A. 创新驱动",
+      "B. 规模优先",
+      "C. 绿色发展",
+      "D. 人才为本"
+    ],
+    "answer": "B",
+    "explanation": "22.1.5《中国制造2025》中确立的基本方针包括创新驱动、质量为先、绿色发展、 结构优化、人才为本，不包括规模优先。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0020",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "《“十四五”智能制造发展规划》提出，到2025 年，规模以上制造业企业要实现 的目标是（ ）。",
+    "options": [
+      "A. 基本普及数字化，重点行业骨干企业初步实现智能转型",
+      "B. 全面普及数字化，骨干企业基本实现智能转型",
+      "C. 基本实现智能转型，重点行业骨干企业全面实现智能转型",
+      "D. 全面实现智能转型，骨干企业达到国际领先水平"
+    ],
+    "answer": "A",
+    "explanation": "22.1.5《中国制造2025》中提到《“十四五”智能制造发展规划》到2025 年 的目标是规模以上制造业企业基本普及数字化，重点行业骨干企业初步实现智能转型。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0021",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "推进智能制造，人才是关键，企业需要培养和发展多种人才，其中技能人才指的是 ( ) 。",
+    "options": [
+      "A. 工作在企业生产现场，熟练掌握智能装备操作的技术工人",
+      "B. 企业内的技术和管理骨干",
+      "C. 企业推进智能制造的中坚力量",
+      "D. 企业推进智能制造的领导者"
+    ],
+    "answer": "A",
+    "explanation": "22.2.1 智能制造人才培养中对技能人才的定义为工作在企业生产现场，熟练掌 握智能装备操作的技术工人。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0022",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造人才中的应用人才需要熟练掌握多种工具类软件和信息系统，以下不属于 此类软件和系统的是（ ）。",
+    "options": [
+      "A. CAD（计算机辅助设计）",
+      "B. ERP（企业资源管理计划）",
+      "C. PLC（可编程逻辑控制器）",
+      "D. CAE（计算机辅助工程）"
+    ],
+    "answer": "C",
+    "explanation": "22.2.1 智能制造人才培养中提到应用人才需掌握CAD、CAM、CAE 等工具类软件 和ERP、MES 等信息系统，PLC 不属于此类。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0023",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业推进智能制造的领军人才需要具备的能力不包括（ ）。",
+    "options": [
+      "A. 丰富的智能制造实践经验",
+      "B. 熟悉企业的发展战略和企业运营",
+      "C. 熟练掌握智能制造单元技术",
+      "D. 对智能制造进行统筹规划并掌控落地实施"
+    ],
+    "answer": "C",
+    "explanation": "22.2.1 智能制造人才培养中指出领军人才需要具备丰富经验、熟悉企业战略运 营、统筹规划等能力，熟练掌握智能制造单元技术是推进人才的要求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0024",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业建立智能制造人才培训体系，其中技术模块除传统运维外，还需强化的技术不 包括（ ）。",
+    "options": [
+      "A. 数据采集、治理",
+      "B. 信息系统开发",
+      "C. 设备操作技能",
+      "D. PLC、RPA 技术开发培训"
+    ],
+    "answer": "C",
+    "explanation": "22.2.1 智能制造人才培养中提到技术模块需强化数据采集、治理等技术开发培 训，未提及设备操作技能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0025",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在人才绩效考评方面，企业运用激励制度引导知识传播及实践应用，以下不属于激 励制度的是（ ）。",
+    "options": [
+      "A. 创新激励",
+      "B. 定期考核",
+      "C. 专项竞赛鼓励",
+      "D. 技术岗位补贴"
+    ],
+    "answer": "B",
+    "explanation": "22.2.1 智能制造人才培养中提到激励制度有创新激励、专项竞赛鼓励、技术岗位 补贴、讲师激励等，定期考核不属于激励制度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0026",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造人才培养时，企业建立知识管理体系，知识管理的核心是（ ）。",
+    "options": [
+      "A. 将员工长期积累的经验和技能类的隐性知识显性化",
+      "B. 建立知识库",
+      "C. 对知识进行结构化治理",
+      "D. 实现基于专家知识的人工智能决策"
+    ],
+    "answer": "A",
+    "explanation": "22.2.1 智能制造人才培养中明确知识管理的核心是将隐性知识显性化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0027",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "数字化研发设计是应用数字化软件工具进行产品和工艺设计开放的过程，通常不包 括以下哪种方式（ ）。",
+    "options": [
+      "A. 应用数字化三维设计与工艺设计软件进行设计与仿真",
+      "B. 通过虚拟样机、数字化虚拟工厂进行验证与优化",
+      "C. 建立产品数据管理系统",
+      "D. 采用传统的二维图设计与管理"
+    ],
+    "answer": "D",
+    "explanation": "22.2.2 数字化研发设计中提到数字化研发设计的方式，不包括采用传统的二维 图设计与管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0028",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "产品三维设计通过产品数据管理系统软件对产品设计的输出进行管理，实现产品全 生命周期管理，以下不属于产品全生命周期阶段的是（ ）。",
+    "options": [
+      "A. 产品研发",
+      "B. 产品销售",
+      "C. 产品报废",
+      "D. 产品运输"
+    ],
+    "answer": "D",
+    "explanation": "22.2.2 数字化研发设计中提到产品全生命周期包括设计、生产、物流、销售、服 务等阶段，产品运输不属于其中独立阶段。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0029",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "传统制造企业在设计过程中存在诸多问题，以下不属于这些问题的是（ ）。",
+    "options": [
+      "A. 二维图管理复杂、查找困难",
+      "B. 数据结构化，完整性高",
+      "C. 设计信息传递困难",
+      "D. 变更时版本信息难以保证一致"
+    ],
+    "answer": "B",
+    "explanation": "22.2.2 数字化研发设计中指出传统制造企业设计过程中数据非结构化，完整性 难于保证，并非数据结构化，完整性高。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0030",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "通过数字化设计手段可以实现的功能不包括（ ）。",
+    "options": [
+      "A. 三维设计、模型和设计规范的数字化管理",
+      "B. 实现文档的审查、批准、变更等信息化管理",
+      "C. 应用基于模型的定义MBD 来定义产品",
+      "D. 完全取代人工设计"
+    ],
+    "answer": "D",
+    "explanation": "22.2.2 数字化研发设计中提到数字化设计手段的功能，不包括完全取代人工设 计。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0031",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "基于MBD 的全生命周期动态管理，可实现基于三维模型定义在多个系统之间的动态 协同，以下不属于这些系统的是（ ）。",
+    "options": [
+      "A. CAD/CAE/CAM",
+      "B. CAPP",
+      "C. CRM/SCM",
+      "D. PL"
+    ],
+    "answer": "D",
+    "explanation": "22.2.2 数字化研发设计中提到基于MBD 的动态管理涉及的系统包括 CAD/CAE/CAM、CAPP、ERP、SCM、CRM 等，不包括PLC。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0032",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造的核心是智能化生产，智能化生产通过多种信息系统实现多种管理的智能 化，以下不属于这些信息系统的是（ ）。",
+    "options": [
+      "A. 制造执行系统（MES）",
+      "B. 高级排产系统（APS）",
+      "C. 客户关系管理系统（CRM）",
+      "D. 过程监控系统"
+    ],
+    "answer": "C",
+    "explanation": "22.2.3 生产过程智能化中提到智能化生产通过制造执行、高级排产、过程监控等 信息系统实现相关管理智能化，CRM 不属于此类系统。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0033",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业通过建立高级计划与排产系统（APS），实施集中排程、可视化调度，其目的不 包括（ ）。",
+    "options": [
+      "A. 及时准确掌握生产信息",
+      "B. 实现刚性生产",
+      "C. 应用多种算法提高生产排程效率",
+      "D. 全面适应多品种、小批量的业务发展需求"
+    ],
+    "answer": "B",
+    "explanation": "22.2.3 生产过程智能化中提到建立APS 是为了实现柔性生产，而非刚性生产。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0034",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业通过生产任务基于生产计划自动生成，并传送至制造执行系统（MES）生产现场 终端等，实现的功能不包括（ ）。",
+    "options": [
+      "A. 系统自动接收生产工单",
+      "B. 自动下发图纸、工艺标准等技术文件",
+      "C. 自动采集质量检测设备参数",
+      "D. 按照工序或工步自动下发工艺文件"
+    ],
+    "answer": "C",
+    "explanation": "22.2.3 生产过程智能化中提到生产任务自动生成及传送相关操作实现的功能， 自动采集质量检测设备参数不属于该部分内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0035",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业通过建立数据采集与控制系统，融合识别技术，实现生产工序数据跟踪，以下 不属于所融合的识别技术的是（ ）。",
+    "options": [
+      "A. 条形码",
+      "B. 二维码",
+      "C. 指纹识别",
+      "D. 无线射频识别（RFID）卡"
+    ],
+    "answer": "C",
+    "explanation": "22.2.3 生产过程智能化中提到融合条形码、二维码或无线射频识别（RFID）卡等 识别技术，不包括指纹识别。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0036",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "生产管理透明化通过可视化系统实时呈现多种生产数据，以下不属于此类数据的是 ( ) 。",
+    "options": [
+      "A. 生产状况（如生产数、生产效率等）",
+      "B. 员工个人隐私信息",
+      "C. 品质状况（如生产数中的不良数、不良率等）",
+      "D. 设备状况"
+    ],
+    "answer": "B",
+    "explanation": "22.2.3 生产过程智能化中提到可视化系统呈现的生产数据包括生产、品质、设备 状况等，不包括员工个人隐私信息。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0037",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "设备是工厂进行生产活动的基础设施，智能制造高度依赖联网的自动化和数字化设 备，设备数字化和智能化管理不包括以下哪项内容（ ）。",
+    "options": [
+      "A. 设备数字化维保",
+      "B. 设备联网数据采集",
+      "C. 设备操作人员管理",
+      "D. 设备预测性维护"
+    ],
+    "answer": "C",
+    "explanation": "22.2.4 设备管理智能化中提到设备数字化和智能化管理包括设备数字化维保、 联网数据采集、监控与故障分析、综合效率管理、预测性维护等，不包括设备操作人员 管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0038",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "设备监控与故障分析需要在设备联网和数据采集的基础上，通过监测设备状态信息 和运行参数，对设备健康状态进行远程监控。以下不属于监测的运行参数的是（ ）。",
+    "options": [
+      "A. 设备温度",
+      "B. 设备颜色",
+      "C. 设备转速",
+      "D. 设备电压"
+    ],
+    "answer": "B",
+    "explanation": "22.2.4 设备管理智能化中提到监测的运行参数包括设备温度、速度、转速、电压、 电流等，不包括设备颜色。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0039",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "设备综合效率（OEE）由三个关键要素组成，以下不属于这三个要素的是（ ）。",
+    "options": [
+      "A. 时间稼动率",
+      "B. 性能效率",
+      "C. 设备美观度",
+      "D. 合格率"
+    ],
+    "answer": "C",
+    "explanation": "22.2.4 设备管理智能化中明确OEE 由时间稼动率、性能效率以及合格率组成， 不包括设备美观度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0040",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "设备预测性维护是以设备状态为依据的维修，实施设备预防性维护需要建立设备管 理系统，收集日常点检与维修故障数据。以下对其目的表述错误的是（ ）。",
+    "options": [
+      "A. 形成故障原因分析与维保方案知识积累",
+      "B. 提供预防性维护方案",
+      "C. 增加设备维修成本",
+      "D. 降低设备故障发生概率"
+    ],
+    "answer": "C",
+    "explanation": "22.2.4 设备管理智能化中指出实施设备预防性维护是为了形成知识积累、提供 维护方案、降低故障概率等，并非增加设备维修成本。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0041",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能物流就是利用多种标识识别技术，结合信息化系统，实现基本物流活动的自动 化运作和高效率优化管理。以下不属于智能物流应用的是（ ）。",
+    "options": [
+      "A. 出入库管理",
+      "B. 产品设计优化",
+      "C. 快速拣货和及时配送",
+      "D. 仓储和配送优化"
+    ],
+    "answer": "B",
+    "explanation": "22.2.5 智能物流与仓储配送中提到智能物流在制造业中的应用包括出入库管理、 库位管理、快速拣货和及时配送、仓储和配送优化等，不包括产品设计优化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0042",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业在原材料和成品的出入库管理中，使用移动端PDA 设备对物品进行扫码，实现 物料信息的自动采集并上传到（ ）。",
+    "options": [
+      "A. WMS（仓储管理系统）",
+      "B. MES（制造执行系统）",
+      "C. ERP（企业资源管理计划）",
+      "D. CRM（客户关系管理）"
+    ],
+    "answer": "A",
+    "explanation": "22.2.5 智能物流与仓储配送中表明在出入库管理时，物料信息自动采集上传到 WMS。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0043",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业通过构建WMS，对原材料和成品进行系统制定分配库区库位，实现货物的精准 库位管理。WMS 的策略配置不包括以下哪项功能（ ）。",
+    "options": [
+      "A. 对仓储进行合规管理",
+      "B. 优化产品生产工艺",
+      "C. 基于物品使用特点优化库位分配",
+      "D. 盘点库位资源"
+    ],
+    "answer": "B",
+    "explanation": "22.2.5 智能物流与仓储配送中提到WMS 的策略配置可进行合规管理、优化库位 分配、盘点库位资源等，不涉及优化产品生产工艺。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0044",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业通过WMS、移动端PDA 终端、按灯与声控拣货等手段进行入库和拣货作业，并 通过AGV 小车控制系统与相关系统集成实现关键部件的及时配送。以下不属于与之集 成的系统的是（ ）。",
+    "options": [
+      "A. WMS",
+      "B. MES（生产执行系统）",
+      "C. QMS（质量管理系统）",
+      "D. 生产执行系统"
+    ],
+    "answer": "C",
+    "explanation": "22.2.5 智能物流与仓储配送中指出AGV 小车控制系统与WMS、生产执行系统集 成，未提及与QMS 集成。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0045",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "通过数字化仓储设备与多个系统集成，实现依据生产状态实时拉动物料配送，并建 立仓储和配送模型优化仓储配送参数。以下不属于数字化仓储设备的是（ ）。",
+    "options": [
+      "A. AGV 运输车",
+      "B. 普通货架",
+      "C. RGV 轨道运输系统",
+      "D. 智能立体仓库"
+    ],
+    "answer": "B",
+    "explanation": "22.2.5 智能物流与仓储配送中提到数字化仓储设备包括AGV 运输车、RGV 轨道 运输系统、智能立体仓库等，普通货架不属于数字化仓储设备。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0046",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智慧安全管理以企业安全生产全要素数字化管理为目标，采用先进信息数字技术对 生产过程中的人员、设备、环境等进行全面智能化管理和升级改造。以下不属于智慧 安全管理重点关注的是（ ）。",
+    "options": [
+      "A. 安全监测",
+      "B. 安全预测",
+      "C. 安全培训",
+      "D. 安全闭环管理"
+    ],
+    "answer": "C",
+    "explanation": "22.2.6 智慧安全管理中提到智慧安全管理重点关注安全监测、安全预测和安全 闭环管理，未将安全培训作为重点关注内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0047",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "基于企业风险识别、危险源管理等机制要求，对生产制造过程中风险较高区域及设 备实时采集关键指标，设定安全报警阈值并联动通知机制，这属于（ ）。",
+    "options": [
+      "A. 安全监测",
+      "B. 安全预测",
+      "C. 安全闭环管理",
+      "D. 安全培训"
+    ],
+    "answer": "A",
+    "explanation": "22.2.6 智慧安全管理中对安全监测的描述为基于相关机制要求，采集关键指标、 设定阈值并联动通知机制。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0048",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "开发不同场景的监控和安全分析模型，通过对数据和模型分析实现风险源的动态识 别、风险的预测等，这属于（ ）。",
+    "options": [
+      "A. 安全监测",
+      "B. 安全预测",
+      "C. 安全闭环管理",
+      "D. 安全培训"
+    ],
+    "answer": "B",
+    "explanation": "22.2.6 智慧安全管理中表明开发模型进行风险识别和预测属于安全预测的内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0049",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "建立典型风险管理和应急管理知识库，构建一体化的安全生产管理平台，实现数据 整合和各系统数据共享等，这属于（ ）。",
+    "options": [
+      "A. 安全监测",
+      "B. 安全预测",
+      "C. 安全闭环管理",
+      "D. 安全培训"
+    ],
+    "answer": "C",
+    "explanation": "这一系列措施属于安全闭环管理的范畴，旨在提高安全管理的效率和效果。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0050",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智慧环保管理以遵循环保集中管控为基础、以环境综合评价体系为核心，对生产环 境中的各项风险进行预测、评价、管控。企业实现智慧环保管理需要经历的阶段不包 括( ) 。",
+    "options": [
+      "A. 环保管理信息化",
+      "B. 环保设备更新换代",
+      "C. 环保排放预警与预测",
+      "D. 模型驱动排放优化"
+    ],
+    "answer": "B",
+    "explanation": "22.2.7 智慧环保管理中提到实现智慧环保管理需要经历环保管理信息化、环保 排放预警与预测、模型驱动排放优化三个阶段，不包括环保设备更新换代。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0051",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "基于环保管理机制等要求，实现从清洁生产到末端治理的全过程环保数据的采集， 这属于（ ）。",
+    "options": [
+      "A. 环保管理信息化",
+      "B. 环保排放预警与预测",
+      "C. 模型驱动排放优化",
+      "D. 环保设备更新"
+    ],
+    "answer": "A",
+    "explanation": "22.2.7 智慧环保管理中对环保管理信息化的描述为基于相关机制实现全过程环 保数据采集。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0052",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "基于企业设备运行排放量等要求，设定预警价值最优阈值，实时监控环保设备运行 参数与排放参数，实现排放总量预警及预警处理情况的跟踪，这属于（ ）。",
+    "options": [
+      "A. 环保管理信息化",
+      "B. 环保排放预警与预测",
+      "C. 模型驱动排放优化",
+      "D. 环保设备升级"
+    ],
+    "answer": "B",
+    "explanation": "22.2.7 智慧环保管理中表明设定阈值、监控参数实现排放预警属于环保排放预 警与预测。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0053",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "基于环保、生产、设备等全面实时监控的数据，建立设备排放预警模型，自动生成 末端环保治理方案并执行，这属于（ ）。",
+    "options": [
+      "A. 环保管理信息化",
+      "B. 环保排放预警与预测",
+      "C. 模型驱动排放优化",
+      "D. 环保设备改造"
+    ],
+    "answer": "C",
+    "explanation": "22.2.7 智慧环保管理中提到建立模型生成治理方案属于模型驱动排放优化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0054",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智慧能源管理是指通过安装智能电表、引入能源管理系统平台等实现能耗透明化和 数据可视化，并对高能耗设备进行智能联控。以下不属于智慧能源管理实践路径的是 ( ) 。",
+    "options": [
+      "A. 能源数据自动采集和分析",
+      "B. 能源指标精细化管理",
+      "C. 高能耗设备淘汰",
+      "D. 基于能效评估的节能改造"
+    ],
+    "answer": "C",
+    "explanation": "22.2.8 智慧能源管理中提到智慧能源管理实践路径包括能源数据自动采集和分 析、能源指标精细化管理、高能耗设备智能联控、基于能效评估的节能改造，不包括高 能耗设备淘汰。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0055",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "通过加装智能电表、燃气仪表和水表，利用通信模块将能源数据自动上传到信息系 统，实现能源的自动采集和高能耗设备能源消耗数据的实时上传，这属于（ ）。",
+    "options": [
+      "A. 能源数据自动采集和分析",
+      "B. 能源指标精细化管理",
+      "C. 高能耗设备智能联控",
+      "D. 基于能效评估的节能改造"
+    ],
+    "answer": "A",
+    "explanation": "这一措施属于能源数据自动采集和分析的范畴，旨在提高能源管理的效率和准确 性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0056",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "建立科学的能源计量指标体系，从单体设备、产线、企业等层面建立能耗指标体系 和计算模型，实现企业能耗精细化管理，这属于（ ）。",
+    "options": [
+      "A. 能源数据自动采集和分析",
+      "B. 能源指标精细化管理",
+      "C. 高能耗设备智能联控",
+      "D. 基于能效评估的节能改造"
+    ],
+    "answer": "B",
+    "explanation": "22.2.8 智慧能源管理中表明建立能源计量指标体系实现能耗精细化管理属于能 源指标精细化管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0057",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "通过高能耗设备的智能化联控系统，实时提取设备运行状态和参数，动态调整设备 运行状态，这属于（ ）。",
+    "options": [
+      "A. 能源数据自动采集和分析",
+      "B. 能源指标精细化管理",
+      "C. 高能耗设备智能联控",
+      "D. 基于能效评估的节能改造"
+    ],
+    "answer": "C",
+    "explanation": "22.2.8 智慧能源管理中提到通过联控系统调整设备运行状态属于高能耗设备智 能联控。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0058",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "通过能耗数据的积累和对比分析，结合高耗能设备的能源消耗和机理分析，对高耗 能设备进行节能改造，这属于（ ）。",
+    "options": [
+      "A. 能源数据自动采集和分析",
+      "B. 能源指标精细化管理",
+      "C. 高能耗设备智能联控",
+      "D. 基于能效评估的节能改造"
+    ],
+    "answer": "D",
+    "explanation": "22.2.8 智慧能源管理中指出根据能耗数据对高耗能设备进行节能改造属于基于 能效评估的节能改造。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0059",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在工业和信息化部的支持下，由中国电子技术标准化研究院牵头组织制定了两项国 家标准，其中GB/T 39116—2020 是（ ）。",
+    "options": [
+      "A. 《智能制造能力成熟度评估方法》",
+      "B. 《智能制造能力成熟度模型》",
+      "C. 《智能制造系统架构规范》",
+      "D. 《智能制造信息安全标准》"
+    ],
+    "answer": "B",
+    "explanation": "22.3.1 CMMM 概览中提到GB/T 39116—2020 是《智能制造能力成熟度模型》。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0060",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 定义的企业开展智能制造能力建设需要关注的能力要素包括人员、技术、资源 和制造。其中人员能力要素包括（ ）。",
+    "options": [
+      "A. 组织战略和人员技能",
+      "B. 数据和集成",
+      "C. 装备和网络",
+      "D. 设计和生产"
+    ],
+    "answer": "A",
+    "explanation": "22.3.1 CMMM 概览中明确人员能力要素包括组织战略和人员技能两个能力（子） 域。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0061",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 规定的智能制造成熟度共分为五个等级，其中一级（规划级）企业应（ ）。",
+    "options": [
+      "A. 对核心业务进行流程化管理",
+      "B. 实现单一业务的数据共享",
+      "C. 实现跨业务间的数据共享",
+      "D. 实现对核心业务的精准预测和优化"
+    ],
+    "answer": "A",
+    "explanation": "22.3.1 CMMM 概览中指出一级（规划级）企业应开始对实施智能制造的基础和条 件进行规划，能够对核心业务进行流程化管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0062",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 中二级（规范级）企业应采用的手段不包括（ ）。",
+    "options": [
+      "A. 自动化技术",
+      "B. 智能化决策技术",
+      "C. 信息技术",
+      "D. 对核心装备和业务进行改造和规范"
+    ],
+    "answer": "B",
+    "explanation": "22.3.1 CMMM 概览中提到二级（规范级）企业应采用自动化技术、信息技术手段 对核心装备和业务等进行改造和规范，未提及智能化决策技术。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0063",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 中三级（集成级）企业需要实现的是（ ）。",
+    "options": [
+      "A. 对装备、系统等开展集成，实现跨业务间的数据共享",
+      "B. 对人员、资源、制造等进行数据挖掘，形成知识、模型等",
+      "C. 基于模型持续驱动业务优化和创新",
+      "D. 对核心业务进行流程化管理"
+    ],
+    "answer": "A",
+    "explanation": "22.3.1 CMMM 概览中表明三级（集成级）企业应对装备、系统等开展集成，实现 跨业务间的数据共享。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0064",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 中四级（优化级）企业的特点是（ ）。",
+    "options": [
+      "A. 实现单一业务的数据共享",
+      "B. 实现跨业务间的数据共享",
+      "C. 对人员、资源、制造等进行数据挖掘，形成知识、模型等，实现对核心业务的精准预 测和优化",
+      "D. 基于模型持续驱动业务优化和创新，实现产业链协同并衍生新的制造模式和商业模式"
+    ],
+    "answer": "C",
+    "explanation": "22.3.1 CMMM 概览中指出四级（优化级）企业应对人员、资源、制造等进行数据 挖掘，形成知识、模型等，实现对核心业务的精准预测和优化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0065",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 中五级（引领级）企业的主要特征是（ ）。",
+    "options": [
+      "A. 对核心业务进行流程化管理",
+      "B. 实现单一业务的数据共享",
+      "C. 基于模型持续驱动业务优化和创新，实现产业链协同并衍生新的制造模式和商业模式",
+      "D. 对装备、系统等开展集成，实现跨业务间的数据共享"
+    ],
+    "answer": "C",
+    "explanation": "22.3.1 CMMM 概览中提到五级（引领级）企业应基于模型持续驱动业务优化和创 新，实现产业链协同并衍生新的制造模式和商业模式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0066",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 主要解决的问题不包括以下哪一项（ ）。",
+    "options": [
+      "A. 帮助制造企业了解自身现状，明确发展目标",
+      "B. 协助政府主管部门选择标杆示范企业",
+      "C. 为服务商提供技术研发方向",
+      "D. 对项目建设效果进行评价"
+    ],
+    "answer": "C",
+    "explanation": "22.3.1 CMMM 概览中提到CMMM 主要解决的问题包括帮助企业了解现状、政府选 标杆企业、评价项目建设效果等，未提及为服务商提供技术研发方向。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0067",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 评估的价值不包括（ ）。",
+    "options": [
+      "A. 智能制造全面梳理与认识",
+      "B. 提高企业产品价格竞争力",
+      "C. 以评促建，提升企业综合竞争力",
+      "D. 企业能力展现与资质优势"
+    ],
+    "answer": "B",
+    "explanation": "22.3.1 CMMM 概览中指出CMMM 评估的价值包括全面梳理认识、以评促建、企业能 力展现等，不包括提高产品价格竞争力。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0068",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业在开展智能制造建设时，CMMM 结合行业实践给出了规范性指导。关于整体能力 建设，以下说法错误的是（ ）。",
+    "options": [
+      "A. 企业智能化建设应注重多方位能力均衡发展",
+      "B. 企业智能化建设可以一步到位，快速变革",
+      "C. 同一业务在发展等级之间具有关联性，建设重点有先后顺序",
+      "D. 对同一业务的智能化应用能力应不断增强"
+    ],
+    "answer": "B",
+    "explanation": "22.3.2 CMMM 应用中提到企业智能化建设不要想着一步到位、变革过猛，所以B 选项说法错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0069",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在智能制造整体能力建设的阶段性建设中，企业可通过（ ）判断所达到的能力及 后续提升方向。",
+    "options": [
+      "A. 各级条款要求",
+      "B. 企业领导决策",
+      "C. 员工技能水平",
+      "D. 行业平均水平"
+    ],
+    "answer": "A",
+    "explanation": "22.3.2 CMMM 应用中表明企业可通过各级条款要求判断所达到的能力（当前等级） 以及后续提升的方向（下一等级）。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0070",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在智能制造整体能力建设的有序性建设方面，以CMMM 中“生产作业”质量检验业 务为例，“三级c ”条款要求（ ）。",
+    "options": [
+      "A. 关键工序采用数字化质量检测设备",
+      "B. 质量检测设备集成于产线中，实现“在线检测”，并与信息系统检验指标比对实现 “ 自动判读”，收集质量信息，总结“质量问题知识库”",
+      "C. 质量预测基于三级的“在线检测”，并通过一段时间知识库数据积累，通过监控检 验指标的实时趋势进行潜在超差分析预测",
+      "D. 仅要求收集关键生产过程数据，通过信息系统有效管控"
+    ],
+    "answer": "B",
+    "explanation": "22.3.2 CMMM 应用中提到“三级c ”条款要求质量检测设备集成于产线中，实现 “在线检测”，并与信息系统检验指标比对实现“ 自动判读”，收集质量信息，总 结 “质量问题知识库”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0071",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "很多企业为满足市场需求构建自动化流水线，但可能面临产线淘汰问题，原因是 ( ) 。",
+    "options": [
+      "A. 产线柔性不足，仅适合单一型号产品制造",
+      "B. 自动化程度不够高",
+      "C. 缺乏专业操作人员",
+      "D. 设备老化过快"
+    ],
+    "answer": "A",
+    "explanation": "22.3.2 CMMM 应用中提到，这些产线由于缺少柔性化适配，刚性有余、柔性不足， 仅适合几种单一型号的产品制造，几年后产品过时，产线面临淘汰。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0072",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 从（ ）开始通过系统集成实现各业务敏捷协同与信息同步共享，满足生产多 品种、柔性化需要。",
+    "options": [
+      "A. 一级（规划级）",
+      "B. 二级（规范级）",
+      "C. 三级（集成级）",
+      "D. 四级（优化级）"
+    ],
+    "answer": "C",
+    "explanation": "22.3.2 CMMM 应用中明确说明CMMM 从“三级/集成级”开始通过系统集成实现各 业务敏捷协同与信息同步共享。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0073",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在CMMM“生产作业三级a ”条款中，要求根据生产作业计划自动将工艺文件下发到 生产单元，目的是（ ）。",
+    "options": [
+      "A. 提高作业指令下达的精准度",
+      "B. 减少工艺文件编制时间",
+      "C. 实现生产设备智能化",
+      "D. 降低生产成本"
+    ],
+    "answer": "A",
+    "explanation": "22.3.2 CMMM 应用中提到，此条款是通过工艺系统和生产系统集成方式随生产任 务下达将技术文件准确下发给生产现场，防止作业人员选错工艺参数，以此提高作业指 令下达的精准度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0074",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 四级、五级条款要求企业面对外部需求变化等情况，将企业知识封装为分析模 型，并通过模型驱动逐渐代替人工判断决策，实现系统自动辅助决策和优化。在“采 购”四级能力中，要求基于（ ）建立采购模型，实时监控采购风险并及时预警。",
+    "options": [
+      "A. 采购执行、生产消耗和库存等数据",
+      "B. 供应商供货历史表现数据",
+      "C. 市场价格波动数据",
+      "D. 企业采购预算数据"
+    ],
+    "answer": "A",
+    "explanation": "CMMM 四级、五级要求企业在采购方面基于采购执行、生产消耗和库存等数据建立 采购模型",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0075",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "部分企业对标成熟度模型三级以上能力要求时，发现条款不完全适用，原因是（ ）。",
+    "options": [
+      "A. 企业生产产品种类不多、工艺不复杂、个性化需求不高，对生产组织、业务协同与敏 捷响应无较高要求",
+      "B. 企业资金不足，无法满足高等级能力建设的投入",
+      "C. 企业技术水平有限，难以达到高等级能力要求",
+      "D. 企业人员素质不高，无法实施高等级能力建设"
+    ],
+    "answer": "A",
+    "explanation": "22.3.2 CMMM 应用中提到，部分企业对标时发现条款不适用是因为生产产品种类 不多、工艺不复杂、个性化需求不高，对生产组织、业务协同与敏捷响应无较高要求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0076",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造规划需要遵循多项原则，其中需求驱动原则强调（ ）。",
+    "options": [
+      "A. 整体规划要针对企业实际需要的生产、管理、经营需求制定",
+      "B. 规划要从企业生产及其管理各方面实际出发，提高投入产出效果",
+      "C. 总体规划要正确且可行，与企业内外部环境匹配",
+      "D. 规划要从企业战略目标出发，确保具备高层次、全局性分析"
+    ],
+    "answer": "A",
+    "explanation": "22.4.1 规划原则中明确需求驱动原则是指整体规划是针对企业实际需要的生产、 管理、经营需求而制定的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0077",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "投入产出原则要求智能制造规划（ ）。",
+    "options": [
+      "A. 从企业实际出发，围绕提高核心竞争力进行规划",
+      "B. 充分利用各种资源，与企业内外部环境匹配",
+      "C. 满足企业所有需求，追求最高水平的智能化",
+      "D. 以实现企业短期利益为目标进行规划"
+    ],
+    "answer": "A",
+    "explanation": "22.4.1 规划原则中提到投入产出原则需要从企业生产及其管理各方面的实际出 发，紧紧围绕提高企业核心竞争力进行规划。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0078",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "有效性原则包括总体规划的正确性和可行性，其中正确性要求（ ）。",
+    "options": [
+      "A. 总体规划适合企业的实际需要，做到与企业转型战略匹配",
+      "B. 总体规划充分利用各种资源，与企业内外部环境匹配",
+      "C. 规划能够回答企业生产变革的相关问题",
+      "D. 规划具备高层次、全局性的分析"
+    ],
+    "answer": "B",
+    "explanation": "22.4.1 规划原则中表明有效性原则的正确性要求总体规划充分利用各种资源， 与企业内外部环境匹配。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0079",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "全局性原则要求智能制造规划（ ）。",
+    "options": [
+      "A. 从企业战略目标出发，分析企业对数字化运营等的需求，得出智能制造的战略目标和 总体方案",
+      "B. 以企业实际生产需求为唯一出发点，制定规划方案",
+      "C. 重点关注企业当前面临的问题，解决短期困境",
+      "D. 优先考虑技术的先进性，引入最新的智能制造技术"
+    ],
+    "answer": "A",
+    "explanation": "22.4.1 规划原则中指出全局性原则要求从企业战略目标出发，分析企业对数字 化运营、信息数字技术与信息资源的需求，逐步得出智能制造的战略目标和总体方案。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0080",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造规划成果虽落脚于信息系统建设与优化，但与过往企业信息化规划存在较 大差异，原因不包括（ ）。",
+    "options": [
+      "A. 生产设备IT/IP 化后，其控制系统成为企业信息系统重要组成部分",
+      "B. 信息系统与企业经营管理和生产制造深度融合",
+      "C. 智能制造规划知识涉及面广、个性化强",
+      "D. 智能制造规划只关注技术创新，不涉及业务流程优化"
+    ],
+    "answer": "D",
+    "explanation": "22.4.2 规划活动要点中提到智能制造规划与过往信息化规划差异的原因包括生 产设备IT/IP 化、信息系统深度融合、知识涉及面广等，智能制造规划也涉及业务流 程优化，D 选项说法错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0081",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造规划所需的诊断评估具有独特性，其原因不包括（ ）。",
+    "options": [
+      "A. 智能制造带来管理与生产过程的深度融合",
+      "B. 信息技术与工业技术的深度融合",
+      "C. 数据应用与企业制造模式转型升级的深度融合",
+      "D. 智能制造规划投资较小，风险较低"
+    ],
+    "answer": "D",
+    "explanation": "22.4.2 规划活动要点中提到智能制造规划诊断评估独特性源自于管理与生产、 信息技术与工业技术、数据应用与制造模式转型升级的深度融合，智能制造规划投资巨 大，D 选项说法错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0082",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造规划的诊断评估可以参考CMMM 模型的范围，以下不属于其范围的是（ ）。",
+    "options": [
+      "A. 组织战略",
+      "B. 人员技能",
+      "C. 市场推广策略",
+      "D. 生产作业"
+    ],
+    "answer": "C",
+    "explanation": "22.4.2 规划活动要点中提到智能制造规划诊断评估可参考CMMM 模型的范围， 包括组织战略、人员技能、生产作业等，不包括市场推广策略。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0083",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在开展企业智能制造诊断评估时，如果企业有特定业务领域不在CMMM 标准定义范 围内，可以（ ）。",
+    "options": [
+      "A. 忽略该业务领域",
+      "B. 基于规范化、系统化、协同化、智能化、生态化的等级逻辑，定义对应能力域的针对 要求",
+      "C. 直接套用其他企业的评估标准",
+      "D. 按照企业领导的要求进行评估"
+    ],
+    "answer": "B",
+    "explanation": "22.4.2 规划活动要点中表明，当企业有特定业务不在CMMM 标准范围时，可以基 于相关等级逻辑，定义对应能力域的针对要求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0084",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "制造企业经过诊断评估后，优先需要建设的是（ ）。",
+    "options": [
+      "A. “短板”部分",
+      "B. “最长板”部分",
+      "C. 技术创新部分",
+      "D. 管理变革部分"
+    ],
+    "answer": "A",
+    "explanation": "22.4.2 规划活动要点中提到，制造企业经过诊断评估后，按照均衡发展的逻辑， 优先需要建设的是“短板”部分。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0085",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "当诊断评估或规划设计无法解决企业“短板”问题时，“裁剪”是指（ ）。",
+    "options": [
+      "A. 通过业务外包的模式，借助社会资源支撑企业相关能力的补齐",
+      "B. 与集团相关单位协商，驱动其对相关能力转型与提升",
+      "C. 放弃对“短板”部分的建设",
+      "D. 降低对“短板”部分的建设标准"
+    ],
+    "answer": "A",
+    "explanation": "22.4.2 规划活动要点中指出，“裁剪”是指通过业务外包的模式，通过社会资 源支撑企业相关能力的补齐。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0086",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在确保企业“短板”部分能够得到补充的情况下，设定企业整体智能制造水平目标 时，通常把（ ）作为企业智能制造发展的短期目标。",
+    "options": [
+      "A. 企业“最长板”",
+      "B. 比“最长板”高一个等级",
+      "C. 达到行业平均水平",
+      "D. 实现全面智能化"
+    ],
+    "answer": "A",
+    "explanation": "22.4.2 规划活动要点中提到，设定企业整体智能制造水平目标时，通常把企业 “最长板”作为企业智能制造发展的短期目标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0087",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在相关信息系统功能或能力规划中，企业首次建设MES 系统时，应（ ）。",
+    "options": [
+      "A. 对预测性功能进行“裁剪”，重点确保基本功能的有效性和价值性",
+      "B. 建设全模块，一步到位",
+      "C. 先建设工艺设计相关平台，再建设MES 系统",
+      "D. 只关注生产作业管理功能，忽略其他功能"
+    ],
+    "answer": "A",
+    "explanation": "22.4.2 规划活动要点中表明，企业首次建设MES 系统时，需要对预测性功能进 行“裁剪”，重点确保企业在作业调度管理、生产作业管理和设备管理等基本功能的 有效性和价值性。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0088",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "每个制造企业向更高等级演进往往有突破点，通常企业升级发展的突破点可以是 ( ) 。",
+    "options": [
+      "A. 技术、管理和模式",
+      "B. 资金、人才和市场",
+      "C. 设备、工艺和产品",
+      "D. 质量、效率和成本"
+    ],
+    "answer": "A",
+    "explanation": "22.4.2 规划活动要点中提到，通常来说，企业升级发展的突破点可以是技术、管 理和模式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0089",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "技术突破驱动的变革，是指企业变革升级优先由技术突破开始，以下属于技术突破 的是（ ）。",
+    "options": [
+      "A. 产品技术突破",
+      "B. 管理方法突破",
+      "C. 业务流程变革",
+      "D. 柔性生产新模式"
+    ],
+    "answer": "A",
+    "explanation": "22.4.2 规划活动要点中指出，技术突破驱动的变革包括产品技术突破、工艺技术 突破、IT 技术突破等，管理方法突破和业务流程变革属于管理突破，柔性生产新模式 属于模式突破。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0090",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在进行企业智能制造规划时，需要在均衡部署的基础上，精准识别到企业能够引发 或驱动企业全面变革的关键点，并让该部分的能力规划（ ）。",
+    "options": [
+      "A. 超越其他的能力子域（最多一个等级）",
+      "B. 与其他能力子域保持一致",
+      "C. 低于其他能力子域，先解决基础问题",
+      "D. 不受其他因素限制，随意规划"
+    ],
+    "answer": "A",
+    "explanation": "22.4.2 规划活动要点中提到，在进行企业智能制造规划时，要让突破点部分的能 力规划超越其他的能力子域（最多一个等级）。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0091",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "人才是企业开展智能制造的关键基础，人才保障相关规划不涉及以下哪方面（ ）。",
+    "options": [
+      "A. 统筹智能制造的团队",
+      "B. 智能制造专业技术人员",
+      "C. 产品研发团队",
+      "D. 培训体系构建"
+    ],
+    "answer": "C",
+    "explanation": "22.4.2 规划活动要点中提到人才保障相关规划涉及统筹团队、专业技术人员、培 训体系构建、知识体系建设和业务人员数字素养，不涉及产品研发团队。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0092",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "统筹智能制造的团队需要确保相关人员技能能够覆盖智能制造涉及的各领域，智能 制造涉及的领域不包括（ ）。",
+    "options": [
+      "A. IT 基础",
+      "B. 数据分析",
+      "C. 市场营销",
+      "D. 设备维护"
+    ],
+    "answer": "C",
+    "explanation": "22.4.2 规划活动要点中提到智能制造专业技术人员涉及IT 基础、数据分析、设 备维护等领域，未提及市场营销。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0093",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造专业技术人员既可以是企业内部人员技能覆盖，也可以通过（ ）获取相 关人员能力供给。",
+    "options": [
+      "A. 企业与第三方组织合作",
+      "B. 招聘应届毕业生",
+      "C. 从竞争对手处挖人",
+      "D. 员工自学"
+    ],
+    "answer": "A",
+    "explanation": "22.4.2 规划活动要点中表明，智能制造专业技术人员可以通过企业与第三方组 织合作获取相关人员能力供给。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0094",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业的培训体系建设需要包括组织体系化、课程体系化和内容体系化三个层次，其 中课程体系化是指（ ）。",
+    "options": [
+      "A. 结合企业的组织结构建设和职能分工，确保业务部门与人力资源部门面对培训组织工 作的一体化协同",
+      "B. 企业需要有效布局各类培训课程、实训内容等，确保课程体系覆盖IT 技术、软件应 用、数字装备使用、现代化管理体系等",
+      "C. 企业需要在培训实施过程中，既要重视知识内容的传播，更要重视人员软技能培育",
+      "D. 建立完善的培训考核机制，确保培训效果"
+    ],
+    "answer": "B",
+    "explanation": "22.4.2 规划活动要点中提到课程体系化是指企业需要有效布局各类培训课程、 实训内容等，确保课程体系覆盖IT 技术、软件应用、数字装备使用、现代化管理体系 等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0095",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "对工业企业来说，知识体系建设需要重视自身的知识沉淀，以下做法错误的是 ( ) 。",
+    "options": [
+      "A. 培育全员的自我知识管理能力",
+      "B. 忽视经验类知识沉淀",
+      "C. 建立适合自身的知识管理制度和方法",
+      "D. 保障全员能够积极贡献自身的经验"
+    ],
+    "answer": "B",
+    "explanation": "22.4.2 规划活动要点中提到工业企业要重视自身知识沉淀，特别是经验类知识 沉淀，B 选项忽视经验类知识沉淀做法错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0096",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "制造企业业务人员的数字素养对企业智能制造能力建设起着决定性作用，以下不属 于业务人员数字素养的是（ ）。",
+    "options": [
+      "A. 面向问题的结构化思维",
+      "B. 信息数字技术的理解",
+      "C. 产品设计能力",
+      "D. 使用数据洞察、发现和解决问题的能力"
+    ],
+    "answer": "C",
+    "explanation": "22.4.2 规划活动要点中提到业务人员数字素养包括面向问题的结构化思维、信 息数字技术的理解、数据开发利用的技能以及使用数据洞察、发现和解决问题的能力等， 产品设计能力不属于数字素养。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0097",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造发展规划过程需要得到有效管理，多元参与要求企业在实施智能制造规划 时( ) 。",
+    "options": [
+      "A. 做好动员工作，确保相关团队的主要负责人和骨干人员充分参与",
+      "B. 只让高层管理人员参与规划",
+      "C. 禁止引入第三方力量参与",
+      "D. 不考虑基层员工的意见"
+    ],
+    "answer": "A",
+    "explanation": "22.4.3 规划管理要点中提到，企业在实施智能制造规划时，要做好动员工作，确 保相关团队的主要负责人和骨干人员能够充分参与其中。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0098",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造发展规划是多元业务单元和能力域协同研讨的活动，企业可以利用这些活 动做好知识传递工作，当引入第三方力量时，企业需要（ ）。",
+    "options": [
+      "A. 重视外部知识、技能和经验的导入",
+      "B. 对第三方知识持怀疑态度",
+      "C. 完全依赖第三方进行规划",
+      "D. 拒绝第三方参与知识传递活动"
+    ],
+    "answer": "A",
+    "explanation": "22.4.3 规划管理要点中表明，如果企业在实施智能制造规划活动中引入了第三 方力量，企业就需要重视外部知识、技能和经验的导入。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0099",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业实施智能制造建设需要长期坚持、持续迭代，在进行目标控制时，总体目标尽 量避免使用（ ）。",
+    "options": [
+      "A. 较为空洞的语言，如达到世界一流等",
+      "B. 5 年能够达到的状态，如满足CMMM 四级要求等",
+      "C. 明确的量化指标",
+      "D. 与企业实际情况相符的表述"
+    ],
+    "answer": "A",
+    "explanation": "22.4.3 规划管理要点中提到，总体目标尽量避免使用较为空洞的语言，如达到世 界一流等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0100",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "规划的目标分为总体目标和分项目标，分项目标可以采用（ ）的方式进行设定。",
+    "options": [
+      "A. “做一看一”",
+      "B. 一步到位，设定最高目标",
+      "C. 完全参考其他企业目标",
+      "D. 只关注短期利益"
+    ],
+    "answer": "A",
+    "explanation": "22.4.3 规划管理要点中指出，分项目标可以采用“做一看一”的方式进行设定。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0101",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "目标控制涉及相关人员理解一致性的情况，需要将总体目标控制进行充分宣贯，确 保参与规划的所有人员理解企业下一步需要达到的整体状态，并（ ）。",
+    "options": [
+      "A. 获得一致性认同",
+      "B. 各自制定目标",
+      "C. 按照自己的理解执行",
+      "D. 忽视总体目标"
+    ],
+    "answer": "A",
+    "explanation": "目标控制需要所有参与规划的人员对企业下一步的整体状态有共同的理解，并达 成一致性的认同，以确保规划的有效执行。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0102",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "借鉴最佳实践是规划工作的常用手段，在规划实施过程中的实践借鉴需要注意多方 面，其中放大鉴小是指（ ）。",
+    "options": [
+      "A. 借鉴最佳实践最好是面向场景或局部的借鉴，整体或宏观方面的借鉴往往不能给企业 带来实效",
+      "B. 充分获取最佳实践的形成条件",
+      "C. 根据自身情况，在获取最佳实践原理或本质的基础上，基于自身情况进行创新后使用",
+      "D. 避免对最佳实践的“迷恋”，防止借鉴反噬自身发展"
+    ],
+    "answer": "A",
+    "explanation": "22.4.3 规划管理要点中提到放大鉴小是指借鉴最佳实践最好是面向场景或局部 的借鉴，整体或宏观方面的借鉴往往不能给企业带来实效。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0103",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造系统架构从三个维度对智能制造所涉及的活动、装备、特征等内容进行描 述，以下不属于这三个维度的是（ ）。",
+    "options": [
+      "A. 生命周期",
+      "B. 系统功能",
+      "C. 系统层级",
+      "D. 智能特征"
+    ],
+    "answer": "B",
+    "explanation": "22.5.1 总体架构中提到，智能制造系统架构从生命周期、系统层级和智能特征三 个维度进行描述，不包括系统功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0104",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造的生命周期是指从产品原型研发开始到产品回收再制造的各阶段，包括一 系列相互联系的价值创造活动，其中销售是指（ ）。",
+    "options": [
+      "A. 产品或商品等从企业转移到客户手中的经营活动",
+      "B. 根据企业的所有约束条件以及所选择的技术对需求进行构造、仿真、验证、优化等研 发活动过程",
+      "C. 通过劳动创造所需要的物质资料的过程",
+      "D. 物品从供应地向接收地的实体流动过程"
+    ],
+    "answer": "A",
+    "explanation": "22.5.1 总体架构中对销售的定义为产品或商品等从企业转移到客户手中的经营 活动。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0105",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造系统层级中，用于工厂内处理信息、实现监测和控制物理流程的层级是 ( ) 。",
+    "options": [
+      "A. 设备层",
+      "B. 单元层",
+      "C. 车间层",
+      "D. 企业层"
+    ],
+    "answer": "B",
+    "explanation": "22.5.1 总体架构中表明，单元层是用于工厂内处理信息、实现监测和控制物理流 程的层级。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0106",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造的智能特征中，实现装备之间、装备与控制系统之间、企业之间相互连接 及信息交换功能的层级是（ ）。",
+    "options": [
+      "A. 资源要素",
+      "B. 互联互通",
+      "C. 融合共享",
+      "D. 系统集成"
+    ],
+    "answer": "B",
+    "explanation": "22.5.1 总体架构中提到，互联互通是指通过有线、无线等通信技术，实现装备之 间、装备与控制系统之间、企业之间相互连接及信息交换功能的层级。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0107",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "不同类型的企业，其信息系统集成架构存在较大差异，但通常智能制造涉及多个业 务环节和多种信息化系统。以下不属于常见业务环节的是（ ）。",
+    "options": [
+      "A. 产品研发",
+      "B. 员工培训",
+      "C. 采购",
+      "D. 交付"
+    ],
+    "answer": "B",
+    "explanation": "22.5.2 集成架构中提到，大部分企业智能制造涉及销售、设计、采购、计划、生 产、交付等多个业务环节，不包括员工培训。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0108",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造系统集成架构一般分为5 层架构体系，其中以大数据、驾驶舱、数字孪 生、人工智能等的典型应用为代表，构建智能制造的数据驱动决策体系的是（ ）。",
+    "options": [
+      "A. 决策层",
+      "B. 业务层",
+      "C. 执行层",
+      "D. 传输层"
+    ],
+    "answer": "A",
+    "explanation": "22.5.2 集成架构中指出，决策层以大数据、驾驶舱、数字孪生、人工智能等的典 型应用为代表，构建智能制造的数据驱动决策体系。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0109",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造是基于新一代信息通信技术与先进制造技术深度融合，贯穿于制造活动各 环节，具有多种功能的新型生产方式，以下不属于其功能的是（ ）。",
+    "options": [
+      "A. 自感知",
+      "B. 自修复",
+      "C. 自决策",
+      "D. 自适应"
+    ],
+    "answer": "B",
+    "explanation": "智能制造的功能包括自感知、自决策、自适应等，但自修复一般不属于其核心功 能范畴。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0110",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造大致经历了三个阶段，起始于（ ）。",
+    "options": [
+      "A. 20 世纪80 年代人工智能在制造领域中的应用",
+      "B. 20 世纪90 年代智能制造技术、智能制造系统的提出",
+      "C. 21 世纪以来信息数字技术条件下的“智能制造”",
+      "D. 20 世纪70 年代自动化技术在制造领域的初步应用"
+    ],
+    "answer": "A",
+    "explanation": "22.1.1 发展演进与历程中指出，智能制造起始于20 世纪80 年代人工智能在 制造领域中的应用，此时智能制造概念被正式提出。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0111",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "20 世纪90 年代，围绕智能制造技术(IMT)与智能制造系统(IMS)开展国际合作研 究的国家不包括（ ）。",
+    "options": [
+      "A. 中国",
+      "B. 美国",
+      "C. 日本",
+      "D. 欧洲工业化发达国家"
+    ],
+    "answer": "A",
+    "explanation": "22.1.1 发展演进与历程中提到，20 世纪90 年代，智能制造的研究获得欧、美、 日等工业化发达国家的普遍重视，围绕相关技术和系统开展国际合作研究，未提及中国。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0112",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "德国推出的工业4.0 战略，虽没明确提出智能制造概念，但包含了其内涵，即将企 业的机器、存储系统和生产设施融入（ ）。",
+    "options": [
+      "A. 智能制造系统",
+      "B. 虚拟网络- 实体物理系统(CPS)",
+      "C. 工业互联网平台",
+      "D. 智能工厂"
+    ],
+    "answer": "B",
+    "explanation": "22.1.1 发展演进与历程中指出，德国工业4.0 战略将企业相关设施融入“虚拟网 络- 实体物理系统(CPS)”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0113",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "中国成为全球第一制造大国，但面临诸多挑战，促使制造业进行数字化和智能化转 型升级，以下不属于这些挑战的是（ ）。",
+    "options": [
+      "A. 许多高端技术掌握在西方国家手里",
+      "B. 部分行业设备和工艺滞后",
+      "C. 企业综合成本不断下降",
+      "D. 人口负增长带来劳动力短缺"
+    ],
+    "answer": "C",
+    "explanation": "制造业面临的挑战通常包括技术落后、设备和工艺滞后、成本上升、劳动力短 缺等，企业综合成本不断下降不属于面临的挑战。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0114",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "传统制造升级与智能制造转型在本质上的差异是（ ）。",
+    "options": [
+      "A. 传统制造升级注重产品质量，智能制造转型注重生产效率",
+      "B. 传统制造升级把生产的“边界”尽量固定下来，通过抑制干扰保证质量等；智能制 造转型强调各类创新主体的高效互动等",
+      "C. 传统制造升级强调技术应用，智能制造转型强调管理变革",
+      "D. 传统制造升级依赖人工操作，智能制造转型完全自动化"
+    ],
+    "answer": "B",
+    "explanation": "22.1.2 传统制造业的强化转型升级中的表22 - 1，清晰对比了两者本质的差 异， 传统制造升级把生产的“边界”尽量固定下来，抑制干扰；智能制造转型强调各类创新 主体的高效互动等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0115",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "设备维护保养是保障设备正常运行的关键，设备管理信息化系统是开展设备管理的 基础支撑，通过扫码查看设备相关信息，是基于（ ）。",
+    "options": [
+      "A. 设备台账赋予每台设备的编码形成的设备码",
+      "B. 设备的型号",
+      "C. 设备的采购时间",
+      "D. 设备的生产厂家"
+    ],
+    "answer": "A",
+    "explanation": "22.2.4 设备管理智能化中提到根据设备台账赋予每台设备一个独一无二的编码， 并形成设备码，通过扫码可查看设备档案等信息。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0116",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智慧安全管理以企业安全生产全要素数字化管理为目标，采用先进信息数字技术对 生 产过程中的人员、设备、环境等进行全面智能化管理和升级改造。以下不属于智慧 安全管理重点关注的是（ ）。",
+    "options": [
+      "A. 安全监测",
+      "B. 安全预测",
+      "C. 安全培训",
+      "D. 安全闭环管理"
+    ],
+    "answer": "C",
+    "explanation": "22.2.6 智慧安全管理中提到智慧安全管理重点关注安全监测、安全预测和安全 闭环管理，未将安全培训作为重点关注内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0117",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在智能制造整体能力建设的纵深性建设方面，对于“生产作业”能力的生产现场 管控要求，“ 四级b ”条款要求（ ）。",
+    "options": [
+      "A. 收集关键生产过程数据，通过信息系统有效管控",
+      "B. 增强数据采集实时性并能够对数据异常进行监控",
+      "C. 通过构建分析模型，基于采集的实时生产数据动态优化生产过程，以敏捷响应生产过 程中存在的异常情况，保证生产活动时刻处于最佳状态",
+      "D. 根据生产作业计划自动将工艺文件下发到生产单元"
+    ],
+    "answer": "C",
+    "explanation": "22.3.2 CMMM 应用中指出“ 四级b ”条款要求通过构建分析模型，基于采集的 实 时生产数据动态优化生产过程，以敏捷响应生产过程中存在的异常情况，保证生产活动 时刻处于最佳状态。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0118",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在CMMM“生产作业三级a ”条款中，要求根据生产作业计划自动将工艺文件下发 到生产单元，目的是（ ）。",
+    "options": [
+      "A. 提高作业指令下达的精准度",
+      "B. 减少工艺文件编制时间",
+      "C. 实现生产设备智能化",
+      "D. 降低生产成本"
+    ],
+    "answer": "A",
+    "explanation": "22.3.2 CMMM 应用中提到，此条款是通过工艺系统和生产系统集成方式随生产任 务下达将技术文件准确下发给生产现场，防止作业人员选错工艺参数，以此提高作业指 令下达的精准度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0119",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造规划成果虽落脚于信息系统建设与优化，但与过往企业信息化规划存在较 大差异，原因不包括（ ）。",
+    "options": [
+      "A. 生产设备IT/IP 化后，其控制系统成为企业信息系统重要组成部分",
+      "B. 信息系统与企业经营管理和生产制造深度融合",
+      "C. 智能制造规划知识涉及面广、个性化强",
+      "D. 智能制造规划只关注技术创新，不涉及业务流程优化"
+    ],
+    "answer": "D",
+    "explanation": "智能制造规划不仅关注技术创新，还涉及业务流程优化等多个方面，因此D 选项 说法错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0120",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "不同类型的企业，其信息系统集成架构存在较大差异，但通常智能制造涉及多个业 务环节和多种信息化系统。以下不属于常见业务环节的是（ ）。",
+    "options": [
+      "A. 产品研发",
+      "B. 员工培训",
+      "C. 采购",
+      "D. 交付"
+    ],
+    "answer": "B",
+    "explanation": "22.5.2 集成架构中提到，大部分企业智能制造涉及销售、设计、采购、计划、生 产、交付等多个业务环节，不包括员工培训。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0121",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造是基于新一代信息通信技术与先进制造技术深度融合，具有多种功能的新 型生产方式，其中不包括（ ）。",
+    "options": [
+      "A. 自修复",
+      "B. 自学习",
+      "C. 自决策",
+      "D. 自执行"
+    ],
+    "answer": "A",
+    "explanation": "参考文档第22 章开头部分，智能制造具有自感知、自学习、自决策、自执行、 自适应等功能，未提及自修复。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0122",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造概念首次提出于（ ）。",
+    "options": [
+      "A. 20 世纪80 年代",
+      "B. 20 世纪90 年代",
+      "C. 21 世纪初",
+      "D. 20 世纪70 年代"
+    ],
+    "answer": "A",
+    "explanation": "依据22.1.1 发展演进与历程，20 世纪80 年代美国纽约大学怀特教授和卡内 基梅隆大学的布恩教授在《智能制造》一书中首次提出该概念。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0123",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在智能制造发展历程中，20 世纪90 年代的主要成果是（ ）。",
+    "options": [
+      "A. 智能制造概念提出",
+      "B. 围绕智能制造技术与系统开展国际合作研究",
+      "C. 德国推出工业4.0 战略",
+      "D. 中国发布《中国制造2025》"
+    ],
+    "answer": "B",
+    "explanation": "由22.1.1 发展演进与历程可知，20 世纪90 年代，智能制造的研究获得欧、 美、日等工业化发达国家的普遍重视，围绕智能制造技术(IMT)与智能制造系统(IMS) 开展国际合作研究。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0124",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "德国工业4.0 战略将企业的机器、存储系统和生产设施融入（ ）。",
+    "options": [
+      "A. 智能制造系统",
+      "B. 虚拟网络- 实体物理系统(CPS)",
+      "C. 工业互联网平台",
+      "D. 智能工厂"
+    ],
+    "answer": "B",
+    "explanation": "根据22.1.1 发展演进与历程，德国工业4.0 战略虽没明确提出智能制造概念， 但包含其内涵，即将相关设施融入“虚拟网络- 实体物理系统(CPS)”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0125",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "中国制造业面临转型升级压力，原因不包括（ ）。",
+    "options": [
+      "A. 高端技术依赖国外",
+      "B. 部分行业设备和工艺滞后",
+      "C. 综合成本下降",
+      "D. 劳动力短缺"
+    ],
+    "answer": "C",
+    "explanation": "在22.1.2 传统制造业的强化转型升级中提到，中国制造业面临原材料、设备运 维等综合成本不断上涨的挑战，并非综合成本下降。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0126",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "传统制造升级与智能制造转型在核心方面的区别是（ ）。",
+    "options": [
+      "A. 传统制造升级注重效率，智能制造转型注重质量",
+      "B. 传统制造升级面向规模化生产，智能制造转型注重产品全生命周期治理",
+      "C. 传统制造升级依赖技术，智能制造转型依赖管理",
+      "D. 传统制造升级关注成本，智能制造转型关注创新"
+    ],
+    "answer": "B",
+    "explanation": "参考22.1.2 传统制造业的强化转型升级中的表22 - 1，传统制造升级面向规模 化生产，提高生产效率；智能制造转型是产品的全生命周期治理(面向产品快速迭代、小 批量、个性化定制等)。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0127",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "以下属于新型智能化装备的是（ ）。",
+    "options": [
+      "A. 普通车床",
+      "B. 焊接机器人",
+      "C. 手动叉车",
+      "D. 传统输送带"
+    ],
+    "answer": "B",
+    "explanation": "依据22.1.3 信息数字技术突破发展，数控机床、焊接机器人、数控高端装备等 属于新型智能化装备，普通车床、手动叉车、传统输送带不属于此类。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0128",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "从传统ERP 和MES 系统向基于工业互联网平台的（ ）系统转变，体现了信息化 建设的发展。",
+    "options": [
+      "A. CRM",
+      "B. APS",
+      "C. MOM",
+      "D. WMS"
+    ],
+    "answer": "C",
+    "explanation": "由22.1.3 信息数字技术突破发展可知，信息化建设方面是从传统系统向基于工 业互联网平台的MOM 系统转变。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0129",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在数据开发利用方面，新一代智能装备打通设备底层的（ ）实现设备的动态感知。",
+    "options": [
+      "A. PLC（可编程逻辑控制器）",
+      "B. CAD（计算机辅助设计）",
+      "C. CAE（计算机辅助工程）",
+      "D. ERP（企业资源管理计划）"
+    ],
+    "answer": "A",
+    "explanation": "参考22.1.3 信息数字技术突破发展，新一代智能装备通过打通设备底层的PLC 和其他控制系统，实现设备的动态感知。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0130",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "结合大数据、云计算等新型技术手段对人、机、料等要素进行数据分析，属于( ) 方面的融合创新。",
+    "options": [
+      "A. 多元信息技术",
+      "B. 智能装备",
+      "C. 信息化建设",
+      "D. 数据开发利用"
+    ],
+    "answer": "A",
+    "explanation": "依据22.1.3 信息数字技术突破发展，结合多种新型技术手段对相关要素进行数 据分析属于多元信息技术融合创新。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0131",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "美国《先进制造业美国领导力战略》的三大任务不包括（ ）。",
+    "options": [
+      "A. 发展和推广新的制造技术",
+      "B. 教育、培训和匹配制造业劳动力",
+      "C. 扩大国内制造业供应链能力",
+      "D. 加大对传统制造业的投资"
+    ],
+    "answer": "D",
+    "explanation": "根据22.1.4 各国智能制造发展战略加速，该战略的三大任务是发展和推广新的 制造技术、教育和培训劳动力、扩大供应链能力，不包括加大对传统制造业的投资。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0132",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "德国《国家工业战略2030》的根本性目标是（ ）。",
+    "options": [
+      "A. 维护和确保德国在工业、技术和经济方面的世界领先地位",
+      "B. 推动全球制造业共同发展",
+      "C. 促进欧洲制造业一体化",
+      "D. 提升德国制造业的环保水平"
+    ],
+    "answer": "A",
+    "explanation": "德国《国家工业战略2030》旨在维护和提升德国在全球工业、技术和经济领域 的领先地位。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0133",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "《新工业法国》计划旨在解决的三大问题中，不包括（ ）。",
+    "options": [
+      "A. 能源",
+      "B. 环境保护",
+      "C. 数字革命",
+      "D. 经济生活"
+    ],
+    "answer": "B",
+    "explanation": "由22.1.4 各国智能制造发展战略加速可知，《新工业法国》计划旨在解决能源、 数字革命和经济生活问题，不包括环境保护。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0134",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "印度“印度制造”计划的五大任务中，不包含（ ）。",
+    "options": [
+      "A. 吸引投资",
+      "B. 降低生产成本",
+      "C. 推动创新",
+      "D. 保护知识产权"
+    ],
+    "answer": "B",
+    "explanation": "参考22.1.4 各国智能制造发展战略加速，“ 印度制造”计划的五大任务包括 吸引投资、推动创新、强化技能、保护知识产权、建设高级别制造业基础设施，不包括 降低生产成本。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0135",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "《中国制造2025》的指导思想中，以（ ）为主攻方向。",
+    "options": [
+      "A. 推进智能制造",
+      "B. 促进制造业创新发展",
+      "C. 提质增效",
+      "D. 强化工业基础能力"
+    ],
+    "answer": "A",
+    "explanation": "根据22.1.5《中国制造2025》，其指导思想是以推进智能制造为主攻方向。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0136",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "《“十四五”智能制造发展规划》提出，到2025 年规模以上制造业企业要实现 ( ) 。",
+    "options": [
+      "A. 基本普及数字化，重点行业骨干企业初步实现智能转型",
+      "B. 全面普及数字化，骨干企业基本实现智能转型",
+      "C. 基本实现智能转型，重点行业骨干企业全面实现智能转型",
+      "D. 全面实现智能转型，骨干企业达到国际领先水平"
+    ],
+    "answer": "A",
+    "explanation": "依据22.1.5《中国制造2025》，《“十四五”智能制造发展规划》到2025 年 的目标是规模以上制造业企业基本普及数字化，重点行业骨干企业初步实现智能转型。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0137",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "推进智能制造，技能人才是指（ ）。",
+    "options": [
+      "A. 工作在企业生产现场，熟练掌握智能装备操作的技术工人",
+      "B. 企业内的技术和管理骨干",
+      "C. 企业推进智能制造的中坚力量",
+      "D. 企业推进智能制造的领导者"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.1 智能制造人才培养，技能人才指工作在企业生产现场，熟练掌握智 能装备操作的技术工人。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0138",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造的应用人才需熟练掌握多种工具类软件和信息系统，其中不属于此类的是 ( ) 。",
+    "options": [
+      "A. PLC（可编程逻辑控制器）",
+      "B. CAD（计算机辅助设计）",
+      "C. ERP（企业资源管理计划）",
+      "D. CAE（计算机辅助工程）"
+    ],
+    "answer": "A",
+    "explanation": "依据22.2.1 智能制造人才培养，应用人才需掌握CAD、CAM、CAE 等工具类软件 和ERP、MES 等信息系统，PLC 不属于此类。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0139",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业建立智能制造人才培训体系，技术模块除传统运维外，还需强化的技术不包括 ( ) 。",
+    "options": [
+      "A. 设备操作技能",
+      "B. 数据采集、治理",
+      "C. 信息系统开发",
+      "D. PLC、RPA 技术开发培训"
+    ],
+    "answer": "A",
+    "explanation": "依据22.2.1 智能制造人才培养，技术模块需强化数据采集、治理等技术开发培 训，未提及设备操作技能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0140",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在人才绩效考评方面，不属于激励制度的是（ ）。",
+    "options": [
+      "A. 定期考核",
+      "B. 创新激励",
+      "C. 专项竞赛鼓励",
+      "D. 技术岗位补贴"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.1 智能制造人才培养，激励制度有创新激励、专项竞赛鼓励、技术岗 位补贴、讲师激励等，定期考核不属于激励制度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0141",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造人才培养时，知识管理的核心是（ ）。",
+    "options": [
+      "A. 建立知识库",
+      "B. 将员工长期积累的经验和技能类的隐性知识显性化",
+      "C. 对知识进行结构化治理",
+      "D. 实现基于专家知识的人工智能决策"
+    ],
+    "answer": "B",
+    "explanation": "依据22.2.1 智能制造人才培养，知识管理的核心是将隐性知识显性化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0142",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "数字化研发设计通常不包括（ ）。",
+    "options": [
+      "A. 采用传统的二维图设计与管理",
+      "B. 应用数字化三维设计与工艺设计软件进行设计与仿真",
+      "C. 通过虚拟样机、数字化虚拟工厂进行验证与优化",
+      "D. 建立产品数据管理系统"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.2 数字化研发设计，数字化研发设计的方式不包括采用传统的二维图 设计与管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0143",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "产品三维设计通过产品数据管理系统软件对产品设计输出进行管理，实现产品全生 命周期管理，其中产品运输（ ）。",
+    "options": [
+      "A. 不属于产品全生命周期阶段",
+      "B. 属于产品生产阶段",
+      "C. 属于产品销售阶段",
+      "D. 属于产品服务阶段"
+    ],
+    "answer": "A",
+    "explanation": "产品全生命周期管理通常包括设计、生产、销售、服务等阶段，而产品运输更多 地属于物流范畴，不属于产品全生命周期阶段。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0144",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "传统制造企业在设计过程中存在的问题不包括（ ）。",
+    "options": [
+      "A. 数据结构化，完整性高",
+      "B. 二维图管理复杂、查找困难",
+      "C. 设计信息传递困难",
+      "D. 变更时版本信息难以保证一致"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.2 数字化研发设计，传统制造企业设计过程中数据非结构化，完整性 难于保证，并非数据结构化，完整性高。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0145",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "通过数字化设计手段不能实现的功能是（ ）。",
+    "options": [
+      "A. 完全取代人工设计",
+      "B. 三维设计、模型和设计规范的数字化管理",
+      "C. 实现文档的审查、批准、变更等信息化管理",
+      "D. 应用基于模型的定义MBD 来定义产品"
+    ],
+    "answer": "A",
+    "explanation": "依据22.2.2 数字化研发设计，数字化设计手段的功能不包括完全取代人工设计。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0146",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "基于MBD 的全生命周期动态管理，涉及的系统不包括（ ）。",
+    "options": [
+      "A. PL",
+      "B. B.CAD/CAE/CAM",
+      "C. CAPP",
+      "D. CRM/SCM"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.2 数字化研发设计，基于MBD 的动态管理涉及的系统包括 CAD/CAE/CAM、CAPP、ERP、SCM、CRM 等，不包括PLC。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0147",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造的核心是智能化生产，以下不属于智能化生产所依赖的信息系统的是 ( ) 。",
+    "options": [
+      "A. 客户关系管理系统（CRM）",
+      "B. 制造执行系统（MES）",
+      "C. 高级排产系统（APS）",
+      "D. 过程监控系统"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.3 生产过程智能化，智能化生产通过制造执行、高级排产、过程监控 等信息系统实现相关管理智能化，CRM 不属于此类系统。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0148",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业建立高级计划与排产系统（APS）的目的不包括（ ）。",
+    "options": [
+      "A. 实现刚性生产",
+      "B. 及时准确掌握生产信息",
+      "C. 应用多种算法提高生产排程效率",
+      "D. 全面适应多品种、小批量的业务发展需求"
+    ],
+    "answer": "A",
+    "explanation": "依据22.2.3 生产过程智能化，建立APS 是为了实现柔性生产，而非刚性生产。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0149",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业通过生产任务基于生产计划自动生成并传送至MES 生产现场终端等操作，不 能实现的功能是（ ）。",
+    "options": [
+      "A. 自动采集质量检测设备参数",
+      "B. 系统自动接收生产工单",
+      "C. 自动下发图纸、工艺标准等技术文件",
+      "D. 按照工序或工步自动下发工艺文件"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.3 生产过程智能化，生产任务自动生成及传送相关操作实现的功能不 包括自动采集质量检测设备参数。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0150",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业建立数据采集与控制系统，融合的识别技术不包括（ ）。",
+    "options": [
+      "A. 指纹识别",
+      "B. 条形码",
+      "C. 二维码",
+      "D. 无线射频识别（RFID）卡"
+    ],
+    "answer": "A",
+    "explanation": "依据22.2.3 生产过程智能化，融合条形码、二维码或无线射频识别（RFID）卡 等识别技术，不包括指纹识别。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0151",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "生产管理透明化通过可视化系统实时呈现的生产数据不包括（ ）。",
+    "options": [
+      "A. 员工个人隐私信息",
+      "B. 生产状况（如生产数、生产效率等）",
+      "C. 品质状况（如生产数中的不良数、不良率等）",
+      "D. 设备状况"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.3 生产过程智能化，可视化系统呈现的生产数据包括生产、品质、设 备状况等，不包括员工个人隐私信息。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0152",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "设备数字化和智能化管理不包括（ ）。",
+    "options": [
+      "A. 设备操作人员管理",
+      "B. 设备数字化维保",
+      "C. 设备联网数据采集",
+      "D. 设备预测性维护"
+    ],
+    "answer": "A",
+    "explanation": "依据22.2.4 设备管理智能化，设备数字化和智能化管理包括设备数字化维保、 联网数据采集、监控与故障分析、综合效率管理、预测性维护等，不包括设备操作人员 管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0153",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "设备维护保养的关键是（ ）。",
+    "options": [
+      "A. 设备管理信息化系统",
+      "B. 设备台账赋予的设备码",
+      "C. 定期的设备检修",
+      "D. 专业的维护人员"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.4 设备管理智能化，设备管理信息化系统是开展设备管理的基础支撑， 是设备维护保养的关键。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0154",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "设备监控与故障分析监测的运行参数不包括（ ）。",
+    "options": [
+      "A. 设备颜色",
+      "B. 设备温度",
+      "C. 设备转速",
+      "D. 设备电压"
+    ],
+    "answer": "A",
+    "explanation": "依据22.2.4 设备管理智能化，监测的运行参数包括设备温度、速度、转速、电 压、电流等，不包括设备颜色。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0155",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "设备综合效率（OEE）的组成要素不包括（ ）。",
+    "options": [
+      "A. 设备美观度",
+      "B. 时间稼动率",
+      "C. 性能效率",
+      "D. 合格率"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.4 设备管理智能化，OEE 由时间稼动率、性能效率以及合格率组成， 不包括设备美观度。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0156",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "实施设备预防性维护的目的不是（ ）。",
+    "options": [
+      "A. 增加设备维修成本",
+      "B. 形成故障原因分析与维保方案知识积累",
+      "C. 提供预防性维护方案",
+      "D. 降低设备故障发生概率"
+    ],
+    "answer": "A",
+    "explanation": "依据22.2.4 设备管理智能化，实施设备预防性维护是为了形成知识积累、提供 维护方案、降低故障概率等，并非增加设备维修成本。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0157",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能物流的应用不包括（ ）。",
+    "options": [
+      "A. 产品设计优化",
+      "B. 出入库管理",
+      "C. 快速拣货和及时配送",
+      "D. 仓储和配送优化"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.5 智能物流与仓储配送，智能物流在制造业中的应用包括出入库管理、 库位管理、快速拣货和及时配送、仓储和配送优化等，不包括产品设计优化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0158",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业在原材料和成品的出入库管理中，使用移动端PDA 设备扫码后，物料信息自 动上传到（ ）。",
+    "options": [
+      "A. WMS（仓储管理系统）",
+      "B. MES（制造执行系统）",
+      "C. ERP（企业资源管理计划）",
+      "D. CRM（客户关系管理）"
+    ],
+    "answer": "A",
+    "explanation": "依据22.2.5 智能物流与仓储配送，在出入库管理时，物料信息自动采集上传到 WMS。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0159",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业构建WMS 进行库位管理，其策略配置不能实现的功能是（ ）。",
+    "options": [
+      "A. 优化产品生产工艺",
+      "B. 对仓储进行合规管理",
+      "C. 基于物品使用特点优化库位分配",
+      "D. 盘点库位资源"
+    ],
+    "answer": "A",
+    "explanation": "WMS（仓库管理系统）主要用于库位管理、仓储作业优化等，但不涉及产品生产 工艺的优化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0160",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业实现关键部件及时配送，AGV 小车控制系统需与相关系统集成，但不包括（ ）。",
+    "options": [
+      "A. QMS（质量管理系统）",
+      "B. WMS（仓储管理系统）",
+      "C. 生产执行系统",
+      "D. MES（制造执行系统）"
+    ],
+    "answer": "A",
+    "explanation": "依据22.2.5 智能物流与仓储配送，AGV 小车控制系统与WMS、生产执行系统（如 MES ）集成，未提及与QMS 集成。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0161",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "以下不属于数字化仓储设备的是（ ）。",
+    "options": [
+      "A. 普通货架",
+      "B. AGV 运输车",
+      "C. RGV 轨道运输系统",
+      "D. 智能立体仓库"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.5 智能物流与仓储配送，数字化仓储设备包括AGV 运输车、RGV 轨 道运输系统、智能立体仓库等，普通货架不属于数字化仓储设备。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0162",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智慧安全管理重点关注的内容不包括（ ）。",
+    "options": [
+      "A. 安全培训",
+      "B. 安全监测",
+      "C. 安全预测",
+      "D. 安全闭环管理"
+    ],
+    "answer": "A",
+    "explanation": "依据22.2.6 智慧安全管理，智慧安全管理重点关注安全监测、安全预测和安全 闭环管理，未将安全培训作为重点关注内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0163",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "基于企业风险识别等机制，对生产制造过程中风险较高区域及设备实时采集关键指 标并设定报警阈值，这属于（ ）。",
+    "options": [
+      "A. 安全监测",
+      "B. 安全预测",
+      "C. 安全闭环管理",
+      "D. 安全培训"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.6 智慧安全管理，对安全监测的描述为基于相关机制要求，采集关键 指标、设定阈值并联动通知机制。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0164",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "开发不同场景的监控和安全分析模型，实现风险源的动态识别等功能，属于（ ）。",
+    "options": [
+      "A. 安全监测",
+      "B. 安全预测",
+      "C. 安全闭环管理",
+      "D. 安全培训"
+    ],
+    "answer": "B",
+    "explanation": "依据22.2.6 智慧安全管理，开发模型进行风险识别和预测属于安全预测的内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0165",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "建立典型风险管理和应急管理知识库，构建一体化安全生产管理平台，属于（ ）。",
+    "options": [
+      "A. 安全监测",
+      "B. 安全预测",
+      "C. 安全闭环管理",
+      "D. 安全培训"
+    ],
+    "answer": "C",
+    "explanation": "参考22.2.6 智慧安全管理，建立知识库、构建平台实现数据整合和共享属于安 全闭环管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0166",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业实现智慧环保管理需要经历的阶段不包括（ ）。",
+    "options": [
+      "A. 环保设备更新换代",
+      "B. 环保管理信息化",
+      "C. 环保排放预警与预测",
+      "D. 模型驱动排放优化"
+    ],
+    "answer": "A",
+    "explanation": "依据22.2.7 智慧环保管理，实现智慧环保管理需要经历环保管理信息化、环保 排放预警与预测、模型驱动排放优化三个阶段，不包括环保设备更新换代。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0167",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "基于环保管理机制实现从清洁生产到末端治理的全过程环保数据采集，属于（ ）。",
+    "options": [
+      "A. 环保管理信息化",
+      "B. 环保排放预警与预测",
+      "C. 模型驱动排放优化",
+      "D. 环保设备更新"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.7 智慧环保管理，对环保管理信息化的描述为基于相关机制实现全过 程环保数据采集。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0168",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "基于企业设备运行排放量等设定预警阈值，实时监控排放参数并跟踪预警处理情况， 属于（ ）。",
+    "options": [
+      "A. 环保管理信息化",
+      "B. 环保排放预警与预测",
+      "C. 模型驱动排放优化",
+      "D. 环保设备升级"
+    ],
+    "answer": "B",
+    "explanation": "依据22.2.7 智慧环保管理，设定阈值、监控参数实现排放预警属于环保排放预 警与预测。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0169",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "基于环保、生产、设备等全面实时监控的数据，建立设备排放预警模型并自动生成 治理方案，属于（ ）。",
+    "options": [
+      "A. 环保管理信息化",
+      "B. 环保排放预警与预测",
+      "C. 模型驱动排放优化",
+      "D. 环保设备改造"
+    ],
+    "answer": "C",
+    "explanation": "参考22.2.7 智慧环保管理，建立模型生成治理方案属于模型驱动排放优化。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0170",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智慧能源管理的实践路径不包括（ ）。",
+    "options": [
+      "A. 高能耗设备淘汰",
+      "B. 能源数据自动采集和分析",
+      "C. 能源指标精细化管理",
+      "D. 基于能效评估的节能改造"
+    ],
+    "answer": "A",
+    "explanation": "依据22.2.8 智慧能源管理，智慧能源管理实践路径包括能源数据自动采集和 分析、能源指标精细化管理、高能耗设备智能联控、基于能效评估的节能改造，不包括 高能耗设备淘汰。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0171",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "通过加装智能电表等仪表并利用通信模块上传能源数据，属于（ ）。",
+    "options": [
+      "A. 能源数据自动采集和分析",
+      "B. 能源指标精细化管理",
+      "C. 高能耗设备智能联控",
+      "D. 基于能效评估的节能改造"
+    ],
+    "answer": "A",
+    "explanation": "参考22.2.8 智慧能源管理，对能源数据自动采集和分析的描述为加装仪表上传 数据实现自动采集和实时上传。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0172",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "建立科学的能源计量指标体系，实现企业能耗精细化管理，属于（ ）。",
+    "options": [
+      "A. 能源数据自动采集和分析",
+      "B. 能源指标精细化管理",
+      "C. 高能耗设备智能联控",
+      "D. 基于能效评估的节能改造"
+    ],
+    "answer": "B",
+    "explanation": "依据22.2.8 智慧能源管理，建立能源计量指标体系实现能耗精细化管理属于能 源指标精细化管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0173",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "通过高能耗设备的智能化联控系统动态调整设备运行状态，属于（ ）。",
+    "options": [
+      "A. 能源数据自动采集和分析",
+      "B. 能源指标精细化管理",
+      "C. 高能耗设备智能联控",
+      "D. 基于能效评估的节能改造"
+    ],
+    "answer": "C",
+    "explanation": "参考22.2.8 智慧能源管理，通过联控系统调整设备运行状态属于高能耗设备智 能联控。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0174",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "通过能耗数据积累和分析对高耗能设备进行节能改造，属于（ ）。",
+    "options": [
+      "A. 能源数据自动采集和分析",
+      "B. 能源指标精细化管理",
+      "C. 高能耗设备智能联控",
+      "D. 基于能效评估的节能改造"
+    ],
+    "answer": "D",
+    "explanation": "依据22.2.8 智慧能源管理，根据能耗数据对高耗能设备进行节能改造属于基于 能效评估的节能改造。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0175",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在工业和信息化部支持下，中国电子技术标准化研究院牵头制定的GB/T 39116— 2020 是（ ）。",
+    "options": [
+      "A. 《智能制造能力成熟度评估方法》",
+      "B. 《智能制造能力成熟度模型》",
+      "C. 《智能制造系统架构规范》",
+      "D. 《智能制造信息安全标准》"
+    ],
+    "answer": "B",
+    "explanation": "GB/T 39116—2020 是中国电子技术标准化研究院制定的关于智能制造能力成熟度 的模型标准。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0176",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 定义的企业开展智能制造能力建设需要关注的能力要素中，人员能力要素包 括( ) 。",
+    "options": [
+      "A. 组织战略和人员技能",
+      "B. 数据和集成",
+      "C. 装备和网络",
+      "D. 设计和生产"
+    ],
+    "answer": "A",
+    "explanation": "依据22.3.1 CMMM 概览，人员能力要素包括组织战略和人员技能两个能力（子） 域。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0177",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 规定的智能制造成熟度一级（规划级）企业应（ ）。",
+    "options": [
+      "A. 对核心业务进行流程化管理",
+      "B. 实现单一业务的数据共享",
+      "C. 实现跨业务间的数据共享",
+      "D. 实现对核心业务的精准预测和优化"
+    ],
+    "answer": "A",
+    "explanation": "参考22.3.1 CMMM 概览，一级（规划级）企业应开始对实施智能制造的基础和条 件进行规划，能够对核心业务进行流程化管理。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0178",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 主要解决的问题不包括（ ）。",
+    "options": [
+      "A. 为服务商提供技术研发方向",
+      "B. 帮助制造企业了解自身现状，明确发展目标",
+      "C. 协助政府主管部门选择标杆示范企业",
+      "D. 对项目建设效果进行评价"
+    ],
+    "answer": "A",
+    "explanation": "依据22.3.1 CMMM 概览，CMMM 主要解决的问题包括帮助企业了解现状、政府选 标杆企业、评价项目建设效果等，未提及为服务商提供技术研发方向。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0179",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "关于企业智能制造整体能力建设，说法错误的是（ ）。",
+    "options": [
+      "A. 企业智能化建设可以一步到位，快速变革",
+      "B. 企业智能化建设应注重多方位能力均衡发展",
+      "C. 同一业务在发展等级之间具有关联性，建设重点有先后顺序",
+      "D. 对同一业务的智能化应用能力应不断增强"
+    ],
+    "answer": "A",
+    "explanation": "依据22.3.2 CMMM 应用，企业智能化建设不要想着一步到位、变革过猛，所以A 选项说法错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0180",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在智能制造整体能力建设的阶段性建设中，企业判断自身能力及后续提升方向依据 是( ) 。",
+    "options": [
+      "A. 各级条款要求",
+      "B. 企业领导决策",
+      "C. 员工技能水平",
+      "D. 行业平均水平"
+    ],
+    "answer": "A",
+    "explanation": "参考22.3.2 CMMM 应用，企业可通过各级条款要求判断所达到的能力（当前等级） 以及后续提升的方向（下一等级）。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0181",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在智能制造整体能力建设的有序性建设方面，CMMM 中“生产作业”质量检验业务 “三级c ”条款要求（ ）。",
+    "options": [
+      "A. 关键工序采用数字化质量检测设备",
+      "B. 质量检测设备集成于产线中，实现“在线检测”，并与信息系统检验指标比对实现 “ 自动判读”，收集质量信息，总结“质量问题知识库”",
+      "C. 质量预测基于三级的“在线检测”，并通过一段时间知识库数据积累，通过监控检 验指标的实时趋势进行潜在超差分析预测",
+      "D. 仅要求收集关键生产过程数据，通过信息系统有效管控"
+    ],
+    "answer": "B",
+    "explanation": "依据22.3.2 CMMM 应用，“三级c ”条款要求质量检测设备集成于产线中，实 现“在线检测”，并与信息系统检验指标比对实现“ 自动判读”，收集质量信息， 总结 “质量问题知识库”。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0182",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在智能制造整体能力建设的纵深性建设方面，“生产作业”能力的生产现场管控 “ 四级b ”条款要求（ ）。",
+    "options": [
+      "A. 收集关键生产过程数据，通过信息系统有效管控",
+      "B. 增强数据采集实时性并能够对数据异常进行监控",
+      "C. 通过构建分析模型，基于采集的实时生产数据动态优化生产过程，以敏捷响应生产过 程中存在的异常情况，保证生产活动时刻处于最佳状态",
+      "D. 根据生产作业计划自动将工艺文件下发到生产单元"
+    ],
+    "answer": "C",
+    "explanation": "参考22.3.2 CMMM 应用，“ 四级b ”条款要求通过构建分析模型，基于采集的 实时生产数据动态优化生产过程，以敏捷响应生产过程中存在的异常情况，保证生产活 动时刻处于最佳状态。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0183",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "很多企业构建的自动化流水线面临淘汰，原因是（ ）。",
+    "options": [
+      "A. 产线柔性不足，仅适合单一型号产品制造",
+      "B. 自动化程度不够高",
+      "C. 缺乏专业操作人员",
+      "D. 设备老化过快"
+    ],
+    "answer": "A",
+    "explanation": "依据22.3.2 CMMM 应用，这些产线由于缺少柔性化适配，刚性有余、柔性不足， 仅适合几种单一型号的产品制造，几年后产品过时，产线面临淘汰。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0184",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "CMMM 四级、五级条款要求企业在“采购”四级能力中，基于（ ）建立采购模型， 实时监控采购风险并及时预警。",
+    "options": [
+      "A. 采购执行、生产消耗和库存等数据",
+      "B. 供应商供货历史表现数据",
+      "C. 市场价格波动数据",
+      "D. 企业采购预算数据"
+    ],
+    "answer": "A",
+    "explanation": "参考22.3.2 CMMM 应用，在“采购”四级能力，要求基于采购执行、生产消耗和 库存等数据建立采购模型，实时监控采购风险并及时预警。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0185",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造规划的需求驱动原则强调（ ）。",
+    "options": [
+      "A. 整体规划要针对企业实际需要的生产、管理、经营需求制定",
+      "B. 规划要从企业生产及其管理各方面实际出发，提高投入产出效果",
+      "C. 总体规划要正确且可行，与企业内外部环境匹配",
+      "D. 规划要从企业战略目标出发，确保具备高层次、全局性分析"
+    ],
+    "answer": "A",
+    "explanation": "参考22.4.1 规划原则，需求驱动原则是指整体规划是针对企业实际需要的生产、 管理、经营需求而制定的。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0186",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "有效性原则中的正确性要求总体规划（ ）。",
+    "options": [
+      "A. 适合企业的实际需要，做到与企业转型战略匹配",
+      "B. 充分利用各种资源，与企业内外部环境匹配",
+      "C. 能够回答企业生产变革的相关问题",
+      "D. 具备高层次、全局性的分析"
+    ],
+    "answer": "B",
+    "explanation": "参考22.4.1 规划原则，有效性原则的正确性要求总体规划充分利用各种资源， 与企业内外部环境匹配。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0187",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造规划与过往企业信息化规划存在较大差异，原因不包括（ ）。",
+    "options": [
+      "A. 生产设备IT/IP 化后，其控制系统成为企业信息系统重要组成部分",
+      "B. 信息系统与企业经营管理和生产制造深度融合",
+      "C. 智能制造规划知识涉及面广、个性化强",
+      "D. 智能制造规划只关注技术创新，不涉及业务流程优化"
+    ],
+    "answer": "D",
+    "explanation": "参考22.4.2 规划活动要点，智能制造规划与过往信息化规划差异的原因包括 生产设备IT/IP 化、信息系统深度融合、知识涉及面广等，智能制造规划也涉及业务 流程优化，D 选项说法错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0188",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "通常企业升级发展的突破点可以是（ ）。",
+    "options": [
+      "A. 技术、管理和模式",
+      "B. 资金、人才和市场",
+      "C. 设备、工艺和产品",
+      "D. 质量、效率和成本"
+    ],
+    "answer": "A",
+    "explanation": "参考22.4.2 规划活动要点，通常来说，企业升级发展的突破点可以是技术、管 理和模式。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0189",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "技术突破驱动的变革中，属于技术突破的是（ ）。",
+    "options": [
+      "A. 产品技术突破",
+      "B. 管理方法突破",
+      "C. 业务流程变革",
+      "D. 柔性生产新模式"
+    ],
+    "answer": "A",
+    "explanation": "依据22.4.2 规划活动要点，技术突破驱动的变革包括产品技术突破、工艺技 术 突破、IT 技术突破等，管理方法突破和业务流程变革属于管理突破，柔性生产新模式 属于模式突破。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0190",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在进行企业智能制造规划时，突破点部分的能力规划应（ ）。",
+    "options": [
+      "A. 超越其他的能力子域（最多一个等级）",
+      "B. 与其他能力子域保持一致",
+      "C. 低于其他能力子域，先解决基础问题",
+      "D. 不受其他因素限制，随意规划"
+    ],
+    "answer": "A",
+    "explanation": "参考22.4.2 规划活动要点，在进行企业智能制造规划时，要让突破点部分的能 力规划超越其他的能力子域（最多一个等级）。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0191",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "人才保障相关规划不涉及以下哪方面（ ）。",
+    "options": [
+      "A. 产品研发团队",
+      "B. 统筹智能制造的团队",
+      "C. 智能制造专业技术人员",
+      "D. 培训体系构建"
+    ],
+    "answer": "A",
+    "explanation": "依据22.4.2 规划活动要点，人才保障相关规划涉及统筹团队、专业技术人员、 培训体系构建、知识体系建设和业务人员数字素养，不涉及产品研发团队。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0192",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "统筹智能制造的团队需要确保相关人员技能覆盖的领域不包括（ ）。",
+    "options": [
+      "A. 市场营销",
+      "B. IT 基础",
+      "C. 数据分析",
+      "D. 设备维护"
+    ],
+    "answer": "A",
+    "explanation": "参考22.4.2 规划活动要点，智能制造专业技术人员涉及IT 基础、数据分析、 设备维护等领域，未提及市场营销。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0193",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造专业技术人员获取能力供给的方式不包括（ ）。",
+    "options": [
+      "A. 从竞争对手处挖人",
+      "B. 企业内部人员技能覆盖或提升",
+      "C. 企业与第三方组织合作",
+      "D. 招聘应届毕业生（若相关专业技能符合）"
+    ],
+    "answer": "A",
+    "explanation": "依据22.4.2 规划活动要点，智能制造专业技术人员可以是企业内部人员技能覆 盖或提升，也可通过企业与第三方组织合作获取，未提及从竞争对手处挖人。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0194",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业培训体系建设中课程体系化是指（ ）。",
+    "options": [
+      "A. 企业需要有效布局各类培训课程、实训内容等，确保课程体系覆盖IT 技术、软件应 用、数字装备使用、现代化管理体系等",
+      "B. 结合企业的组织结构建设和职能分工，确保业务部门与人力资源部门面对培训组织工 作的一体化协同",
+      "C. 企业需要在培训实施过程中，既要重视知识内容的传播，更要重视人员软技能培育",
+      "D. 建立完善的培训考核机制，确保培训效果"
+    ],
+    "answer": "A",
+    "explanation": "参考22.4.2 规划活动要点，课程体系化是指企业需要有效布局各类培训课程、 实训内容等，确保课程体系覆盖IT 技术、软件应用、数字装备使用、现代化管理体系 等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0195",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "对工业企业来说，知识体系建设错误的做法是（ ）。",
+    "options": [
+      "A. 忽视经验类知识沉淀",
+      "B. 培育全员的自我知识管理能力",
+      "C. 建立适合自身的知识管理制度和方法",
+      "D. 保障全员能够积极贡献自身的经验"
+    ],
+    "answer": "A",
+    "explanation": "依据22.4.2 规划活动要点，工业企业要重视自身知识沉淀，特别是经验类知识 沉淀，A 选项忽视经验类知识沉淀做法错误。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0196",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "制造企业业务人员数字素养不包括（ ）。",
+    "options": [
+      "A. 产品设计能力",
+      "B. 面向问题的结构化思维",
+      "C. 信息数字技术的理解",
+      "D. 使用数据洞察、发现和解决问题的能力"
+    ],
+    "answer": "A",
+    "explanation": "参考22.4.2 规划活动要点，业务人员数字素养包括面向问题的结构化思维、信 息数字技术的理解、数据开发利用的技能以及使用数据洞察、发现和解决问题的能力等， 产品设计能力不属于数字素养。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0197",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造发展规划过程中，多元参与要求企业在实施智能制造规划时（ ）。",
+    "options": [
+      "A. 做好动员工作，确保相关团队的主要负责人和骨干人员充分参与",
+      "B. 只让高层管理人员参与规划",
+      "C. 禁止引入第三方力量参与",
+      "D. 不考虑基层员工的意见"
+    ],
+    "answer": "A",
+    "explanation": "依据22.4.3 规划管理要点，企业在实施智能制造规划时，要做好动员工作，确 保相关团队的主要负责人和骨干人员能够充分参与其中。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0198",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "当企业在智能制造规划中引入第三方力量时，需要（ ）。",
+    "options": [
+      "A. 重视外部知识、技能和经验的导入",
+      "B. 对第三方知识持怀疑态度",
+      "C. 完全依赖第三方进行规划",
+      "D. 拒绝第三方参与知识传递活动"
+    ],
+    "answer": "A",
+    "explanation": "参考22.4.3 规划管理要点，如果企业在实施智能制造规划活动中引入了第三方 力量，企业就需要重视外部知识、技能和经验的导入。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0199",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "企业实施智能制造建设进行目标控制时，总体目标应避免（ ）。",
+    "options": [
+      "A. 较为空洞的语言，如达到世界一流等",
+      "B. 5 年能够达到的状态，如满足CMMM 四级要求等",
+      "C. 明确的量化指标",
+      "D. 与企业实际情况相符的表述"
+    ],
+    "answer": "A",
+    "explanation": "依据22.4.3 规划管理要点，总体目标尽量避免使用较为空洞的语言，如达到世 界一流等。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0200",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "规划的分项目标设定方式是（ ）。",
+    "options": [
+      "A. “做一看一”",
+      "B. 一步到位，设定最高目标",
+      "C. 完全参考其他企业目标",
+      "D. 只关注短期利益"
+    ],
+    "answer": "A",
+    "explanation": "参考22.4.3 规划管理要点，分项目标可以采用“做一看一”的方式进行设定。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0201",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "目标控制中确保参与规划人员理解一致性，需要（ ）。",
+    "options": [
+      "A. 将总体目标控制进行充分宣贯，获得一致性认同",
+      "B. 各自制定目标",
+      "C. 按照自己的理解执行",
+      "D. 忽视总体目标"
+    ],
+    "answer": "A",
+    "explanation": "依据22.4.3 规划管理要点，要确保参与规划的所有人员都能理解企业下一步需 要达到整体状态，并获得一致性认同的情况，细化分项目标内容。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0202",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "借鉴最佳实践时，放大鉴小是指（ ）。",
+    "options": [
+      "A. 借鉴最佳实践最好是面向场景或局部的借鉴，整体或宏观方面的借鉴往往不能给企业 带来实效",
+      "B. 充分获取最佳实践的形成条件",
+      "C. 根据自身情况，在获取最佳实践原理或本质的基础上，基于自身情况进行创新后使用",
+      "D. 避免对最佳实践的“迷恋”，防止借鉴反噬自身发展"
+    ],
+    "answer": "A",
+    "explanation": "参考22.4.3 规划管理要点，放大鉴小是指借鉴最佳实践最好是面向场景或局部 的借鉴，整体或宏观方面的借鉴往往不能给企业带来实效。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0203",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造系统架构的三个维度不包括（ ）。",
+    "options": [
+      "A. 系统功能",
+      "B. 生命周期",
+      "C. 系统层级",
+      "D. 智能特征"
+    ],
+    "answer": "A",
+    "explanation": "参考22.5.1 总体架构，智能制造系统架构从生命周期、系统层级和智能特征三 个维度进行描述，不包括系统功能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0204",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造的生命周期中，销售是指（ ）。",
+    "options": [
+      "A. 产品或商品等从企业转移到客户手中的经营活动",
+      "B. 根据企业的所有约束条件以及所选择的技术对需求进行构造、仿真、验证、优化等研 发活动过程",
+      "C. 通过劳动创造所需要的物质资料的过程",
+      "D. 物品从供应地向接收地的实体流动过程"
+    ],
+    "answer": "A",
+    "explanation": "依据22.5.1 总体架构，对销售的定义为产品或商品等从企业转移到客户手中的 经营活动。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0205",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造系统层级中，用于工厂内处理信息、实现监测和控制物理流程的是（ ）。",
+    "options": [
+      "A. 单元层",
+      "B. 设备层",
+      "C. 车间层",
+      "D. 企业层"
+    ],
+    "answer": "A",
+    "explanation": "参考22.5.1 总体架构，单元层是用于工厂内处理信息、实现监测和控制物理流 程的层级。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0206",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "不同类型企业智能制造涉及的常见业务环节不包括（ ）。",
+    "options": [
+      "A. 员工培训",
+      "B. 采购",
+      "C. 交付",
+      "D. 销售"
+    ],
+    "answer": "A",
+    "explanation": "参考22.5.2 集成架构，大部分企业智能制造涉及销售、设计、采购、计划、生 产、交付等多个业务环节，不包括员工培训。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0207",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造系统集成架构中，以大数据、驾驶舱、数字孪生、人工智能等典型应用构 建数据驱动决策体系的是（ ）。",
+    "options": [
+      "A. 决策层",
+      "B. 业务层",
+      "C. 执行层",
+      "D. 传输层"
+    ],
+    "answer": "A",
+    "explanation": "参考22.5.2 集成架构，决策层以大数据、驾驶舱、数字孪生、人工智能等的典 型应用为代表，构建智能制造的数据驱动决策体系。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0208",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造建设的实施路径通常是（ ）。",
+    "options": [
+      "A. 信息化系统由缺到全，再由全到通，最后由通到智",
+      "B. 直接构建智能系统",
+      "C. 先建设智能设备，再完善信息系统",
+      "D. 先进行管理变革，再开展技术升级"
+    ],
+    "answer": "A",
+    "explanation": "参考22.5.3 实施路径，智能制造建设的信息化系统通常第一阶段由缺到全，第 二阶段由全到通，第三阶段由通到智，最终实现信息系统和基础建设的全面覆盖、全面 通畅和全面智能。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0209",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "智能制造是基于新一代信息通信技术与先进制造技术深度融合，贯穿于制造活动各 环节，具有多种功能的新型生产方式，其中不包括（ ）。",
+    "options": [
+      "A. 自修复",
+      "B. 自学习",
+      "C. 自决策",
+      "D. 自执行"
+    ],
+    "answer": "A",
+    "explanation": "参考文档第22 章开头部分，智能制造具有自感知、自学习、自决策、自执行、 自适应等功能，未提及自修复。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0210",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "结合大数据、云计算等新型技术手段对人、机、料等要素进行数据分析，属于（ ） 方面的融合创新。",
+    "options": [
+      "A. 多元信息技术",
+      "B. 智能装备",
+      "C. 信息化建设",
+      "D. 数据开发利用"
+    ],
+    "answer": "A",
+    "explanation": "依据22.1.3 信息数字技术突破发展，结合多种新型技术手段对相关要素进行数 据分析属于多元信息技术融合创新。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0211",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "部分企业对标成熟度模型三级以上能力要求时，发现条款不完全适用，原因是 ( ) 。",
+    "options": [
+      "A. 企业生产产品种类不多、工艺不复杂、个性化需求不高，对生产组织、业务协同与敏 捷响应无较高要求",
+      "B. 企业资金不足，无法满足高等级能力建设的投入",
+      "C. 企业技术水平有限，难以达到高等级能力要求",
+      "D. 企业人员素质不高，无法实施高等级能力建设"
+    ],
+    "answer": "A",
+    "explanation": "依据22.3.2 CMMM 应用，部分企业对标时发现条款不适用是因为生产产品种类不 多、工艺不复杂、个性化需求不高，对生产组织、业务协同与敏捷响应无较高要求。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  },
+  {
+    "id": "internal_qt_ch22_0212",
+    "chapter": "第22章",
+    "chapter_no": 22,
+    "chapter_title": "智能制造发展规划",
+    "question": "在确保企业“短板”部分能够得到补充的情况下，设定企业整体智能制造水平目 标时，通常把（ ）作为企业智能制造发展的短期目标。",
+    "options": [
+      "A. 企业“最长板”",
+      "B. 比“最长板”高一个等级",
+      "C. 达到行业平均水平",
+      "D. 实现全面智能化"
+    ],
+    "answer": "A",
+    "explanation": "参考22.4.2 规划活动要点，设定企业整体智能制造水平目标时，通常把企业“最 长板”作为企业智能制造发展的短期目标。",
+    "source": "2025新版系规千题闯关-解析版",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第22章",
+    "status": "candidate"
+  }
+]

@@ -1,0 +1,7 @@
+interface:
+  display_name: "系统规划与管理师学习助手"
+  short_description: "软考高级系统规划与管理师备考助手"
+  default_prompt: "Use $spm-study to help me practice system planning and management exam questions."
+
+policy:
+  allow_implicit_invocation: true

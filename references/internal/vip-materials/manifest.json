@@ -1,0 +1,83 @@
+{
+  "base_path": "F:\\备份项目\\vip材料",
+  "file_count": 5,
+  "total_size_bytes": 1289913132,
+  "extracted_count": 2,
+  "files": [
+    {
+      "title": "1一本通最新2025年版",
+      "path": "F:\\备份项目\\vip材料\\1【系规综合】一本通最新2025年版.pdf",
+      "relative_path": "1【系规综合】一本通最新2025年版.pdf",
+      "kind": "comprehensive",
+      "kind_label": "一本通",
+      "description": "2025 系规综合一本通，适合按需核对章节讲义和综合知识。",
+      "strategy": "index_only",
+      "suffix": ".pdf",
+      "size_bytes": 225920992,
+      "page_count": 303,
+      "text_chars": 346186,
+      "needs_ocr": false,
+      "markdown": null
+    },
+    {
+      "title": "2.1分章节练习题有答案版最新2025年版",
+      "path": "F:\\备份项目\\vip材料\\2.1【系规综合】分章节练习题有答案版最新2025年版.pdf",
+      "relative_path": "2.1【系规综合】分章节练习题有答案版最新2025年版.pdf",
+      "kind": "chapter-practice-answer",
+      "kind_label": "分章节练习题有答案版",
+      "description": "VIP 分章节练习题有答案版，适合做候选题源和解析核对。",
+      "strategy": "extract_selected",
+      "suffix": ".pdf",
+      "size_bytes": 396499904,
+      "page_count": 648,
+      "text_chars": 551561,
+      "needs_ocr": false,
+      "markdown": "references/internal/vip-materials/chapter-practice/2.1分章节练习题有答案版最新2025年版.md"
+    },
+    {
+      "title": "2.2分章节练习题无答案版最新2025年版",
+      "path": "F:\\备份项目\\vip材料\\2.2【系规综合】分章节练习题无答案版最新2025年版.pdf",
+      "relative_path": "2.2【系规综合】分章节练习题无答案版最新2025年版.pdf",
+      "kind": "chapter-practice-blank",
+      "kind_label": "分章节练习题无答案版",
+      "description": "VIP 分章节练习题无答案版，适合人工打印/自测；结构化优先使用有答案版。",
+      "strategy": "index_only",
+      "suffix": ".pdf",
+      "size_bytes": 148423137,
+      "page_count": 299,
+      "text_chars": 247191,
+      "needs_ocr": false,
+      "markdown": null
+    },
+    {
+      "title": "3理论必背知识点最新2025年版",
+      "path": "F:\\备份项目\\vip材料\\3【系规案例论文】理论必背知识点最新2025年版【良心整理‖免费获取：cunlove.cn】.pdf",
+      "relative_path": "3【系规案例论文】理论必背知识点最新2025年版【良心整理‖免费获取：cunlove.cn】.pdf",
+      "kind": "theory-core",
+      "kind_label": "案例论文理论必背",
+      "description": "案例和论文共用的理论必背知识点，适合补充主观题答题素材。",
+      "strategy": "extract_selected",
+      "suffix": ".pdf",
+      "size_bytes": 22203116,
+      "page_count": 34,
+      "text_chars": 31516,
+      "needs_ocr": false,
+      "markdown": "references/internal/vip-materials/theory-core/3理论必背知识点最新2025年版.md"
+    },
+    {
+      "title": "《系统规划与管理师教程》第2版-三色笔记-汇总版",
+      "path": "F:\\备份项目\\vip材料\\《系统规划与管理师教程》第2版-三色笔记-汇总版.pdf",
+      "relative_path": "《系统规划与管理师教程》第2版-三色笔记-汇总版.pdf",
+      "kind": "notes-summary",
+      "kind_label": "三色笔记汇总版",
+      "description": "三色笔记汇总 PDF；当前已有 1-24 章三色笔记，汇总版默认仅索引避免重复。",
+      "strategy": "index_only",
+      "suffix": ".pdf",
+      "size_bytes": 496865983,
+      "page_count": 774,
+      "text_chars": 852257,
+      "needs_ocr": false,
+      "markdown": null
+    }
+  ]
+}

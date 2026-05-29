@@ -1,0 +1,57 @@
+{
+  "total": 7248,
+  "by_chapter": {
+    "1": 265,
+    "2": 236,
+    "3": 235,
+    "4": 403,
+    "5": 428,
+    "6": 265,
+    "7": 239,
+    "8": 407,
+    "9": 419,
+    "10": 358,
+    "11": 377,
+    "12": 347,
+    "13": 518,
+    "14": 314,
+    "15": 299,
+    "16": 310,
+    "17": 339,
+    "18": 259,
+    "19": 220,
+    "20": 301,
+    "21": 155,
+    "22": 212,
+    "23": 220,
+    "24": 122
+  },
+  "answer_distribution": {
+    "A": 3070,
+    "B": 2461,
+    "C": 1349,
+    "D": 368
+  },
+  "issue_counts": {
+    "duplicate_question_text": 73,
+    "short_explanation": 2
+  },
+  "issue_samples": {
+    "duplicate_question_text": [
+      "internal_qt_ch02_0120",
+      "internal_qt_ch04_0242",
+      "internal_qt_ch04_0252",
+      "internal_qt_ch04_0392",
+      "internal_qt_ch06_0259",
+      "internal_qt_ch08_0132",
+      "internal_qt_ch08_0136",
+      "internal_qt_ch08_0138",
+      "internal_qt_ch09_0164",
+      "internal_qt_ch09_0331"
+    ],
+    "short_explanation": [
+      "internal_qt_ch16_0215",
+      "internal_qt_ch17_0273"
+    ]
+  }
+}

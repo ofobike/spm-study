@@ -1,0 +1,1696 @@
+[
+  {
+    "id": "ch10_q001",
+    "question": "云原生的概念最早出现于哪一年？",
+    "options": [
+      "A. 2008年",
+      "B. 2010年",
+      "C. 2013年",
+      "D. 2015年"
+    ],
+    "answer": "B",
+    "explanation": "云原生的概念最早出现于2010年，在Paul Fremantle的一篇博客中被提及。2013年Matt Stine在推特上迅速推广云原生概念，2015年CNCF基金会成立。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概念",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#概念",
+    "tags": [
+      "云原生",
+      "概念"
+    ]
+  },
+  {
+    "id": "ch10_q002",
+    "question": "2017年Pivotal在其官网上将云原生的定义概括为四大特征，以下哪项不属于这四大特征？",
+    "options": [
+      "A. DevOps",
+      "B. 持续交付",
+      "C. 服务网格",
+      "D. 容器"
+    ],
+    "answer": "C",
+    "explanation": "2017年Pivotal将云原生的定义概括为DevOps、持续交付、微服务、容器四大特征。服务网格（Service Mesh）是2018年才加入CNCF云原生定义的。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景",
+      "容器",
+      "微服务",
+      "DevOps"
+    ]
+  },
+  {
+    "id": "ch10_q003",
+    "question": "云原生架构的设计原则中，以下哪项原则的核心思想是默认情况下不应该信任网络内部和外部的任何人/设备/系统？",
+    "options": [
+      "A. 弹性原则",
+      "B. 韧性原则",
+      "C. 零信任原则",
+      "D. 可观测原则"
+    ],
+    "answer": "C",
+    "explanation": "零信任安全针对传统边界安全架构思想进行了重新评估和审视，其核心思想是默认情况下不应该信任网络内部和外部的任何人/设备/系统，需要基于认证和授权重构访问控制的信任基础。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "设计原则",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#设计原则",
+    "tags": [
+      "云原生",
+      "设计原则"
+    ]
+  },
+  {
+    "id": "ch10_q004",
+    "question": "关于Serverless模式，以下哪类应用不适合使用Serverless？",
+    "options": [
+      "A. 事件驱动的数据计算任务",
+      "B. 计算时间短的请求/响应应用",
+      "C. 长时间后台运行的密集型计算任务",
+      "D. 没有复杂相互调用的长周期任务"
+    ],
+    "answer": "C",
+    "explanation": "Serverless不适合长时间后台运行的密集型计算任务，因为无法发挥Serverless的优势。同样，有状态的应用和涉及频繁外部I/O的应用也不适合。Serverless非常适合事件驱动的数据计算任务、计算时间短的请求/响应应用等。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "Serverless",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "Serverless",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q005",
+    "question": "可观测架构包括Logging、Tracing和Metrics三个方面，其中Tracing的主要作用是什么？",
+    "options": [
+      "A. 提供多个级别的详细信息跟踪",
+      "B. 提供一个请求从前端到后端的完整调用链路跟踪",
+      "C. 提供对系统量化的多维度度量",
+      "D. 提供系统日志的实时监控"
+    ],
+    "answer": "B",
+    "explanation": "Logging提供多个级别的详细信息跟踪；Tracing提供一个请求从前端到后端的完整调用链路跟踪，对于分布式场景尤其有用；Metrics提供对系统量化的多维度度量。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "可观测架构",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "可观测架构",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q006",
+    "question": "云原生架构规划实施路线图定义为几个步骤？",
+    "options": [
+      "A. 3个",
+      "B. 4个",
+      "C. 5个",
+      "D. 6个"
+    ],
+    "answer": "C",
+    "explanation": "根据云原生架构体系中技术之间的关系和实际经验，基于\"顶层规划+分步实施\"的原则，将云原生架构规划实施路线图定义为5个步骤：微服务采用及运行环境容器云平台构建、服务管理和治理、持续交付及安全、自服务敏捷响应基础设施、增强生产环境韧性和安全性。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景",
+      "容器",
+      "微服务"
+    ]
+  },
+  {
+    "id": "ch10_q007",
+    "question": "在分布式事务模式中，以下哪种模式完全由应用层来控制事务，但对业务的侵入性非常强？",
+    "options": [
+      "A. XA模式",
+      "B. 基于消息的最终一致性",
+      "C. TCC模式",
+      "D. SEATA的AT模式"
+    ],
+    "answer": "C",
+    "explanation": "TCC（Try-Confirm-Cancel）模式完全由应用层来控制事务，事务隔离性可控，也可以做到比较高效，但是对业务的侵入性非常强，设计、开发、维护等成本很高。XA模式性能差但一致性强，SEATA的AT模式无代码开发工作量。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生发展背景",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "在分布式事务模式中",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q008",
+    "question": "关于云原生技术与边缘计算的结合，以下哪个是国内典型的边缘计算落地项目？",
+    "options": [
+      "A. 国家电网智能调度系统",
+      "B. 全国高速公路取消省界收费站项目",
+      "C. 阿里云城市大脑项目",
+      "D. 华为5G网络切片项目"
+    ],
+    "answer": "B",
+    "explanation": "目前国内典型的边缘计算落地项目——国家路网中心的全国高速公路取消省界收费站项目，使用了基于云原生技术的边缘计算解决方案，解决了10多万异构设备管理、30多万边缘应用管理的难题。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q009",
+    "question": "CNCF对云原生的定义中，以下哪项技术是2018年新加入的？",
+    "options": [
+      "A. 容器",
+      "B. 微服务",
+      "C. 服务网格",
+      "D. DevOps"
+    ],
+    "answer": "C",
+    "explanation": "2018年CNCF更新了云原生的定义，新加入了服务网格（Service Mesh）、声明式API等技术。容器、微服务、DevOps等是较早纳入云原生定义的技术。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景",
+      "容器",
+      "微服务",
+      "DevOps"
+    ]
+  },
+  {
+    "id": "ch10_q010",
+    "question": "12要素应用方法论中，第一要素\"一份基准代码，多份部署\"的核心含义是什么？",
+    "options": [
+      "A. 每个环境使用不同的代码库",
+      "B. 代码库与应用保持一对一关系",
+      "C. 多个应用共享同一份代码",
+      "D. 代码库与部署环境完全隔离"
+    ],
+    "answer": "B",
+    "explanation": "12要素的第一要素要求代码库与应用保持一对一关系。虽然一份代码可以部署到多个环境（开发、测试、生产等），但每个应用只能有一份代码库，多份部署共享同一份基准代码。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "要素应用方法论中",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "要素应用方法论中",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q011",
+    "question": "以下关于微服务架构的描述，不正确的是？",
+    "options": [
+      "A. 微服务将应用拆分为多个小型服务",
+      "B. 每个微服务可以独立部署和扩展",
+      "C. 微服务之间必须使用相同的技术栈",
+      "D. 每个微服务通常围绕业务能力构建"
+    ],
+    "answer": "C",
+    "explanation": "微服务架构的一个重要特点是技术多样性，每个微服务可以根据自身需求选择最适合的技术栈，不必与其他服务保持一致。微服务将应用拆分为小型、独立的服务，每个服务围绕业务能力构建。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "云原生发展背景",
+    "knowledge_point": "微服务",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "微服务",
+      "云原生发展背景",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch10_q012",
+    "question": "容器技术与虚拟机的主要区别是什么？",
+    "options": [
+      "A. 容器需要完整的操作系统，虚拟机不需要",
+      "B. 容器直接运行在宿主机操作系统上，共享内核",
+      "C. 虚拟机的启动速度比容器快",
+      "D. 容器的隔离性比虚拟机更强"
+    ],
+    "answer": "B",
+    "explanation": "容器直接运行在宿主机操作系统上，共享宿主机内核，不需要像虚拟机那样运行完整的操作系统。这使得容器更加轻量级、启动更快、资源占用更少，但隔离性相对虚拟机较弱。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生发展背景",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "容器",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q013",
+    "question": "Docker容器的核心组件不包括以下哪项？",
+    "options": [
+      "A. Docker Engine",
+      "B. Docker Hub",
+      "C. Docker Compose",
+      "D. Docker Kernel"
+    ],
+    "answer": "D",
+    "explanation": "Docker没有Docker Kernel这个组件。Docker的核心组件包括Docker Engine（容器运行时）、Docker Hub（镜像仓库）、Docker Compose（多容器编排工具）、Dockerfile（镜像构建文件）等。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "云原生发展背景",
+    "knowledge_point": "Docker",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "Docker",
+      "云原生发展背景",
+      "容器"
+    ]
+  },
+  {
+    "id": "ch10_q014",
+    "question": "Kubernetes中，以下哪个概念代表最小的可部署单元？",
+    "options": [
+      "A. Service",
+      "B. Pod",
+      "C. Node",
+      "D. Namespace"
+    ],
+    "answer": "B",
+    "explanation": "Pod是Kubernetes中最小的可部署单元，一个Pod可以包含一个或多个容器。Service用于提供网络服务，Node是集群中的工作节点，Namespace用于资源隔离。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "概念",
+    "knowledge_point": "Kubernetes",
+    "source_ref": "references/第10章_云原生系统规划.md#概念",
+    "tags": [
+      "Kubernetes",
+      "概念",
+      "容器"
+    ]
+  },
+  {
+    "id": "ch10_q015",
+    "question": "服务网格（Service Mesh）的核心组件是什么？",
+    "options": [
+      "A. 控制平面和数据平面",
+      "B. 服务注册和服务发现",
+      "C. 负载均衡和熔断器",
+      "D. API网关和配置中心"
+    ],
+    "answer": "A",
+    "explanation": "服务网格的核心组件是控制平面（Control Plane）和数据平面（Data Plane）。控制平面负责策略配置和管理，数据平面由部署在每个服务实例旁的代理（Sidecar）组成，负责服务间通信。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "Service Mesh",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "Service Mesh",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q016",
+    "question": "Serverless架构中，FaaS代表什么？",
+    "options": [
+      "A. Function as a Service（函数即服务）",
+      "B. Framework as a Service（框架即服务）",
+      "C. File as a Service（文件即服务）",
+      "D. Firewall as a Service（防火墙即服务）"
+    ],
+    "answer": "A",
+    "explanation": "FaaS是Function as a Service的缩写，即函数即服务。FaaS是Serverless架构的核心组件，允许开发者编写函数代码，由平台负责运行环境的管理和自动扩缩容。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "Serverless",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "Serverless",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q017",
+    "question": "以下关于DevOps的描述，不正确的是？",
+    "options": [
+      "A. DevOps强调开发和运维的协作",
+      "B. DevOps的目标是缩短软件交付周期",
+      "C. DevOps只是一种工具集，不涉及文化变革",
+      "D. DevOps支持持续集成和持续交付"
+    ],
+    "answer": "C",
+    "explanation": "DevOps不仅仅是一种工具集，更是一种文化变革和实践方法。DevOps强调开发和运维的协作、自动化、持续改进，涉及人员、流程和技术三个方面的变革。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "DevOps",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "DevOps",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q018",
+    "question": "在分布式事务中，XA模式的主要缺点是什么？",
+    "options": [
+      "A. 无法保证数据一致性",
+      "B. 性能较差，不适合高并发场景",
+      "C. 对业务侵入性强",
+      "D. 只支持同构数据库"
+    ],
+    "answer": "B",
+    "explanation": "XA模式的主要缺点是性能较差，不适合高并发场景。XA模式采用两阶段提交协议，需要锁定资源直到事务完成，在高并发场景下会导致严重的性能瓶颈。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生发展背景",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "在分布式事务中",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q019",
+    "question": "SEATA框架的AT模式的核心特点是什么？",
+    "options": [
+      "A. 需要手动编写补偿逻辑",
+      "B. 无代码开发工作量，自动进行事务协调",
+      "C. 只支持MySQL数据库",
+      "D. 性能比TCC模式更差"
+    ],
+    "answer": "B",
+    "explanation": "SEATA的AT模式的核心特点是无代码开发工作量，通过代理数据源自动解析SQL语句，自动生成回滚日志，实现事务的自动协调。相比TCC模式，AT模式对业务无侵入。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "SEATA",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "SEATA",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q020",
+    "question": "云原生架构的弹性原则强调什么？",
+    "options": [
+      "A. 系统应具备自动扩缩容能力",
+      "B. 系统应采用微服务架构",
+      "C. 系统应使用容器化部署",
+      "D. 系统应实现持续交付"
+    ],
+    "answer": "A",
+    "explanation": "弹性原则强调系统应具备自动扩缩容能力，能够根据负载变化自动调整资源配置。弹性是云原生架构的核心优势之一，通过自动化的方式应对流量波动。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景",
+      "容器",
+      "微服务"
+    ]
+  },
+  {
+    "id": "ch10_q021",
+    "question": "以下关于云原生存储的描述，不正确的是？",
+    "options": [
+      "A. 存储计算分离是云原生存储的核心思想",
+      "B. 云原生存储应支持动态供给",
+      "C. 云原生存储必须使用本地磁盘",
+      "D. 云原生存储应支持声明式API"
+    ],
+    "answer": "C",
+    "explanation": "云原生存储不一定使用本地磁盘。存储计算分离是云原生存储的核心思想，存储资源与计算资源解耦，支持动态供给和声明式API。云原生环境通常使用网络存储而非本地磁盘。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q022",
+    "question": "12要素应用方法论中，\"进程\"要素的核心要求是什么？",
+    "options": [
+      "A. 应用进程应有状态",
+      "B. 应用应以一个或多个无状态进程运行",
+      "C. 应用进程应绑定到特定服务器",
+      "D. 应用进程应共享内存空间"
+    ],
+    "answer": "B",
+    "explanation": "12要素的\"进程\"要素要求应用以一个或多个无状态进程运行，进程不存储任何需要持久化的状态数据。任何需要持久化的数据都应存储在后端服务中。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "要素应用方法论中",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "要素应用方法论中",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q023",
+    "question": "事件驱动架构中，事件代理（Event Broker）的主要作用是什么？",
+    "options": [
+      "A. 生成事件数据",
+      "B. 消费和处理事件",
+      "C. 接收、存储和分发事件",
+      "D. 定义事件格式"
+    ],
+    "answer": "C",
+    "explanation": "事件代理的主要作用是接收、存储和分发事件。事件代理作为事件生产者和消费者之间的中介，负责事件的路由、缓冲和可靠传递。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "云原生发展背景",
+    "knowledge_point": "事件驱动架构中",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "事件驱动架构中",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q024",
+    "question": "以下关于容器编排的描述，不正确的是？",
+    "options": [
+      "A. 容器编排负责容器的生命周期管理",
+      "B. 容器编排支持自动扩缩容",
+      "C. 容器编排只能管理单个容器",
+      "D. 容器编排支持服务发现和负载均衡"
+    ],
+    "answer": "C",
+    "explanation": "容器编排不仅能管理单个容器，更重要的是管理大规模的容器集群。容器编排负责容器的生命周期管理、自动扩缩容、服务发现、负载均衡、滚动更新等。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生发展背景",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "容器",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q025",
+    "question": "云原生架构的可观测原则包括哪三个支柱？",
+    "options": [
+      "A. 日志、监控、告警",
+      "B. 日志、追踪、度量",
+      "C. 采集、存储、分析",
+      "D. 检测、响应、恢复"
+    ],
+    "answer": "B",
+    "explanation": "云原生架构的可观测原则包括三个支柱：日志（Logging）、追踪（Tracing）和度量（Metrics）。日志提供详细的事件信息，追踪提供请求的完整调用链路，度量提供系统的量化指标。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q026",
+    "question": "以下关于微服务通信的描述，正确的是？",
+    "options": [
+      "A. 微服务之间只能使用同步通信",
+      "B. gRPC是一种基于HTTP/2的高性能RPC框架",
+      "C. REST API不支持微服务间通信",
+      "D. 消息队列不属于微服务通信方式"
+    ],
+    "answer": "B",
+    "explanation": "gRPC是Google开发的基于HTTP/2的高性能RPC框架，支持多种编程语言，是微服务间通信的常用方式。微服务间可以使用同步通信（如REST、gRPC）或异步通信（如消息队列）。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "云原生发展背景",
+    "knowledge_point": "微服务",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "微服务",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q027",
+    "question": "云原生架构的韧性原则强调什么？",
+    "options": [
+      "A. 系统应避免任何故障",
+      "B. 系统在面对故障时能够快速恢复",
+      "C. 系统应使用冗余硬件",
+      "D. 系统应减少微服务数量"
+    ],
+    "answer": "B",
+    "explanation": "韧性原则强调系统在面对故障时能够快速恢复。云原生架构承认故障是不可避免的，通过设计使系统能够在部分组件故障时继续提供服务，并快速恢复正常状态。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景",
+      "微服务"
+    ]
+  },
+  {
+    "id": "ch10_q028",
+    "question": "以下关于Istio服务网格的描述，不正确的是？",
+    "options": [
+      "A. Istio是目前最流行的服务网格实现",
+      "B. Istio使用Envoy作为数据平面代理",
+      "C. Istio只能用于Kubernetes环境",
+      "D. Istio支持流量管理和安全策略"
+    ],
+    "answer": "C",
+    "explanation": "Istio虽然最初为Kubernetes设计，但不仅限于Kubernetes环境。Istio是目前最流行的服务网格实现，使用Envoy作为数据平面代理，支持流量管理、安全策略、可观测性等功能。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "Kubernetes",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "Kubernetes",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q029",
+    "question": "12要素应用方法论中，\"依赖\"要素的核心要求是什么？",
+    "options": [
+      "A. 应用应尽量减少依赖",
+      "B. 应用应显式声明和隔离依赖",
+      "C. 应用应使用系统级包管理",
+      "D. 应用应共享依赖库"
+    ],
+    "answer": "B",
+    "explanation": "12要素的\"依赖\"要素要求应用应显式声明和隔离依赖。应用不应依赖于系统级的包管理，而应通过依赖清单显式声明所有依赖，并通过依赖隔离确保不同应用的依赖不会冲突。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "要素应用方法论中",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "要素应用方法论中",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q030",
+    "question": "以下关于SAGA模式的描述，不正确的是？",
+    "options": [
+      "A. SAGA模式将长事务拆分为多个本地事务",
+      "B. 每个本地事务有对应的补偿事务",
+      "C. SAGA模式能保证事务的隔离性",
+      "D. SAGA模式适用于长业务流程"
+    ],
+    "answer": "C",
+    "explanation": "SAGA模式不能保证事务的隔离性。SAGA将长事务拆分为多个本地事务，每个事务有对应的补偿操作，通过补偿机制实现最终一致性。但中间状态可能被其他事务看到。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "SAGA",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "SAGA",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q031",
+    "question": "云原生架构的自动化原则强调什么？",
+    "options": [
+      "A. 所有运维操作都应手动执行",
+      "B. 应通过自动化减少人工干预和错误",
+      "C. 自动化只适用于测试阶段",
+      "D. 自动化会增加系统复杂性"
+    ],
+    "answer": "B",
+    "explanation": "自动化原则强调应通过自动化减少人工干预和错误。云原生架构倡导基础设施即代码、自动化测试、自动化部署、自动化扩缩容等，提高运维效率和系统可靠性。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q032",
+    "question": "以下关于Docker镜像的描述，正确的是？",
+    "options": [
+      "A. Docker镜像只能从Docker Hub获取",
+      "B. Docker镜像采用分层存储结构",
+      "C. Docker镜像可以被修改",
+      "D. Docker镜像不支持自定义构建"
+    ],
+    "answer": "B",
+    "explanation": "Docker镜像采用分层存储结构，每一层代表Dockerfile中的一条指令。这种分层结构使得镜像可以被多个容器共享，减少存储空间。Docker镜像是只读的，可以通过Dockerfile自定义构建。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "云原生发展背景",
+    "knowledge_point": "Docker",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "Docker",
+      "云原生发展背景",
+      "容器"
+    ]
+  },
+  {
+    "id": "ch10_q033",
+    "question": "以下关于持续集成（CI）的描述，不正确的是？",
+    "options": [
+      "A. CI要求开发人员频繁地将代码集成到主干",
+      "B. CI通过自动化构建和测试验证代码集成",
+      "C. CI只关注代码集成，不涉及部署",
+      "D. CI有助于尽早发现和解决集成问题"
+    ],
+    "answer": "C",
+    "explanation": "CI不仅关注代码集成，还与持续交付（CD）紧密相关。持续集成要求频繁集成代码并自动化验证，持续交付则在此基础上进一步自动化部署过程，CI/CD通常作为一个整体实践。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "CI/CD",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "CI/CD",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q034",
+    "question": "云原生架构的持续演进原则强调什么？",
+    "options": [
+      "A. 系统架构应一次设计完成，不再变更",
+      "B. 系统架构应随着业务发展持续演进",
+      "C. 系统应定期进行完全重构",
+      "D. 系统应避免引入新技术"
+    ],
+    "answer": "B",
+    "explanation": "持续演进原则强调系统架构应随着业务发展持续演进。云原生架构不是一次性设计完成的，而是需要根据业务变化、技术发展和运营反馈不断优化和改进。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q035",
+    "question": "以下关于Kubernetes的描述，不正确的是？",
+    "options": [
+      "A. Kubernetes最初由Google开发",
+      "B. Kubernetes支持自动化的容器部署和扩缩容",
+      "C. Kubernetes只能管理Docker容器",
+      "D. Kubernetes提供服务发现和负载均衡功能"
+    ],
+    "answer": "C",
+    "explanation": "Kubernetes不仅能管理Docker容器，还支持其他符合OCI标准的容器运行时，如containerd、CRI-O等。Kubernetes最初由Google开发，是目前最流行的容器编排平台。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "Kubernetes",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "Kubernetes",
+      "云原生发展背景",
+      "容器",
+      "Docker"
+    ]
+  },
+  {
+    "id": "ch10_q036",
+    "question": "12要素应用方法论中，\"端口绑定\"要素的核心要求是什么？",
+    "options": [
+      "A. 应用应绑定到固定的端口",
+      "B. 应用应通过端口绑定提供服务",
+      "C. 应用应使用默认的80端口",
+      "D. 应用应避免使用高端口号"
+    ],
+    "answer": "B",
+    "explanation": "12要素的\"端口绑定\"要素要求应用应通过端口绑定提供服务，完全自我包含，不依赖于外部的Web服务器或应用服务器。应用通过端口绑定导出HTTP服务。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "要素应用方法论中",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "要素应用方法论中",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q037",
+    "question": "以下关于云原生安全的描述，不正确的是？",
+    "options": [
+      "A. 云原生安全应覆盖开发、部署和运行全生命周期",
+      "B. DevSecOps强调将安全融入DevOps流程",
+      "C. 云原生安全只需要关注运行时安全",
+      "D. 镜像安全是云原生安全的重要组成部分"
+    ],
+    "answer": "C",
+    "explanation": "云原生安全不仅需要关注运行时安全，还应覆盖开发、部署和运行全生命周期。云原生安全包括代码安全、镜像安全、集群安全、运行时安全等多个层面。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景",
+      "DevOps"
+    ]
+  },
+  {
+    "id": "ch10_q038",
+    "question": "云原生架构的服务化原则强调什么？",
+    "options": [
+      "A. 所有功能都必须实现为微服务",
+      "B. 将应用拆分为独立、松耦合的服务",
+      "C. 服务之间应使用紧耦合方式通信",
+      "D. 每个服务必须有独立的数据库"
+    ],
+    "answer": "B",
+    "explanation": "服务化原则强调将应用拆分为独立、松耦合的服务。每个服务围绕业务能力构建，可以独立开发、部署和扩展。服务之间通过轻量级通信机制交互。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景",
+      "微服务"
+    ]
+  },
+  {
+    "id": "ch10_q039",
+    "question": "以下关于Prometheus监控系统的描述，正确的是？",
+    "options": [
+      "A. Prometheus采用推（Push）模型采集数据",
+      "B. Prometheus支持多维度数据模型",
+      "C. Prometheus不支持告警功能",
+      "D. Prometheus只能监控容器环境"
+    ],
+    "answer": "B",
+    "explanation": "Prometheus支持多维度数据模型，使用标签（Label）对时间序列数据进行标识和查询。Prometheus采用拉（Pull）模型采集数据，支持告警功能，可用于监控各种环境。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生发展背景",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "容器",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q040",
+    "question": "以下关于云原生应用设计的描述，不正确的是？",
+    "options": [
+      "A. 应用应设计为无状态的",
+      "B. 应用应支持优雅启停",
+      "C. 应用应将配置硬编码在代码中",
+      "D. 应用应支持健康检查"
+    ],
+    "answer": "C",
+    "explanation": "应用不应将配置硬编码在代码中。12要素方法论要求将配置存储在环境变量中，与代码分离。这样同一份代码可以部署到不同环境，通过不同的配置实现环境适配。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q041",
+    "question": "CNCF云原生景观图中，以下哪个类别不属于其主要分类？",
+    "options": [
+      "A. 应用定义与开发",
+      "B. 编排与管理",
+      "C. 财务管理",
+      "D. 平台"
+    ],
+    "answer": "C",
+    "explanation": "CNCF云原生景观图的主要分类包括应用定义与开发、编排与管理、运行时、供应保障和基础设施、平台等。财务管理不属于云原生技术分类。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q042",
+    "question": "12要素应用方法论中，\"日志\"要素的核心要求是什么？",
+    "options": [
+      "A. 应用应将日志写入本地文件",
+      "B. 应用应将日志视为事件流",
+      "C. 应用应自行管理日志的存储和轮转",
+      "D. 应用应只记录错误日志"
+    ],
+    "answer": "B",
+    "explanation": "12要素的\"日志\"要素要求应用应将日志视为事件流，不关心日志的路由和存储。应用将日志输出到标准输出（stdout），由运行环境负责收集、路由和存储日志。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "要素应用方法论中",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "要素应用方法论中",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q043",
+    "question": "以下关于容器镜像仓库的描述，正确的是？",
+    "options": [
+      "A. Docker Hub是唯一的容器镜像仓库",
+      "B. Harbor是VMware开源的企业级镜像仓库",
+      "C. 镜像仓库只支持Docker镜像格式",
+      "D. 镜像仓库不支持访问控制"
+    ],
+    "answer": "B",
+    "explanation": "Harbor是VMware开源的企业级容器镜像仓库，支持镜像存储、访问控制、漏洞扫描、镜像签名等功能。除Docker Hub外，还有Harbor、Nexus、AWS ECR等多种镜像仓库。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "Docker",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "容器",
+      "云原生发展背景",
+      "Docker"
+    ]
+  },
+  {
+    "id": "ch10_q044",
+    "question": "以下关于API网关的描述，不正确的是？",
+    "options": [
+      "A. API网关是微服务架构的入口点",
+      "B. API网关可以实现请求路由和负载均衡",
+      "C. API网关只能处理HTTP请求",
+      "D. API网关可以实现认证和授权"
+    ],
+    "answer": "C",
+    "explanation": "API网关不仅能处理HTTP请求，还支持其他协议如WebSocket、gRPC等。API网关是微服务架构的入口点，提供请求路由、负载均衡、认证授权、限流熔断等功能。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "云原生发展背景",
+    "knowledge_point": "微服务",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "微服务",
+      "云原生发展背景",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch10_q045",
+    "question": "云原生架构规划实施路线图的第一步是什么？",
+    "options": [
+      "A. 服务管理和治理",
+      "B. 持续交付及安全",
+      "C. 微服务采用及运行环境容器云平台构建",
+      "D. 增强生产环境韧性和安全性"
+    ],
+    "answer": "C",
+    "explanation": "云原生架构规划实施路线图的第一步是微服务采用及运行环境容器云平台构建。这是云原生转型的基础，包括微服务拆分、容器化改造和容器云平台建设。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景",
+      "容器",
+      "微服务"
+    ]
+  },
+  {
+    "id": "ch10_q046",
+    "question": "以下关于Helm的描述，不正确的是？",
+    "options": [
+      "A. Helm是Kubernetes的包管理器",
+      "B. Helm使用Chart来定义应用的部署配置",
+      "C. Helm只能部署单个应用",
+      "D. Helm支持应用的版本管理和回滚"
+    ],
+    "answer": "C",
+    "explanation": "Helm不仅能部署单个应用，还支持部署复杂的应用组合。Helm是Kubernetes的包管理器，使用Chart来定义应用的部署配置，支持版本管理、依赖管理和回滚等功能。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "云原生发展背景",
+    "knowledge_point": "Kubernetes",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "Kubernetes",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q047",
+    "question": "以下关于云原生存储方案的描述，正确的是？",
+    "options": [
+      "A. Ceph是一种分布式存储系统，支持块存储、文件存储和对象存储",
+      "B. 云原生环境只能使用本地存储",
+      "C. 持久卷（PV）不支持动态供给",
+      "D. 存储类（StorageClass）用于手动创建持久卷"
+    ],
+    "answer": "A",
+    "explanation": "Ceph是一种分布式存储系统，支持块存储（RBD）、文件存储（CephFS）和对象存储（RGW）三种存储方式。Kubernetes支持持久卷的动态供给，StorageClass用于定义动态供给策略。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": "ch10_q048",
+    "question": "以下关于GitOps的描述，不正确的是？",
+    "options": [
+      "A. GitOps使用Git仓库作为系统状态的唯一真实来源",
+      "B. GitOps支持声明式基础设施管理",
+      "C. GitOps只适用于应用代码管理，不适用于基础设施管理",
+      "D. GitOps支持自动化的部署和回滚"
+    ],
+    "answer": "C",
+    "explanation": "GitOps不仅适用于应用代码管理，也适用于基础设施管理。GitOps使用Git仓库作为系统状态的唯一真实来源，通过声明式配置管理基础设施和应用，支持自动化的部署和回滚。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "GitOps",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "GitOps",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q049",
+    "question": "12要素应用方法论中，\"管理进程\"要素的核心要求是什么？",
+    "options": [
+      "A. 应用应将管理任务作为一次性进程运行",
+      "B. 应用应将管理任务与主进程合并",
+      "C. 管理任务应手动执行",
+      "D. 管理任务不需要日志记录"
+    ],
+    "answer": "A",
+    "explanation": "12要素的\"管理进程\"要素要求应用应将管理任务（如数据库迁移、数据修复等）作为一次性进程运行。这些任务应与常驻进程使用相同的环境和依赖。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "要素应用方法论中",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "要素应用方法论中",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q050",
+    "question": "云原生架构中，声明式API的核心优势是什么？",
+    "options": [
+      "A. 命令式API比声明式API更灵活",
+      "B. 声明式API描述期望状态，由系统自动达成",
+      "C. 声明式API只适用于简单的操作",
+      "D. 声明式API不支持版本控制"
+    ],
+    "answer": "B",
+    "explanation": "声明式API的核心优势是描述期望状态，由系统自动达成。用户只需声明期望的最终状态，系统负责计算当前状态与期望状态的差异，并自动执行必要的操作来达成期望状态。",
+    "chapter": "第10章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生发展背景",
+    "knowledge_point": "云原生",
+    "source_ref": "references/第10章_云原生系统规划.md#云原生发展背景",
+    "tags": [
+      "云原生",
+      "云原生发展背景"
+    ]
+  },
+  {
+    "id": "ch10_q051",
+    "question": "利用DevOps 思想构建持续交付能力的过程中，可能遇到的难点不包括（ ）。",
+    "options": [
+      "A. 组织领导不理解DevOps 思想和理念",
+      "B. DevOps 体系涉及众多组件和工具，一体化设计研发花费大量人力和时间",
+      "C. 开源工具打通认证权限管理困难",
+      "D. DevOps 技术过于简单，缺乏挑战性"
+    ],
+    "answer": "D",
+    "explanation": "10.3 云原生建设规划中提到，利用DevOps 思想构建持续交付能力的过程中，可 能遇到的难点包括组织领导要能够理解DevOps 思想和理念，知道组织的弱点并愿意尝 试改进；DevOps 体系（DevOps 体系可能不仅仅是一个平台）可能涉及众多的组件和工 具，或者需要一体化的设计研发，每种方式都会花费大量人力和时间；用开源工具，持 续集成和持续交付流程涉及众多工具，仅考虑打通这些工具的认证权限管理就不是一 件容易的事，不包括DevOps 技术过于简单，缺乏挑战性，D 选项符合题意。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0062"
+  },
+  {
+    "id": "ch10_q052",
+    "question": "云原生技术的发展促使各组织在新兴业务场景采用云原生技术构建创新解决方案， 以下不属于新兴业务场景的是（ ）。",
+    "options": [
+      "A. 企业资源规划（ERP）",
+      "B. 人工智能",
+      "C. 边缘计算",
+      "D. 高性能计算"
+    ],
+    "answer": "A",
+    "explanation": "10.1.2 发展概述中提到，随着各类开源项目的不断更新和逐步成熟，促使各组织 在AI、大数据、边缘计算、高性能计算等新兴业务场景不断采用云原生技术来构建创新 解决方案，企业资源规划（ERP）不属于新兴业务场景，A 选项符合题意。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0133"
+  },
+  {
+    "id": "ch10_q053",
+    "question": "云计算解决分布式环境下高可用问题的方式不包括（ ）。",
+    "options": [
+      "A. 虚拟机热迁移",
+      "B. 容器自动处理异常节点",
+      "C. 云服务自身具备高可用能力",
+      "D. 增加物理服务器数量"
+    ],
+    "answer": "D",
+    "explanation": "10.2.1 架构定义中提到，云计算在多个层面为应用提供高可用解决方案，如虚拟 机检测到底层硬件发生异常时自动做热迁移；容器通过监控检查探测到进程状态异常时 自动实施异常节点的下线、新节点上线和生产流量的切换等操作；云服务本身具备极强 的高可用能力。增加物理服务器数量不属于云计算解决高可用问题的特定方式，D 选 项符合 题意。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0022"
+  },
+  {
+    "id": "ch10_q054",
+    "question": "某金融企业采用云原生架构构建核心交易系统，为满足金融行业对数据安全和合规 性的严格要求，在系统设计时需要重点考虑（ ）。",
+    "options": [
+      "A. 数据加密算法的选择和密钥管理",
+      "B. 系统界面的美观性和易用性",
+      "C. 云平台的价格和资源配置",
+      "D. 微服务的数量和部署位置"
+    ],
+    "answer": "A",
+    "explanation": "10.2.2 设计原则和10.3 云原生建设规划中指出，金融行业对数据安全和合规 性要求极高，数据加密算法的选择和密钥管理直接关系到数据安全，是设计时的重点考 虑因素，A 选项正确。系统界面美观性和易用性、云平台价格和资源配置、微服务数 量和部署位置并非满足数据安全和合规性要求的关键，B、C、D 选项错误。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0325"
+  },
+  {
+    "id": "ch10_q055",
+    "question": "在云原生建设规划的持续交付及安全阶段，以DevOps 理论构建持续交付能力时， 组织架构优化可能面临的难点不包括（ ）。",
+    "options": [
+      "A. 组织领导不理解DevOps 思想",
+      "B. DevOps 体系涉及众多组件和工具，一体化设计研发成本高",
+      "C. 开源工具的认证权限管理难度大",
+      "D. DevOps 技术过于复杂，员工难以掌握"
+    ],
+    "answer": "D",
+    "explanation": "10.3 云原生建设规划中表明，利用DevOps 思想构建持续交付能力时，组织架 构 优化难点包括组织领导不理解、DevOps 体系涉及组件工具多且设计研发成本高、开源 工具认证权限管理难等，未提及员工难以掌握，D 选项符合题意。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0170"
+  },
+  {
+    "id": "ch10_q056",
+    "question": "在云原生建设规划的微服务采用及运行环境容器云平台构建阶段，基于Kubernetes 构建容器云平台时，Kubernetes 的主要功能不包括（ ）。",
+    "options": [
+      "A. 实现微服务的业务逻辑",
+      "B. 容器的调度和管理",
+      "C. 服务的注册发现",
+      "D. 资源的分配和管理"
+    ],
+    "answer": "A",
+    "explanation": "10.3 云原生建设规划中提到，基于容器技术和容器调度管理技术（如Kubernetes） 构建容器云平台，Kubernetes 用于容器的调度和管理、服务的注册发现、资源的分配 和管理等，不实现微服务的业务逻辑，A 选项符合题意。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0241"
+  },
+  {
+    "id": "ch10_q057",
+    "question": "云原生架构的分布式事务模式中，开源项目SEATA 的AT 模式在使用时需要考虑 的限制因素不包括（ ）。",
+    "options": [
+      "A. 对数据库的兼容性",
+      "B. 全局事务的并发控制能力",
+      "C. 业务场景的适用性",
+      "D. 开发人员的技术水平"
+    ],
+    "answer": "D",
+    "explanation": "10.2.3 架构模式中提到，SEATA 的AT 模式存在使用场景限制，需要考虑对数 据库的兼容性、全局事务的并发控制能力、业务场景的适用性等，开发人员技术水平不 是该模式本身使用时的限制因素，D 选项符合题意。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0303"
+  },
+  {
+    "id": "ch10_q058",
+    "question": "云原生架构规划实施路线图的5 个步骤中，第一步是（ ）。",
+    "options": [
+      "A. 微服务采用及运行环境容器云平台构建",
+      "B. 服务管理和治理",
+      "C. 持续交付及安全",
+      "D. 自服务敏捷响应基础设施"
+    ],
+    "answer": "A",
+    "explanation": "10.3 云原生建设规划中提到，基于“顶层规划+ 分步实施”的原则，将云原生 架构规划实施路线图定义为5 个步骤，分别为微服务采用及运行环境容器云平台构建、 服务管理和治理、持续交付及安全、自服务敏捷响应基础设施、增强生产环境韧性和 安全性，第一步是微服务采用及运行环境容器云平台构建。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0053"
+  },
+  {
+    "id": "ch10_q059",
+    "question": "云原生建设规划中，持续交付及安全阶段构建的闭环流程不包括（ ）。",
+    "options": [
+      "A. 持续测试",
+      "B. 持续监控",
+      "C. 持续反馈",
+      "D. 持续采购"
+    ],
+    "answer": "D",
+    "explanation": "10.3 云原生建设规划中提到，以DevOps 理论为指导，构建持续集成、持续部署、 持续交付、持续监控、持续反馈的闭环流程，不包含持续采购，D 选项符合题意。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0137"
+  },
+  {
+    "id": "ch10_q060",
+    "question": "云原生架构的Serverless 模式适合的场景不包括（ ）。",
+    "options": [
+      "A. 长时间后台运行的密集型计算任务",
+      "B. 事件驱动的数据计算任务",
+      "C. 计算时间短的请求/响应应用",
+      "D. 没有复杂相互调用的长周期任务"
+    ],
+    "answer": "A",
+    "explanation": "10.2.3 架构模式中指出，如果应用是长时间后台运行的密集型计算任务，会无法 发挥Serverless 的优势，Serverless 适合事件驱动的数据计算任务、计算时间短的 请 求/响应应用、没有复杂相互调用的长周期任务，A 选项符合题意。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0185"
+  },
+  {
+    "id": "ch10_q061",
+    "question": "在云原生架构的Serverless 模式下，应用的运行依赖云平台的资源调度。为确保 应用在高并发场景下的性能，云平台的调度策略需要考虑（ ）。",
+    "options": [
+      "A. 应用的启动时间和初始资源需求",
+      "B. 应用的代码规模和开发语言",
+      "C. 应用的业务逻辑复杂度",
+      "D. 并发请求数量、资源使用模式以及应用的优先级"
+    ],
+    "answer": "D",
+    "explanation": "10.2.3 架构模式中，Serverless 模式下云平台调度策略在高并发场景需考虑并 发请求数量、资源使用模式以及应用优先级等因素，合理分配资源确保应用性能，D 选 项正确。应用启动时间和初始资源需求并非高并发场景下调度策略的关键考虑因素，A 选项错误；应用代码规模和开发语言对调度策略影响较小，B 选项错误；业务逻辑复 杂度不是直接决定调度策略的因素，C 选项错误。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0348"
+  },
+  {
+    "id": "ch10_q062",
+    "question": "云原生建设规划中，自服务敏捷响应基础设施阶段构建的基础服务不包括（ ）。",
+    "options": [
+      "A. 数据分析服务",
+      "B. 统一身份认证和权限服务",
+      "C. 日志服务",
+      "D. 配置服务"
+    ],
+    "answer": "A",
+    "explanation": "10.3 云原生建设规划中指出，在自服务敏捷响应基础设施阶段，需要重点构建和 完善自动化、自服务的基础设施能力，包括统一身份认证和权限服务、日志服务、配 置服务等，不包括数据分析服务，A 选项符合题意。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0209"
+  },
+  {
+    "id": "ch10_q063",
+    "question": "在云原生建设规划的持续交付及安全阶段，为了保证软件交付的质量，需要在 CI/CD 流水线中进行多轮测试。以下哪种测试是在软件部署到生产环境之前进行的最 后一轮测试？( )",
+    "options": [
+      "A. 单元测试",
+      "B. 集成测试",
+      "C. 系统测试",
+      "D. 用户验收测试"
+    ],
+    "answer": "D",
+    "explanation": "10.3 云原生建设规划中，用户验收测试是在软件部署到生产环境之前进行的最 后一轮测试，用于验证软件是否满足用户需求，D 选项正确。单元测试主要测试单个组 件，A 选项错误；集成测试检测组件间接口兼容性，B 选项错误；系统测试关注系统整 体功能和性能，C 选项错误。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0320"
+  },
+  {
+    "id": "ch10_q064",
+    "question": "在服务管理和治理步骤中，基于容器云平台可以利用Kubernetes 的能力实现以下哪 些服务治理功能？( )",
+    "options": [
+      "A. 服务的注册发现、配置、路由分发、负载均衡、弹性扩容",
+      "B. 服务的熔断、降级、限流",
+      "C. 服务的监控、告警",
+      "D. 服务的安全防护、数据加密"
+    ],
+    "answer": "A",
+    "explanation": "10.3 云原生建设规划中提到，基于容器云平台可以直接利用Kubernetes 的能力 实现服务的注册发现、配置、路由分发、负载均衡、弹性扩容等。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0059"
+  },
+  {
+    "id": "ch10_q065",
+    "question": "基于云原生的自动化软件交付相比于当前的人工软件交付，其优势不包括（ ）。",
+    "options": [
+      "A. 减少开发环境到生产环境的差异",
+      "B. 降低微服务部署的工作量挑战",
+      "C. 提高软件交付效率",
+      "D. 增加软件交付和运维人员的技能差异"
+    ],
+    "answer": "D",
+    "explanation": "10.2.1 架构定义中表明，基于云原生的自动化软件交付相比于当前的人工软件 交付是一个巨大的进步，容器以标准方式对软件打包，帮助屏蔽不同环境之间的差异， 基于容器做标准化的软件交付，能降低微服务部署的工作量挑战，提高软件交付效率， 而不是增加软件交付和运维人员的技能差异，D 选项符合题意。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0023"
+  },
+  {
+    "id": "ch10_q066",
+    "question": "云原生建设规划中，在完成容器云平台运行时支撑建设之后，侧重实现服务治理和 API 定义的是（ ）。",
+    "options": [
+      "A. 服务管理和治理步骤",
+      "B. 持续交付及安全步骤",
+      "C. 自服务敏捷响应基础设施步骤",
+      "D. 增强生产环境韧性和安全性步骤"
+    ],
+    "answer": "A",
+    "explanation": "10.3 云原生建设规划中提到，在完成容器云平台运行时支撑建设之后，可以侧重 实现服务的治理和API 的定义，这属于服务管理和治理步骤的内容。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0088"
+  },
+  {
+    "id": "ch10_q067",
+    "question": "2018 年CNCF 对云原生定义不包括以下哪一项？( )",
+    "options": [
+      "A. 基于容器、服务网格、微服务、不可变基础设施和声明式API 构建的可弹性扩展的应 用",
+      "B. 基于自动化技术构建具备高容错性、易管理和便于观察的松耦合系统",
+      "C. 构建一个统一的开源云技术生态，能和云厂商提供的服务解耦",
+      "D. 具备DevOps、持续交付、微服务、容器这四大特征"
+    ],
+    "answer": "D",
+    "explanation": "10.1.1 概念中指出，2018 年CNCF 对云原生的定义为：①基于容器、服务网格、 微服务、不可变基础设施和声明式API 构建的可弹性扩展的应用；②基于自动化技术构 建具备高容错性、易管理和便于观察的松耦合系统；③构建一个统一的开源云技术生态， 能和云厂商提供的服务解耦。不包括D 选项内容。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0006"
+  },
+  {
+    "id": "ch10_q068",
+    "question": "云原生建设规划中，在服务管理和治理阶段，实现基于API 的协同，需要区分 ( ) 。",
+    "options": [
+      "A. 微服务的API 和对外的OpenAPI",
+      "B. 内部API 和外部API",
+      "C. 开发API 和运维API",
+      "D. 功能API 和非功能API"
+    ],
+    "answer": "A",
+    "explanation": "10.3 云原生建设规划中提到，在实现服务治理时需要区分微服务的API和对外的 OpenAPI，可以将它们看作两个层次，A 选项正确。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0174"
+  },
+  {
+    "id": "ch10_q069",
+    "question": "云原生架构的事件驱动架构模式下，在实现数据变化通知时，为了保证事件的准确 传递和处理，需要（ ）。",
+    "options": [
+      "A. 对事件进行加密处理",
+      "B. 建立事件处理的优先级队列",
+      "C. 确保事件生产者和消费者之间的强耦合",
+      "D. 设计可靠的事件传递和处理机制，包括重试和幂等性处理"
+    ],
+    "answer": "D",
+    "explanation": "10.2.3 架构模式中，事件驱动架构实现数据变化通知时，可靠的事件传递和处理 机制（含重试和幂等性处理）能保证事件准确传递和处理。事件加密处理主要用于安全 方面，非保证传递和处理准确；建立优先级队列并非保证准确传递的关键；事件驱动架 构应实现生产者和消费者的解耦，而非强耦合，D 选项正确。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0274"
+  },
+  {
+    "id": "ch10_q070",
+    "question": "某企业在采用云原生架构后，发现微服务数量增多导致管理困难，此时应加强 ( ) 。",
+    "options": [
+      "A. 服务管理和治理",
+      "B. 微服务开发",
+      "C. 容器云平台建设",
+      "D. 持续交付能力建设"
+    ],
+    "answer": "A",
+    "explanation": "10.3 云原生建设规划中表明，微服务架构会带来微服务数量增长导致管理和治 理困难的问题，此时应加强服务管理和治理，A 选项正确。",
+    "chapter": "第10章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "云原生系统规划",
+    "knowledge_point": "云原生系统规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第10章",
+    "tags": [
+      "云原生系统规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch10_0107"
+  }
+]

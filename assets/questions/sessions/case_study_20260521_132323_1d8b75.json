@@ -1,0 +1,20 @@
+{
+  "id": "case_study_20260521_132323_1d8b75",
+  "type": "case_study",
+  "created_at": "2026-05-21T13:23:23",
+  "params": {
+    "chapters": "23",
+    "count": 1,
+    "difficulty": null,
+    "seed": 4
+  },
+  "answers_template": {
+    "cs_23_4_q1": "",
+    "cs_23_4_q2": "",
+    "cs_23_4_q3": "",
+    "cs_23_4_q4": ""
+  },
+  "case_ids": [
+    "cs_23_4"
+  ]
+}

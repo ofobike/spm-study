@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "ch07_q001",
+    "question": "在OSI七层模型中，以下哪一层负责将物理层透明传输过来的比特流组织成有意义的数据包，并规定了数据包的格式和大小？",
+    "options": [
+      "A. 物理层",
+      "B. 数据链路层",
+      "C. 网络层",
+      "D. 传输层"
+    ],
+    "answer": "B",
+    "explanation": "数据链路层负责将物理层透明传输过来的比特流组织成有意义的数据包，它规定了数据包的格式和大小，规范了发送和接收特定数据包的寻址方式、同步控制、差错控制和流量控制机制。物理层规定了承载其上各层发送和接收具体数据的物理硬件方法，网络层定义和规范了不同网络间的通信规则。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "OSI",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "OSI",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q002",
+    "question": "关于IPv4地址分类，以下哪项描述是正确的？",
+    "options": [
+      "A. A类地址适用于小型网络建设，每个网络最多支持254个主机地址",
+      "B. B类地址适用于中型网络建设，支持16384个网络，每个网络最多支持65534个主机地址",
+      "C. C类地址适用于大型网络建设，支持126个网络",
+      "D. D类地址专门用于组播地址，E类地址用于实验和保留"
+    ],
+    "answer": "B",
+    "explanation": "B类地址适用于中型网络建设，支持16384个网络，每个网络最多支持65534个主机地址。A类地址适用于大型网络建设，支持126个网络，每个网络最多支持16777214个主机地址。C类地址适用于小型网络建设，支持209万余个网络，每个网络最多支持254个主机地址。D类地址专门用于组播地址。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "IPv4",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "IPv4",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q003",
+    "question": "在网络拓扑结构中，以下哪种结构的特点是中心节点是全网可靠性的瓶颈，中心节点一旦出现故障会造成全网瘫痪？",
+    "options": [
+      "A. 总线网络拓扑",
+      "B. 星形网络拓扑",
+      "C. 环形网络拓扑",
+      "D. 网状网络拓扑"
+    ],
+    "answer": "B",
+    "explanation": "星形网络拓扑将一个节点作为辐射点（转接交换中心），该点与其他节点均有线路相连。星形网的安全性较差，因为中心节点是全网可靠性的瓶颈，中心节点一旦出现故障会造成全网瘫痪。为解决此问题，一般会考虑双星形结构。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络架构和主要技术",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "在网络拓扑结构中",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q004",
+    "question": "在TCP/IP协议族中，传输层的主要协议TCP和UDP的主要区别是什么？",
+    "options": [
+      "A. TCP是非连接协议，UDP是面向连接的协议",
+      "B. TCP是面向连接的协议，在收发数据前必须和对方建立可靠的连接；UDP是非连接协议，不保证数据一定能传送到",
+      "C. TCP和UDP都是面向连接的协议",
+      "D. TCP和UDP都是非连接协议"
+    ],
+    "answer": "B",
+    "explanation": "TCP是面向连接的协议，在收发数据前，必须和对方建立可靠的连接；UDP是非连接协议，传输数据之前源端和终端不建立连接，并不保证数据一定能传送到，也不保证按顺序传输。两者的主要区别在于连接建立和可靠性保证方面。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "TCP/IP",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "TCP/IP",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q005",
+    "question": "在局域网规划中，VLAN间路由设计有三种方式，以下哪项不属于这三种方式？",
+    "options": [
+      "A. 直接使用多个物理接口实现VLAN路由",
+      "B. 同一个物理接口中通过创建子接口实现VLAN间路由",
+      "C. 使用三层交换机的VLAN间路由",
+      "D. 使用二层交换机的VLAN间路由"
+    ],
+    "answer": "D",
+    "explanation": "VLAN间路由设计的三种方式分别是：直接使用多个物理接口实现VLAN路由、同一个物理接口中通过创建子接口实现VLAN间路由、使用三层交换机的VLAN间路由。二层交换机工作在数据链路层，不具备路由功能，无法实现VLAN间路由。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "局域网规划",
+    "knowledge_point": "VLAN",
+    "source_ref": "references/第7章_网络环境规划.md#局域网规划",
+    "tags": [
+      "VLAN",
+      "局域网规划"
+    ]
+  },
+  {
+    "id": "ch07_q006",
+    "question": "国际电信联盟（ITU）定义了5G的三大类应用场景，以下哪项不是5G的三大应用场景之一？",
+    "options": [
+      "A. 增强移动宽带（eMBB）",
+      "B. 超高可靠低时延通信（uRLLC）",
+      "C. 海量机器类通信（mMTC）",
+      "D. 大规模视频传输（mVTC）"
+    ],
+    "answer": "D",
+    "explanation": "ITU定义的5G三大类应用场景是：增强移动宽带（eMBB）面向移动互联网流量爆炸式增长；超高可靠低时延通信（uRLLC）面向工业控制、远程医疗、自动驾驶等；海量机器类通信（mMTC）面向智慧城市、智能家居、环境监测等。大规模视频传输（mVTC）不是ITU定义的5G应用场景。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "国际电信联盟定义了",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "国际电信联盟定义了",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q007",
+    "question": "在网络管理五大功能中，以下哪项功能是记录各类网络资源的使用情况，目的是控制和监测网络操作的费用和代价？",
+    "options": [
+      "A. 故障管理",
+      "B. 配置管理",
+      "C. 计费管理",
+      "D. 性能管理"
+    ],
+    "answer": "C",
+    "explanation": "计费管理记录各类网络资源的使用情况，目的是控制和监测网络操作的费用和代价。故障管理是通过收集告警信息进行网络故障的判定和定位；配置管理是配置网络以使其提供网络服务；性能管理是通过对网络各类性能数据的采集、分析和处理来了解网络运行状况。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络架构和主要技术",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "在网络管理五大功能中",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q008",
+    "question": "关于无线局域网中的瘦AP和胖AP，以下哪项描述是不正确的？",
+    "options": [
+      "A. 瘦AP需要通过专门的无线控制器（AC）进行集中式管理",
+      "B. 胖AP自带管理平面，管理员可以直接对其进行管理和维护",
+      "C. 瘦AP虽然没有自己的管理平面，但在无线控制器的管理下可以提供比较丰富的功能",
+      "D. 胖AP比瘦AP支持更多的功能，适用于大规模无线局域网环境"
+    ],
+    "answer": "D",
+    "explanation": "与瘦AP相比，胖AP支持的功能较少（而非更多）。胖AP采用分布式管理的方式，扩展性比较差，所以使用胖AP的无线局域网规模不会太大。瘦AP需要通过专门的无线控制器进行集中式管理，常用于需要部署大量AP的大型无线局域网环境，反而可以提供比较丰富的功能。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "无线局域网中的瘦",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "无线局域网中的瘦",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q009",
+    "question": "信息网络系统一般由若干相对独立又相互连接的功能模块组成。以下哪项不属于信息网络系统的功能模块？",
+    "options": [
+      "A. 网络传输平台",
+      "B. 安全服务平台",
+      "C. 财务管理平台",
+      "D. 网络管理和维护平台"
+    ],
+    "answer": "C",
+    "explanation": "信息网络系统一般由网络传输平台、网络和应用服务平台、安全服务平台、网络管理和维护平台、环境系统等功能模块组成。财务管理平台不属于信息网络系统的功能模块。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "信息网络系统由若干相对独",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "信息网络系统由若干相对独",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q010",
+    "question": "在OSI七层模型中，物理层的主要功能是？",
+    "options": [
+      "A. 将比特流组织成有意义的数据包",
+      "B. 定义和规范不同网络间的通信规则",
+      "C. 规定承载其上各层发送和接收具体数据的物理硬件方法",
+      "D. 提供建立可靠的端到端的透明数据传输机制"
+    ],
+    "answer": "C",
+    "explanation": "物理层是OSI七层模型的最底层，规定了承载其上各层发送和接收具体数据的物理硬件方法。选项A描述的是数据链路层，选项B描述的是网络层，选项D描述的是传输层。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "OSI",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "OSI",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q011",
+    "question": "以下关于OSI七层模型的描述，哪项是不正确的？",
+    "options": [
+      "A. 会话层的基本功能是向两个表示层实体提供建立、管理、拆除和使用连接的方法",
+      "B. 表示层的典型服务包括数据翻译、格式化和语法选择",
+      "C. 传输层为会话层提供建立可靠的端到端的透明数据传输机制",
+      "D. 应用层位于OSI模型的最底层"
+    ],
+    "answer": "D",
+    "explanation": "应用层是OSI模型的最顶层（而非最底层），直接向用户提供信息通信服务。物理层才是OSI模型的最底层。应用层包含常见的互联网服务如万维网、邮件服务等。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "OSI",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "OSI",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q012",
+    "question": "TCP/IP协议族定义了4个相对独立的层级，自上而下分别是？",
+    "options": [
+      "A. 物理层、数据链路层、网络层、传输层",
+      "B. 应用层、传输层、网络层、数据链路层",
+      "C. 应用层、表示层、会话层、传输层",
+      "D. 网络层、传输层、会话层、应用层"
+    ],
+    "answer": "B",
+    "explanation": "TCP/IP定义了4个相对独立的层级，自上而下分别是应用层、传输层、网络层、数据链路层（也叫网络接口层或网络访问层）。这与OSI七层模型有所不同，TCP/IP将OSI的上三层合并为应用层。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "TCP/IP",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "TCP/IP",
+      "网络架构和主要技术",
+      "OSI"
+    ]
+  },
+  {
+    "id": "ch07_q013",
+    "question": "IPv4地址由32位二进制数组成，通常使用点分十进制表示法。以下关于IPv4私网地址的描述，哪项是不正确的？",
+    "options": [
+      "A. A类地址中私网地址可用范围是10.0.0.0到10.255.255.255",
+      "B. B类地址中私网地址可用范围是172.16.0.0到172.31.255.255",
+      "C. C类地址中私网地址可用范围是192.168.0.0到192.168.255.255",
+      "D. 私网地址可以在公网中直接使用"
+    ],
+    "answer": "D",
+    "explanation": "私网地址仅可以在内部网络中使用，不可以在公网中使用。使用私网地址的主机需要通过地址转换技术（NAT）与公网IPv4地址的主机进行通信。NAT将内部私网地址和端口号转换成公网地址，再与外部网络中的主机进行通信。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": ".3",
+    "knowledge_point": "IPv4",
+    "source_ref": "references/第7章_网络环境规划.md#.3",
+    "tags": [
+      "IPv4",
+      ".3"
+    ]
+  },
+  {
+    "id": "ch07_q014",
+    "question": "IPv6地址由多少位二进制数组成？",
+    "options": [
+      "A. 32位",
+      "B. 64位",
+      "C. 128位",
+      "D. 256位"
+    ],
+    "answer": "C",
+    "explanation": "IPv6地址由128位二进制数组成，是IPv4地址长度（32位）的4倍。前64比特为网络前缀，主要用于寻址和路由，后64比特为接口标识，主要用于标识主机。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "IPv6",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "IPv6",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q015",
+    "question": "以下关于网络拓扑结构的描述，哪项是不正确的？",
+    "options": [
+      "A. 总线网络拓扑需要的传输链路少，增减节点比较方便",
+      "B. 环形网络拓扑可以采用自愈环对网络进行自动保护",
+      "C. 网状网络拓扑的冗余度较大，稳定性较好，经济性很好",
+      "D. 复合型网络拓扑由网状结构和星形结构复合而成"
+    ],
+    "answer": "C",
+    "explanation": "网状网络拓扑的冗余度较大，稳定性较好，但线路利用率不高，经济性较差（而非经济性很好）。网状结构适用于局间业务量较大或分局量较少的情况。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络拓扑结构的",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "网络拓扑结构的",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q016",
+    "question": "路由器获取路由条目的方式不包括以下哪项？",
+    "options": [
+      "A. 直连路由",
+      "B. 静态路由",
+      "C. 动态路由",
+      "D. 虚拟路由"
+    ],
+    "answer": "D",
+    "explanation": "路由器获得路由条目的方式（即路由的类型）包括直连路由、静态路由和动态路由。直连路由由设备物理端口直接相连而获取；静态路由由管理员亲自配置；动态路由通过路由器之间交换的特定路由信息自动建立。虚拟路由不属于路由器获取路由条目的方式。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "路由器获取路由条方式",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "路由器获取路由条方式",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q017",
+    "question": "在IPv4数据包的包头中，TTL字段的作用是？",
+    "options": [
+      "A. 定义协议版本",
+      "B. 表示整个IP数据包长度",
+      "C. 表示数据包在网络中的生命周期，用通过路由器的数量来计量",
+      "D. 定义该数据包所携带的协议类型"
+    ],
+    "answer": "C",
+    "explanation": "生存时间TTL（Time To Live）为8比特，表示数据包在网络中的生命周期，用通过路由器的数量来计量，即跳数（每经过一个路由器会减1），TTL指示数据包在网络中可通过的路由器数的最大值。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "IPv4",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "IPv4",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q018",
+    "question": "以下关于5G系统主要性能指标的描述，哪项是不正确的？",
+    "options": [
+      "A. 峰值速率达到10到20Gb/s",
+      "B. 空中接口时延低至1ms",
+      "C. 具备百万连接/平方公里的设备连接能力",
+      "D. 用户体验速率仅为1Mb/s"
+    ],
+    "answer": "D",
+    "explanation": "5G系统在连续广域覆盖和高移动性下，用户体验速率达到100Mb/s（而非1Mb/s）。5G系统的主要性能指标还包括峰值速率达到10到20Gb/s、空中接口时延低至1ms、具备百万连接/平方公里的设备连接能力等。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络架构和主要技术",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "G",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q019",
+    "question": "在TCP/IP协议族中，以下哪项协议属于网络层？",
+    "options": [
+      "A. HTTP",
+      "B. TCP",
+      "C. IP",
+      "D. FTP"
+    ],
+    "answer": "C",
+    "explanation": "TCP/IP网络层的主要协议有ICMP、IP、IGMP等，主要负责网络中数据包的具体传输。HTTP和FTP属于应用层协议，TCP属于传输层协议。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "TCP/IP",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "TCP/IP",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q020",
+    "question": "VLAN划分方法中，按照端口划分VLAN的缺点是？",
+    "options": [
+      "A. 定义VLAN成员时非常复杂",
+      "B. 如果用户离开原来的端口到了新端口，必须重新定义",
+      "C. 初始化时所有用户都必须进行配置",
+      "D. 检查每一个数据包的网络层地址需要消耗处理时间"
+    ],
+    "answer": "B",
+    "explanation": "按照端口划分VLAN的优点是定义VLAN成员时非常简单，只要将所有的端口都定义为相应的VLAN组即可。缺点是如果某用户离开了原来的端口，到了一个新的交换机的某个端口，必须重新定义。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "VLAN",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "VLAN",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q021",
+    "question": "局域网规划中，DHCP的作用是？",
+    "options": [
+      "A. 实现VLAN间的路由",
+      "B. 在网络中自动为终端设备分配IP地址、默认网关地址、DNS服务器地址等配置参数",
+      "C. 发现并阻断二层网络中存在的环路",
+      "D. 进行网络性能监控"
+    ],
+    "answer": "B",
+    "explanation": "DHCP（动态主机配置协议）用来在网络中自动为终端设备分配IP地址、默认网关地址、DNS服务器地址等配置参数。在小型局域网中一般用出口路由器充当DHCP服务器，在中型局域网中将核心层三层交换机配置为DHCP服务器，在大型局域网中一般要配置专门的DHCP代理服务器。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "局域网规划",
+    "knowledge_point": "VLAN",
+    "source_ref": "references/第7章_网络环境规划.md#局域网规划",
+    "tags": [
+      "VLAN",
+      "局域网规划"
+    ]
+  },
+  {
+    "id": "ch07_q022",
+    "question": "以下关于网络管理五大功能的描述，哪项是不正确的？",
+    "options": [
+      "A. 故障管理通过收集告警信息进行网络故障的判定和定位",
+      "B. 配置管理是配置网络以使其提供网络服务",
+      "C. 安全管理主要提供网络中各类设备和网络管理层面的安全性管理功能",
+      "D. 计费管理的主要目的是进行网络故障的判定和定位"
+    ],
+    "answer": "D",
+    "explanation": "计费管理的目的是记录各类网络资源的使用情况，控制和监测网络操作的费用和代价。进行网络故障的判定和定位是故障管理的目的，而非计费管理。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络管理五大功能的",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "网络管理五大功能的",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q023",
+    "question": "MPLS技术的核心特点是？",
+    "options": [
+      "A. 在IP数据包基础上增加一个标签，基于标签进行路由选择和数据转发",
+      "B. 使用128位地址空间",
+      "C. 只能用于局域网内部",
+      "D. 不支持服务质量（QoS）"
+    ],
+    "answer": "A",
+    "explanation": "MPLS在IP数据包基础上，增加了一个标签（Label），基于这个标签进行路由选择和数据转发。MPLS支持流量工程、服务级别（CoS）、服务质量（QoS）和MPLS VPN等应用。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "VPN",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "VPN",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q024",
+    "question": "VPN（虚拟专用网）实现的关键技术不包括以下哪项？",
+    "options": [
+      "A. 隧道技术",
+      "B. 认证协议",
+      "C. 物理专线建设",
+      "D. 密钥交换技术"
+    ],
+    "answer": "C",
+    "explanation": "实现VPN的关键技术包括隧道（Tunneling）技术、认证协议、密钥交换技术等。VPN的核心价值就是在公有网络中构建专用的虚拟网络，不需要建设物理专线，物理专线建设不属于VPN的关键技术。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "VPN",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "VPN",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q025",
+    "question": "以下关于IPv6的描述，哪项是不正确的？",
+    "options": [
+      "A. IPv6地址采用点分十六进制形式，分为8段",
+      "B. IPv6包头长度固定为40个字节",
+      "C. IPv6数据包的最大载荷长度为65535个字节",
+      "D. IPv6地址长度为32位"
+    ],
+    "answer": "D",
+    "explanation": "IPv6地址由128位二进制数组成（而非32位），是IPv4地址长度的4倍。IPv6地址采用点分十六进制形式，分为8段，每段16位。IPv6包头长度固定为40个字节，载荷长度为16位，最大载荷长度为65535个字节。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "IPv6",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "IPv6",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q026",
+    "question": "典型的城域网一般由几层架构组成？",
+    "options": [
+      "A. 一层",
+      "B. 二层",
+      "C. 三层",
+      "D. 四层"
+    ],
+    "answer": "C",
+    "explanation": "典型的城域网一般由核心层、汇聚层和接入层三层架构组成。核心层部署核心路由器设备，汇聚层部署汇聚交换机设备，接入层面向各类用户提供各种有线、无线接入方式。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "典型的城域网由几层架构组",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "典型的城域网由几层架构组",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q027",
+    "question": "无线局域网中，SSID的作用是？",
+    "options": [
+      "A. 提供物理层连接",
+      "B. 标识一个无线网络，可以将无线局域网分为需要不同身份验证的子网络",
+      "C. 进行数据加密",
+      "D. 分配IP地址"
+    ],
+    "answer": "B",
+    "explanation": "无线局域网用服务集标识（SSID）来标识一个无线网络，SSID可以将一个无线局域网分为几个需要不同身份验证的子网络，每个子网络都需要独立的身份验证，只有通过身份验证的用户才可以进入相应的子网络。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "无线局域网中",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "无线局域网中",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q028",
+    "question": "以下哪项不属于无线网规划重点关注的内容？",
+    "options": [
+      "A. 无线频率规划",
+      "B. 无线传输覆盖范围规划",
+      "C. 有线网络布线规划",
+      "D. 无线基站站址规划"
+    ],
+    "answer": "C",
+    "explanation": "无线网规划重点关注的内容包括无线频率规划、无线传输覆盖范围规划、无线传输容量规划、无线基站站址规划和无线组网规划。有线网络布线规划属于综合布线的内容，不属于无线网规划的重点。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "无线网规划",
+    "knowledge_point": "不属于无线网规划重点关注",
+    "source_ref": "references/第7章_网络环境规划.md#无线网规划",
+    "tags": [
+      "不属于无线网规划重点关注",
+      "无线网规划"
+    ]
+  },
+  {
+    "id": "ch07_q029",
+    "question": "在网络安全设备和手段中，IDS/IPS的主要作用是？",
+    "options": [
+      "A. 实现系统内外网边界的访问控制",
+      "B. 对已知的网络攻击进行监控和报警",
+      "C. 进行网络安全日志的统一管理和分析",
+      "D. 进行VLAN网段划分"
+    ],
+    "answer": "B",
+    "explanation": "入侵检测系统/入侵防御系统（IDS/IPS）安全设备能够对已知的网络攻击进行监控和报警。选项A描述的是防火墙的功能，选项C描述的是SOC或统一日志管理系统的功能，选项D描述的是VLAN技术的功能。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "IPS",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "IPS",
+      "网络架构和主要技术",
+      "防火墙",
+      "IDS",
+      "VLAN"
+    ]
+  },
+  {
+    "id": "ch07_q030",
+    "question": "综合布线系统的基本构成不包括以下哪项？",
+    "options": [
+      "A. 建筑群子系统",
+      "B. 干线子系统",
+      "C. 配线子系统",
+      "D. 无线子系统"
+    ],
+    "answer": "D",
+    "explanation": "综合布线系统的基本构成应包括建筑群子系统、干线子系统和配线子系统。无线子系统不属于综合布线系统的基本构成部分。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "综合布线",
+    "knowledge_point": "综合布线系统的基本构成",
+    "source_ref": "references/第7章_网络环境规划.md#综合布线",
+    "tags": [
+      "综合布线系统的基本构成",
+      "综合布线"
+    ]
+  },
+  {
+    "id": "ch07_q031",
+    "question": "4G移动通信采用了多项关键技术来提高无线通信网络效率。以下哪项不是4G采用的关键技术？",
+    "options": [
+      "A. 正交频分复用（OFDM）技术",
+      "B. 软件无线电技术",
+      "C. 网络切片技术",
+      "D. 多输入多输出（MIMO）技术"
+    ],
+    "answer": "C",
+    "explanation": "4G移动通信采用了OFDM技术、软件无线电技术、智能天线技术、MIMO技术、基于IP的核心网等技术。网络切片技术是5G系统采用的新型网络技术和架构，不是4G的技术。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络架构和主要技术",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "G",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q032",
+    "question": "在动态路由协议中，OSPF协议属于哪种类型的路由协议？",
+    "options": [
+      "A. 距离矢量路由协议",
+      "B. 链路状态路由协议",
+      "C. 外部路由协议",
+      "D. 静态路由协议"
+    ],
+    "answer": "B",
+    "explanation": "动态路由需要路由器之间可以互认的路由协议支持，主要有两大类：一是距离矢量路由协议，包括RIP、BGP等；二是链路状态路由协议，综合考虑从源网络到目标网络的各条路径的情况选择路由，包括OSPF协议和IS-IS协议。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络架构和主要技术",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "在动态路由协议中",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q033",
+    "question": "网络管理系统功能体系结构一般可以划分为三层，由下至上依次为？",
+    "options": [
+      "A. 物理层、数据链路层、网络层",
+      "B. 网元/网络层、管理应用层、表示层",
+      "C. 接入层、汇聚层、核心层",
+      "D. 采集层、处理层、展示层"
+    ],
+    "answer": "B",
+    "explanation": "网络管理系统的功能体系结构一般可以划分为三层，由下至上依次为网元/网络层、管理应用层和表示层。网元/网络层包括被管理的所有网元设备和网络系统；管理应用层主要实现网络管理五大功能；表示层向用户提供直观、友好的人机交互界面。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络管理系统功能体系结构",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "网络管理系统功能体系结构",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q034",
+    "question": "以下关于广域网规划主要内容的描述，哪项是不正确的？",
+    "options": [
+      "A. 建设背景包括了解客户发起网络规划建设的原因和目标",
+      "B. 需求分析包括功能需求、业务需求、运维需求等",
+      "C. 项目预算只需考虑设备费用，不需要考虑运维成本",
+      "D. IP地址等逻辑资源规划包括IPv4和IPv6地址的规划"
+    ],
+    "answer": "C",
+    "explanation": "项目预算包括设备费用、承载/线路建设或租用费用、配套设施费用、建设成本、运维成本、优化成本等。选项C说只需考虑设备费用是不正确的。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "广域网规划",
+    "knowledge_point": "广域网规划内容的",
+    "source_ref": "references/第7章_网络环境规划.md#广域网规划",
+    "tags": [
+      "广域网规划内容的",
+      "广域网规划",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch07_q035",
+    "question": "NB-IoT技术的特点不包括以下哪项？",
+    "options": [
+      "A. 覆盖广",
+      "B. 连接多",
+      "C. 高功耗高速率",
+      "D. 成本低"
+    ],
+    "answer": "C",
+    "explanation": "NB-IoT（窄带物联网）技术具有覆盖广、连接多、速率快、成本低、耗电少等特点，主要应用于低功耗、低速率场景。高功耗高速率是蜂窝通信技术的特点，不是NB-IoT的特点。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "NB-IoT等专用无线通信网络技术",
+    "knowledge_point": "NB-IoT",
+    "source_ref": "references/第7章_网络环境规划.md#NB-IoT等专用无线通信网络技术",
+    "tags": [
+      "NB-IoT",
+      "NB-IoT等专用无线通信网络技术"
+    ]
+  },
+  {
+    "id": "ch07_q036",
+    "question": "在网络拓扑结构中，环形网络拓扑的特点是？",
+    "options": [
+      "A. 传输链路少，线路利用率高",
+      "B. 结构简单，实现容易，可以采用自愈环进行自动保护",
+      "C. 冗余度最大，稳定性最好",
+      "D. 中心节点是全网可靠性的瓶颈"
+    ],
+    "answer": "B",
+    "explanation": "环形网的特点是结构简单，实现容易，而且由于可以采用自愈环对网络进行自动保护，所以其稳定性比较高。选项A描述的是星形网，选项C描述的是网状网，选项D描述的是星形网的缺点。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络架构和主要技术",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "在网络拓扑结构中",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q037",
+    "question": "以下关于网络安全设计的描述，哪项是不正确的？",
+    "options": [
+      "A. 防火墙可以实现系统内外网边界的访问控制",
+      "B. VLAN技术可用于安全域划分",
+      "C. IDS/IPS能够对已知的网络攻击进行监控和报警",
+      "D. 网络安全审计主要通过防火墙进行"
+    ],
+    "answer": "D",
+    "explanation": "网络安全审计主要通过统一日志管理系统或安全运营中心（SOC）进行，通过部署SOC系统或统一的日志服务器，能够对网络安全日志进行统一管理和分析。防火墙主要用于访问控制，不是网络安全审计的主要手段。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "VLAN",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "VLAN",
+      "网络架构和主要技术",
+      "防火墙",
+      "IDS",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch07_q038",
+    "question": "在VXLAN技术中，VNI（VXLAN Network Identifier）由多少比特组成？",
+    "options": [
+      "A. 12比特",
+      "B. 16比特",
+      "C. 24比特",
+      "D. 32比特"
+    ],
+    "answer": "C",
+    "explanation": "VXLAN在其帧头中引入了类似VLAN ID的网络标识，称为VXLAN网络标识VNI，由24比特组成，理论上可支持多达16M的VXLAN段，满足了大规模不同用户之间的标识和隔离需求。传统的VLAN网络中，标准定义所支持的可用VLAN数量只有4094个。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "VLAN",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "VLAN",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q039",
+    "question": "5G核心网中，AMF的功能类似于4G核心网中的哪个网元？",
+    "options": [
+      "A. S-GW",
+      "B. P-GW",
+      "C. MME",
+      "D. HSS"
+    ],
+    "answer": "C",
+    "explanation": "接入及移动性管理功能（AMF）实现终端用户的接入和移动性管理，类似4G核心网中的MME（移动性管理实体）。S-GW负责媒体流处理及转发，P-GW承接原3G网络中GGSN的功能。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络架构和主要技术",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "G",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q040",
+    "question": "以下关于网络传输媒介的描述，哪项是不正确的？",
+    "options": [
+      "A. 有线媒介包括光纤、双绞线、同轴电缆等",
+      "B. 无线媒介一般按照波长来区分",
+      "C. 网络传输媒介处于OSI的物理层",
+      "D. 光纤属于无线传输媒介"
+    ],
+    "answer": "D",
+    "explanation": "光纤属于有线传输媒介（而非无线传输媒介）。网络传输媒介一般分为有线和无线两大类，有线媒介包括光纤、双绞线、同轴电缆等；无线媒介一般按照波长来区分，包括长波、中波、短波、超短波、微波等。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "OSI",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "OSI",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q041",
+    "question": "在机房监控系统中，以下哪项不属于典型的机房监控功能子系统？",
+    "options": [
+      "A. 机房动力环境系统监测",
+      "B. 机房网络设备监控",
+      "C. 机房人员考勤管理",
+      "D. 机房消防系统监控"
+    ],
+    "answer": "C",
+    "explanation": "典型的机房监控功能系统包括机房动力环境系统监测、机房网络设备监控等。机房动力环境系统监测涵盖动力系统、环境系统、消防系统、安保系统等。机房人员考勤管理不属于机房监控功能子系统。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "监控系统",
+    "knowledge_point": "监控系统",
+    "source_ref": "references/第7章_网络环境规划.md#监控系统",
+    "tags": [
+      "在机房监控系统中",
+      "监控系统"
+    ]
+  },
+  {
+    "id": "ch07_q042",
+    "question": "大型局域网规划中，STP（生成树协议）的目标是？",
+    "options": [
+      "A. 自动分配IP地址",
+      "B. 在逻辑上发现并阻断二层网络中存在的环路情况",
+      "C. 实现VLAN间路由",
+      "D. 进行网络性能监控"
+    ],
+    "answer": "B",
+    "explanation": "STP（Spanning Tree Protocol，生成树协议）的目标是在逻辑上发现并阻断二层网络中存在的环路情况，避免因为环路而导致的广播风暴给网络带来的灾难性后果。局域网规划中STP设计非常重要。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "局域网规划",
+    "knowledge_point": "VLAN",
+    "source_ref": "references/第7章_网络环境规划.md#局域网规划",
+    "tags": [
+      "VLAN",
+      "局域网规划"
+    ]
+  },
+  {
+    "id": "ch07_q043",
+    "question": "网络接入技术中，PON（无源光网络）的类型不包括以下哪项？",
+    "options": [
+      "A. EPON",
+      "B. GPON",
+      "C. 10G-PON",
+      "D. ADSL"
+    ],
+    "answer": "D",
+    "explanation": "PON（无源光网络）的类型包括EPON（以太网无源光网络）、GPON（千兆无源光网络）和10G-PON（10G无源光网络）。ADSL（非对称数字用户环路）是早期的有线接入技术，不属于PON的类型。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络接入技术中",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "网络接入技术中",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q044",
+    "question": "以下关于机房建设的描述，哪项是不正确的？",
+    "options": [
+      "A. 机房建设包括机房装修、空调系统、电气系统等",
+      "B. 机房建设需要考虑建设维护的性价比",
+      "C. 机房只需要满足基本的温度要求，不需要考虑湿度",
+      "D. 机房建设包括接地和防雷系统、消防系统等"
+    ],
+    "answer": "C",
+    "explanation": "机房因为通信设备的需求，必须保持恒温、恒湿及少尘的要求。机房建设包括机房装修、空调系统、电气系统、接地和防雷系统、消防系统、环境监控系统、节能降耗系统等。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "机房建设",
+    "knowledge_point": "机房建设的",
+    "source_ref": "references/第7章_网络环境规划.md#机房建设",
+    "tags": [
+      "机房建设的",
+      "机房建设"
+    ]
+  },
+  {
+    "id": "ch07_q045",
+    "question": "4G核心网EPC中，哪个网元负责移动性管理、信令处理等功能？",
+    "options": [
+      "A. S-GW",
+      "B. P-GW",
+      "C. MME",
+      "D. eNodeB"
+    ],
+    "answer": "C",
+    "explanation": "EPC核心网中，MME（移动性管理设备）负责移动性管理、信令处理等功能。S-GW负责媒体流处理及转发等功能，P-GW承接原3G网络中GGSN的功能。eNodeB是E-UTRAN中的基站设备。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络架构和主要技术",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "G",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q046",
+    "question": "在VLAN划分方法中，按照MAC地址划分VLAN的优点是？",
+    "options": [
+      "A. 定义VLAN成员时非常简单",
+      "B. 当用户物理位置移动时，VLAN不用重新配置",
+      "C. 效率最高",
+      "D. 适用于大规模局域网"
+    ],
+    "answer": "B",
+    "explanation": "按照MAC地址划分VLAN的最大优点是当用户物理位置移动时，即从一个交换机换到其他的交换机时，VLAN不用重新配置。缺点是初始化时所有的用户都必须进行配置，所以通常适用于小型局域网。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "VLAN",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "VLAN",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q047",
+    "question": "在OSI七层模型中，网络层的主要功能是？",
+    "options": [
+      "A. 规定物理硬件方法",
+      "B. 将比特流组织成数据包",
+      "C. 定义和规范不同网络间的通信规则，包括寻址和路由选择",
+      "D. 提供端到端的数据传输"
+    ],
+    "answer": "C",
+    "explanation": "网络层定义和规范了不同网络间的通信规则，包括寻址和路由选择，链路连接的建立、保持和终止等。物理层规定物理硬件方法，数据链路层将比特流组织成数据包，传输层提供端到端的数据传输。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "OSI",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "OSI",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q048",
+    "question": "以下哪项不属于网络管理五大功能？",
+    "options": [
+      "A. 故障管理",
+      "B. 配置管理",
+      "C. 变更管理",
+      "D. 安全管理"
+    ],
+    "answer": "C",
+    "explanation": "ISO定义的网络管理五大功能分别是故障管理、配置管理、性能管理、计费管理和安全管理。变更管理不属于网络管理五大功能。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "不属于网络管理五大功能",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "不属于网络管理五大功能",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q049",
+    "question": "关于企业广域网架构，以下哪项描述是不正确的？",
+    "options": [
+      "A. 中小型企业网一般设置企业网关/企业接口路由器设备",
+      "B. 大中型企业网一般分为核心层、汇聚层、接入层三层",
+      "C. 分支之间会租用运营商的VPN通道进行互联互通",
+      "D. 所有企业不论规模大小都必须采用三层架构"
+    ],
+    "answer": "D",
+    "explanation": "企业组网根据企业规模、是否有分支、企业信息化部署要求等方面的不同情况，实际部署网络架构会有所差异。对于中小型企业网，一般设置企业网关，核心层设置交换机设备即可，并非所有企业都必须采用三层架构。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络架构",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "网络架构",
+      "网络架构和主要技术",
+      "VPN",
+      "hard"
+    ]
+  },
+  {
+    "id": "ch07_q050",
+    "question": "5G系统采用的总线式微服务架构的优势是？",
+    "options": [
+      "A. 将所有功能集中在一个单一服务中",
+      "B. 将大型服务分解为若干个小型独立的服务，每个服务可以独立运行、扩展、开发和演化",
+      "C. 只能支持单一类型的业务",
+      "D. 不利于网络切片技术的实现"
+    ],
+    "answer": "B",
+    "explanation": "5G系统采用总线式的微服务架构，将大型服务分解为若干个小型独立的服务，每个服务可以独立运行、扩展、开发和演化。微服务架构的采用为5G核心网的维护和扩展提供了极大的便利性，也利于切片技术的实现。",
+    "chapter": "第7章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络架构和主要技术",
+    "knowledge_point": "网络架构和主要技术",
+    "source_ref": "references/第7章_网络环境规划.md#网络架构和主要技术",
+    "tags": [
+      "G",
+      "网络架构和主要技术"
+    ]
+  },
+  {
+    "id": "ch07_q051",
+    "question": "广域网规划中，网络性能指标不包括（ ）。",
+    "options": [
+      "A. 带宽",
+      "B. 延迟",
+      "C. 吞吐量",
+      "D. 设备价格"
+    ],
+    "answer": "D",
+    "explanation": "7.2.3 广域网规划的主要内容表明，网络性能指标包括带宽、延迟、吞吐量等， 设备价格不属于网络性能指标。所以选D。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "hard"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0065"
+  },
+  {
+    "id": "ch07_q052",
+    "question": "局域网规划中，对于一个大型企业网络，为了便于管理和维护，VLAN 通常按照( ) 进行划分。",
+    "options": [
+      "A. 部门",
+      "B. 地理位置",
+      "C. 设备类型",
+      "D. 应用程序"
+    ],
+    "answer": "A",
+    "explanation": "7.3.3 局域网规划重点关注的内容提到，对于大型企业网络，按照部门划分VLAN 便于管理和维护，因为同一部门的用户通常有相似的网络需求和安全策略。按地理 位 置划分在一些特定场景适用但管理关联性不如按部门；按设备类型和应用程序划分相对 较复杂且不利于整体管理。所以选A。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0186"
+  },
+  {
+    "id": "ch07_q053",
+    "question": "广域网中，多协议标记交换（MPLS）技术的标记分发协议不包括（ ）。",
+    "options": [
+      "A. LDP",
+      "B. CR - LDP",
+      "C. RSVP - T",
+      "D. D.BGP"
+    ],
+    "answer": "D",
+    "explanation": "7.2.2 广域网主要技术中提到，MPLS 的标记分发协议有标签分发协议（LDP）、 约束路由的标签分发协议（CR - LDP）和基于资源预留协议的流量工程（RSVP - TE）， 边界网关协议（BGP）是用于不同自治系统之间交换路由信息的，不属于MPLS 标记分 发协议。所以答案选D。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0088"
+  },
+  {
+    "id": "ch07_q054",
+    "question": "局域网规划中，为了提高网络的抗干扰能力，通常会采用（ ）类型的网线。",
+    "options": [
+      "A. 屏蔽双绞线",
+      "B. 非屏蔽双绞线",
+      "C. 同轴电缆",
+      "D. 光纤"
+    ],
+    "answer": "A",
+    "explanation": "7.3.3 局域网规划重点关注的内容提到，屏蔽双绞线在普通双绞线的基础上增加 了屏蔽层，能够有效减少外界电磁干扰，提高网络的抗干扰能力。非屏蔽双绞线成本低 但抗干扰能力相对较弱；同轴电缆现在使用较少；光纤抗干扰能力强但成本较高，一般 用于长距离和对带宽要求高的场景。所以选A。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0196"
+  },
+  {
+    "id": "ch07_q055",
+    "question": "网络传输平台中，软件定义广域网（SD - WAN）的核心优势不包括（ ）。",
+    "options": [
+      "A. 降低广域网建设和运营成本",
+      "B. 简化网络管理",
+      "C. 提高网络安全性",
+      "D. 增加网络设备数量"
+    ],
+    "answer": "D",
+    "explanation": "7.1.4 传输平台一般架构和主要技术提到，软件定义广域网（SD - WAN）的核心 优势包括降低广域网建设和运营成本、简化网络管理、提高网络安全性等，不会增加网 络设备数量。所以选D。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0060"
+  },
+  {
+    "id": "ch07_q056",
+    "question": "局域网规划重点关注内容中，VLAN 间路由设计的方式不包括（ ）。",
+    "options": [
+      "A. 使用二层交换机实现VLAN 路由",
+      "B. 直接使用多个物理接口实现VLAN 路由",
+      "C. 同一个物理接口中通过创建子接口实现VLAN 间路由",
+      "D. 使用三层交换机的VLAN 间路由"
+    ],
+    "answer": "A",
+    "explanation": "7.3.3 局域网规划重点关注的内容提到，VLAN 间路由设计一般有直接使用多个 物理接口实现VLAN 路由、同一个物理接口中通过创建子接口实现VLAN 间路由、使用 三层交换机的VLAN 间路由这三种方式，不包括使用二层交换机实现VLAN 路由。故 答案为A。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0012"
+  },
+  {
+    "id": "ch07_q057",
+    "question": "无线局域网中，无线客户端与AP 之间建立连接的过程不包括（ ）。",
+    "options": [
+      "A. 扫描",
+      "B. 认证",
+      "C. 关联",
+      "D. 加密"
+    ],
+    "answer": "D",
+    "explanation": "7.4.3 无线局域网技术提到，无线客户端与AP 之间建立连接的过程包括扫描、 认证、关联等步骤，加密是在连接建立后进行数据传输时采取的安全措施，不属于连接 建立过程。所以答案选D。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0097"
+  },
+  {
+    "id": "ch07_q058",
+    "question": "局域网规划中，为了实现网络的负载均衡，可采用的技术是( )",
+    "options": [
+      "A. 链路聚合",
+      "B. VLAN 划分",
+      "C. 静态路由",
+      "D. 防火墙部署"
+    ],
+    "answer": "A",
+    "explanation": "根据7.3.3 局域网规划重点关注的内容，链路聚合技术可以将多个物理链路 捆 绑成一个逻辑链路，增加链路带宽，同时还能实现网络的负载均衡，将数据流量均匀地 分配到多个物理链路上。VLAN 划分主要是用于隔离广播域和增强网络安全性；静态路 由 是一种手动配置的路由方式，用于确定数据包的转发路径；防火墙部署主要是为了 保护网络免受外部攻击，它们都不能直接实现网络的负载均衡。所以答案选A。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0204"
+  },
+  {
+    "id": "ch07_q059",
+    "question": "在广域网规划中，网络流量预测的方法不包括（ ）。",
+    "options": [
+      "A. 趋势外推法",
+      "B. 回归分析法",
+      "C. 经验估计法",
+      "D. 设备数量统计法"
+    ],
+    "answer": "D",
+    "explanation": "7.2.3 广域网规划的主要内容指出，网络流量预测方法有趋势外推法、回归分析 法、经验估计法等，设备数量统计法不能准确预测网络流量。所以答案选D。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0133"
+  },
+  {
+    "id": "ch07_q060",
+    "question": "5G 系统的网络切片可以根据（ ）进行定制。",
+    "options": [
+      "A. 应用场景的需求",
+      "B. 用户的地理位置",
+      "C. 用户的设备类型",
+      "D. 网络的拓扑结构"
+    ],
+    "answer": "A",
+    "explanation": "从7.4.1 4G/5G 移动通信技术可知，5G 系统的网络切片技术可以根据不同应用 场景的需求，如增强移动宽带（eMBB）、超高可靠低时延通信（URLLC）、海量机器类 通 信（mMTC）等，为其定制独立的虚拟网络，以满足不同场景对网络性能、可靠性、带宽 等方面的不同要求。用户的地理位置、设备类型和网络的拓扑结构并非网络切片定制的 主要依据。所以答案选A。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0232"
+  },
+  {
+    "id": "ch07_q061",
+    "question": "局域网规划中，划分VLAN 的作用不包括（ ）。",
+    "options": [
+      "A. 隔离广播域",
+      "B. 增强网络安全性",
+      "C. 提高网络带宽利用率",
+      "D. 简化网络拓扑结构"
+    ],
+    "answer": "D",
+    "explanation": "7.3.3 局域网规划重点关注的内容表明，划分VLAN 可以隔离广播域、增强网络 安全性、提高网络带宽利用率等，但并不能简化网络拓扑结构。所以选D。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0057"
+  },
+  {
+    "id": "ch07_q062",
+    "question": "5G 系统的超高可靠低时延通信（URLLC）场景主要应用于（ ）。",
+    "options": [
+      "A. 工业控制、远程医疗等",
+      "B. 高清视频、虚拟现实等",
+      "C. 智能抄表、环境监测等",
+      "D. 车联网、智能交通等"
+    ],
+    "answer": "A",
+    "explanation": "7.4.1 4G/5G 移动通信技术中提到，超高可靠低时延通信（URLLC）场景对可 靠 性和时延要求极高，主要应用于工业控制、远程医疗等领域。高清视频、虚拟现实等属 于增强移动宽带（eMBB）场景；智能抄表、环境监测等属于海量机器类通信（mMTC）场 景；车联网、智能交通有部分应用符合URLLC 但不是主要代表场景。所以选A。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0187"
+  },
+  {
+    "id": "ch07_q063",
+    "question": "网络管理系统中，故障管理的流程不包括（ ）。",
+    "options": [
+      "A. 故障监测",
+      "B. 故障诊断",
+      "C. 故障修复",
+      "D. 故障模拟"
+    ],
+    "answer": "D",
+    "explanation": "7.5.1 网络管理和维护功能设计中提到，故障管理流程包括故障监测、故障诊断、 故障修复等环节，故障模拟不属于故障管理的常规流程。所以答案选D。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0120"
+  },
+  {
+    "id": "ch07_q064",
+    "question": "5G 系统的海量机器类通信（mMTC）场景主要针对（ ）。",
+    "options": [
+      "A. 大量低功耗、低速率的物联网设备",
+      "B. 高速移动的终端设备",
+      "C. 高清视频、大数据传输",
+      "D. 工业自动化控制"
+    ],
+    "answer": "A",
+    "explanation": "7.4.1 4G/5G 移动通信技术中提到，海量机器类通信（mMTC）场景主要针对大量 低功耗、低速率的物联网设备，如智能抄表、环境监测等设备。高速移动的终端设备主 要对应增强移动宽带（eMBB）场景；高清视频、大数据传输也是eMBB 场景的需求；工 业自动化控制主要与超高可靠低时延通信（URLLC）场景相关。所以选A。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0197"
+  },
+  {
+    "id": "ch07_q065",
+    "question": "广域网规划中，网络可靠性设计不包括（ ）。",
+    "options": [
+      "A. 设备冗余设计",
+      "B. 链路冗余设计",
+      "C. 网络拓扑结构优化",
+      "D. 网络设备的外观设计"
+    ],
+    "answer": "D",
+    "explanation": "7.2.3 广域网规划的主要内容表明，网络可靠性设计包括设备冗余设计、链路冗 余设计、网络拓扑结构优化等，不涉及网络设备的外观设计。所以答案选D。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0076"
+  },
+  {
+    "id": "ch07_q066",
+    "question": "无线局域网中，802.11ax（Wi - Fi 6）标准相比802.11ac 标准，主要改进在于 ( ) 。",
+    "options": [
+      "A. 更高的传输速率和更好的多用户性能",
+      "B. 更广的覆盖范围",
+      "C. 更强的安全性",
+      "D. 更低的功耗"
+    ],
+    "answer": "A",
+    "explanation": "7.4.3 无线局域网技术提到，802.11ax（Wi - Fi 6）标准相比802.11ac 标 准， 主要改进在于支持更高的传输速率，并且在多用户场景下性能更好，能够更高效地为多 个客户端提供服务。它在覆盖范围、安全性和功耗方面虽可能有一定提升，但不是主要 改进点。所以答案选A。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0169"
+  },
+  {
+    "id": "ch07_q067",
+    "question": "局域网规划中，VLAN 的划分原则不包括（ ）。",
+    "options": [
+      "A. 按部门划分",
+      "B. 按功能划分",
+      "C. 按地理位置划分",
+      "D. 按设备价格划分"
+    ],
+    "answer": "D",
+    "explanation": "7.3.3 局域网规划重点关注的内容提到，VLAN 的划分原则通常有按部门划分、按 功能划分、按地理位置划分等，不按设备价格划分。所以选D。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0105"
+  },
+  {
+    "id": "ch07_q068",
+    "question": "综合布线系统中，垂直干线子系统通常采用（ ）作为传输介质。",
+    "options": [
+      "A. 光纤或大对数双绞线",
+      "B. 五类或六类双绞线",
+      "C. 同轴电缆",
+      "D. 无线传输"
+    ],
+    "answer": "A",
+    "explanation": "根据7.5.4 综合布线，垂直干线子系统用于连接建筑物内不同楼层的配线间， 需要支持较高的带宽和较长的传输距离，通常采用光纤或大对数双绞线作为传输介质。 五类或六类双绞线一般用于水平子系统；同轴电缆在现代综合布线中使用较少；无线传 输一般不用于垂直干线子系统这种需要稳定高速传输的场景。所以答案选A。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0226"
+  },
+  {
+    "id": "ch07_q069",
+    "question": "网络规划中，总线网络拓扑的缺点不包括（ ）。",
+    "options": [
+      "A. 稳定性较差",
+      "B. 网络范围受到限制",
+      "C. 故障诊断困难",
+      "D. 成本较高"
+    ],
+    "answer": "D",
+    "explanation": "7.1.5 网络规划常见网络拓扑结构提到，总线网络拓扑稳定性较差，网络范围受 到限制，故障诊断困难，但其所需传输链路少，成本较低。所以选D。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0075"
+  },
+  {
+    "id": "ch07_q070",
+    "question": "以下网络拓扑结构中，构建最简单、成本最低的是( )",
+    "options": [
+      "A. 总线网络拓扑",
+      "B. 环形网络拓扑",
+      "C. 星形网络拓扑",
+      "D. 网状网络拓扑"
+    ],
+    "answer": "A",
+    "explanation": "7.1.5 网络规划常见网络拓扑结构指出，总线网络拓扑只需要一条共享的传输总 线，所有节点连接到该总线上，构建最简单，所需的线缆和设备较少，成本最低。环形 网络拓扑需要形成一个闭合的环路，建设相对复杂；星形网络拓扑需要中心节点设备， 成本相对较高；网状网络拓扑建设成本最高且结构最复杂。所以答案选A。",
+    "chapter": "第7章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "网络环境规划",
+    "knowledge_point": "网络环境规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第7章",
+    "tags": [
+      "网络环境规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch07_0236"
+  }
+]

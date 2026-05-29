@@ -1,0 +1,49 @@
+{
+  "source": "01.2025系规学习指南（第2版）",
+  "note": "由图片资料人工结构化整理；考试时间和分值预测仅作备考参考，应以官方通知和当次试卷为准。",
+  "exam_schedule": {
+    "qualification": "系统规划与管理师",
+    "level": "高级",
+    "predicted_2025_h2_dates": "11月9-10日，1-2批次考试",
+    "pass_score": 45,
+    "full_score": 75,
+    "subjects": [
+      {"name": "综合知识", "content": "75道单选题", "duration_minutes": 150, "time_window": "上午8:30-12:30"},
+      {"name": "案例分析", "content": "3道案例分析，题型可能含问答、核心判断、填空、选择等", "duration_minutes": 90, "time_window": "上午8:30-12:30"},
+      {"name": "论文写作", "content": "2道论文题，选1道，约2500-3000字", "duration_minutes": 120, "time_window": "下午14:30-16:30"}
+    ],
+    "rules": [
+      "综合知识和案例分析2个科目连考，作答总时长240分钟。",
+      "综合知识最长作答150分钟，最短作答120分钟。",
+      "综合知识交卷成功后可选择离场或继续作答案例分析。",
+      "考试结束前60分钟可以交卷离场。",
+      "论文科目120分钟，不得提前交卷离场。"
+    ]
+  },
+  "chapter_priorities": [
+    {"chapter": 1, "title": "信息系统与信息技术发展", "part": "第一篇基础篇", "choice_score": "4-5", "case": false, "paper": false, "importance": 2, "advice": "1.2和1.3节是重点，知识点多读多看，配合刷题巩固。"},
+    {"chapter": 2, "title": "数字中国与数智化发展", "part": "第一篇基础篇", "choice_score": "3-4", "case": false, "paper": false, "importance": 1, "advice": "概念为主，建议多读教材原文，可能会考教材之外的知识。"},
+    {"chapter": 3, "title": "科学与哲学方法论", "part": "第一篇基础篇", "choice_score": "2-3", "case": false, "paper": false, "importance": 1, "advice": "理解各种系统科学和哲学方法论及其应用，区分理论差异。"},
+    {"chapter": 4, "title": "信息系统规划", "part": "第二篇方法篇", "choice_score": "3-4", "case": true, "paper": true, "importance": 3, "advice": "掌握规划内容、原则、工作要点和常用方法，案例默写概率较高。"},
+    {"chapter": 5, "title": "应用系统规划", "part": "第二篇方法篇", "choice_score": "3-4", "case": true, "paper": true, "importance": 3, "advice": "核心章节，重点学习5.2、5.3、5.4小节，案例和论文都可能考。"},
+    {"chapter": 6, "title": "云资源规划", "part": "第二篇方法篇", "choice_score": "3-4", "case": true, "paper": true, "importance": 3, "advice": "核心章节，重点学习6.1、6.3、6.4小节，案例和论文都可能考。"},
+    {"chapter": 7, "title": "网络环境规划", "part": "第二篇方法篇", "choice_score": "3-4", "case": true, "paper": true, "importance": 3, "advice": "核心章节，重点学习7.5网络整体规划重点事项，论文较难写。"},
+    {"chapter": 8, "title": "数据资源规划", "part": "第二篇方法篇", "choice_score": "3-4", "case": true, "paper": true, "importance": 3, "advice": "核心章节，重点学习8.2-8.5小节，案例可能考规划方法、标准和管理。"},
+    {"chapter": 9, "title": "信息安全规划", "part": "第二篇方法篇", "choice_score": "3-4", "case": true, "paper": true, "importance": 3, "advice": "核心章节，重点学习9.3信息安全规划主要内容。"},
+    {"chapter": 10, "title": "云原生系统规划", "part": "第二篇方法篇", "choice_score": "3-4", "case": true, "paper": true, "importance": 3, "advice": "核心章节，重点学习10.3云原生建设规划主要内容。"},
+    {"chapter": 11, "title": "信息系统治理", "part": "第三篇能力篇", "choice_score": "3-4", "case": true, "paper": true, "importance": 4, "advice": "核心章节，管理概念多，考教材原话概率高。"},
+    {"chapter": 12, "title": "信息系统服务管理", "part": "第三篇能力篇", "choice_score": "4-6", "case": true, "paper": true, "importance": 4, "advice": "核心章节、重中之重，是旧版系规核心知识汇总沉淀，可能考得很细。"},
+    {"chapter": 13, "title": "人员管理", "part": "第三篇能力篇", "choice_score": "3-4", "case": true, "paper": true, "importance": 4, "advice": "核心章节，可对照高项组织通用管理第1小节理解。"},
+    {"chapter": 14, "title": "规划与过程管理", "part": "第三篇能力篇", "choice_score": "3-4", "case": true, "paper": true, "importance": 4, "advice": "核心章节，强调服务管理中的流程规范化。"},
+    {"chapter": 15, "title": "技术与研发管理", "part": "第三篇能力篇", "choice_score": "3-4", "case": true, "paper": true, "importance": 4, "advice": "核心章节、重中之重，是旧版技术要素管理核心知识汇总沉淀。"},
+    {"chapter": 16, "title": "资源与工具管理", "part": "第三篇能力篇", "choice_score": "3-4", "case": true, "paper": true, "importance": 4, "advice": "关注软件开发工具、管理工具、测试工具、运维工具。"},
+    {"chapter": 17, "title": "信息系统项目管理", "part": "第三篇能力篇", "choice_score": "3-4", "case": true, "paper": true, "importance": 4, "advice": "与高项第6章内容相似，重点记忆项目管理基础知识。"},
+    {"chapter": 18, "title": "智慧城市发展规划", "part": "第四篇实践篇", "choice_score": "1-2", "case": true, "paper": false, "importance": 2, "advice": "关注发展规划要点、系统架构和实践案例。"},
+    {"chapter": 19, "title": "智慧园区发展规划", "part": "第四篇实践篇", "choice_score": "1-2", "case": true, "paper": false, "importance": 2, "advice": "关注发展规划要点、系统架构和实践案例。"},
+    {"chapter": 20, "title": "数字乡村发展规划", "part": "第四篇实践篇", "choice_score": "1-2", "case": true, "paper": false, "importance": 2, "advice": "关注发展规划要点、系统架构和实践案例。"},
+    {"chapter": 21, "title": "企业数字化转型发展规划", "part": "第四篇实践篇", "choice_score": "1-2", "case": true, "paper": false, "importance": 2, "advice": "关注发展规划要点、系统架构和实践案例。"},
+    {"chapter": 22, "title": "智能制造发展规划", "part": "第四篇实践篇", "choice_score": "1-2", "case": true, "paper": false, "importance": 2, "advice": "关注发展规划要点、系统架构和实践案例。"},
+    {"chapter": 23, "title": "新型消费系统规划", "part": "第四篇实践篇", "choice_score": "1-2", "case": true, "paper": false, "importance": 2, "advice": "关注发展规划要点、系统架构和实践案例。"},
+    {"chapter": 24, "title": "法律法规和标准规范", "part": "第四篇实践篇", "choice_score": "1-2", "case": true, "paper": false, "importance": 2, "advice": "教材读2遍，法规条款多读多看，配合刷题巩固。"}
+  ]
+}

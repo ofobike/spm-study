@@ -1,0 +1,149 @@
+{
+  "version": "2025-v2",
+  "source_category": "07.2025系规论文专题（第2版）",
+  "status": "structured_reference",
+  "index_file": "references/internal/paper-special/index.md",
+  "documents": [
+    {
+      "id": "paper_guidance",
+      "title": "论文学习建议与注意事项",
+      "type": "guidance",
+      "markdown": "references/internal/paper-special/01-论文学习建议与注意事项.md",
+      "pages": 22,
+      "use_for": ["考情判断", "评分标准", "扣分风险", "写作避坑", "改稿优先级"]
+    },
+    {
+      "id": "paper_framework",
+      "title": "论文框架与格式",
+      "type": "framework",
+      "markdown": "references/internal/paper-special/02-论文框架与格式.md",
+      "pages": 20,
+      "use_for": ["角色定位", "摘要模板", "正文结构", "甲乙方视角", "字数与时间控制"]
+    },
+    {
+      "id": "sample_government",
+      "title": "信息系统规划论文-政务",
+      "type": "sample",
+      "topic": "信息系统规划",
+      "scenario": "政务",
+      "markdown": "references/internal/paper-special/03-信息系统规划论文-政务.md",
+      "pages": 4,
+      "use_for": ["政务信息化", "数据孤岛", "一网通办", "持续改进"]
+    },
+    {
+      "id": "sample_hospital",
+      "title": "信息系统规划论文-医院",
+      "type": "sample",
+      "topic": "信息系统规划",
+      "scenario": "医院",
+      "markdown": "references/internal/paper-special/03-信息系统规划论文-医院.md",
+      "pages": 5,
+      "use_for": ["医疗信息化", "业务协同", "数据治理", "服务能力提升"]
+    },
+    {
+      "id": "sample_manufacturing",
+      "title": "信息系统规划论文-制造",
+      "type": "sample",
+      "topic": "信息系统规划",
+      "scenario": "制造",
+      "markdown": "references/internal/paper-special/03-信息系统规划论文-制造.md",
+      "pages": 7,
+      "use_for": ["制造业数字化", "生产协同", "系统整合", "智能制造基础"]
+    }
+  ],
+  "rubric": {
+    "source": "references/internal/paper-special/01-论文学习建议与注意事项.md",
+    "score_scale": {
+      "exam_full_score": 75,
+      "automation_full_score": 100,
+      "conversion": "automation_score * 0.75"
+    },
+    "dimensions": [
+      {
+        "name": "切合题意",
+        "weight": 30,
+        "checkpoints": ["紧扣题目关键词", "回应全部子题目", "摘要和正文首段明确主题边界"]
+      },
+      {
+        "name": "应用深度与水平",
+        "weight": 20,
+        "checkpoints": ["植入教材方法论", "说明独立工作能力", "体现理论到实践的转化"]
+      },
+      {
+        "name": "实践性",
+        "weight": 20,
+        "checkpoints": ["项目背景可信", "本人职责明确", "措施可执行且有现场细节"]
+      },
+      {
+        "name": "表达能力",
+        "weight": 15,
+        "checkpoints": ["逻辑清晰", "表达严谨", "条理分明", "避免错别字和病句"]
+      },
+      {
+        "name": "综合能力与分析能力",
+        "weight": 15,
+        "checkpoints": ["问题分析全面", "方案论证充分", "能总结经验和持续改进"]
+      }
+    ],
+    "deductions": [
+      "摘要缺失、过短或没有实质内容",
+      "正文只按条目罗列，缺少项目叙事",
+      "过分自我吹嘘或夸大其词",
+      "内容有明显错误或漏洞",
+      "项目背景水平过低或像学生实习"
+    ],
+    "fatal_risks": [
+      "虚构情节或明显不可信",
+      "主要从书本资料摘录，缺少实际经验",
+      "内容不切题或空泛",
+      "正文与摘要篇幅过短，尤其正文少于1500字",
+      "文理不通、错别字多、思路混乱"
+    ]
+  },
+  "framework": {
+    "source": "references/internal/paper-special/02-论文框架与格式.md",
+    "role_logic": "用管理思维落地规划，用规划视角优化管理",
+    "role_guidance": [
+      "规划类题目优先采用甲方视角，强调战略落地、总体蓝图和路线图。",
+      "管理类题目可采用乙方或运维服务视角，强调合同边界、服务质量和持续改进。",
+      "同一篇论文中角色、职责、权力边界要前后一致。"
+    ],
+    "abstract": {
+      "target_chars": "200-300",
+      "must_include": ["项目背景", "本人角色", "核心方法", "关键措施", "量化效果"]
+    },
+    "body": {
+      "target_chars": "2200-2500",
+      "time_budget": "90分钟左右",
+      "sections": [
+        "背景介绍：项目背景、目标、组织结构、服务对象、交付成果和本人职责",
+        "理论认识：围绕题目要求解释特点、原则、方法或管理机制",
+        "具体做法：结合项目写规划、实施、治理、安全、数据、资源和组织保障",
+        "效果总结：用量化指标、风险处置、经验教训和持续改进收束"
+      ]
+    }
+  },
+  "samples": [
+    {
+      "topic": "信息系统规划",
+      "scenario": "政务",
+      "markdown": "references/internal/paper-special/03-信息系统规划论文-政务.md",
+      "prompt_focus": ["信息系统规划特点与原则", "任务体系部署", "持续改进"],
+      "best_for": "政务服务、一网通办、数据共享和公共治理场景"
+    },
+    {
+      "topic": "信息系统规划",
+      "scenario": "医院",
+      "markdown": "references/internal/paper-special/03-信息系统规划论文-医院.md",
+      "prompt_focus": ["信息系统规划特点与原则", "任务体系部署", "持续改进"],
+      "best_for": "医院信息化、业务协同、医疗数据治理和服务质量提升场景"
+    },
+    {
+      "topic": "信息系统规划",
+      "scenario": "制造",
+      "markdown": "references/internal/paper-special/03-信息系统规划论文-制造.md",
+      "prompt_focus": ["信息系统规划特点与原则", "任务体系部署", "持续改进"],
+      "best_for": "制造业数字化、系统整合、生产协同和智能制造基础场景"
+    }
+  ]
+}

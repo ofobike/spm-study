@@ -1,0 +1,1688 @@
+[
+  {
+    "id": "ch21_q001",
+    "question": "根据我国数字化转型的发展历程，以下哪个阶段不是文中提到的三大阶段之一？",
+    "options": [
+      "A. 以计算机和信息通信技术驱动的信息化发展阶段",
+      "B. 以\"互联网+\"驱动的数字化转型阶段",
+      "C. 以区块链技术驱动的去中心化转型阶段",
+      "D. 以大数据、人工智能等新一代信息技术驱动的数字化转型阶段"
+    ],
+    "answer": "C",
+    "explanation": "文中明确指出我国的数字化转型大致经历了三大阶段：①以计算机和信息通信技术驱动的信息化发展阶段；②以\"互联网+\"驱动的数字化转型阶段；③以大数据、人工智能等新一代信息技术驱动的数字化转型阶段。不包含区块链驱动的去中心化转型阶段。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "数字化转型成熟度模型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#数字化转型成熟度模型",
+    "tags": [
+      "数字化转型",
+      "数字化转型成熟度模型"
+    ]
+  },
+  {
+    "id": "ch21_q002",
+    "question": "在企业数字化转型的关注焦点中，\"客户中心\"方面提到的数字化转型应用场景不包括以下哪项？",
+    "options": [
+      "A. 数字化管理",
+      "B. 平台化设计",
+      "C. 集中化管控",
+      "D. 个性化定制"
+    ],
+    "answer": "C",
+    "explanation": "文中指出企业需要重点关注数字化管理、平台化设计、个性化定制、网络化协同、智能化生产和服务化延伸等数字化转型应用场景，不包括\"集中化管控\"。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型关注焦点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型关注焦点",
+    "tags": [
+      "数字化转型",
+      "转型关注焦点"
+    ]
+  },
+  {
+    "id": "ch21_q003",
+    "question": "根据GB/T 43439-2023《信息技术服务数字化转型成熟度模型与评估》，企业数字化转型的能力域不包括以下哪一项？",
+    "options": [
+      "A. 组织",
+      "B. 技术",
+      "C. 文化",
+      "D. 数据"
+    ],
+    "answer": "C",
+    "explanation": "该国家标准给出的能力域包括组织、技术、数据、资源、数字化运营、数字化生产和数字化服务七个方面，不包括\"文化\"。文化属于新型文化关注焦点，但不属于成熟度模型的能力域。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "转型关注焦点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型关注焦点",
+    "tags": [
+      "数字化转型",
+      "转型关注焦点",
+      "成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q004",
+    "question": "企业数字化转型成熟度等级共分为几个等级？",
+    "options": [
+      "A. 三个",
+      "B. 四个",
+      "C. 五个",
+      "D. 六个"
+    ],
+    "answer": "C",
+    "explanation": "文中明确指出数字化转型成熟度等级可分为五个等级，自低向高分别为一级、二级、三级、四级和五级。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型能力成熟度",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型能力成熟度",
+    "tags": [
+      "数字化转型",
+      "转型能力成熟度",
+      "成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q005",
+    "question": "在企业数字化转型的\"数智赋能\"关注焦点中，以下哪项不属于文中提到的主要场景？",
+    "options": [
+      "A. 泛在互联",
+      "B. 数据驱动",
+      "C. 流程再造",
+      "D. 软件定义"
+    ],
+    "answer": "C",
+    "explanation": "文中指出数智赋能相关的主要场景包括泛在互联、数据驱动、软件定义和平台支撑四个方面，\"流程再造\"不在其中。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型关注焦点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型关注焦点",
+    "tags": [
+      "数字化转型",
+      "转型关注焦点",
+      "数智赋能"
+    ]
+  },
+  {
+    "id": "ch21_q006",
+    "question": "在企业数字化转型成熟度建设中，数据能力域下的\"数据业务化\"方面，成熟度五级的要求是（）。",
+    "options": [
+      "A. 具备数据业务化的意识",
+      "B. 识别数据业务化的需求并及时响应",
+      "C. 基于数据资产运营管理，形成新型数据业务",
+      "D. 基于数据资产价值的持续提升，实现业务变革"
+    ],
+    "answer": "D",
+    "explanation": "成熟度五级在数据业务化方面的要求是：基于数据资产价值的持续提升，实现业务变革。A为一级，B为二级，C为四级。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型能力成熟度",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型能力成熟度",
+    "tags": [
+      "数字化转型",
+      "转型能力成熟度",
+      "成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q007",
+    "question": "关于企业数字化转型的驱动力，以下哪项不属于\"时代演进驱动力\"的内容？",
+    "options": [
+      "A. 消费重塑",
+      "B. 产业调整",
+      "C. 基础设施升级",
+      "D. 绿色低碳"
+    ],
+    "answer": "C",
+    "explanation": "时代演进驱动力包括消费重塑、产业调整、劳动供给、绿色低碳、发展格局五方面。\"基础设施升级\"属于\"技术资源驱动力\"的范畴。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型驱动力",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型驱动力",
+    "tags": [
+      "数字化转型",
+      "转型驱动力"
+    ]
+  },
+  {
+    "id": "ch21_q008",
+    "question": "在企业数字化转型的数字人才体系中，\"数字应用人才\"主要是指（）。",
+    "options": [
+      "A. 引领企业开展数字化转型的决策者，如首席执行官、首席数据官等",
+      "B. 推动数字技术与企业业务深度融合与创新的管理者或业务骨干",
+      "C. 信息数字技术领域的专业技术人员，如软硬件工程师等",
+      "D. 负责数字化转型项目管理和实施的项目经理"
+    ],
+    "answer": "B",
+    "explanation": "文中明确指出数字应用人才是指推动数字技术与企业业务深度融合与创新的管理者或业务骨干，如战略、营销、财务、人力资源等业务核心人员。A描述的是数字化领导者，C描述的是数字技术人才。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型的规划要点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型的规划要点",
+    "tags": [
+      "数字化转型",
+      "转型的规划要点"
+    ]
+  },
+  {
+    "id": "ch21_q009",
+    "question": "企业数字化转型的关注焦点大部分集中在四个方面，以下不属于这四个方面的是（）。",
+    "options": [
+      "A. 客户中心",
+      "B. 数智赋能",
+      "C. 信息安全",
+      "D. 新型文化"
+    ],
+    "answer": "C",
+    "explanation": "企业数字化转型的关注焦点大部分集中在客户中心、数智赋能、敏捷组织、新型文化等方面。信息安全不属于企业数字化转型的关注焦点。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型关注焦点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型关注焦点",
+    "tags": [
+      "数字化转型",
+      "转型关注焦点",
+      "数智赋能"
+    ]
+  },
+  {
+    "id": "ch21_q010",
+    "question": "消费重塑驱动企业变革的主要表现不包括以下哪项？（）",
+    "options": [
+      "A. 更小的生产批量",
+      "B. 更好的定制化体验服务",
+      "C. 更长的产品生命周期",
+      "D. 更短的生产周期"
+    ],
+    "answer": "C",
+    "explanation": "消费重塑驱动企业变革的主要表现为：更小的生产批量、更好的定制化体验服务、更短的产品生命周期或生产周期。不是更长的产品生命周期。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型驱动力",
+    "knowledge_point": "转型驱动力",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型驱动力",
+    "tags": [
+      "消费重塑驱动企业变革的表",
+      "转型驱动力"
+    ]
+  },
+  {
+    "id": "ch21_q011",
+    "question": "在企业数字化转型的\"敏捷组织\"关注焦点中，以下不属于主要场景的是（）。",
+    "options": [
+      "A. 业务自组织",
+      "B. 灵活机动",
+      "C. 集中化管理",
+      "D. 战略重塑"
+    ],
+    "answer": "C",
+    "explanation": "企业敏捷组织建设需要重点关注业务自组织、灵活机动、资源共享和战略重塑等方面。集中化管理不属于敏捷组织的场景。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型关注焦点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型关注焦点",
+    "tags": [
+      "数字化转型",
+      "转型关注焦点"
+    ]
+  },
+  {
+    "id": "ch21_q012",
+    "question": "在企业数字化转型的\"新型文化\"关注焦点中，以下不属于主要场景的是（）。",
+    "options": [
+      "A. 拥抱变革",
+      "B. 开放合作",
+      "C. 专用纪律",
+      "D. 数字素养"
+    ],
+    "answer": "C",
+    "explanation": "企业在新时代企业文化建设中，需要关注拥抱变革、开放合作、人本精神、全员使命和数字素养等主要场景。专用纪律不属于新型文化的场景。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型关注焦点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型关注焦点",
+    "tags": [
+      "数字化转型",
+      "转型关注焦点"
+    ]
+  },
+  {
+    "id": "ch21_q013",
+    "question": "在企业数字化转型中，VUCA特征不包括以下哪项？（）",
+    "options": [
+      "A. 不稳定（Volatile）",
+      "B. 不确定（Uncertain）",
+      "C. 简单（Simple）",
+      "D. 模糊（Ambiguous）"
+    ],
+    "answer": "C",
+    "explanation": "VUCA特征包括不稳定（Volatile）、不确定（Uncertain）、复杂（Complex）、模糊（Ambiguous）。不包括简单（Simple）。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型成熟度模型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#数字化转型成熟度模型",
+    "tags": [
+      "数字化转型",
+      "数字化转型成熟度模型"
+    ]
+  },
+  {
+    "id": "ch21_q014",
+    "question": "在企业数字化转型中，数据要素驱动力的核心是（）。",
+    "options": [
+      "A. 数据资产作为核心战略生产要素",
+      "B. 专用数据的收集",
+      "C. 传统纸质档案管理",
+      "D. 人工经验判断"
+    ],
+    "answer": "A",
+    "explanation": "面对数字化转型带来的新一轮发展机遇，数据资产作为核心战略生产要素越来越受到重视，正逐步渗透到企业经营管理与业务活动的各环节。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型驱动力",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型驱动力",
+    "tags": [
+      "数字化转型",
+      "转型驱动力"
+    ]
+  },
+  {
+    "id": "ch21_q015",
+    "question": "在企业数字化转型中，自我提升驱动力面临的问题不包括以下哪项？（）",
+    "options": [
+      "A. 决策瓶颈",
+      "B. 变革制约",
+      "C. 知识资产流失",
+      "D. 外部威胁"
+    ],
+    "answer": "D",
+    "explanation": "自我提升驱动力面临的问题包括：决策瓶颈、变革制约、知识资产流失、需求响应延迟等。外部威胁不属于企业自我提升驱动力面临的问题。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型驱动力",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型驱动力",
+    "tags": [
+      "数字化转型",
+      "转型驱动力"
+    ]
+  },
+  {
+    "id": "ch21_q016",
+    "question": "在企业数字化转型的组织能力域中，成熟度一级在组织建设方面的要求是（）。",
+    "options": [
+      "A. 建立统筹数字化转型的团队",
+      "B. 明确数字化转型相关职责，配备数字化转型所需的人员",
+      "C. 将数字化转型相关考核与其日常考核进行充分融合",
+      "D. 以量化的手段实施人才梯队建设"
+    ],
+    "answer": "B",
+    "explanation": "成熟度一级在组织建设方面，企业需要明确数字化转型相关职责，配备数字化转型所需的人员，积极培育全员的数字意识，并有效识别数字转型所需要的关键人才等。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型能力成熟度",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型能力成熟度",
+    "tags": [
+      "数字化转型",
+      "转型能力成熟度",
+      "成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q017",
+    "question": "在企业数字化转型的技术能力域中，成熟度五级在技术创新方面的要求是（）。",
+    "options": [
+      "A. 关注成员的数字创新意识",
+      "B. 主动考虑信息数字技术在各类业务转型升级中的使用",
+      "C. 实现基于数据模型共享的新业态或新模式快速迭代",
+      "D. 将信息数字技术纳入关键发展驱动因素"
+    ],
+    "answer": "C",
+    "explanation": "成熟度五级在技术创新方面，企业需要实现基于数据模型共享的新业态或新模式快速迭代，并驱动创新与融合的信息数字技术，在产业或行业发展与重构中的应用。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型能力成熟度",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型能力成熟度",
+    "tags": [
+      "数字化转型",
+      "转型能力成熟度",
+      "成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q018",
+    "question": "在企业数字化转型的资源能力域中，成熟度一级在资金方面的要求是（）。",
+    "options": [
+      "A. 安排专项资金保障数字化转型需求的实现",
+      "B. 针对数字化转型战略明确相关活动的资金计划",
+      "C. 基于所处行业特点定义资金投入及管控机制",
+      "D. 通过资金精细化管理管控数字化转型资金的高效应用"
+    ],
+    "answer": "A",
+    "explanation": "成熟度一级在资金方面，企业需要安排专项资金保障数字化转型需求的实现。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型能力成熟度",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型能力成熟度",
+    "tags": [
+      "数字化转型",
+      "转型能力成熟度",
+      "成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q019",
+    "question": "在企业数字化转型的数字化运营能力域中，成熟度三级在数字化营销方面的要求是（）。",
+    "options": [
+      "A. 使用信息数字技术手段进行客户需求管理",
+      "B. 通过信息数字技术手段制/修订营销计划",
+      "C. 基于对市场和客户数据的分析指导营销活动",
+      "D. 统一管理所有营销方式并预测客户需求"
+    ],
+    "answer": "C",
+    "explanation": "成熟度三级在数字化营销方面，企业需要基于对市场和客户数据的分析，指导营销活动，并能够基于客户满意度，优化客户交互规范。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型能力成熟度",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型能力成熟度",
+    "tags": [
+      "数字化转型",
+      "转型能力成熟度",
+      "成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q020",
+    "question": "企业数字化转型规划管控活动不包括以下哪项？（）",
+    "options": [
+      "A. 组织",
+      "B. 宣教",
+      "C. 人员培训",
+      "D. 成果"
+    ],
+    "answer": "C",
+    "explanation": "企业数字化转型规划管控活动需要从组织、宣教、目标、过程和成果等方面实施有力的管控。人员培训不属于数字化转型规划管控活动。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型的规划要点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型的规划要点",
+    "tags": [
+      "数字化转型",
+      "转型的规划要点"
+    ]
+  },
+  {
+    "id": "ch21_q021",
+    "question": "在定义数字化蓝图时，以下不属于需要做到的方面的是（）。",
+    "options": [
+      "A. 目标长远",
+      "B. 战略高度",
+      "C. 成本优先",
+      "D. 拥抱数字"
+    ],
+    "answer": "C",
+    "explanation": "定义数字化蓝图需要企业能够做到目标长远、战略高度、拥抱数字、顺势而为等。成本优先不属于定义数字化蓝图的要求。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型的规划要点",
+    "knowledge_point": "数字化蓝图",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型的规划要点",
+    "tags": [
+      "数字化蓝图",
+      "转型的规划要点"
+    ]
+  },
+  {
+    "id": "ch21_q022",
+    "question": "在企业数字化转型中，技术资源驱动力不包括以下哪项？（）",
+    "options": [
+      "A. 技术突破应用",
+      "B. 基础设施升级",
+      "C. 信息技术发展",
+      "D. 计算能力提升"
+    ],
+    "answer": "C",
+    "explanation": "技术资源驱动力包括技术突破应用和基础设施升级等方面。信息技术发展不属于企业数字化转型的技术资源驱动力。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型驱动力",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型驱动力",
+    "tags": [
+      "数字化转型",
+      "转型驱动力"
+    ]
+  },
+  {
+    "id": "ch21_q023",
+    "question": "在企业数字化转型中，政策金融驱动力不包括以下哪项？（）",
+    "options": [
+      "A. 国际政策",
+      "B. 国家层面政策",
+      "C. 财政金融方面",
+      "D. 政策规范"
+    ],
+    "answer": "D",
+    "explanation": "政策金融驱动力包括国际方面、国家层面、财政金融方面等。政策规范不属于企业数字化转型的政策金融驱动力。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型驱动力",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型驱动力",
+    "tags": [
+      "数字化转型",
+      "转型驱动力"
+    ]
+  },
+  {
+    "id": "ch21_q024",
+    "question": "在企业数字化转型中，\"客户中心\"关注焦点中，（）是指通过客户交互定制平台和资源平台为客户提供个性化定制体验。",
+    "options": [
+      "A. 数字化管理",
+      "B. 平台化设计",
+      "C. 个性化定制",
+      "D. 网络化协同"
+    ],
+    "answer": "C",
+    "explanation": "个性化定制是面对更加多样化、个性化及快速变化的客户需求，通过客户交互定制平台和资源平台为客户提供个性化定制体验。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型关注焦点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型关注焦点",
+    "tags": [
+      "数字化转型",
+      "转型关注焦点"
+    ]
+  },
+  {
+    "id": "ch21_q025",
+    "question": "在企业数字化转型中，\"数智赋能\"关注焦点中，（）是构建数据自由流动的规则体系。",
+    "options": [
+      "A. 泛在互联",
+      "B. 数据驱动",
+      "C. 软件定义",
+      "D. 平台支撑"
+    ],
+    "answer": "C",
+    "explanation": "软件定义的核心是实现\"硬件资源的软件化、软件资源的模组化\"，提升资源的弹性和灵活性。软件是构建数据自由流动的规则体系。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型关注焦点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型关注焦点",
+    "tags": [
+      "数字化转型",
+      "转型关注焦点",
+      "数智赋能"
+    ]
+  },
+  {
+    "id": "ch21_q026",
+    "question": "在企业数字化转型中，劳动供给变化不包括以下哪项？（）",
+    "options": [
+      "A. 劳动力供给量出现拐点",
+      "B. 劳动力结构发生变化",
+      "C. 劳动力成本的提升",
+      "D. 劳动力数量无限增加"
+    ],
+    "answer": "D",
+    "explanation": "劳动供给变化包括：劳动力供给量出现拐点、劳动力结构发生变化、劳动力成本的提升等。劳动力数量并非无限增加，而是人口红利逐渐消退。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型成熟度模型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#数字化转型成熟度模型",
+    "tags": [
+      "数字化转型",
+      "数字化转型成熟度模型"
+    ]
+  },
+  {
+    "id": "ch21_q027",
+    "question": "在企业数字化转型中，\"绿色低碳\"驱动力的核心是（）。",
+    "options": [
+      "A. 增加碳排放",
+      "B. \"双碳\"目标是实现可持续发展的关键",
+      "C. 扩大化石能源使用",
+      "D. 忽视环境保护"
+    ],
+    "answer": "B",
+    "explanation": "\"双碳\"目标是实现可持续发展的关键，企业数字化转型是实现\"双碳\"目标的有效手段。数字化转型能够推动企业低碳化发展。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型驱动力",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型驱动力",
+    "tags": [
+      "数字化转型",
+      "转型驱动力"
+    ]
+  },
+  {
+    "id": "ch21_q028",
+    "question": "在企业数字化转型中，\"发展格局\"驱动力的核心是（）。",
+    "options": [
+      "A. 闭关锁国",
+      "B. 建立以国内大循环为主体、国内国际双循环相互促进的新发展格局",
+      "C. 忽视国际市场",
+      "D. 限制对外开放"
+    ],
+    "answer": "B",
+    "explanation": "在国内外政治经济环境不确定性加剧的背景下，党中央提出建立以国内大循环为主体、国内国际双循环相互促进的新发展格局的战略部署。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型驱动力",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型驱动力",
+    "tags": [
+      "数字化转型",
+      "转型驱动力"
+    ]
+  },
+  {
+    "id": "ch21_q029",
+    "question": "在企业数字化转型的组织能力域中，成熟度五级在流程管理方面的要求是（）。",
+    "options": [
+      "A. 重视流程管理的规范化",
+      "B. 对流程进行优化并强化各类流程的电子化",
+      "C. 持续强化各类流程运行的监测和管理",
+      "D. 基于流程运行情况定义流程设计、运行、发布等方面的模型，实现流程各项活动的自优化"
+    ],
+    "answer": "D",
+    "explanation": "成熟度五级在流程管理方面，企业需要基于流程运行情况，定义流程设计、运行、发布等方面的模型，实现流程各项活动的自优化等。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型能力成熟度",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型能力成熟度",
+    "tags": [
+      "数字化转型",
+      "转型能力成熟度",
+      "成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q030",
+    "question": "在企业数字化转型的技术能力域中，成熟度一级在信息安全方面的要求是（）。",
+    "options": [
+      "A. 明确数字化转型活动中各类信息安全的要求",
+      "B. 开展信息安全风险评估和风险应对等活动",
+      "C. 定期开展信息安全防护措施的监测与评估",
+      "D. 具备通过攻防演练实现主动防御的能力"
+    ],
+    "answer": "A",
+    "explanation": "成熟度一级在信息安全方面，企业需要明确数字化转型活动中，各类信息安全的要求。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型能力成熟度",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型能力成熟度",
+    "tags": [
+      "数字化转型",
+      "转型能力成熟度",
+      "成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q031",
+    "question": "在企业数字化转型的数据能力域中，成熟度四级在数据资产方面的要求是（）。",
+    "options": [
+      "A. 识别其数据资源形成数据资产目录",
+      "B. 建立数据资产管理目标和实施方案",
+      "C. 部署数据资产管理相关的组织体系",
+      "D. 建设数据资产管理平台定义数据资产联动的运营规则"
+    ],
+    "answer": "D",
+    "explanation": "成熟度四级在数据资产方面，企业需要建设数据资产管理平台，定义数据资产联动的运营规则，确保数据资产的保值增值。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型能力成熟度",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型能力成熟度",
+    "tags": [
+      "数字化转型",
+      "转型能力成熟度",
+      "成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q032",
+    "question": "在企业数字化转型的数字化服务能力域中，成熟度一级在服务产品方面的要求是（）。",
+    "options": [
+      "A. 梳理主要的服务目录，使用信息数字技术手段记录服务过程",
+      "B. 通过信息系统管理服务研发活动",
+      "C. 通过多系统集成实现数据驱动服务产品创新",
+      "D. 基于模型实现客户需求预测"
+    ],
+    "answer": "A",
+    "explanation": "成熟度一级在服务产品方面，企业需要梳理主要的服务目录，使用信息数字技术手段记录服务过程，明确服务责任主体等。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型能力成熟度",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型能力成熟度",
+    "tags": [
+      "数字化转型",
+      "转型能力成熟度",
+      "成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q033",
+    "question": "在企业数字化转型中，（）是指企业将工艺、知识、创意等技术能力资源以数字化形态置于企业的资源平台中，形成可以共享的资源库。",
+    "options": [
+      "A. 业务自组织",
+      "B. 灵活机动",
+      "C. 资源共享",
+      "D. 战略重塑"
+    ],
+    "answer": "C",
+    "explanation": "资源共享是企业将工艺、知识、创意等技术能力资源以数字化形态置于企业的资源平台中，形成可以共享的资源库，汇聚知识基础、沉淀核心能力。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型成熟度模型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#数字化转型成熟度模型",
+    "tags": [
+      "数字化转型",
+      "数字化转型成熟度模型"
+    ]
+  },
+  {
+    "id": "ch21_q034",
+    "question": "在企业数字化转型中，（）是指企业管理者需要树立与客户共同定义新产品、与客户共同创造新业务、与客户共享新价值的企业经营战略。",
+    "options": [
+      "A. 业务自组织",
+      "B. 灵活机动",
+      "C. 资源共享",
+      "D. 战略重塑"
+    ],
+    "answer": "D",
+    "explanation": "战略重塑是企业管理者需要树立与客户共同定义新产品、与客户共同创造新业务、与客户共享新价值的企业经营战略。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型成熟度模型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#数字化转型成熟度模型",
+    "tags": [
+      "数字化转型",
+      "数字化转型成熟度模型"
+    ]
+  },
+  {
+    "id": "ch21_q035",
+    "question": "在企业数字化转型的新型文化中，（）是指企业全体员工需要对数字化转型的意义有深刻的认识和充分的理解。",
+    "options": [
+      "A. 拥抱变革",
+      "B. 开放合作",
+      "C. 人本精神",
+      "D. 全员使命"
+    ],
+    "answer": "D",
+    "explanation": "全员使命是指企业全体员工需要对数字化转型的意义有深刻的认识和充分的理解，数字化转型绝不仅仅是企业领导层和信息化部门的事情。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型关注焦点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型关注焦点",
+    "tags": [
+      "数字化转型",
+      "转型关注焦点"
+    ]
+  },
+  {
+    "id": "ch21_q036",
+    "question": "在企业数字化转型中，（）是指培养全员识数、读数、用数等的意识和能力，提升全员的数字敏感性和敏锐性。",
+    "options": [
+      "A. 拥抱变革",
+      "B. 开放合作",
+      "C. 人本精神",
+      "D. 数字素养"
+    ],
+    "answer": "D",
+    "explanation": "数字素养建设就是培养全员识数、读数、用数等的意识和能力，提升全员的数字敏感性和敏锐性等，让其充分认可数据开发利用是一项必备的基础素质的过程。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型成熟度模型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#数字化转型成熟度模型",
+    "tags": [
+      "数字化转型",
+      "数字化转型成熟度模型"
+    ]
+  },
+  {
+    "id": "ch21_q037",
+    "question": "在企业数字化转型中，（）是指树立人为核心、机器服务于人的意识，合理利用自动化、数字化、网络化、智能化等技术手段。",
+    "options": [
+      "A. 拥抱变革",
+      "B. 开放合作",
+      "C. 人本精神",
+      "D. 全员使命"
+    ],
+    "answer": "C",
+    "explanation": "人本精神是树立人为核心、机器服务于人的意识，合理利用自动化、数字化、网络化、智能化等技术手段，解放人的体力与脑力，赋能与拓展人的能力。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型成熟度模型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#数字化转型成熟度模型",
+    "tags": [
+      "数字化转型",
+      "数字化转型成熟度模型"
+    ]
+  },
+  {
+    "id": "ch21_q038",
+    "question": "在企业数字化转型中，技术突破应用不包括以下哪项方面？（）",
+    "options": [
+      "A. 连接方面",
+      "B. 计算方面",
+      "C. 业务方面",
+      "D. 分析方面"
+    ],
+    "answer": "C",
+    "explanation": "技术突破应用包括连接方面、计算方面、分析方面、技术融合方面等。业务方面不属于企业数字化转型的技术突破应用。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "数字化转型成熟度模型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#数字化转型成熟度模型",
+    "tags": [
+      "数字化转型",
+      "数字化转型成熟度模型"
+    ]
+  },
+  {
+    "id": "ch21_q039",
+    "question": "在企业数字化转型中，硬性基础设施主要包括信息、融合和创新三大类基础设施，通常包括通信网络、新技术和（）三部分内容。",
+    "options": [
+      "A. 专用设施",
+      "B. 算力",
+      "C. 人力资源",
+      "D. 土地资源"
+    ],
+    "answer": "B",
+    "explanation": "硬性基础设施主要包括信息、融合和创新三大类基础设施，通常包括通信网络、新技术和算力三部分内容。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "转型驱动力",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型驱动力",
+    "tags": [
+      "数字化转型",
+      "转型驱动力"
+    ]
+  },
+  {
+    "id": "ch21_q040",
+    "question": "在企业数字化转型中，软性基础设施不包括以下哪项？（）",
+    "options": [
+      "A. 智慧城市",
+      "B. 国家大数据体系",
+      "C. 基础设施",
+      "D. 数字基建"
+    ],
+    "answer": "C",
+    "explanation": "软性基础设施包括智慧城市、国家大数据体系等。基础设施不属于企业数字化转型的软性基础设施。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型驱动力",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型驱动力",
+    "tags": [
+      "数字化转型",
+      "转型驱动力"
+    ]
+  },
+  {
+    "id": "ch21_q041",
+    "question": "在企业数字化转型的数字化生产能力域中，不包括以下哪个能力子域？（）",
+    "options": [
+      "A. 产品设计",
+      "B. 工艺设计",
+      "C. 生产管理",
+      "D. 质量管控"
+    ],
+    "answer": "C",
+    "explanation": "数字化生产能力域包括产品设计、工艺设计、计划调度、生产作业、质量管控、设备管理和仓储配送等能力子域。生产管理不属于数字化生产能力域。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型能力成熟度",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型能力成熟度",
+    "tags": [
+      "数字化转型",
+      "转型能力成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q042",
+    "question": "在企业数字化转型的数字化服务能力域中，不包括以下哪个能力子域？（）",
+    "options": [
+      "A. 服务产品",
+      "B. 服务能力",
+      "C. 公共服务",
+      "D. 服务运行"
+    ],
+    "answer": "C",
+    "explanation": "数字化服务能力域包括服务产品、服务能力、服务交付、服务运行等能力子域。公共服务不属于数字化服务能力域。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型能力成熟度",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型能力成熟度",
+    "tags": [
+      "数字化转型",
+      "转型能力成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q043",
+    "question": "在企业数字化转型中，企业智能制造能力建设可依据国家标准（）进行。",
+    "options": [
+      "A. GB/T 37043-2018",
+      "B. GB/T 43439-2023",
+      "C. GB/T 39116-2020",
+      "D. GB/T 22239-2019"
+    ],
+    "answer": "C",
+    "explanation": "企业智能制造能力建设，也就是企业生产领域的数字化转型、相关能力成熟度的演进，可依据国家标准GB/T 39116-2020《智能制造能力成熟度模型》进行。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "转型能力成熟度",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型能力成熟度",
+    "tags": [
+      "数字化转型",
+      "转型能力成熟度",
+      "成熟度"
+    ]
+  },
+  {
+    "id": "ch21_q044",
+    "question": "在企业数字化转型中，定义数字化蓝图时，中长期目标的设定周期为（）。",
+    "options": [
+      "A. 1-3年",
+      "B. 3-5年",
+      "C. 5-10年",
+      "D. 10-15年"
+    ],
+    "answer": "D",
+    "explanation": "考虑到企业数字化转型是一项长期且持续的过程，因此在定义企业数字化蓝图时，需要明确其中长期目标，即10-15年的目标。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型的规划要点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型的规划要点",
+    "tags": [
+      "数字化转型",
+      "转型的规划要点",
+      "数字化蓝图"
+    ]
+  },
+  {
+    "id": "ch21_q045",
+    "question": "在企业数字化转型中，（）是指通过网络化平台整合分散的生产、服务、供应链和销售等资源，实现跨部门、跨层级、跨组织的业务互联与分工合作。",
+    "options": [
+      "A. 数字化管理",
+      "B. 平台化设计",
+      "C. 个性化定制",
+      "D. 网络化协同"
+    ],
+    "answer": "D",
+    "explanation": "网络化协同是通过网络化平台整合分散的生产、服务、供应链和销售等资源，实现跨部门、跨层级、跨组织的业务互联与分工合作。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型成熟度模型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#数字化转型成熟度模型",
+    "tags": [
+      "数字化转型",
+      "数字化转型成熟度模型"
+    ]
+  },
+  {
+    "id": "ch21_q046",
+    "question": "在企业数字化转型中，（）是指以数字化为核心，以数据驱动为基础，采用智能化手段突破生产中的瓶颈问题。",
+    "options": [
+      "A. 数字化管理",
+      "B. 平台化设计",
+      "C. 智能化生产",
+      "D. 服务化延伸"
+    ],
+    "answer": "C",
+    "explanation": "智能化生产是以数字化为核心，以数据驱动为基础，采用智能化手段突破生产中的瓶颈问题。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型成熟度模型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#数字化转型成熟度模型",
+    "tags": [
+      "数字化转型",
+      "数字化转型成熟度模型"
+    ]
+  },
+  {
+    "id": "ch21_q047",
+    "question": "在企业数字化转型中，（）是指企业依托平台化模式实现对产品使用和服务环节的数据打通，深度挖掘各类业务数据及其背后价值。",
+    "options": [
+      "A. 数字化管理",
+      "B. 平台化设计",
+      "C. 智能化生产",
+      "D. 服务化延伸"
+    ],
+    "answer": "D",
+    "explanation": "服务化延伸是企业依托平台化模式实现对产品使用和服务环节的数据打通，深度挖掘各类业务数据及其背后价值。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "数字化转型成熟度模型",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#数字化转型成熟度模型",
+    "tags": [
+      "数字化转型",
+      "数字化转型成熟度模型"
+    ]
+  },
+  {
+    "id": "ch21_q048",
+    "question": "在企业数字化转型中，（）是指依靠传感网络，建立全面、实时、高效的数据采集体系，实现企业对业务活动中\"哑设备、哑岗位、哑环节\"的数字化改造。",
+    "options": [
+      "A. 泛在互联",
+      "B. 数据驱动",
+      "C. 软件定义",
+      "D. 平台支撑"
+    ],
+    "answer": "A",
+    "explanation": "泛在互联是依靠传感网络，建立全面、实时、高效的数据采集体系，提升异构工业数据、多元服务数据的网络互通能力，实现企业对业务活动中\"哑设备、哑岗位、哑环节\"的数字化改造。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型关注焦点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型关注焦点",
+    "tags": [
+      "数字化转型",
+      "转型关注焦点"
+    ]
+  },
+  {
+    "id": "ch21_q049",
+    "question": "在企业数字化转型中，（）是指通过业务活动等各流程数据的自由流动，实现科学决策和对资源配置的优化。",
+    "options": [
+      "A. 泛在互联",
+      "B. 数据驱动",
+      "C. 软件定义",
+      "D. 平台支撑"
+    ],
+    "answer": "B",
+    "explanation": "数据驱动是通过业务活动等各流程数据的自由流动，实现科学决策和对资源配置的优化，从而达到提高全要素效率效能的目的。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型关注焦点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型关注焦点",
+    "tags": [
+      "数字化转型",
+      "转型关注焦点"
+    ]
+  },
+  {
+    "id": "ch21_q050",
+    "question": "在企业数字化转型中，（）是指平台是连接多方参与的信息服务共享载体，是全要素连接的枢纽，是资源配置的核心。",
+    "options": [
+      "A. 泛在互联",
+      "B. 数据驱动",
+      "C. 软件定义",
+      "D. 平台支撑"
+    ],
+    "answer": "D",
+    "explanation": "平台支撑是指平台是连接多方参与的信息服务共享载体，是全要素连接的枢纽，是资源配置的核心。通过平台，企业可以更高效地实现知识的沉淀、传播、复用和价值创造。",
+    "chapter": "第21章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "转型关注焦点",
+    "knowledge_point": "数字化转型",
+    "source_ref": "references/第21章_企业数字化转型发展规划.md#转型关注焦点",
+    "tags": [
+      "数字化转型",
+      "转型关注焦点"
+    ]
+  },
+  {
+    "id": "ch21_q051",
+    "question": "企业数字化转型对经济发展的作用不包括以下哪一项？( )",
+    "options": [
+      "A. 成为驱动经济高质量发展的新动能",
+      "B. 推动新一代信息技术在构建新发展格局中实现更大作为",
+      "C. 增强数字经济发展的动力和活力",
+      "D. 降低传统产业的竞争力"
+    ],
+    "answer": "D",
+    "explanation": "21.1 节提到企业数字化转型对经济产出的贡献份额逐年增长，是驱动经济高质 量发展的新动能，能推动新一代信息技术在构建新发展格局中实现更大作为，增强数字 经济发展的动力和活力等，但未提及会降低传统产业的竞争力。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0001"
+  },
+  {
+    "id": "ch21_q052",
+    "question": "我国数字化转型大致经历的阶段不包括（ ）。",
+    "options": [
+      "A. 以计算机和信息通信技术驱动的信息化发展阶段",
+      "B. 以“互联网+ ”驱动的数字化转型阶段",
+      "C. 以大数据、人工智能等新一代信息技术驱动的数字化转型阶段",
+      "D. 以区块链技术驱动的数字化转型阶段"
+    ],
+    "answer": "D",
+    "explanation": "21.1 节明确指出我国数字化转型大致经历了以计算机和信息通信技术驱动的信 息化发展阶段、以“互联网+ ”驱动的数字化转型阶段、以大数据、人工智能等新一代 信 息技术驱动的数字化转型阶段，未提及区块链技术驱动的阶段。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0002"
+  },
+  {
+    "id": "ch21_q053",
+    "question": "新型基础设施建设赋能企业数字化转型的机制不包括（ ）。",
+    "options": [
+      "A. 新旧动能接续转换",
+      "B. 真实物理空间与虚拟网络空间交互融合",
+      "C. 构造数字生态圈",
+      "D. 限制数据要素跨域流通"
+    ],
+    "answer": "D",
+    "explanation": "21.1.2 节提到新型基础设施建设赋能企业数字化转型的机制包括新旧动能接续 转换、真实物理空间与虚拟网络空间交互融合、构造数字生态圈和驱动价值链攀升等， “东数西算”还能实现数据要素的跨域流通。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0020"
+  },
+  {
+    "id": "ch21_q054",
+    "question": "在“双循环”新发展战略下，企业数字化转型的基础条件不包括（ ）。",
+    "options": [
+      "A. 数字经济的蓬勃发展",
+      "B. 全球产业链的畅通",
+      "C. 消费升级",
+      "D. 贸易保护主义盛行"
+    ],
+    "answer": "D",
+    "explanation": "21.1.1 节指出在“双循环”新发展战略下，数字经济的蓬勃发展、全球产业链 的畅通以及消费升级为企业数字化转型提供了基础条件，贸易保护主义盛行不利于企业 数字化转型。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0013"
+  },
+  {
+    "id": "ch21_q055",
+    "question": "国家大数据体系建设推动企业数字化转型的效应不包括（ ）。",
+    "options": [
+      "A. 数字基建赋能效应",
+      "B. 产业助推效应",
+      "C. 政府扶持效应",
+      "D. 市场垄断效应"
+    ],
+    "answer": "D",
+    "explanation": "21.1.2 节提到国家大数据体系建设通过数字基建赋能效应、产业助推效应、政府 扶持效应，解决企业在数字化转型过程中资金和技术研发与应用方面的困境，未提及市 场垄断效应。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0022"
+  },
+  {
+    "id": "ch21_q056",
+    "question": "领军企业从“点”维度进行数字化转型升级的方式不包括（ ）。",
+    "options": [
+      "A. 战略并购",
+      "B. 建立联盟",
+      "C. 推出新产品新服务",
+      "D. 大规模裁员"
+    ],
+    "answer": "D",
+    "explanation": "21.1.1 节提到领军企业从“点”维度通过战略并购、建立联盟、推出新产品新 服务等多种方式在点上突破，未提及大规模裁员。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0007"
+  },
+  {
+    "id": "ch21_q057",
+    "question": "在服务运行方面，成熟度五级企业需要做的是（ ）。",
+    "options": [
+      "A. 建立服务安全管理相关规范，并充分识别服务过程中的安全风险",
+      "B. 通过多元化服务解决方案，满足客户的需求，使用信息系统管理服务安全和服务风险",
+      "C. 结合服务产品化建设，实现面向客户场景需求服务组合的自动生成",
+      "D. 通过多模型的应用，实现服务编排的自动化，通过一体化生态合作集成，实现服务融 合创新和变革，并能够通过服务应急决策体系，实现服务应急事件的预测和处置辅助 决策，满足服务交付与服务安全的一体化"
+    ],
+    "answer": "D",
+    "explanation": "21.3.3 节提到在服务运行方面，成熟度五级企业需要通过多模型的应用，实现服 务编排的自动化，通过一体化生态合作集成，实现服务融合创新和变革，并能够通过服 务应急决策体系，实现服务应急事件的预测和处置辅助决策等，从而满足服务交付与服 务安全的一体化。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0086"
+  },
+  {
+    "id": "ch21_q058",
+    "question": "在服务能力方面，成熟度五级企业需要做的是（ ）。",
+    "options": [
+      "A. 建立包含人员、流程、过程和资源等在内的能力管理框架",
+      "B. 基于能力管理体系实现服务能力持续改进",
+      "C. 通过信息系统管理能力各要素，实现服务能力的优化管理",
+      "D. 通过互联网数字平台，整合跨区域、跨行业服务资源，实现面向重点客户的一体化服 务能力，并驱动服务级别管理和服务生态融合的自优化与自组织"
+    ],
+    "answer": "D",
+    "explanation": "21.3.3 节提到在服务能力方面，成熟度五级企业需要通过互联网数字平台，整合 跨区域、跨行业服务资源，实现面向重点客户的一体化服务能力，并利用信息数字技术 的综合应用，驱动服务级别管理的和服务生态融合的自优化与自组织。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0084"
+  },
+  {
+    "id": "ch21_q059",
+    "question": "“5G + TSN/工业以太网+ NB - IoT ”等网络技术突破，不能实现的是（ ）。",
+    "options": [
+      "A. 驱动网络峰值速度可达1TB/s",
+      "B. 时延达到0.1ms",
+      "C. 满足海量实时、差异化连接需求",
+      "D. 降低数据传输速度"
+    ],
+    "answer": "D",
+    "explanation": "21.1.2 节提到“5G + TSN/工业以太网+ NB - IoT ”等网络技术突破，驱动网 络的峰值速度可达1TB/s，时延达到0.1ms，能满足海量实时、差异化连接需求，不会 降 低数据传输速度。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0016"
+  },
+  {
+    "id": "ch21_q060",
+    "question": "在服务交付方面，成熟度四级企业需要做的是（ ）。",
+    "options": [
+      "A. 具备服务交付规范和项目管理机制，并使用信息数字技术手段记录交付过程和质量结 果",
+      "B. 建立产品级服务交付规范，使用信息系统管理项目级服务交付和服务质量",
+      "C. 基于服务管理体系，实现研发、营销、交付的协同和管理优化",
+      "D. 通过数据模型，支撑服务管理人员的快速分析，以及服务的精细化、精准化，并建立 服务客户忠诚度模型，实现客户感知质量和客户期望质量的预警与预测"
+    ],
+    "answer": "D",
+    "explanation": "21.3.3 节指出在服务交付方面，成熟度四级企业需要通过数据模型，支撑服务管 理人员的快速分析，以及服务的精细化、精准化，并建立服务客户忠诚度模型，实现客 户感知质量和客户期望质量的预警与预测。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0085"
+  },
+  {
+    "id": "ch21_q061",
+    "question": "消费重塑背景下，企业产品生产的显著变化是（ ）。",
+    "options": [
+      "A. 生产批量增大",
+      "B. 产品生命周期延长",
+      "C. 定制化程度降低",
+      "D. 生产批量减小"
+    ],
+    "answer": "D",
+    "explanation": "根据21.1.1 节内容，消费重塑驱动企业变革的主要表现之一是更小的生产批量， 所以D 选项正确。A 选项与原文相悖；消费重塑使产品生命周期缩短，B 选项错误；定 制化体验服务需求增加，C 选项错误。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0136"
+  },
+  {
+    "id": "ch21_q062",
+    "question": "在数字化财务方面，成熟度五级企业需要做的是（ ）。",
+    "options": [
+      "A. 能够通过信息数字技术手段管理财务报表、开展财务分析",
+      "B. 具备完善的财务管理体系，通过信息系统实现财务管理",
+      "C. 使用信息系统及时提醒重大资金风险，实施精细化核算和全面预算",
+      "D. 应用数据模型，支撑营销、生产与交付业务的敏捷经营决策，并基于经营监测、预测 模型支持业务领域预算与决策的动态管理"
+    ],
+    "answer": "D",
+    "explanation": "21.3.3 节提到在数字化财务方面，成熟度五级企业需要应用数据模型，支撑营销、 生产与交付业务的敏捷经营决策，并基于经营监测、预测模型，支持业务领域预算与决 策的动态管理。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0080"
+  },
+  {
+    "id": "ch21_q063",
+    "question": "在数据管理方面，成熟度五级企业需要做的是（ ）。",
+    "options": [
+      "A. 强调数据规范建设",
+      "B. 定义清晰的数据管理体系和管理过程指标",
+      "C. 使用数据管理平台，固化各项管理",
+      "D. 联合生态伙伴形成跨组织的数据管理体系，并通过智能平台建设支撑融合数据管理"
+    ],
+    "answer": "D",
+    "explanation": "21.3.2 节提到在数据管理方面，成熟度五级企业需要联合生态伙伴形成跨组织 的数据管理体系，并通过智能平台建设，支撑生态伙伴的融合数据管理。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0072"
+  },
+  {
+    "id": "ch21_q064",
+    "question": "在应用支撑资源方面，成熟度五级企业需要做的是（ ）。",
+    "options": [
+      "A. 确保相关应用支撑资源能够满足数字化应用的需求",
+      "B. 主动开展相关资源的系统性规划",
+      "C. 强化相关资源的弹性和一体化能力",
+      "D. 确保相关资源的敏捷和动态，并能够支撑生态链上下游的一体化应用开发和部署"
+    ],
+    "answer": "D",
+    "explanation": "21.3.2 节提到在应用支撑资源方面，成熟度五级企业需要确保相关资源的敏捷 和动态，并能够支撑生态链上下游的一体化应用开发和部署等。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0076"
+  },
+  {
+    "id": "ch21_q065",
+    "question": "在研发管理方面，成熟度五级企业需要做的是（ ）。",
+    "options": [
+      "A. 基于研发管理体系响应各类数字化需求",
+      "B. 部署专门的团队与资源支撑数字化需求的落地",
+      "C. 具备体系化的研发治理与管理",
+      "D. 通过统一的研发协同平台实现产业生态的协同研发，并实现研发知识重组与再造的自 动化"
+    ],
+    "answer": "D",
+    "explanation": "21.3.2 节指出在研发管理方面，成熟度五级企业通过统一的研发协同平台，实现 产业生态的协同研发，并能够实现研发知识重组与再造的自动化。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0069"
+  },
+  {
+    "id": "ch21_q066",
+    "question": "业务自组织中，企业的发展方向是（ ）。",
+    "options": [
+      "A. 从强化管理精细化走向治理敏捷化",
+      "B. 从以能力提升和动态重组为重心走向以流程为核心",
+      "C. 追求规范与规矩，忽视成长的动力和可持续性",
+      "D. 员工成为组织的旁观者"
+    ],
+    "answer": "A",
+    "explanation": "21.2.3 节提到业务自组织中企业将从强化管理精细化走向治理敏捷化，从以流 程为核心走向以能力提升和动态重组为重心，关注成长的动力和可持续性，员工成为组 织网络上的节点带动企业发展，而不是其他选项描述的内容。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0048"
+  },
+  {
+    "id": "ch21_q067",
+    "question": "在知识方面，成熟度五级企业需要做的是（ ）。",
+    "options": [
+      "A. 重视数字化转型相关的知识积累",
+      "B. 确保数字化转型相关知识能够得到体系化的管理",
+      "C. 建立数字化转型相关的知识库",
+      "D. 构建面向行业或生态的数字化转型知识体系，并实现上下游企业间的知识资源共享和 知识再造"
+    ],
+    "answer": "D",
+    "explanation": "21.3.2 节提到在知识方面，成熟度五级企业需要构建面向行业或生态的数字化 转型知识体系，并实现上下游企业间的知识资源共享和知识再造等。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0078"
+  },
+  {
+    "id": "ch21_q068",
+    "question": "数字化转型蓝图定义需要最高决策组织作为核心主导者，是因为（ ）。",
+    "options": [
+      "A. 数字化转型区别于传统信息化建设，数据要素引入会引发企业治理结构根本性变化",
+      "B. 数字化转型只是信息化建设的一部分，无需特别重视",
+      "C. 最高决策组织经验丰富，能快速完成蓝图定义",
+      "D. 最高决策组织能强制各部门执行蓝图规划"
+    ],
+    "answer": "A",
+    "explanation": "21.4.2 节提到数字化转型区别于传统意义上的信息化建设，数据要素的引入，能 够引发企业治理结构发展根本性变化，因此企业数字化转型蓝图的定义，需要其最高决 策组织作为核心主导者。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0095"
+  },
+  {
+    "id": "ch21_q069",
+    "question": "在数字化营销方面，成熟度四级企业需要做的是（ ）。",
+    "options": [
+      "A. 使用信息数字技术手段进行客户需求管理",
+      "B. 通过信息数字技术手段制/修订营销计划",
+      "C. 基于对市场和客户数据的分析，指导营销活动",
+      "D. 统一管理所有营销方式，并能够基于客户画像和分级分类等，预测客户需求"
+    ],
+    "answer": "D",
+    "explanation": "21.3.3 节指出在数字化营销方面，成熟度四级企业需要统一管理所有营销方式， 并能够基于客户画像和分级分类等，预测客户需求。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0079"
+  },
+  {
+    "id": "ch21_q070",
+    "question": "以下不属于企业数字化转型时代演进驱动力的是（ ）。",
+    "options": [
+      "A. 技术封锁",
+      "B. 消费重塑",
+      "C. 产业调整",
+      "D. 绿色低碳"
+    ],
+    "answer": "A",
+    "explanation": "依据21.1.1 节内容，时代驱动企业开展数字化转型的关键动力包含消费重塑、 产业调整、劳动供给、绿色低碳、发展格局，并不包括技术封锁。",
+    "chapter": "第21章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "企业数字化转型发展规划",
+    "knowledge_point": "企业数字化转型发展规划",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第21章",
+    "tags": [
+      "企业数字化转型发展规划",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch21_0144"
+  }
+]

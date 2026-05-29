@@ -1,0 +1,1687 @@
+[
+  {
+    "id": "ch12_q001",
+    "question": "服务目录管理小组成员至少应包括哪些人员？",
+    "options": [
+      "A. 项目经理、财务人员、质量人员",
+      "B. 市场销售人员、系统规划与管理人员、信息系统服务工程师",
+      "C. 客户代表、技术总监、运维人员",
+      "D. 销售人员、客服人员、管理人员"
+    ],
+    "answer": "B",
+    "explanation": "服务目录管理小组成员至少应包括市场销售人员、系统规划与管理人员、信息系统服务工程师，以确保在制、修订服务目录时的视角是全面的。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务目录管理",
+    "knowledge_point": "服务目录",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务目录管理",
+    "tags": [
+      "服务目录",
+      "服务目录管理"
+    ]
+  },
+  {
+    "id": "ch12_q002",
+    "question": "客户对信息系统服务的需求一般不包括以下哪项？",
+    "options": [
+      "A. 可用性需求",
+      "B. 连续性需求",
+      "C. 美观性需求",
+      "D. 信息安全需求"
+    ],
+    "answer": "C",
+    "explanation": "客户对信息系统服务的需求一般可划分为可用性需求、连续性需求、服务能力需求、信息安全需求、价格需求及服务报告需求。美观性需求不属于信息系统服务需求的范畴。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "服务需求识别",
+    "knowledge_point": "客户对信息系统服务的需求",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "客户对信息系统服务的需求",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q003",
+    "question": "在可用性指标中，MTBF代表什么含义？",
+    "options": [
+      "A. 平均故障修复时间",
+      "B. 平均无故障时间",
+      "C. 平均故障间隔",
+      "D. 平均响应时间"
+    ],
+    "answer": "B",
+    "explanation": "MTBF（Mean Time Between Failure）是平均无故障时间，指从一次事件中恢复到下一次事件发生之间的平均间隔时间，也称为正常运行时间。MTTR是平均故障修复时间，MTBSI是平均故障间隔。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "服务需求识别",
+    "knowledge_point": "服务需求识别",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "在可用性指标中",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q004",
+    "question": "以下哪项是与某个内部信息服务部门就某项信息系统服务所签订的后台协议？",
+    "options": [
+      "A. 服务级别协议（SLA）",
+      "B. 运营级别协议（OLA）",
+      "C. 支持合同（UC）",
+      "D. 服务目录"
+    ],
+    "answer": "B",
+    "explanation": "运营级别协议（OLA）是与某个内部信息服务部门就某项信息系统服务所签订的后台协议，在内部定义了所有参与方的责任。SLA是服务供方与客户间的协定，UC是服务供需双方签订的正式合同。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "服务目录管理",
+    "knowledge_point": "服务目录",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务目录管理",
+    "tags": [
+      "服务目录",
+      "服务目录管理",
+      "SLA",
+      "OLA",
+      "UC"
+    ]
+  },
+  {
+    "id": "ch12_q005",
+    "question": "常见的信息系统服务模式一般分为远程服务和现场服务两类，以下哪项属于远程服务？",
+    "options": [
+      "A. 上门技术支持",
+      "B. 驻场技术支持",
+      "C. 远程集中监控",
+      "D. 现场巡检服务"
+    ],
+    "answer": "C",
+    "explanation": "远程服务的方式包括远程集中监控和远程技术支持；现场服务的方式包括上门技术支持和驻场技术支持。远程集中监控是通过特定监控平台对客户信息系统进行实时监控。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务战略规划",
+    "knowledge_point": "常见的信息系统服务模式分",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务战略规划",
+    "tags": [
+      "常见的信息系统服务模式分",
+      "服务战略规划"
+    ]
+  },
+  {
+    "id": "ch12_q006",
+    "question": "信息系统服务成本包括直接人力成本、直接非人力成本、间接人力成本和间接非人力成本。以下哪项属于直接非人力成本？",
+    "options": [
+      "A. 项目组成员的工资",
+      "B. 项目组因项目需要租用会议室的费用",
+      "C. PMO人员的费用分摊",
+      "D. 项目组成员日常办公场地的租赁费用"
+    ],
+    "answer": "B",
+    "explanation": "项目组因信息系统服务项目需要租用会议室而产生的费用计入直接非人力成本的办公费。项目组成员工资属于直接人力成本；PMO人员费用属于间接人力成本；日常办公场地租赁属于间接非人力成本。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务成本度量",
+    "knowledge_point": "服务成本",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务成本度量",
+    "tags": [
+      "服务成本",
+      "服务成本度量"
+    ]
+  },
+  {
+    "id": "ch12_q007",
+    "question": "在服务退役终止阶段，以下哪项不属于移交内容？",
+    "options": [
+      "A. 文件信息移交",
+      "B. 知识移交",
+      "C. 财务审计移交",
+      "D. 基线移交"
+    ],
+    "answer": "C",
+    "explanation": "移交的内容主要包括文件信息移交、知识移交、技能移交、基线移交和模拟环境移交。财务审计移交不属于移交会议的主要内容。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务退役终止",
+    "knowledge_point": "服务退役",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务退役终止",
+    "tags": [
+      "服务退役",
+      "服务退役终止"
+    ]
+  },
+  {
+    "id": "ch12_q008",
+    "question": "信息技术服务质量评价模型定义了服务质量的5类特性，以下哪项不属于这5类特性？",
+    "options": [
+      "A. 安全性",
+      "B. 可靠性",
+      "C. 经济性",
+      "D. 友好性"
+    ],
+    "answer": "C",
+    "explanation": "GB/T 33850-2017定义了服务质量的5类特性：安全性、可靠性、响应性、有形性、友好性。经济性不属于这5类服务质量特性。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务质量管理",
+    "knowledge_point": "服务质量",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务质量管理",
+    "tags": [
+      "服务质量",
+      "服务质量管理"
+    ]
+  },
+  {
+    "id": "ch12_q009",
+    "question": "服务级别管理中，SLA的全称是什么？",
+    "options": [
+      "A. Service Level Agreement",
+      "B. Service Level Architecture",
+      "C. Service Level Application",
+      "D. Service Level Assessment"
+    ],
+    "answer": "A",
+    "explanation": "SLA是Service Level Agreement的缩写，即服务级别协议。SLA是服务供方与客户之间就服务内容、服务质量等达成的正式协议。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "SLA",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "SLA",
+      "服务需求识别",
+      "服务质量"
+    ]
+  },
+  {
+    "id": "ch12_q010",
+    "question": "以下关于服务目录的描述，不正确的是？",
+    "options": [
+      "A. 服务目录是服务的详细清单",
+      "B. 服务目录应包含服务名称、服务内容等信息",
+      "C. 服务目录一旦制定就不能修改",
+      "D. 服务目录是服务级别管理的基础"
+    ],
+    "answer": "C",
+    "explanation": "服务目录不是一旦制定就不能修改的。服务目录应根据业务需求和服务能力的变化定期进行修订和更新，以确保服务目录的准确性和时效性。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务目录管理",
+    "knowledge_point": "服务目录",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务目录管理",
+    "tags": [
+      "服务目录",
+      "服务目录管理"
+    ]
+  },
+  {
+    "id": "ch12_q011",
+    "question": "服务需求识别中，可用性需求关注的核心指标是什么？",
+    "options": [
+      "A. 系统的开发成本",
+      "B. 系统能够正常运行的时间比例",
+      "C. 系统的用户界面美观程度",
+      "D. 系统的代码行数"
+    ],
+    "answer": "B",
+    "explanation": "可用性需求关注的核心指标是系统能够正常运行的时间比例。可用性通常用百分比表示，如99.9%的可用性意味着系统每年的停机时间不超过8.76小时。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "服务需求识别中",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "服务需求识别中",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q012",
+    "question": "在服务级别设计中，OLA与SLA的主要区别是什么？",
+    "options": [
+      "A. OLA是外部协议，SLA是内部协议",
+      "B. OLA是内部协议，SLA是外部协议",
+      "C. OLA只涉及技术团队",
+      "D. SLA不需要客户签署"
+    ],
+    "answer": "B",
+    "explanation": "OLA是组织内部的运营级别协议，用于支持SLA的实现。SLA是服务供方与客户之间的外部协议。OLA定义了内部各团队的责任和义务，SLA定义了对客户的服务承诺。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "服务需求识别",
+    "knowledge_point": "SLA",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "SLA",
+      "服务需求识别",
+      "OLA"
+    ]
+  },
+  {
+    "id": "ch12_q013",
+    "question": "以下关于连续性需求的描述，不正确的是？",
+    "options": [
+      "A. 连续性需求关注系统在灾难发生后的恢复能力",
+      "B. 连续性需求应定义恢复时间目标（RTO）",
+      "C. 连续性需求只关注正常运行状态",
+      "D. 连续性需求应定义恢复点目标（RPO）"
+    ],
+    "answer": "C",
+    "explanation": "连续性需求不仅关注正常运行状态，更关注系统在灾难或重大故障发生后的恢复能力。连续性需求应定义恢复时间目标（RTO）和恢复点目标（RPO），确保业务能够持续运行。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "服务需求识别",
+    "knowledge_point": "连续性需求的",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "连续性需求的",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q014",
+    "question": "信息系统服务模式中，驻场技术支持的特点是什么？",
+    "options": [
+      "A. 技术人员不在客户现场",
+      "B. 技术人员长期驻扎在客户现场",
+      "C. 只通过电话或网络提供支持",
+      "D. 不需要与客户面对面沟通"
+    ],
+    "answer": "B",
+    "explanation": "驻场技术支持的特点是技术人员长期驻扎在客户现场，能够快速响应客户需求，提供面对面的技术支持服务。这种方式适合对响应速度要求较高的客户。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "信息系统服务模式中",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "信息系统服务模式中",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q015",
+    "question": "以下关于支持合同（UC）的描述，不正确的是？",
+    "options": [
+      "A. UC是服务供需双方签订的正式合同",
+      "B. UC用于支持SLA中承诺的服务",
+      "C. UC只涉及内部团队",
+      "D. UC应明确服务范围和质量要求"
+    ],
+    "answer": "C",
+    "explanation": "UC（Underpinning Contract）不是只涉及内部团队，而是服务供方与外部供应商签订的合同。UC用于支持SLA中承诺的服务，确保外部供应商能够提供约定的服务质量。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "SLA",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "UC",
+      "服务需求识别",
+      "SLA",
+      "服务质量"
+    ]
+  },
+  {
+    "id": "ch12_q016",
+    "question": "服务成本度量中，直接人力成本包括以下哪项？",
+    "options": [
+      "A. 项目组成员的工资",
+      "B. 办公场地租赁费",
+      "C. PMO人员费用分摊",
+      "D. 公司管理层薪酬"
+    ],
+    "answer": "A",
+    "explanation": "直接人力成本包括项目组成员的工资、奖金、社保等与项目直接相关的人员费用。办公场地租赁属于间接非人力成本，PMO人员费用属于间接人力成本。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务成本度量",
+    "knowledge_point": "服务成本",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务成本度量",
+    "tags": [
+      "服务成本",
+      "服务成本度量"
+    ]
+  },
+  {
+    "id": "ch12_q017",
+    "question": "以下关于服务营销管理的描述，不正确的是？",
+    "options": [
+      "A. 服务营销应关注客户需求",
+      "B. 服务营销应建立服务品牌",
+      "C. 服务营销只需要关注新客户获取",
+      "D. 服务营销应注重客户关系维护"
+    ],
+    "answer": "C",
+    "explanation": "服务营销不仅需要关注新客户获取，还需要关注现有客户的维护和价值提升。服务营销应关注客户需求、建立服务品牌、注重客户关系维护，实现客户的长期价值。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "服务营销管理的",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "服务营销管理的",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q018",
+    "question": "在服务项目预算中，以下哪项不属于预算编制的依据？",
+    "options": [
+      "A. 服务目录",
+      "B. 服务级别协议",
+      "C. 市场营销计划",
+      "D. 历史成本数据"
+    ],
+    "answer": "C",
+    "explanation": "服务项目预算编制的依据包括服务目录、服务级别协议、历史成本数据、资源需求等。市场营销计划不属于服务项目预算编制的直接依据。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "服务目录管理",
+    "knowledge_point": "服务目录",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务目录管理",
+    "tags": [
+      "服务目录",
+      "服务目录管理"
+    ]
+  },
+  {
+    "id": "ch12_q019",
+    "question": "以下关于服务退役终止的描述，不正确的是？",
+    "options": [
+      "A. 服务退役需要制定详细的退役计划",
+      "B. 服务退役应确保数据的安全销毁",
+      "C. 服务退役可以随意进行，不需要计划",
+      "D. 服务退役应进行知识和技能的移交"
+    ],
+    "answer": "C",
+    "explanation": "服务退役不能随意进行，需要制定详细的退役计划。服务退役应考虑数据安全、知识移交、技能移交、基线移交等方面，确保退役过程有序进行。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务退役终止",
+    "knowledge_point": "服务退役",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务退役终止",
+    "tags": [
+      "服务退役",
+      "服务退役终止"
+    ]
+  },
+  {
+    "id": "ch12_q020",
+    "question": "服务需求识别中，安全需求关注的核心是什么？",
+    "options": [
+      "A. 系统的开发速度",
+      "B. 系统的信息安全保护能力",
+      "C. 系统的用户数量",
+      "D. 系统的技术架构"
+    ],
+    "answer": "B",
+    "explanation": "安全需求关注的核心是系统的信息安全保护能力。安全需求应考虑数据的保密性、完整性、可用性，以及访问控制、身份认证、审计日志等安全措施。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "服务需求识别中",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "服务需求识别中",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q021",
+    "question": "以下关于服务级别设计的描述，不正确的是？",
+    "options": [
+      "A. 服务级别设计应考虑客户需求",
+      "B. 服务级别设计应考虑服务能力",
+      "C. 服务级别设计不需要考虑成本因素",
+      "D. 服务级别设计应与服务目录保持一致"
+    ],
+    "answer": "C",
+    "explanation": "服务级别设计需要考虑成本因素。服务级别越高，需要的资源投入越多，成本也越高。服务级别设计需要在客户需求、服务能力和成本之间找到平衡点。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务目录管理",
+    "knowledge_point": "服务目录",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务目录管理",
+    "tags": [
+      "服务目录",
+      "服务目录管理"
+    ]
+  },
+  {
+    "id": "ch12_q022",
+    "question": "服务要素设计中，人员要素设计不包括以下哪项？",
+    "options": [
+      "A. 岗位职责设计",
+      "B. 绩效考核设计",
+      "C. 网络架构设计",
+      "D. 培训计划设计"
+    ],
+    "answer": "C",
+    "explanation": "网络架构设计属于技术要素设计，不属于人员要素设计。人员要素设计包括岗位职责设计、绩效考核设计、培训计划设计、人员能力要求等。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "人员要素设计",
+    "knowledge_point": "服务要素设计中",
+    "source_ref": "references/第12章_信息系统服务管理.md#人员要素设计",
+    "tags": [
+      "服务要素设计中",
+      "人员要素设计"
+    ]
+  },
+  {
+    "id": "ch12_q023",
+    "question": "以下关于服务台的描述，不正确的是？",
+    "options": [
+      "A. 服务台是IT服务的单一联系点",
+      "B. 服务台负责接收和记录服务请求",
+      "C. 服务台只提供电话支持",
+      "D. 服务台可以处理大部分常规服务请求"
+    ],
+    "answer": "C",
+    "explanation": "服务台不仅提供电话支持，还支持邮件、在线聊天、自助门户等多种服务渠道。服务台是IT服务的单一联系点，负责接收和记录服务请求，处理大部分常规服务请求。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务战略规划",
+    "knowledge_point": "服务台",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务战略规划",
+    "tags": [
+      "服务台",
+      "服务战略规划",
+      "IT服务"
+    ]
+  },
+  {
+    "id": "ch12_q024",
+    "question": "过程要素设计中，以下哪个过程负责确保IT服务能够满足业务需求？",
+    "options": [
+      "A. 事件管理",
+      "B. 问题管理",
+      "C. 服务级别管理",
+      "D. 变更管理"
+    ],
+    "answer": "C",
+    "explanation": "服务级别管理负责确保IT服务能够满足业务需求。通过制定和维护SLA，监控和报告服务绩效，确保服务达到约定的服务级别目标。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "IT服务",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "IT服务",
+      "服务需求识别",
+      "SLA",
+      "事件管理",
+      "问题管理"
+    ]
+  },
+  {
+    "id": "ch12_q025",
+    "question": "以下关于业务关系管理的描述，不正确的是？",
+    "options": [
+      "A. 业务关系管理关注客户满意度",
+      "B. 业务关系管理需要定期与客户沟通",
+      "C. 业务关系管理只在服务交付阶段进行",
+      "D. 业务关系管理应建立客户反馈机制"
+    ],
+    "answer": "C",
+    "explanation": "业务关系管理不仅在服务交付阶段进行，而应贯穿服务的全生命周期。从业务需求识别、服务设计、服务交付到服务改进，都需要进行业务关系管理。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "业务关系管理的",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "业务关系管理的",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q026",
+    "question": "服务需求识别中，报告需求关注的核心是什么？",
+    "options": [
+      "A. 系统的技术架构",
+      "B. 服务绩效的透明度和可见性",
+      "C. 系统的开发成本",
+      "D. 系统的用户界面"
+    ],
+    "answer": "B",
+    "explanation": "报告需求关注的核心是服务绩效的透明度和可见性。客户需要定期获得服务绩效报告，了解服务的实际表现是否达到约定的服务级别目标。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "服务需求识别中",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "服务需求识别中",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q027",
+    "question": "以下关于服务结算的描述，不正确的是？",
+    "options": [
+      "A. 服务结算应按照合同约定进行",
+      "B. 服务结算应提供详细的成本明细",
+      "C. 服务结算不需要考虑服务质量",
+      "D. 服务结算应定期进行"
+    ],
+    "answer": "C",
+    "explanation": "服务结算需要考虑服务质量。服务结算应根据合同约定的服务级别和实际服务质量进行，如果服务质量未达到约定标准，可能需要进行相应的补偿或扣款。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务成本度量",
+    "knowledge_point": "服务质量",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务成本度量",
+    "tags": [
+      "服务质量",
+      "服务成本度量"
+    ]
+  },
+  {
+    "id": "ch12_q028",
+    "question": "以下关于服务外包收益的描述，不正确的是？",
+    "options": [
+      "A. 服务外包可以降低运营成本",
+      "B. 服务外包可以获得专业技术能力",
+      "C. 服务外包完全没有风险",
+      "D. 服务外包可以使组织专注于核心业务"
+    ],
+    "answer": "C",
+    "explanation": "服务外包并非完全没有风险。服务外包可能带来信息安全风险、供应商依赖风险、服务质量风险、沟通协调风险等。组织在进行服务外包时需要进行充分的风险评估。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务成本度量",
+    "knowledge_point": "服务质量",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务成本度量",
+    "tags": [
+      "服务质量",
+      "服务成本度量"
+    ]
+  },
+  {
+    "id": "ch12_q029",
+    "question": "在持续改进与监督中，以下哪种方法用于识别服务改进机会？",
+    "options": [
+      "A. 根本原因分析",
+      "B. 代码审查",
+      "C. 压力测试",
+      "D. 单元测试"
+    ],
+    "answer": "A",
+    "explanation": "根本原因分析用于识别服务改进机会。通过分析服务事件和问题的根本原因，可以发现服务中存在的系统性问题，从而制定针对性的改进措施。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务改进",
+    "knowledge_point": "服务改进",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务改进",
+    "tags": [
+      "在持续改进与监督中",
+      "服务改进"
+    ]
+  },
+  {
+    "id": "ch12_q030",
+    "question": "以下关于资源要素设计的描述，不正确的是？",
+    "options": [
+      "A. 资源要素包括工具、服务台、备件和知识库",
+      "B. 资源要素设计应考虑服务需求",
+      "C. 资源要素设计不需要考虑成本",
+      "D. 资源要素设计应确保资源的可用性"
+    ],
+    "answer": "C",
+    "explanation": "资源要素设计需要考虑成本。资源的获取、维护和管理都需要成本投入，资源要素设计需要在服务需求和成本之间找到平衡点。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "服务台",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "服务台",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q031",
+    "question": "服务需求识别中，能力需求关注的核心是什么？",
+    "options": [
+      "A. 系统的用户界面设计",
+      "B. 系统处理业务的能力和容量",
+      "C. 系统的开发工具",
+      "D. 系统的代码质量"
+    ],
+    "answer": "B",
+    "explanation": "能力需求关注的核心是系统处理业务的能力和容量。能力需求应考虑当前和未来的业务量，确保系统有足够的处理能力满足业务需求。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "服务需求识别中",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "服务需求识别中",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q032",
+    "question": "以下关于MTTR的描述，正确的是？",
+    "options": [
+      "A. MTTR是平均无故障时间",
+      "B. MTTR是平均故障修复时间",
+      "C. MTTR是平均故障间隔",
+      "D. MTTR是平均响应时间"
+    ],
+    "answer": "B",
+    "explanation": "MTTR（Mean Time To Repair）是平均故障修复时间，指从故障发生到故障修复完成的平均时间。MTBF是平均无故障时间，MTBSI是平均故障间隔。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "服务测量",
+    "knowledge_point": "MTTR",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务测量",
+    "tags": [
+      "MTTR",
+      "服务测量"
+    ]
+  },
+  {
+    "id": "ch12_q033",
+    "question": "以下关于服务模式设计的描述，不正确的是？",
+    "options": [
+      "A. 服务模式设计应考虑客户需求",
+      "B. 服务模式设计应考虑服务能力",
+      "C. 服务模式设计一旦确定就不能变更",
+      "D. 服务模式设计应考虑成本效益"
+    ],
+    "answer": "C",
+    "explanation": "服务模式设计不是一旦确定就不能变更的。随着业务需求和技术环境的变化，服务模式可能需要进行调整和优化，以更好地满足客户需求。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "服务模式设计的",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "服务模式设计的",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q034",
+    "question": "过程要素设计中，事件管理的核心目标是什么？",
+    "options": [
+      "A. 预防事件的发生",
+      "B. 尽快恢复正常的IT服务",
+      "C. 分析事件的根本原因",
+      "D. 优化IT系统架构"
+    ],
+    "answer": "B",
+    "explanation": "事件管理的核心目标是尽快恢复正常的IT服务。事件管理关注的是如何快速响应和解决服务中断或降级事件，将对业务的影响降到最低。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "过程要素设计",
+    "knowledge_point": "事件管理",
+    "source_ref": "references/第12章_信息系统服务管理.md#过程要素设计",
+    "tags": [
+      "事件管理",
+      "过程要素设计",
+      "IT服务"
+    ]
+  },
+  {
+    "id": "ch12_q035",
+    "question": "以下关于变更管理的描述，不正确的是？",
+    "options": [
+      "A. 变更管理负责评估和审批变更请求",
+      "B. 变更管理应确保变更的风险可控",
+      "C. 所有变更都需要经过变更管理流程",
+      "D. 紧急变更可以绕过变更管理流程"
+    ],
+    "answer": "D",
+    "explanation": "紧急变更不能完全绕过变更管理流程。虽然紧急变更可以采用简化的审批流程，但仍需要记录和事后审查。所有变更都应纳入变更管理的范围。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务风险管理",
+    "knowledge_point": "变更管理的",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务风险管理",
+    "tags": [
+      "变更管理的",
+      "服务风险管理"
+    ]
+  },
+  {
+    "id": "ch12_q036",
+    "question": "以下关于知识库管理的描述，不正确的是？",
+    "options": [
+      "A. 知识库应存储常见问题和解决方案",
+      "B. 知识库应定期更新和维护",
+      "C. 知识库只需要技术人员访问",
+      "D. 知识库可以提高服务效率"
+    ],
+    "answer": "C",
+    "explanation": "知识库不仅需要技术人员访问，服务台人员、管理人员甚至客户都可以从知识库中获益。知识库应存储常见问题和解决方案，定期更新和维护，提高服务效率。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务战略规划",
+    "knowledge_point": "服务台",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务战略规划",
+    "tags": [
+      "服务台",
+      "服务战略规划"
+    ]
+  },
+  {
+    "id": "ch12_q037",
+    "question": "服务需求识别中，价格需求关注的核心是什么？",
+    "options": [
+      "A. 服务的技术先进性",
+      "B. 服务的成本效益",
+      "C. 服务的交付速度",
+      "D. 服务的创新程度"
+    ],
+    "answer": "B",
+    "explanation": "价格需求关注的核心是服务的成本效益。客户希望以合理的价格获得满足需求的服务，价格需求应在服务设计阶段就被考虑，确保服务定价具有竞争力。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "服务需求识别中",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "服务需求识别中",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q038",
+    "question": "以下关于问题管理的描述，不正确的是？",
+    "options": [
+      "A. 问题管理的目标是预防事件的发生",
+      "B. 问题管理需要分析事件的根本原因",
+      "C. 问题管理和事件管理是完全相同的过程",
+      "D. 问题管理应建立已知错误数据库"
+    ],
+    "answer": "C",
+    "explanation": "问题管理和事件管理是不同的过程。事件管理关注尽快恢复服务，问题管理关注分析根本原因和预防事件发生。两者虽然相关，但目标和方法不同。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务战略规划",
+    "knowledge_point": "问题管理",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务战略规划",
+    "tags": [
+      "问题管理",
+      "服务战略规划",
+      "事件管理"
+    ]
+  },
+  {
+    "id": "ch12_q039",
+    "question": "以下关于服务项目核算的描述，不正确的是？",
+    "options": [
+      "A. 服务项目核算应记录实际成本",
+      "B. 服务项目核算应与预算进行对比",
+      "C. 服务项目核算只需要在项目结束时进行",
+      "D. 服务项目核算应分析成本偏差原因"
+    ],
+    "answer": "C",
+    "explanation": "服务项目核算不应只在项目结束时进行，而应贯穿项目的整个生命周期。定期进行成本核算可以及时发现成本偏差，采取纠正措施。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务成本度量",
+    "knowledge_point": "服务项目核算的",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务成本度量",
+    "tags": [
+      "服务项目核算的",
+      "服务成本度量"
+    ]
+  },
+  {
+    "id": "ch12_q040",
+    "question": "以下关于配置管理的描述，不正确的是？",
+    "options": [
+      "A. 配置管理负责维护配置管理数据库（CMDB）",
+      "B. 配置管理记录IT基础设施的配置信息",
+      "C. 配置管理不需要与其他流程集成",
+      "D. 配置管理支持变更管理和事件管理"
+    ],
+    "answer": "C",
+    "explanation": "配置管理需要与其他流程紧密集成。配置管理为变更管理、事件管理、问题管理等流程提供配置信息支持，是IT服务管理的基础流程之一。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务战略规划",
+    "knowledge_point": "问题管理",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务战略规划",
+    "tags": [
+      "问题管理",
+      "服务战略规划",
+      "IT服务",
+      "事件管理"
+    ]
+  },
+  {
+    "id": "ch12_q041",
+    "question": "以下关于发布管理的描述，不正确的是？",
+    "options": [
+      "A. 发布管理负责规划和控制软件的发布",
+      "B. 发布管理应确保发布经过充分测试",
+      "C. 发布管理与变更管理无关",
+      "D. 发布管理应制定回退计划"
+    ],
+    "answer": "C",
+    "explanation": "发布管理与变更管理密切相关。发布管理是变更管理的实施环节，负责将经过批准的变更部署到生产环境。两者需要紧密配合，确保变更的顺利实施。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务战略规划",
+    "knowledge_point": "发布管理的",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务战略规划",
+    "tags": [
+      "发布管理的",
+      "服务战略规划"
+    ]
+  },
+  {
+    "id": "ch12_q042",
+    "question": "以下关于SLA监控和报告的描述，不正确的是？",
+    "options": [
+      "A. 应定期监控SLA的达成情况",
+      "B. 应向客户报告SLA的执行结果",
+      "C. SLA监控只需要在合同到期时进行",
+      "D. 应分析SLA未达成的原因并采取改进措施"
+    ],
+    "answer": "C",
+    "explanation": "SLA监控不应只在合同到期时进行，而应持续进行。定期监控SLA的达成情况，及时发现和解决问题，确保服务达到约定的服务级别目标。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "SLA",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "SLA",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q043",
+    "question": "以下关于服务设计中安全要素的描述，不正确的是？",
+    "options": [
+      "A. 安全要素设计应考虑数据保护",
+      "B. 安全要素设计应考虑访问控制",
+      "C. 安全要素设计不需要考虑合规要求",
+      "D. 安全要素设计应考虑安全事件响应"
+    ],
+    "answer": "C",
+    "explanation": "安全要素设计需要考虑合规要求。安全设计应符合适用的法律法规、行业标准和组织政策，确保安全措施满足合规要求。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务战略规划",
+    "knowledge_point": "服务设计中安全要素的",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务战略规划",
+    "tags": [
+      "服务设计中安全要素的",
+      "服务战略规划"
+    ]
+  },
+  {
+    "id": "ch12_q044",
+    "question": "以下关于服务退役中数据销毁的描述，不正确的是？",
+    "options": [
+      "A. 数据销毁应确保数据无法恢复",
+      "B. 数据销毁应记录销毁过程",
+      "C. 数据销毁可以随意进行",
+      "D. 数据销毁应符合数据保护法规"
+    ],
+    "answer": "C",
+    "explanation": "数据销毁不能随意进行，应按照规定的程序和方法进行。数据销毁应确保数据无法恢复，记录销毁过程，并符合相关数据保护法规的要求。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务退役终止",
+    "knowledge_point": "服务退役",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务退役终止",
+    "tags": [
+      "服务退役",
+      "服务退役终止"
+    ]
+  },
+  {
+    "id": "ch12_q045",
+    "question": "以下关于服务报告需求的描述，不正确的是？",
+    "options": [
+      "A. 服务报告应包含服务绩效数据",
+      "B. 服务报告应定期提交给客户",
+      "C. 服务报告只需要包含正面信息",
+      "D. 服务报告应包含改进建议"
+    ],
+    "answer": "C",
+    "explanation": "服务报告不应只包含正面信息，还应如实反映服务中存在的问题和不足。服务报告应包含服务绩效数据、问题分析和改进建议，帮助客户全面了解服务状况。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "服务报告需求的",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "服务报告需求的",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q046",
+    "question": "以下关于服务连续性设计的描述，不正确的是？",
+    "options": [
+      "A. 服务连续性设计应考虑灾难恢复",
+      "B. 服务连续性设计应定义RTO和RPO",
+      "C. 服务连续性设计不需要定期测试",
+      "D. 服务连续性设计应考虑业务影响分析"
+    ],
+    "answer": "C",
+    "explanation": "服务连续性设计需要定期测试。通过定期的灾难恢复演练和测试，可以验证连续性计划的有效性，发现潜在问题，确保在真正发生灾难时能够快速恢复。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "服务战略规划",
+    "knowledge_point": "服务连续性设计的",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务战略规划",
+    "tags": [
+      "服务连续性设计的",
+      "服务战略规划"
+    ]
+  },
+  {
+    "id": "ch12_q047",
+    "question": "以下关于服务成本分类的描述，正确的是？",
+    "options": [
+      "A. 直接成本是指无法直接归属到具体项目的成本",
+      "B. 间接成本是指可以直接归属到具体项目的成本",
+      "C. 固定成本不随服务量的变化而变化",
+      "D. 变动成本不随服务量的变化而变化"
+    ],
+    "answer": "C",
+    "explanation": "固定成本不随服务量的变化而变化，如办公场地租金、固定人员工资等。直接成本是可以直接归属到具体项目的成本，间接成本需要分摊。变动成本随服务量的变化而变化。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "服务成本度量",
+    "knowledge_point": "服务成本",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务成本度量",
+    "tags": [
+      "服务成本",
+      "服务成本度量"
+    ]
+  },
+  {
+    "id": "ch12_q048",
+    "question": "以下关于服务改进的描述，不正确的是？",
+    "options": [
+      "A. 服务改进应基于数据分析",
+      "B. 服务改进应制定改进计划",
+      "C. 服务改进只需要关注技术方面",
+      "D. 服务改进应跟踪改进效果"
+    ],
+    "answer": "C",
+    "explanation": "服务改进不仅需要关注技术方面，还应关注人员、流程、资源等多个方面。服务改进应基于数据分析，制定改进计划，跟踪改进效果，实现服务的持续提升。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务改进",
+    "knowledge_point": "服务改进的",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务改进",
+    "tags": [
+      "服务改进的",
+      "服务改进"
+    ]
+  },
+  {
+    "id": "ch12_q049",
+    "question": "以下关于可用性计算的描述，正确的是？",
+    "options": [
+      "A. 可用性 = MTBF / (MTBF + MTTR)",
+      "B. 可用性 = MTTR / (MTBF + MTTR)",
+      "C. 可用性 = MTBF / MTTR",
+      "D. 可用性 = MTTR / MTBF"
+    ],
+    "answer": "A",
+    "explanation": "可用性的计算公式为：可用性 = MTBF / (MTBF + MTTR)。MTBF是平均无故障时间，MTTR是平均故障修复时间。可用性越高，表示系统正常运行的时间比例越大。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "hard",
+    "section": "服务需求识别",
+    "knowledge_point": "可用性计算的",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "可用性计算的",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q050",
+    "question": "以下关于服务要素设计的描述，不正确的是？",
+    "options": [
+      "A. 服务要素包括人员、资源、技术和过程",
+      "B. 四个要素需要协调配合",
+      "C. 各要素可以独立设计，不需要考虑相互关系",
+      "D. 要素设计应以服务需求为导向"
+    ],
+    "answer": "C",
+    "explanation": "各要素不能独立设计，需要考虑相互关系。人员、资源、技术和过程四个要素需要协调配合，形成一个有机整体，共同支持服务目标的实现。",
+    "chapter": "第12章",
+    "source": "知识点练习",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "服务需求识别",
+    "knowledge_point": "服务要素设计的",
+    "source_ref": "references/第12章_信息系统服务管理.md#服务需求识别",
+    "tags": [
+      "服务要素设计的",
+      "服务需求识别"
+    ]
+  },
+  {
+    "id": "ch12_q051",
+    "question": "一个完整的服务级别协议（SLA）不包括（ ）。",
+    "options": [
+      "A. 涉及的当事人",
+      "B. 协定条款",
+      "C. 违约的处罚",
+      "D. 服务团队成员名单"
+    ],
+    "answer": "D",
+    "explanation": "“一个完整的SLA 也是一个合法的文档，包括涉及的当事人、协定条款(包含 应 用程序和支持的服务)、违约的处罚、费用和仲裁机构、政策、修改条款、报告形式和 双 方的义务等”，未提及服务团队成员名单，D 选项符合题意。答案选D。出自12.1.4 服务级别设计部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0011"
+  },
+  {
+    "id": "ch12_q052",
+    "question": "人员培训方案设计的培训需求分析中，通过高层访谈了解管理层所需收获的能力， 不包括（ ）。",
+    "options": [
+      "A. 如何提高服务管理水平",
+      "B. 如何提高信息系统服务的效益",
+      "C. 如何提升员工的工作积极性",
+      "D. 如何优化服务技术"
+    ],
+    "answer": "D",
+    "explanation": "通过高层访谈和参与管理层会议的形式，了解管理层所需要收获的能力，例如， 如何提高服务管理水平、如何提高信息系统服务的效益等，未提及如何优化服务技术。 答案选D。出自12.2.2 人员要素设计部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0285"
+  },
+  {
+    "id": "ch12_q053",
+    "question": "服务战略规划中，若未有效进行服务级别设计，可能导致的后果是（ ）。",
+    "options": [
+      "A. 服务成本降低",
+      "B. 客户满意度提高",
+      "C. 服务能力过剩",
+      "D. 服务可用性低"
+    ],
+    "answer": "D",
+    "explanation": "如果未进行有效的规划设计，信息系统服务就很难充分满足客户的需求，还可能 会造成信息系统服务可用性低、服务能力不足、预算超支等问题，从而导致客户满意度 的下降。答案选D。出自12.1 服务战略规划部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0177"
+  },
+  {
+    "id": "ch12_q054",
+    "question": "投诉管理属于应急处理机制，重视客户投诉的好处不包括（ ）。",
+    "options": [
+      "A. 更好地提升客户对服务的感知",
+      "B. 增加与客户之间的亲切感",
+      "C. 促进客户对服务更积极的评价",
+      "D. 降低服务成本"
+    ],
+    "answer": "D",
+    "explanation": "重视客户投诉，对投诉进行及时有效的处理甚至可以更好地提升客户对服务的感 知，增加与客户之间的亲切感，促进客户对服务更积极的评价，不包括降低服务成本。 答案选D。出自12.3.1 业务关系管理部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0067"
+  },
+  {
+    "id": "ch12_q055",
+    "question": "人员培训方案设计的培训需求分析中，通过内部调查了解各层面员工需求时，不包 括( ) 。",
+    "options": [
+      "A. 员工对培训讲师的要求",
+      "B. 员工对培训时间的需求",
+      "C. 员工对培训内容的期望",
+      "D. 员工的工作绩效情况"
+    ],
+    "answer": "D",
+    "explanation": "通过内部调查了解各层面员工需要什么培训、什么时候需要、对培训的关注程度、 需要什么形式的授课，不包括员工的工作绩效情况。答案选D。出自12.2.2 人员要素 设计部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0336"
+  },
+  {
+    "id": "ch12_q056",
+    "question": "信息系统服务管理中，服务战略规划若缺乏有效设计，可能引发的问题是（ ）。",
+    "options": [
+      "A. 服务的创新性增强",
+      "B. 服务成本降低",
+      "C. 客户满意度上升",
+      "D. 服务能力不足"
+    ],
+    "answer": "D",
+    "explanation": "若未进行有效的规划设计，信息系统服务可能会造成服务能力不足等问题，从而 导致客户满意度的下降，也不会使服务成本降低或服务创新性增强。答案选D。出自12.1 服务战略规划部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0273"
+  },
+  {
+    "id": "ch12_q057",
+    "question": "在连续性需求识别中，风险评估的作用不包括（ ）。",
+    "options": [
+      "A. 确定可能造成信息系统中断的潜在威胁",
+      "B. 预测威胁可能造成的损失程度",
+      "C. 评估所采取的控制措施是否有效",
+      "D. 制定灾难恢复计划"
+    ],
+    "answer": "D",
+    "explanation": "在连续性需求识别时，风险评估用于确定潜在威胁、预测损失程度和评估控制措 施有效性，制定灾难恢复计划是针对连续性需求的后续措施，并非风险评估的作用。出 自12.1.3 服务需求识别部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0116"
+  },
+  {
+    "id": "ch12_q058",
+    "question": "配置管理的关键指标不包括（ ）。",
+    "options": [
+      "A. 配置管理过程的完整性",
+      "B. 配置数据的准确性、完整性、有效性、可用性、可追溯性",
+      "C. 配置项审计机制的有效性",
+      "D. 变更管理过程的完整性"
+    ],
+    "answer": "D",
+    "explanation": "配置管理的关键指标包括配置管理过程的完整性，配置数据的准确、完整、有效、 可用、可追溯，配置项审计机制的有效性等，变更管理过程的完整性是变更管理的关键 指标。出自12.2.5 过程要素设计部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0145"
+  },
+  {
+    "id": "ch12_q059",
+    "question": "服务目录管理活动中，确定服务类别与代码时，分类维度不包括（ ）。",
+    "options": [
+      "A. 服务对象的技术维度",
+      "B. 服务成本维度",
+      "C. 服务性质维度",
+      "D. 服务时间维度"
+    ],
+    "answer": "D",
+    "explanation": "对服务清单中的内容，按照服务对象的技术维度或服务性质维度进行分类，并为 每类服务赋予唯一代码，不涉及服务时间维度。出自12.1.2 服务目录管理部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0114"
+  },
+  {
+    "id": "ch12_q060",
+    "question": "服务退役终止阶段，资源回收工作中，文件归档的目的不包括（ ）。",
+    "options": [
+      "A. 使项目知识得到沉淀",
+      "B. 为未来项目提供经验参考",
+      "C. 满足审计要求",
+      "D. 展示项目成果"
+    ],
+    "answer": "D",
+    "explanation": "文件归档是为了使项目知识得到沉淀，为未来服务项目的设计、计划、估算和管 理积累经验，未提及展示项目成果。答案选D。出自12.4.3 资源回收部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0239"
+  },
+  {
+    "id": "ch12_q061",
+    "question": "知识库设计时，选择知识管理策略应考虑的因素不包括（ ）。",
+    "options": [
+      "A. 组织的文化和管理模式",
+      "B. 知识的类型和特点",
+      "C. 知识管理工具的功能",
+      "D. 知识的更新频率"
+    ],
+    "answer": "D",
+    "explanation": "选择一种合适的知识管理策略需考虑组织的文化和管理模式、知识的类型和特点、 知识管理工具的功能等，知识的更新频率不是选择知识管理策略的主要考虑因素。出自",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0133"
+  },
+  {
+    "id": "ch12_q062",
+    "question": "移交会议中，不属于知识移交内容的是（ ）。",
+    "options": [
+      "A. 服务的问题解决方案",
+      "B. 服务使用手册",
+      "C. 服务维护知识",
+      "D. 服务提供技能"
+    ],
+    "answer": "D",
+    "explanation": "知识移交可包括服务相关维护知识、服务的问题解决方案等；服务使用手册属于 文件信息移交内容；服务提供技能属于技能移交内容。答案选D。出自12.4.1 沟通管 理部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0235"
+  },
+  {
+    "id": "ch12_q063",
+    "question": "在信息系统服务模式的设计过程中，不需要考虑的是（ ）。",
+    "options": [
+      "A. 选择的服务模式与客户可用性、连续性、安全性等方面的服务需求相一致",
+      "B. 服务供方的人员和资源配置与所设计的服务模式相匹配",
+      "C. 服务供方具备同时提供多种服务模式的能力",
+      "D. 服务模式的创新性"
+    ],
+    "answer": "D",
+    "explanation": "在信息系统服务模式设计时需考虑A、B、C 选项内容，文中未提及服务模式的创 新性，D 选项符合题意。答案选D。出自12.2.1 服务模式设计部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0017"
+  },
+  {
+    "id": "ch12_q064",
+    "question": "操作岗执行服务交付过程时，依据的操作手册应由（ ）制定。",
+    "options": [
+      "A. 管理岗",
+      "B. 技术支持岗",
+      "C. 操作岗自行",
+      "D. 服务供方统一"
+    ],
+    "answer": "D",
+    "explanation": "操作岗按照信息系统服务规范和操作手册执行服务交付过程，操作手册应由服务 供方统一制定。答案选D。出自12.2.2 人员要素设计部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0191"
+  },
+  {
+    "id": "ch12_q065",
+    "question": "服务设计实现的目的是（ ）。",
+    "options": [
+      "A. 构建符合服务设计要求的资源、计划、方案",
+      "B. 设计服务模式",
+      "C. 管理服务过程",
+      "D. 兑现对客户的服务承诺"
+    ],
+    "answer": "D",
+    "explanation": "“服务设计实现是以兑现对客户的服务承诺为目的，对信息系统服务进行整体设 计”，D 选项正确。答案选D。出自12.2 服务设计实现部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "easy",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "easy"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0014"
+  },
+  {
+    "id": "ch12_q066",
+    "question": "在服务设计实现阶段，服务模式设计需要充分考虑的因素中，不包括（ ）。",
+    "options": [
+      "A. 服务模式的新颖性",
+      "B. 服务供方的人员和资源配置",
+      "C. 服务模式与客户需求的一致性",
+      "D. 服务供方具备同时提供多种服务模式的能力"
+    ],
+    "answer": "A",
+    "explanation": "在信息系统服务模式的设计过程中，系统规划与管理师需要充分考虑选择的服务 模式与客户可用性、连续性、安全性等方面的服务需求相一致；服务供方的人员和资源 配置与所设计的服务模式相匹配；服务供方具备同时提供多种服务模式的能力，能够根 据客户需求的变化，及时对服务模式进行调整。文中未提及服务模式的新颖性。答案 选A。出自12.2.1 服务模式设计部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0333"
+  },
+  {
+    "id": "ch12_q067",
+    "question": "信息系统服务项目预算包括项目的收入和开支，建立服务项目预算的目的及意义不 包括( ) 。",
+    "options": [
+      "A. 增加项目成本",
+      "B. 便于形成资金使用计划",
+      "C. 便于项目资源分配",
+      "D. 评估资金使用效果"
+    ],
+    "answer": "A",
+    "explanation": "建立服务项目预算的目的及意义包括便于形成资金使用计划、便于交流资金使用 规划意图、协调资金使用活动、便于项目资源分配、提供责任计算框架、费用开支授权、 建立资金控制系统、评估资金使用效果，不包括增加项目成本。答案选A。出自12.3.4 服务项目预算、核算和结算部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0230"
+  },
+  {
+    "id": "ch12_q068",
+    "question": "服务退役终止阶段，系统规划与管理师在沟通管理中，服务终止计划编制会议需要 确认的内容不包括（ ）。",
+    "options": [
+      "A. 服务改进的目标和措施",
+      "B. 现阶段服务交付、人员、资源等情况",
+      "C. 在服务退役终止阶段所需处置的相关事项",
+      "D. 项目服务团队希望完成或传达的其他事项"
+    ],
+    "answer": "A",
+    "explanation": "服务终止计划编制会议需确认现阶段服务交付、人员、资源等情况，确定在服务 退役终止阶段所需处置的相关事项，了解项目服务团队希望完成或传达的其他事项，不 涉及服务改进的目标和措施。答案选A。出自12.4.1 沟通管理部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0299"
+  },
+  {
+    "id": "ch12_q069",
+    "question": "系统规划与管理师在对服务报告管理过程进行设计时，服务报告管理过程设计的主 要活动不包括（ ）。",
+    "options": [
+      "A. 建立服务目录",
+      "B. 确定与服务报告过程一致的活动",
+      "C. 制订服务报告计划",
+      "D. 建立服务报告模板"
+    ],
+    "answer": "A",
+    "explanation": "服务报告管理过程设计的主要活动包括确定与服务报告过程一致的活动、制订服 务报告计划、建立服务报告模板；建立服务目录属于服务级别管理过程设计的活动。答 案选A。出自12.2.5 过程要素设计部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0204"
+  },
+  {
+    "id": "ch12_q070",
+    "question": "服务退役终止阶段，系统规划与管理师应做好文件归档工作，项目文件一般不包括 ( ) 。",
+    "options": [
+      "A. 服务团队成员个人简历",
+      "B. 服务日志",
+      "C. 项目计划",
+      "D. 合同文档"
+    ],
+    "answer": "A",
+    "explanation": "服务项目文档一般应包括服务日志、项目计划（项目章程、项目范围说明书及风 险管理计划等）、项目来往函件、项目会议记录等，不包括服务团队成员个人简历。答 案选A。出自12.4.3 资源回收部分。",
+    "chapter": "第12章",
+    "source": "2025新版系规千题闯关-正式入库",
+    "question_type": "single_choice",
+    "difficulty": "medium",
+    "section": "信息系统服务管理",
+    "knowledge_point": "信息系统服务管理",
+    "source_ref": "references/internal/chapter-practice/2025新版系规千题闯关-解析版.md#第12章",
+    "tags": [
+      "信息系统服务管理",
+      "内部章节习题",
+      "正式入库",
+      "medium"
+    ],
+    "candidate_source_id": "internal_qt_ch12_0160"
+  }
+]
