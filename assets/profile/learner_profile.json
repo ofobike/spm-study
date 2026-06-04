@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-06-04",
+  "exam": {
+    "name": "系统规划与管理师",
+    "target_batch": "2026年下半年（待确认）",
+    "target_date": null,
+    "strategy": "保过优先，先稳住三科及格线，再提高主观题稳定性"
+  },
+  "availability": {
+    "daily_minutes": 75,
+    "weekday_minutes": 60,
+    "weekend_minutes": 120,
+    "preferred_slots": [
+      "晚上",
+      "周末整块时间"
+    ]
+  },
+  "baseline": {
+    "stage": "资料已接入，进入系统化训练阶段",
+    "weak_subjects": [
+      "案例分析",
+      "论文",
+      "综合知识"
+    ],
+    "weak_chapters": [
+      12,
+      17,
+      24
+    ],
+    "confidence": "中等，需要通过连续训练校准"
+  },
+  "preferences": {
+    "interaction_style": "一问一答，直接给可执行命令和下一步",
+    "task_intensity": "normal",
+    "preferred_modes": [
+      "错题复习",
+      "案例采分点训练",
+      "论文框架训练",
+      "全资料检索"
+    ]
+  },
+  "targets": {
+    "comprehensive_score": 50,
+    "case_score": 50,
+    "paper_score": 50,
+    "overall_goal": "三科稳定过线"
+  },
+  "notes": {
+    "missing_fields": [
+      "准确考试日期",
+      "真实每日可学习时间",
+      "最担心科目排序",
+      "个人论文项目素材"
+    ],
+    "privacy": "不保存身份证、准考证、账号、密码、联系方式等敏感信息"
+  }
+}

@@ -55,9 +55,34 @@ BACKUP_PDFS_DIR = ROOT / "references" / "backup-pdfs"
 BACKUP_PDFS_MANIFEST = BACKUP_PDFS_DIR / "manifest.json"
 PAST_EXAMS_FILE = ROOT / "assets" / "questions" / "past_exams.json"
 STANDARDS_TRAINING_FILE = ROOT / "assets" / "questions" / "standards_training.json"
+SPRINT_TRAINING_FILE = ROOT / "assets" / "questions" / "sprint_training.json"
+SEARCH_INDEX_FILE = ROOT / "assets" / "search" / "index.json"
+PROFILE_FILE = ROOT / "assets" / "profile" / "learner_profile.json"
 DEFAULT_FOCUS_CHAPTERS = [12, 15, 11, 13, 14, 16, 17, 5, 6, 8, 9, 10, 4, 7]
 DEFAULT_CASE_CHAPTERS = "4-24"
 DEFAULT_PAPER_TOPIC = "信息系统服务管理"
+SPRINT_KINDS = ("all", "mnemonic", "gold-points", "mock-exam", "csf-risk", "activities", "sprint-guide")
+SEARCH_SOURCE_TYPES = (
+    "case_special",
+    "case_study",
+    "chapter_practice",
+    "chapter_question",
+    "chapter_reference",
+    "exam_guide",
+    "mindmap",
+    "mock_bank",
+    "paper_special",
+    "past_exam",
+    "past_exam_pdf",
+    "sprint_material",
+    "sprint_training",
+    "standards_pdf",
+    "standards_training",
+    "syllabus",
+    "three_color_notes",
+    "vip_material",
+    "zfx_material",
+)
 
 
 PAPER_TOPICS: dict[str, dict[str, Any]] = {
@@ -362,6 +387,554 @@ def load_syllabus_analysis() -> dict[str, Any]:
 
 def load_paper_special_index() -> dict[str, Any]:
     return load_internal_json(PAPER_SPECIAL_INDEX, {"documents": [], "rubric": {}, "framework": {}, "samples": []})
+
+
+def default_learner_profile() -> dict[str, Any]:
+    return {
+        "schema_version": 1,
+        "updated_at": None,
+        "exam": {
+            "name": "系统规划与管理师",
+            "target_batch": "待确认",
+            "target_date": None,
+            "strategy": "保过优先",
+        },
+        "availability": {
+            "daily_minutes": 60,
+            "weekday_minutes": 60,
+            "weekend_minutes": 90,
+            "preferred_slots": [],
+        },
+        "baseline": {
+            "stage": "待确认",
+            "weak_subjects": [],
+            "weak_chapters": [],
+            "confidence": "待确认",
+        },
+        "preferences": {
+            "interaction_style": "一问一答",
+            "task_intensity": "normal",
+            "preferred_modes": [],
+        },
+        "targets": {
+            "comprehensive_score": 45,
+            "case_score": 45,
+            "paper_score": 45,
+            "overall_goal": "三科过线",
+        },
+        "notes": {
+            "missing_fields": [],
+            "privacy": "不保存敏感信息",
+        },
+    }
+
+
+def deep_merge_profile(base: dict[str, Any], override: dict[str, Any]) -> dict[str, Any]:
+    merged = dict(base)
+    for key, value in override.items():
+        if isinstance(value, dict) and isinstance(merged.get(key), dict):
+            merged[key] = deep_merge_profile(merged[key], value)
+        else:
+            merged[key] = value
+    return merged
+
+
+def load_learner_profile() -> dict[str, Any]:
+    profile = default_learner_profile()
+    loaded = load_internal_json(PROFILE_FILE, {})
+    if isinstance(loaded, dict):
+        profile = deep_merge_profile(profile, loaded)
+    profile["_path"] = str(PROFILE_FILE.relative_to(ROOT))
+    profile["_exists"] = PROFILE_FILE.exists()
+    return profile
+
+
+def profile_daily_minutes(profile: dict[str, Any]) -> int:
+    availability = profile.get("availability") or {}
+    value = availability.get("daily_minutes")
+    try:
+        minutes = int(value)
+    except (TypeError, ValueError):
+        minutes = 60
+    return max(15, min(minutes, 360))
+
+
+def profile_task_intensity(profile: dict[str, Any]) -> str:
+    value = str((profile.get("preferences") or {}).get("task_intensity") or "normal").lower()
+    return value if value in {"light", "normal", "intense"} else "normal"
+
+
+def profile_study_load(profile: dict[str, Any]) -> str:
+    minutes = profile_daily_minutes(profile)
+    if minutes < 45:
+        return "轻量"
+    if minutes < 90:
+        return "标准"
+    return "加量"
+
+
+def profile_practice_count(profile: dict[str, Any], default: int = 5) -> int:
+    minutes = profile_daily_minutes(profile)
+    intensity = profile_task_intensity(profile)
+    if minutes < 45:
+        count = 3
+    elif minutes < 75:
+        count = 5
+    elif minutes < 120:
+        count = 8
+    else:
+        count = 10
+    if intensity == "light":
+        count = max(3, count - 2)
+    elif intensity == "intense":
+        count = min(15, count + 3)
+    return max(1, count or default)
+
+
+def profile_case_count(profile: dict[str, Any]) -> int:
+    return 2 if profile_daily_minutes(profile) >= 120 else 1
+
+
+def profile_has_weak_subject(profile: dict[str, Any], *keywords: str) -> bool:
+    subjects = [str(item) for item in (profile.get("baseline") or {}).get("weak_subjects", [])]
+    text = " ".join(subjects)
+    return any(keyword in text for keyword in keywords)
+
+
+def profile_weak_chapters(profile: dict[str, Any]) -> list[int]:
+    values = (profile.get("baseline") or {}).get("weak_chapters", [])
+    chapters: list[int] = []
+    iterable = values if isinstance(values, list) else []
+    for value in iterable:
+        try:
+            chapter = int(value)
+        except (TypeError, ValueError):
+            continue
+        if 1 <= chapter <= 24 and chapter not in chapters:
+            chapters.append(chapter)
+    return chapters
+
+
+def profile_days_until_exam(profile: dict[str, Any]) -> int | None:
+    target_date = (profile.get("exam") or {}).get("target_date")
+    parsed = parse_date(str(target_date)) if target_date else None
+    if not parsed:
+        return None
+    return (parsed - today()).days
+
+
+def profile_summary(profile: dict[str, Any]) -> dict[str, Any]:
+    exam = profile.get("exam") or {}
+    availability = profile.get("availability") or {}
+    baseline = profile.get("baseline") or {}
+    preferences = profile.get("preferences") or {}
+    targets = profile.get("targets") or {}
+    notes = profile.get("notes") or {}
+    return {
+        "path": profile.get("_path"),
+        "exists": profile.get("_exists"),
+        "updated_at": profile.get("updated_at"),
+        "exam_name": exam.get("name"),
+        "target_batch": exam.get("target_batch"),
+        "target_date": exam.get("target_date"),
+        "strategy": exam.get("strategy"),
+        "daily_minutes": profile_daily_minutes(profile),
+        "study_load": profile_study_load(profile),
+        "days_until_exam": profile_days_until_exam(profile),
+        "weekday_minutes": availability.get("weekday_minutes"),
+        "weekend_minutes": availability.get("weekend_minutes"),
+        "preferred_slots": availability.get("preferred_slots", []),
+        "stage": baseline.get("stage"),
+        "weak_subjects": baseline.get("weak_subjects", []),
+        "weak_chapters": profile_weak_chapters(profile),
+        "confidence": baseline.get("confidence"),
+        "task_intensity": profile_task_intensity(profile),
+        "preferred_modes": preferences.get("preferred_modes", []),
+        "target_scores": {
+            "综合知识": targets.get("comprehensive_score"),
+            "案例分析": targets.get("case_score"),
+            "论文": targets.get("paper_score"),
+        },
+        "overall_goal": targets.get("overall_goal"),
+        "missing_fields": notes.get("missing_fields", []),
+    }
+
+
+PROFILE_SENSITIVE_KEYWORDS = (
+    "身份证",
+    "准考证",
+    "手机号",
+    "手机号码",
+    "电话",
+    "微信",
+    "QQ",
+    "邮箱",
+    "地址",
+    "银行卡",
+    "密码",
+    "验证码",
+    "cookie",
+    "token",
+    "api key",
+    "apikey",
+    "secret",
+)
+
+
+CHINESE_NUMBER_VALUES = {
+    "半": 0.5,
+    "一": 1,
+    "二": 2,
+    "两": 2,
+    "三": 3,
+    "四": 4,
+    "五": 5,
+    "六": 6,
+    "七": 7,
+    "八": 8,
+    "九": 9,
+    "十": 10,
+}
+
+
+def contains_profile_sensitive_text(text: str) -> list[str]:
+    lowered = text.lower()
+    found = [keyword for keyword in PROFILE_SENSITIVE_KEYWORDS if keyword.lower() in lowered]
+    patterns = [
+        ("疑似手机号", r"(?<!\d)1[3-9]\d{9}(?!\d)"),
+        ("疑似身份证号", r"(?<!\d)\d{17}[\dXx](?!\d)"),
+        ("疑似邮箱", r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}"),
+        ("疑似密钥", r"\b(?:sk|pk|ak|token|secret)[-_A-Za-z0-9]{12,}\b"),
+    ]
+    for label, pattern in patterns:
+        if re.search(pattern, text) and label not in found:
+            found.append(label)
+    return found
+
+
+def profile_write_requested(text: str) -> bool:
+    return any(word in text for word in ("保存", "写入", "更新", "设置", "修改", "改成", "记录到画像", "加入画像", "记到画像", "接入画像"))
+
+
+def parse_duration_value(value: str, half_suffix: str | None, unit: str) -> int | None:
+    raw = value.strip()
+    if re.fullmatch(r"\d+(?:\.\d+)?", raw):
+        number = float(raw)
+    else:
+        number = CHINESE_NUMBER_VALUES.get(raw)
+    if number is None:
+        return None
+    if half_suffix:
+        number += 0.5
+    if unit in ("分钟", "分"):
+        minutes = number
+    else:
+        minutes = number * 60
+    return max(15, min(int(round(minutes)), 360))
+
+
+def extract_profile_minutes(text: str) -> dict[str, int]:
+    fields: dict[str, int] = {}
+    pattern = re.compile(r"(?P<num>\d+(?:\.\d+)?|半|一|二|两|三|四|五|六|七|八|九|十)(?:个)?(?P<half>半)?\s*(?P<unit>小时|钟头|分钟|分)")
+    matches = list(pattern.finditer(text))
+    for match in matches:
+        minutes = parse_duration_value(match.group("num"), match.group("half"), match.group("unit"))
+        if minutes is None:
+            continue
+        prefix = text[max(0, match.start() - 18) : match.start()]
+        suffix = text[match.end() : match.end() + 8]
+        context = prefix + suffix
+        if any(word in context for word in ("工作日", "周一", "周五", "平时")):
+            fields["availability.weekday_minutes"] = minutes
+        elif any(word in context for word in ("周末", "周六", "周日")):
+            fields["availability.weekend_minutes"] = minutes
+        elif any(word in context for word in ("每天", "每日", "一天", "日均", "平均", "能学", "学习")) or len(matches) == 1:
+            fields["availability.daily_minutes"] = minutes
+    return fields
+
+
+def extract_profile_slots(text: str) -> list[str]:
+    slots = []
+    for slot in ("清晨", "早上", "上午", "中午", "下午", "晚上", "夜里", "周末"):
+        if slot in text and slot not in slots:
+            slots.append(slot)
+    return slots
+
+
+def extract_profile_weak_subjects(text: str) -> list[str]:
+    weak_terms = ("弱", "薄弱", "担心", "最怕", "最难", "不会", "短板", "差")
+    if not any(term in text for term in weak_terms):
+        return []
+    mapping = [
+        (("论文", "作文"), "论文"),
+        (("案例", "主观题"), "案例分析"),
+        (("上午", "综合", "选择题", "选择"), "综合知识"),
+    ]
+    subjects = []
+    for aliases, subject in mapping:
+        if any(alias in text for alias in aliases) and subject not in subjects:
+            subjects.append(subject)
+    return subjects
+
+
+def extract_profile_stage(text: str) -> str | None:
+    if "零基础" in text or "刚开始" in text:
+        return "零基础/刚开始"
+    if "学过一轮" in text or "过了一轮" in text or "一轮" in text:
+        return "学过一轮"
+    if "冲刺阶段" in text or "临考" in text:
+        return "冲刺阶段"
+    if "系统化训练" in text:
+        return "系统化训练阶段"
+    return None
+
+
+def extract_profile_strategy(text: str) -> str | None:
+    if "保过" in text or "先过" in text or "及格" in text:
+        return "保过优先"
+    if "高分" in text or "冲高" in text:
+        return "冲高分"
+    if "冲刺" in text:
+        return "冲刺提分"
+    return None
+
+
+def extract_profile_intensity(text: str) -> str | None:
+    if any(word in text for word in ("轻量", "少一点", "别太多", "低强度")):
+        return "light"
+    if any(word in text for word in ("加量", "高强度", "多安排", "强度高", "狠狠练")):
+        return "intense"
+    if any(word in text for word in ("正常", "适中", "标准强度")):
+        return "normal"
+    return None
+
+
+def extract_profile_target_date(text: str) -> str | None:
+    match = re.search(r"(20\d{2})年\s*(\d{1,2})月\s*(\d{1,2})日", text)
+    if not match:
+        return None
+    year, month, day = (int(match.group(1)), int(match.group(2)), int(match.group(3)))
+    try:
+        return f"{year:04d}-{month:02d}-{day:02d}"
+    except ValueError:
+        return None
+
+
+def extract_profile_target_batch(text: str) -> str | None:
+    match = re.search(r"(20\d{2})年\s*(上半年|下半年)", text)
+    if match:
+        return f"{match.group(1)}年{match.group(2)}"
+    return None
+
+
+def extract_profile_target_scores(text: str) -> dict[str, int]:
+    score_fields: dict[str, int] = {}
+    patterns = [
+        (r"综合知识?\D{0,6}(\d{2})\s*分?", "targets.comprehensive_score"),
+        (r"上午\D{0,6}(\d{2})\s*分?", "targets.comprehensive_score"),
+        (r"案例\D{0,6}(\d{2})\s*分?", "targets.case_score"),
+        (r"论文\D{0,6}(\d{2})\s*分?", "targets.paper_score"),
+    ]
+    for pattern, field in patterns:
+        match = re.search(pattern, text)
+        if not match:
+            continue
+        score = int(match.group(1))
+        if 0 <= score <= 75:
+            score_fields[field] = score
+    return score_fields
+
+
+def extract_profile_weak_chapters_from_text(text: str) -> list[int]:
+    chapters = []
+    if not any(word in text for word in ("弱", "薄弱", "担心", "最怕", "不会", "短板")):
+        return chapters
+    for match in re.finditer(r"第\s*(\d{1,2})\s*章", text):
+        chapter = int(match.group(1))
+        if 1 <= chapter <= 24 and chapter not in chapters:
+            chapters.append(chapter)
+    return chapters
+
+
+def get_profile_path_value(profile: dict[str, Any], path: str) -> Any:
+    current: Any = profile
+    for part in path.split("."):
+        if not isinstance(current, dict):
+            return None
+        current = current.get(part)
+    return current
+
+
+def set_profile_path_value(profile: dict[str, Any], path: str, value: Any) -> None:
+    current = profile
+    parts = path.split(".")
+    for part in parts[:-1]:
+        current = current.setdefault(part, {})
+    current[parts[-1]] = value
+
+
+def add_profile_update(updates: list[dict[str, Any]], profile: dict[str, Any], path: str, value: Any, reason: str) -> None:
+    old_value = get_profile_path_value(profile, path)
+    if old_value == value:
+        return
+    updates.append({"field": path, "old": old_value, "new": value, "reason": reason})
+
+
+def infer_profile_updates_from_text(text: str, profile: dict[str, Any]) -> list[dict[str, Any]]:
+    updates: list[dict[str, Any]] = []
+    for field, minutes in extract_profile_minutes(text).items():
+        add_profile_update(updates, profile, field, minutes, "学习时长")
+    slots = extract_profile_slots(text)
+    if slots:
+        old_slots = get_profile_path_value(profile, "availability.preferred_slots") or []
+        merged_slots = list(old_slots) if isinstance(old_slots, list) else []
+        for slot in slots:
+            if slot not in merged_slots:
+                merged_slots.append(slot)
+        add_profile_update(updates, profile, "availability.preferred_slots", merged_slots, "偏好学习时段")
+    weak_subjects = extract_profile_weak_subjects(text)
+    if weak_subjects:
+        old_subjects = get_profile_path_value(profile, "baseline.weak_subjects") or []
+        merged_subjects = list(old_subjects) if isinstance(old_subjects, list) else []
+        for subject in weak_subjects:
+            if subject not in merged_subjects:
+                merged_subjects.append(subject)
+        add_profile_update(updates, profile, "baseline.weak_subjects", merged_subjects, "薄弱科目")
+    weak_chapters = extract_profile_weak_chapters_from_text(text)
+    if weak_chapters:
+        old_chapters = profile_weak_chapters(profile)
+        merged_chapters = list(old_chapters)
+        for chapter in weak_chapters:
+            if chapter not in merged_chapters:
+                merged_chapters.append(chapter)
+        add_profile_update(updates, profile, "baseline.weak_chapters", merged_chapters, "薄弱章节")
+    stage = extract_profile_stage(text)
+    if stage:
+        add_profile_update(updates, profile, "baseline.stage", stage, "学习阶段")
+    strategy = extract_profile_strategy(text)
+    if strategy:
+        add_profile_update(updates, profile, "exam.strategy", strategy, "备考策略")
+        add_profile_update(updates, profile, "targets.overall_goal", "三科稳定过线" if strategy == "保过优先" else strategy, "总目标")
+    intensity = extract_profile_intensity(text)
+    if intensity:
+        add_profile_update(updates, profile, "preferences.task_intensity", intensity, "任务强度")
+    target_date = extract_profile_target_date(text)
+    if target_date:
+        add_profile_update(updates, profile, "exam.target_date", target_date, "考试日期")
+    target_batch = extract_profile_target_batch(text)
+    if target_batch:
+        add_profile_update(updates, profile, "exam.target_batch", target_batch, "考试批次")
+    for field, score in extract_profile_target_scores(text).items():
+        add_profile_update(updates, profile, field, score, "目标分数")
+    return updates
+
+
+def is_profile_update_request(text: str) -> bool:
+    if any(word in text for word in ("按薄弱点", "针对薄弱", "薄弱点练习", "薄弱点出题", "定向练习")):
+        return False
+    if any(word in text for word in ("个人画像", "备考画像", "学习画像")) and profile_write_requested(text):
+        return True
+    patterns = (
+        "每天能学",
+        "每日能学",
+        "每天学习",
+        "每日学习",
+        "工作日",
+        "周末",
+        "最弱",
+        "最担心",
+        "薄弱",
+        "优先保过",
+        "保过",
+        "零基础",
+        "学过一轮",
+        "冲刺阶段",
+        "目标分",
+        "目标批次",
+        "考试日期",
+        "学习强度",
+    )
+    return any(pattern in text for pattern in patterns)
+
+
+def profile_clean_for_save(profile: dict[str, Any]) -> dict[str, Any]:
+    return {key: value for key, value in profile.items() if not str(key).startswith("_")}
+
+
+def apply_profile_updates(profile: dict[str, Any], updates: list[dict[str, Any]]) -> dict[str, Any]:
+    proposed = json.loads(json.dumps(profile_clean_for_save(profile), ensure_ascii=False))
+    for update in updates:
+        set_profile_path_value(proposed, update["field"], update["new"])
+    proposed["updated_at"] = today().isoformat()
+    missing = ((proposed.get("notes") or {}).get("missing_fields") or [])
+    if isinstance(missing, list):
+        remove_by_field = {
+            "availability.daily_minutes": "真实每日可学习时间",
+            "exam.target_date": "准确考试日期",
+            "baseline.weak_subjects": "最担心科目排序",
+        }
+        clear_labels = {remove_by_field[update["field"]] for update in updates if update["field"] in remove_by_field}
+        if clear_labels:
+            proposed.setdefault("notes", {})["missing_fields"] = [item for item in missing if item not in clear_labels]
+    return proposed
+
+
+def build_profile_update_payload(args: argparse.Namespace) -> dict[str, Any]:
+    text = str(getattr(args, "text", "") or "")
+    write = bool(getattr(args, "write", False))
+    profile = load_learner_profile()
+    updates = infer_profile_updates_from_text(text, profile)
+    sensitive_terms = contains_profile_sensitive_text(text)
+    proposed = apply_profile_updates(profile, updates) if updates else profile_clean_for_save(profile)
+    blocked = bool(sensitive_terms and write)
+    wrote = False
+    if write and updates and not blocked:
+        save_json(PROFILE_FILE, proposed)
+        wrote = True
+    return {
+        "text": text,
+        "profile_file": str(PROFILE_FILE.relative_to(ROOT)),
+        "write_requested": write,
+        "wrote": wrote,
+        "blocked": blocked,
+        "sensitive_terms": sensitive_terms,
+        "updates": updates,
+        "proposed_summary": profile_summary(deep_merge_profile(default_learner_profile(), proposed)),
+        "next_step": "如果确认写入，请直接说：保存到画像：<你的偏好描述>",
+    }
+
+
+def render_profile_update_markdown(payload: dict[str, Any]) -> str:
+    mode = "已写入" if payload.get("wrote") else "已拦截" if payload.get("blocked") else "预览"
+    lines = [
+        "# 画像自然语言更新",
+        "",
+        f"- 模式：{mode}",
+        f"- 画像文件：{payload['profile_file']}",
+    ]
+    if payload.get("sensitive_terms"):
+        lines.append(f"- 敏感信息拦截：{', '.join(payload['sensitive_terms'])}")
+    if not payload.get("updates"):
+        lines.append("- 识别字段：暂无。请描述每日可学时间、薄弱科目、考试批次、目标分数或学习强度。")
+    else:
+        lines.append("")
+        lines.append("## 识别字段")
+        for update in payload["updates"]:
+            lines.append(f"- {update['field']}: {update.get('old')} -> {update.get('new')}（{update['reason']}）")
+    if payload.get("blocked"):
+        lines.append("")
+        lines.append("写入被拦截：请去掉身份证、账号、密码、联系方式等敏感信息后再保存。")
+    elif payload.get("wrote"):
+        summary = payload.get("proposed_summary") or {}
+        lines.append("")
+        lines.append("## 写入后摘要")
+        lines.append(f"- 每日可学：{summary.get('daily_minutes')} 分钟")
+        lines.append(f"- 薄弱科目：{', '.join(summary.get('weak_subjects') or []) or '待确认'}")
+        lines.append(f"- 策略：{summary.get('strategy') or '待确认'}")
+    elif payload.get("updates"):
+        lines.append("")
+        lines.append(f"Next: {payload['next_step']}")
+    return "\n".join(lines) + "\n"
 
 
 def exam_focus_chapters() -> list[int]:
@@ -814,6 +1387,181 @@ def load_standard_questions() -> list[dict[str, Any]]:
 
 def standards_question_lookup() -> dict[str, dict[str, Any]]:
     return {str(question.get("id")): question for question in load_standard_questions() if question.get("id")}
+
+
+def load_sprint_training() -> dict[str, Any]:
+    return load_json(
+        SPRINT_TRAINING_FILE,
+        {
+            "stats": {},
+            "cards": [],
+            "choice_questions": [],
+            "case_prompts": [],
+            "note": "尚未生成冲刺训练库。请先运行 python scripts/build_sprint_training.py --write --format markdown。",
+        },
+    )
+
+
+def load_sprint_training_cards() -> list[dict[str, Any]]:
+    rows = load_sprint_training().get("cards", [])
+    return rows if isinstance(rows, list) else []
+
+
+def load_sprint_training_choices() -> list[dict[str, Any]]:
+    rows = load_sprint_training().get("choice_questions", [])
+    return rows if isinstance(rows, list) else []
+
+
+def load_sprint_training_cases() -> list[dict[str, Any]]:
+    rows = load_sprint_training().get("case_prompts", [])
+    return rows if isinstance(rows, list) else []
+
+
+def sprint_training_question_lookup() -> dict[str, dict[str, Any]]:
+    return {str(question.get("id")): question for question in load_sprint_training_choices() if question.get("id")}
+
+
+def filter_sprint_kind(rows: list[dict[str, Any]], kind: str | None = None, keyword: str | None = None) -> list[dict[str, Any]]:
+    result = list(rows)
+    if kind and kind != "all":
+        result = [row for row in result if row.get("kind") == kind]
+    if keyword:
+        needle = str(keyword)
+        result = [
+            row
+            for row in result
+            if needle in str(row.get("title") or "")
+            or needle in str(row.get("prompt") or "")
+            or needle in str(row.get("question") or "")
+            or needle in str(row.get("answer") or "")
+            or needle in str(row.get("explanation") or "")
+        ]
+    return result
+
+
+def load_search_index() -> dict[str, Any]:
+    return load_json(
+        SEARCH_INDEX_FILE,
+        {
+            "chunk_count": 0,
+            "source_counts": {},
+            "entries": [],
+            "note": "尚未生成全资料检索索引。请先运行 python scripts/build_search_index.py --write --format markdown。",
+        },
+    )
+
+
+def tokenize_search_query(text: str) -> list[str]:
+    value = normalize_search_text(text)
+    tokens = re.findall(r"[A-Za-z0-9][A-Za-z0-9+\-_/\.]*|[\u4e00-\u9fff]{2,}", value)
+    result: list[str] = []
+    for token in tokens:
+        if len(token) <= 8:
+            result.append(token.lower())
+            continue
+        if re.fullmatch(r"[\u4e00-\u9fff]+", token):
+            result.append(token)
+            result.extend(token[index : index + 2] for index in range(0, len(token) - 1))
+        else:
+            result.append(token.lower())
+    seen: set[str] = set()
+    deduped: list[str] = []
+    for token in result:
+        if token and token not in seen:
+            seen.add(token)
+            deduped.append(token)
+    return deduped
+
+
+def search_entry_score(entry: dict[str, Any], query: str, tokens: list[str]) -> tuple[float, list[str]]:
+    haystack = normalize_search_text(
+        "\n".join(
+            str(entry.get(key) or "")
+            for key in ("title", "heading", "source_type", "path", "text")
+        )
+    ).lower()
+    query_norm = normalize_search_text(query).lower()
+    score = 0.0
+    matched: list[str] = []
+    if query_norm and query_norm in haystack:
+        score += 8.0
+        matched.append(query_norm)
+    for token in tokens:
+        token_norm = token.lower()
+        if not token_norm or token_norm not in haystack:
+            continue
+        count = haystack.count(token_norm)
+        weight = 1.0
+        if len(token_norm) >= 4:
+            weight += 0.8
+        if token_norm in normalize_search_text(str(entry.get("title") or "")).lower():
+            weight += 1.2
+        if token_norm in normalize_search_text(str(entry.get("heading") or "")).lower():
+            weight += 0.8
+        score += min(4, count) * weight
+        matched.append(token)
+    return score, matched[:10]
+
+
+def build_search_payload(args: argparse.Namespace) -> dict[str, Any]:
+    index = load_search_index()
+    query = str(getattr(args, "query", "") or "").strip()
+    tokens = tokenize_search_query(query)
+    source_type = getattr(args, "source_type", None)
+    chapter = getattr(args, "chapter", None)
+    entries = index.get("entries", [])
+    if not isinstance(entries, list):
+        entries = []
+    scored: list[dict[str, Any]] = []
+    for entry in entries:
+        if not isinstance(entry, dict):
+            continue
+        if source_type and entry.get("source_type") != source_type:
+            continue
+        if chapter is not None and int(entry.get("chapter") or 0) != int(chapter):
+            continue
+        score, matched = search_entry_score(entry, query, tokens)
+        if score <= 0:
+            continue
+        snippet = clean_search_snippet(str(entry.get("text") or ""), query, tokens)
+        scored.append({**entry, "score": round(score, 3), "matched_terms": matched, "snippet": snippet})
+    scored.sort(key=lambda item: (-float(item["score"]), len(str(item.get("text") or ""))))
+    limit = max(1, int(getattr(args, "limit", 8) or 8))
+    return {
+        "query": query,
+        "tokens": tokens,
+        "source_type": source_type,
+        "chapter": chapter,
+        "index_file": str(SEARCH_INDEX_FILE.relative_to(ROOT)),
+        "chunk_count": index.get("chunk_count", len(entries)),
+        "source_counts": index.get("source_counts", {}),
+        "matched_count": len(scored),
+        "results": scored[:limit],
+        "note": index.get("note"),
+    }
+
+
+def clean_search_snippet(text: str, query: str, tokens: list[str], max_chars: int = 260) -> str:
+    body = clean_text_for_preview(text)
+    if not body:
+        return ""
+    lower = body.lower()
+    candidates = [normalize_search_text(query).lower()] + [token.lower() for token in tokens]
+    positions = [lower.find(token) for token in candidates if token and lower.find(token) >= 0]
+    start = max(0, min(positions) - 60) if positions else 0
+    snippet = body[start : start + max_chars]
+    if start > 0:
+        snippet = "..." + snippet
+    if start + max_chars < len(body):
+        snippet += "..."
+    return snippet
+
+
+def clean_text_for_preview(text: str) -> str:
+    value = str(text or "").replace("\u3000", " ")
+    value = re.sub(r"\s+", " ", value)
+    value = re.sub(r"(?<=[\u4e00-\u9fff])\s+(?=[\u4e00-\u9fff])", "", value)
+    return value.strip()
 
 
 def filter_year_period(rows: list[dict[str, Any]], year: int | None = None, period: str | None = None) -> list[dict[str, Any]]:
@@ -1348,6 +2096,8 @@ def grade_session(session: dict[str, Any], answers: dict[str, str], record: bool
         by_id = {**by_id, **past_exam_choice_lookup()}
     if session.get("type") == "standards_training":
         by_id = {**by_id, **standards_question_lookup()}
+    if session.get("type") == "sprint_training":
+        by_id = {**by_id, **sprint_training_question_lookup()}
     results: list[dict[str, Any]] = []
     answer_records: list[dict[str, Any]] = []
     correct_count = 0
@@ -1519,19 +2269,34 @@ def command_status(args: argparse.Namespace) -> int:
 
 
 def build_plan_payload(args: argparse.Namespace) -> dict[str, Any]:
+    profile = load_learner_profile()
+    profile_info = profile_summary(profile)
+    practice_count = args.practice_count if args.practice_count != 5 else profile_practice_count(profile, args.practice_count)
+    daily_minutes = profile_info["daily_minutes"]
+    task_budget = 2 if daily_minutes < 45 else 4 if daily_minutes < 90 else 6
     due = due_items(args.review_limit)
     weak = weakness_rows(args.weak_limit)
     progress = load_progress()
     answered = int(progress.get("stats", {}).get("total_answered", 0))
     focus_chapters = exam_focus_chapters()
     tasks: list[dict[str, Any]] = []
+    task_keys: set[str] = set()
+
+    def add_task(task: dict[str, Any]) -> None:
+        key = str(task.get("command"))
+        if key in task_keys:
+            return
+        task_keys.add(key)
+        tasks.append(task)
 
     if due:
-        tasks.append(
+        add_task(
             {
+                "priority": 1,
                 "type": "review",
                 "title": "复习到期错题",
                 "count": min(len(due), args.review_limit),
+                "unit": "题",
                 "command": "python scripts/study.py review --format markdown",
             }
         )
@@ -1539,54 +2304,121 @@ def build_plan_payload(args: argparse.Namespace) -> dict[str, Any]:
     if weak:
         for row in weak[:2]:
             chapter_no = row["chapter"].replace("第", "").replace("章", "")
-            tasks.append(
+            add_task(
                 {
+                    "priority": 2,
                     "type": "weak_practice",
                     "title": f"{row['chapter']}薄弱巩固",
-                    "count": args.practice_count,
-                    "command": f"python scripts/study.py start --chapters {chapter_no} --count {args.practice_count} --format markdown",
+                    "count": practice_count,
+                    "unit": "题",
+                    "command": f"python scripts/study.py start --chapters {chapter_no} --count {practice_count} --format markdown",
                 }
             )
+
+    for chapter_no in profile_weak_chapters(profile)[:2]:
+        guide_row = chapter_guide_row(chapter_no)
+        add_task(
+            {
+                "priority": 2.2,
+                "type": "profile_weak_chapter",
+                "title": f"画像薄弱章节巩固：第{chapter_no}章" + (f" {guide_row['title']}" if guide_row else ""),
+                "count": practice_count,
+                "unit": "题",
+                "command": f"python scripts/study.py start --chapters {chapter_no} --count {practice_count} --format markdown",
+                "source": "assets/profile/learner_profile.json",
+            }
+        )
+
+    if profile_has_weak_subject(profile, "案例", "主观题"):
+        case_count = profile_case_count(profile)
+        add_task(
+            {
+                "priority": 3,
+                "type": "profile_case",
+                "title": "案例分析采分点训练",
+                "count": case_count,
+                "unit": "个",
+                "command": f"python scripts/study.py case start --chapters {case_range_chapters_text()} --count {case_count} --format markdown",
+                "source": "assets/profile/learner_profile.json",
+            }
+        )
+
+    if profile_has_weak_subject(profile, "论文", "作文"):
+        add_task(
+            {
+                "priority": 4,
+                "type": "profile_paper",
+                "title": "论文框架训练",
+                "count": 1,
+                "unit": "篇",
+                "command": f"python scripts/study.py paper --topic {DEFAULT_PAPER_TOPIC} --format markdown",
+                "source": "assets/profile/learner_profile.json",
+            }
+        )
+
+    if profile_has_weak_subject(profile, "综合", "上午", "选择"):
+        chapters_text = ",".join(str(chapter) for chapter in focus_chapters[:3])
+        add_task(
+            {
+                "priority": 5,
+                "type": "profile_comprehensive",
+                "title": "综合知识高频章节训练",
+                "count": practice_count,
+                "unit": "题",
+                "command": f"python scripts/study.py start --chapters {chapters_text} --count {practice_count} --format markdown",
+                "source": "assets/profile/learner_profile.json",
+            }
+        )
 
     if not tasks:
         default_chapter = args.default_chapter if answered else (focus_chapters[0] if focus_chapters else 12)
         guide_row = chapter_guide_row(default_chapter)
-        tasks.append(
+        add_task(
             {
+                "priority": 6,
                 "type": "new_practice",
                 "title": f"第{default_chapter}章核心练习" + (f"：{guide_row['title']}" if guide_row else ""),
-                "count": args.practice_count,
-                "command": f"python scripts/study.py start --chapters {default_chapter} --count {args.practice_count} --format markdown",
+                "count": practice_count,
+                "unit": "题",
+                "command": f"python scripts/study.py start --chapters {default_chapter} --count {practice_count} --format markdown",
                 "source": "references/internal/guide/exam-guide.json",
             }
         )
     if answered < 50 and not due:
         chapters_text = ",".join(str(chapter) for chapter in focus_chapters[:3])
-        tasks.append(
+        add_task(
             {
+                "priority": 6.5,
                 "type": "exam_focus",
                 "title": "新版大纲高优先级章节起步",
-                "count": args.practice_count,
-                "command": f"python scripts/study.py start --chapters {chapters_text} --count {args.practice_count} --format markdown",
+                "count": practice_count,
+                "unit": "题",
+                "command": f"python scripts/study.py start --chapters {chapters_text} --count {practice_count} --format markdown",
                 "source": "references/internal/syllabus/syllabus-analysis.json",
             }
         )
 
     if args.include_mock:
-        tasks.append(
+        add_task(
             {
+                "priority": 8,
                 "type": "mock_exam",
                 "title": "综合知识模拟卷",
                 "count": 75,
+                "unit": "题",
                 "command": "python scripts/study.py start --mode mock --format markdown",
             }
         )
+    tasks = sorted(tasks, key=lambda item: item.get("priority", 99))[:task_budget]
 
     return {
         "date": today().isoformat(),
         "answered": answered,
         "due_review_count": len(due),
         "focus_chapters": focus_chapters,
+        "profile": profile_info,
+        "practice_count": practice_count,
+        "task_budget": task_budget,
         "tasks": tasks,
     }
 
@@ -1598,12 +2430,16 @@ def render_plan_markdown(payload: dict[str, Any]) -> str:
         f"- 已答题：{payload['answered']}",
         f"- 到期复习：{payload['due_review_count']}",
         f"- 新版大纲高优先级章节：{','.join(str(chapter) for chapter in payload['focus_chapters'])}",
+        f"- 画像：每日 {payload['profile']['daily_minutes']} 分钟，{payload['profile']['study_load']}负荷，策略：{payload['profile'].get('strategy') or '待确认'}",
+        f"- 今日自动题量：{payload['practice_count']} 题；任务上限：{payload['task_budget']} 项",
         "",
         "## 今日任务",
     ]
     for index, task in enumerate(payload["tasks"], start=1):
-        lines.append(f"{index}. {task['title']} ({task['count']}题)")
+        lines.append(f"{index}. {task['title']} ({task['count']}{task.get('unit', '题')})")
         lines.append(f"   {task['command']}")
+    lines.append("")
+    lines.append("画像入口：python scripts/study.py profile --format markdown")
     return "\n".join(lines) + "\n"
 
 
@@ -1611,6 +2447,78 @@ def command_plan(args: argparse.Namespace) -> int:
     payload = build_plan_payload(args)
     if args.format == "markdown":
         print(render_plan_markdown(payload))
+    else:
+        print(json.dumps(payload, ensure_ascii=False, indent=2))
+    return 0
+
+
+def build_profile_payload(args: argparse.Namespace | None = None) -> dict[str, Any]:
+    profile = load_learner_profile()
+    summary = profile_summary(profile)
+    return {
+        "profile": profile,
+        "summary": summary,
+        "suggested_practice_count": profile_practice_count(profile),
+        "suggested_case_count": profile_case_count(profile),
+        "suggested_daily_minutes": summary["daily_minutes"],
+    }
+
+
+def render_profile_markdown(payload: dict[str, Any]) -> str:
+    summary = payload["summary"]
+    scores = summary.get("target_scores") or {}
+    missing_fields = summary.get("missing_fields") or []
+    weak_chapters = summary.get("weak_chapters") or []
+    lines = [
+        "# 个人备考画像",
+        "",
+        f"- 画像文件：{summary.get('path')}",
+        f"- 最近更新：{summary.get('updated_at') or '待确认'}",
+        f"- 考试目标：{summary.get('exam_name')}，{summary.get('target_batch') or '批次待确认'}",
+        f"- 考试日期：{summary.get('target_date') or '待确认'}",
+    ]
+    if summary.get("days_until_exam") is not None:
+        lines.append(f"- 距离考试：{summary['days_until_exam']} 天")
+    lines.extend(
+        [
+            f"- 策略：{summary.get('strategy') or '待确认'}",
+            f"- 每日可学：{summary.get('daily_minutes')} 分钟（{summary.get('study_load')}负荷）",
+            f"- 学习时段：{', '.join(summary.get('preferred_slots') or []) or '待确认'}",
+            f"- 当前阶段：{summary.get('stage') or '待确认'}",
+            f"- 薄弱科目：{', '.join(summary.get('weak_subjects') or []) or '待确认'}",
+            f"- 薄弱章节：{', '.join(str(chapter) for chapter in weak_chapters) or '待确认'}",
+            f"- 目标分数：综合知识 {scores.get('综合知识') or '-'}，案例分析 {scores.get('案例分析') or '-'}，论文 {scores.get('论文') or '-'}",
+            f"- 总目标：{summary.get('overall_goal') or '待确认'}",
+            "",
+            "## 个性化默认值",
+            f"- 选择题每日建议题量：{payload['suggested_practice_count']} 题",
+            f"- 案例每日建议数量：{payload['suggested_case_count']} 个",
+            f"- 任务强度：{summary.get('task_intensity')}",
+            f"- 偏好模式：{', '.join(summary.get('preferred_modes') or []) or '待确认'}",
+        ]
+    )
+    if missing_fields:
+        lines.append("")
+        lines.append("## 待补充")
+        lines.extend(f"- {item}" for item in missing_fields)
+    lines.append("")
+    lines.append("Next: 直接说“保存到画像：我每天能学1小时，论文最弱，优先保过”，即可用自然语言更新画像。")
+    return "\n".join(lines) + "\n"
+
+
+def command_profile(args: argparse.Namespace) -> int:
+    payload = build_profile_payload(args)
+    if args.format == "markdown":
+        print(render_profile_markdown(payload))
+    else:
+        print(json.dumps(payload, ensure_ascii=False, indent=2))
+    return 0
+
+
+def command_profile_update(args: argparse.Namespace) -> int:
+    payload = build_profile_update_payload(args)
+    if args.format == "markdown":
+        print(render_profile_update_markdown(payload))
     else:
         print(json.dumps(payload, ensure_ascii=False, indent=2))
     return 0
@@ -3169,6 +4077,9 @@ def command_fix_quality(args: argparse.Namespace) -> int:
 
 
 def build_dashboard_payload(args: argparse.Namespace) -> dict[str, Any]:
+    profile = load_learner_profile()
+    profile_info = profile_summary(profile)
+    practice_count = profile_practice_count(profile)
     progress = load_progress()
     archive = load_archive()
     stats = progress.get("stats", {})
@@ -3198,16 +4109,24 @@ def build_dashboard_payload(args: argparse.Namespace) -> dict[str, Any]:
         add_task({"priority": 1, "type": "review", "title": "复习到期错题", "command": "python scripts/study.py review --format markdown"})
     if weak:
         chapter = weak[0]["chapter"].replace("第", "").replace("章", "")
-        add_task({"priority": 2, "type": "weak_practice", "title": f"{weak[0]['chapter']}薄弱巩固", "command": f"python scripts/study.py start --chapters {chapter} --count 5 --format markdown"})
+        add_task({"priority": 2, "type": "weak_practice", "title": f"{weak[0]['chapter']}薄弱巩固", "command": f"python scripts/study.py start --chapters {chapter} --count {practice_count} --format markdown"})
+    for chapter in profile_weak_chapters(profile)[:2]:
+        guide_row = chapter_guide_row(chapter)
+        title = f"画像薄弱章节：第{chapter}章" + (f" {guide_row['title']}" if guide_row else "")
+        add_task({"priority": 2.2, "type": "profile_weak_chapter", "title": title, "command": f"python scripts/study.py start --chapters {chapter} --count {practice_count} --format markdown"})
+    if profile_has_weak_subject(profile, "案例", "主观题"):
+        add_task({"priority": 3, "type": "profile_case", "title": "案例分析采分点训练", "command": f"python scripts/study.py case start --chapters {case_chapters} --count {profile_case_count(profile)} --format markdown"})
+    if profile_has_weak_subject(profile, "论文", "作文"):
+        add_task({"priority": 3.5, "type": "profile_paper", "title": "论文框架训练", "command": f"python scripts/study.py paper --topic {DEFAULT_PAPER_TOPIC} --format markdown"})
     for item in coverage.get("suggestions", [])[:2]:
         add_task({"priority": 3, "type": item["type"], "title": f"补练知识点：{item['knowledge_point']}", "command": item["command"]})
     for item in mastery.get("weak_points", [])[:2]:
         add_task({"priority": 3.5, "type": "mastery", "title": f"掌握度提升：{item['knowledge_point']}", "command": item["command"]})
     if not total:
-        add_task({"priority": 2.5, "type": "exam_focus", "title": "新版大纲高优先级章节", "command": f"python scripts/study.py start --chapters {','.join(str(chapter) for chapter in focus_chapters[:3])} --count 5 --format markdown"})
+        add_task({"priority": 2.5, "type": "exam_focus", "title": "新版大纲高优先级章节", "command": f"python scripts/study.py start --chapters {','.join(str(chapter) for chapter in focus_chapters[:3])} --count {practice_count} --format markdown"})
     add_task({"priority": 4, "type": "case", "title": "案例分析训练", "command": f"python scripts/study.py case start --chapters {case_chapters} --count 1 --format markdown"})
-    add_task({"priority": 4.5, "type": "past_exam", "title": "历年真题选择训练", "command": "python scripts/study.py past-exam start --count 5 --format markdown"})
-    add_task({"priority": 4.7, "type": "standards_training", "title": "标准规范专项训练", "command": "python scripts/study.py standards start --count 5 --format markdown"})
+    add_task({"priority": 4.5, "type": "past_exam", "title": "历年真题选择训练", "command": f"python scripts/study.py past-exam start --count {practice_count} --format markdown"})
+    add_task({"priority": 4.7, "type": "standards_training", "title": "标准规范专项训练", "command": f"python scripts/study.py standards start --count {practice_count} --format markdown"})
     add_task({"priority": 5, "type": "paper", "title": "论文训练", "command": f"python scripts/study.py paper --topic {DEFAULT_PAPER_TOPIC} --format markdown"})
     if audit and audit.get("issue_count"):
         add_task({"priority": 6, "type": "quality", "title": "题库质量修复预览", "command": "python scripts/study.py fix-quality --format markdown"})
@@ -3228,6 +4147,8 @@ def build_dashboard_payload(args: argparse.Namespace) -> dict[str, Any]:
         "quality_counts_by_code": audit["counts_by_code"] if audit else None,
         "exam_guide": guide,
         "focus_chapters": focus_chapters,
+        "profile": profile_info,
+        "practice_count": practice_count,
         "past_exam": past_exam_progress_stats(),
         "standards_training": standards_progress_stats(),
         "tasks": tasks,
@@ -3248,6 +4169,10 @@ def render_dashboard_markdown(payload: dict[str, Any]) -> str:
         lines.append(f"- 题库质量问题：{payload['quality_issues']}")
     if payload.get("focus_chapters"):
         lines.append(f"- 新版大纲高优先级章节：{','.join(str(chapter) for chapter in payload['focus_chapters'])}")
+    profile = payload.get("profile") or {}
+    lines.append(f"- 个人画像：每日 {profile.get('daily_minutes', '-')} 分钟，{profile.get('study_load', '标准')}负荷，建议题量 {payload.get('practice_count', 5)} 题")
+    if profile.get("days_until_exam") is not None:
+        lines.append(f"- 距离考试：{profile['days_until_exam']} 天")
     past_exam = payload.get("past_exam") or {}
     lines.append(
         f"- 历年真题：session {past_exam.get('sessions', 0)} 次，已答 {past_exam.get('answered', 0)} 题，正确率 {past_exam.get('accuracy_percent') if past_exam.get('accuracy_percent') is not None else '-'}%"
@@ -3265,6 +4190,14 @@ def render_dashboard_markdown(payload: dict[str, Any]) -> str:
         lines.append(f"- 案例分析范围：第{ranges.get('case_analysis', {}).get('chapters', '4-24')}章")
         lines.append(f"- 论文范围：第{ranges.get('paper', {}).get('chapters', '4-17')}章")
         lines.append(f"- 资料：{guide.get('paths', {}).get('guide')} / {guide.get('paths', {}).get('syllabus')}")
+        lines.append("")
+    if profile:
+        lines.append("## 个人画像")
+        lines.append(f"- 目标：{profile.get('overall_goal') or profile.get('strategy') or '待确认'}")
+        lines.append(f"- 阶段：{profile.get('stage') or '待确认'}")
+        lines.append(f"- 薄弱科目：{', '.join(profile.get('weak_subjects') or []) or '待确认'}")
+        lines.append(f"- 薄弱章节：{', '.join(str(chapter) for chapter in profile.get('weak_chapters') or []) or '待确认'}")
+        lines.append(f"- 查看画像：python scripts/study.py profile --format markdown")
         lines.append("")
     lines.append("## 掌握度分布")
     for level in ("未接触", "初学", "不稳定", "已掌握", "精通"):
@@ -3505,6 +4438,218 @@ def command_sprint_material(args: argparse.Namespace) -> int:
     payload = build_sprint_material_payload(args)
     if args.format == "markdown":
         print(render_sprint_material_markdown(payload))
+    else:
+        print(json.dumps(payload, ensure_ascii=False, indent=2))
+    return 0
+
+
+def public_sprint_training_question(question: dict[str, Any], include_answer: bool = False) -> dict[str, Any]:
+    result = public_question(question, include_answer=include_answer)
+    for key in ("kind", "kind_label", "note"):
+        if key in question:
+            result[key] = question[key]
+    return result
+
+
+def build_sprint_training_cards_payload(args: argparse.Namespace) -> dict[str, Any]:
+    training = load_sprint_training()
+    rows = filter_sprint_kind(load_sprint_training_cards(), getattr(args, "kind", "all"), getattr(args, "keyword", None))
+    selected = choose_questions(rows, int(args.count), seed=getattr(args, "seed", None))
+    return {
+        "title": "冲刺背诵卡",
+        "kind": getattr(args, "kind", "all"),
+        "keyword": getattr(args, "keyword", None),
+        "available": len(rows),
+        "cards": selected,
+        "show_answer": bool(getattr(args, "show_answer", False)),
+        "stats": training.get("stats", {}),
+        "source": str(SPRINT_TRAINING_FILE.relative_to(ROOT)),
+        "note": training.get("note"),
+    }
+
+
+def build_sprint_training_start_payload(args: argparse.Namespace, write: bool = True) -> dict[str, Any]:
+    training = load_sprint_training()
+    rows = filter_sprint_kind(load_sprint_training_choices(), getattr(args, "kind", "all"), getattr(args, "keyword", None))
+    selected = choose_questions(rows, int(args.count), seed=getattr(args, "seed", None))
+    session = make_session(
+        "sprint_training",
+        [question["id"] for question in selected],
+        {
+            "kind": getattr(args, "kind", "all"),
+            "keyword": getattr(args, "keyword", None),
+            "count": int(args.count),
+            "seed": getattr(args, "seed", None),
+            "source": str(SPRINT_TRAINING_FILE.relative_to(ROOT)),
+        },
+    )
+    session_file = "<no-write>"
+    if write:
+        session_path = write_session(session)
+        session_file = str(session_path.relative_to(ROOT))
+    return {
+        "title": "冲刺模拟候选题训练",
+        "session": session,
+        "session_file": session_file,
+        "kind": getattr(args, "kind", "all"),
+        "keyword": getattr(args, "keyword", None),
+        "available": len(rows),
+        "questions": [public_sprint_training_question(question) for question in selected],
+        "next_step": f"python scripts/study.py submit --session {session['id']} --answers \"A B C ...\" --format markdown",
+        "stats": training.get("stats", {}),
+        "source": str(SPRINT_TRAINING_FILE.relative_to(ROOT)),
+        "note": "冲刺模拟候选题来自自编模考 OCR 资料，支持提交判分；不是历年真题。",
+    }
+
+
+def build_sprint_training_case_payload(args: argparse.Namespace) -> dict[str, Any]:
+    training = load_sprint_training()
+    rows = filter_sprint_kind(load_sprint_training_cases(), getattr(args, "kind", "all"), getattr(args, "keyword", None))
+    selected = choose_questions(rows, int(args.count), seed=getattr(args, "seed", None))
+    return {
+        "title": "冲刺案例采分点训练",
+        "kind": getattr(args, "kind", "all"),
+        "keyword": getattr(args, "keyword", None),
+        "available": len(rows),
+        "items": selected,
+        "show_answer": bool(getattr(args, "show_answer", False)),
+        "stats": training.get("stats", {}),
+        "source": str(SPRINT_TRAINING_FILE.relative_to(ROOT)),
+        "note": "案例采分点来自冲刺资料 OCR/抽取文本，用于主观题默写和素材补充；不是历年真题。",
+    }
+
+
+def render_sprint_training_cards_markdown(payload: dict[str, Any]) -> str:
+    lines = [
+        "# 冲刺背诵卡",
+        "",
+        f"- 来源：{payload['source']}",
+        f"- 筛选：{payload.get('kind') or 'all'} {payload.get('keyword') or ''}".rstrip(),
+        f"- 可用卡片：{payload['available']}",
+        f"- 说明：{payload.get('note')}",
+        "",
+    ]
+    if not payload.get("cards"):
+        lines.append("没有匹配到冲刺背诵卡。")
+        return "\n".join(lines) + "\n"
+    for index, card in enumerate(payload["cards"], start=1):
+        lines.append(f"{index}. [{card.get('id')}] {card.get('prompt')}")
+        lines.append(f"   类型：{card.get('kind_label')}；来源：{card.get('source_ref')}")
+        if payload.get("show_answer"):
+            answer = clean_text_for_preview(str(card.get("answer") or ""))
+            lines.append(f"   参考答案：{answer[:600]}")
+        lines.append("")
+    if not payload.get("show_answer"):
+        lines.append("提示：加 `--show-answer` 可显示参考答案。")
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def render_sprint_training_start_markdown(payload: dict[str, Any]) -> str:
+    lines = [
+        "# 冲刺模拟候选题训练",
+        "",
+        f"- Session: {payload['session']['id']}",
+        f"- File: {payload['session_file']}",
+        f"- 筛选：{payload.get('kind') or 'all'} {payload.get('keyword') or ''}".rstrip(),
+        f"- 可用题数：{payload['available']}",
+        f"- 说明：{payload['note']}",
+        "",
+    ]
+    if payload.get("questions"):
+        lines.append(render_questions_markdown(payload["questions"]).rstrip())
+        lines.append("")
+        lines.append(f"Next: {payload['next_step']}")
+    else:
+        lines.append("没有匹配到可训练的冲刺模拟候选题。")
+        lines.append("Next: python scripts/study.py sprint-training cards --format markdown")
+    return "\n".join(lines) + "\n"
+
+
+def render_sprint_training_case_markdown(payload: dict[str, Any]) -> str:
+    lines = [
+        "# 冲刺案例采分点训练",
+        "",
+        f"- 来源：{payload['source']}",
+        f"- 筛选：{payload.get('kind') or 'all'} {payload.get('keyword') or ''}".rstrip(),
+        f"- 可用采分点：{payload['available']}",
+        f"- 说明：{payload.get('note')}",
+        "",
+    ]
+    if not payload.get("items"):
+        lines.append("没有匹配到冲刺案例采分点。")
+        return "\n".join(lines) + "\n"
+    for index, item in enumerate(payload["items"], start=1):
+        lines.append(f"{index}. [{item.get('id')}] {item.get('prompt')}")
+        lines.append(f"   类型：{item.get('kind_label')}；来源：{item.get('source_ref')}")
+        if payload.get("show_answer"):
+            answer = clean_text_for_preview(str(item.get("answer") or ""))
+            lines.append(f"   参考采分点：{answer[:800]}")
+        lines.append("")
+    if not payload.get("show_answer"):
+        lines.append("提示：先默写，再加 `--show-answer` 对照采分点。")
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def command_sprint_training_cards(args: argparse.Namespace) -> int:
+    payload = build_sprint_training_cards_payload(args)
+    if args.format == "markdown":
+        print(render_sprint_training_cards_markdown(payload))
+    else:
+        print(json.dumps(payload, ensure_ascii=False, indent=2))
+    return 0
+
+
+def command_sprint_training_start(args: argparse.Namespace) -> int:
+    payload = build_sprint_training_start_payload(args)
+    if args.format == "markdown":
+        print(render_sprint_training_start_markdown(payload))
+    else:
+        print(json.dumps(payload, ensure_ascii=False, indent=2))
+    return 0
+
+
+def command_sprint_training_case(args: argparse.Namespace) -> int:
+    payload = build_sprint_training_case_payload(args)
+    if args.format == "markdown":
+        print(render_sprint_training_case_markdown(payload))
+    else:
+        print(json.dumps(payload, ensure_ascii=False, indent=2))
+    return 0
+
+
+def render_search_markdown(payload: dict[str, Any]) -> str:
+    lines = [
+        "# 全资料检索",
+        "",
+        f"- 查询：{payload.get('query')}",
+        f"- 索引：{payload.get('index_file')}",
+        f"- 片段数：{payload.get('chunk_count', 0)}",
+        f"- 筛选：{payload.get('source_type') or '全部来源'} {('第' + str(payload.get('chapter')) + '章') if payload.get('chapter') else ''}".rstrip(),
+        f"- 命中：{payload.get('matched_count', 0)}",
+        "",
+    ]
+    if payload.get("note"):
+        lines.append(f"> {payload['note']}")
+        lines.append("")
+    if not payload.get("results"):
+        lines.append("没有匹配到资料片段。可以换一个关键词，或先运行 `python scripts/build_search_index.py --write --format markdown` 更新索引。")
+        return "\n".join(lines) + "\n"
+    for index, item in enumerate(payload["results"], start=1):
+        heading = f" / {item.get('heading')}" if item.get("heading") else ""
+        chapter = f"；第{item.get('chapter')}章" if item.get("chapter") else ""
+        lines.append(f"## {index}. {item.get('title')}{heading}")
+        lines.append(f"- 来源：{item.get('path')}；类型：{item.get('source_type')}{chapter}")
+        lines.append(f"- 相关度：{item.get('score')}；命中词：{', '.join(item.get('matched_terms') or [])}")
+        if item.get("snippet"):
+            lines.append(f"- 摘要：{item['snippet']}")
+        lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def command_search(args: argparse.Namespace) -> int:
+    payload = build_search_payload(args)
+    if args.format == "markdown":
+        print(render_search_markdown(payload))
     else:
         print(json.dumps(payload, ensure_ascii=False, indent=2))
     return 0
@@ -4054,10 +5199,19 @@ def command_regression_standards_submit(args: argparse.Namespace) -> int:
     return 0
 
 
+def command_regression_sprint_training_start(args: argparse.Namespace) -> int:
+    payload = build_sprint_training_start_payload(args, write=False)
+    print(render_sprint_training_start_markdown(payload))
+    return 0
+
+
 def build_regression_payload(args: argparse.Namespace) -> dict[str, Any]:
     cases = [
         ("audit", command_audit, argparse.Namespace(limit=5, min_explanation_length=30, format="markdown"), {"contains": "问题数量：0"}),
         ("dashboard", command_dashboard, argparse.Namespace(limit=4, include_audit=True, format="markdown"), {"contains": "学习驾驶舱"}),
+        ("profile", command_profile, argparse.Namespace(format="markdown"), {"contains": "个人备考画像"}),
+        ("profile_update_preview", command_profile_update, argparse.Namespace(text="我每天能学1小时，论文最弱，优先保过", write=False, format="markdown"), {"contains": "availability.daily_minutes"}),
+        ("profile_update_sensitive_block", command_profile_update, argparse.Namespace(text="保存到画像：我每天能学1小时，手机号13800000000", write=True, format="markdown"), {"contains": "写入被拦截"}),
         ("mastery", command_mastery, argparse.Namespace(limit=5, chapter=None, format="markdown"), {"contains": "知识点掌握度"}),
         ("readiness", command_readiness, argparse.Namespace(format="markdown"), {"contains": "备考成熟度评分"}),
         ("report", command_report, argparse.Namespace(period="weekly", format="markdown"), {"contains": "学习周报"}),
@@ -4074,6 +5228,10 @@ def build_regression_payload(args: argparse.Namespace) -> dict[str, Any]:
         ("standards_start", command_regression_standards_start, argparse.Namespace(document="网络安全法", keyword=None, tag=None, count=2, seed=1, format="markdown"), {"contains": "标准规范专项训练"}),
         ("standards_submit_no_record", command_regression_standards_submit, argparse.Namespace(format="markdown"), {"contains": "Recorded: False"}),
         ("sprint_materials", command_sprint_material, argparse.Namespace(kind="sprint-guide", keyword=None, limit=5, preview_lines=3, format="markdown"), {"contains": "规划冲刺资料"}),
+        ("search_materials", command_search, argparse.Namespace(query="服务目录设计", source_type=None, chapter=None, limit=3, format="markdown"), {"contains": "全资料检索"}),
+        ("sprint_training_cards", command_sprint_training_cards, argparse.Namespace(kind="activities", keyword=None, count=2, seed=1, show_answer=False, format="markdown"), {"contains": "冲刺背诵卡"}),
+        ("sprint_training_start", command_regression_sprint_training_start, argparse.Namespace(kind="mock-exam", keyword=None, count=2, seed=1, format="markdown"), {"contains": "冲刺模拟候选题训练"}),
+        ("sprint_training_case", command_sprint_training_case, argparse.Namespace(kind="csf-risk", keyword=None, count=2, seed=1, show_answer=False, format="markdown"), {"contains": "冲刺案例采分点训练"}),
         ("candidate_practice", command_candidate_practice, argparse.Namespace(chapter=12, count=2, format="markdown"), {"contains": "候选题源仅用于预览"}),
         ("recitation", command_recitation, argparse.Namespace(chapter=12, count=2, show_answer=True, format="markdown"), {"contains": "参考答案/采分点"}),
         ("case_recitation_start", command_regression_case_recitation_start, argparse.Namespace(format="markdown"), {"contains": "cs_recite_ch12"}),
@@ -4082,6 +5240,9 @@ def build_regression_payload(args: argparse.Namespace) -> dict[str, Any]:
         ("paper_no_record", command_regression_paper_no_record, argparse.Namespace(format="markdown"), {"contains": "记录写入：否"}),
         ("ask_dashboard", command_ask, argparse.Namespace(text="今天我该学什么", execute=True, no_record=True, format="markdown"), {"contains": "学习驾驶舱"}),
         ("ask_plan", command_ask, argparse.Namespace(text="给我安排今日计划", execute=True, no_record=True, format="markdown"), {"contains": "每日学习计划"}),
+        ("ask_profile", command_ask, argparse.Namespace(text="查看我的备考画像", execute=True, no_record=True, format="markdown"), {"contains": "个人备考画像"}),
+        ("ask_profile_update_preview", command_ask, argparse.Namespace(text="我每天能学1小时，论文最弱，优先保过", execute=True, no_record=True, format="markdown"), {"contains": "画像自然语言更新"}),
+        ("ask_profile_update_command", command_ask, argparse.Namespace(text="保存到画像：我每天能学1小时，论文最弱，优先保过", execute=False, no_record=True, format="markdown"), {"contains": "profile-update"}),
         ("ask_backup_past_exam", command_ask, argparse.Namespace(text="查看2023年历年真题资料", execute=True, no_record=True, format="markdown"), {"contains": "2023"}),
         ("ask_past_exam_choice", command_ask, argparse.Namespace(text="给我出2道2022年真题", execute=False, no_record=True, format="markdown"), {"contains": "past-exam start --year 2022"}),
         ("ask_past_exam_case", command_ask, argparse.Namespace(text="做2021年案例真题", execute=False, no_record=True, format="markdown"), {"contains": "past-exam case --year 2021"}),
@@ -4090,6 +5251,8 @@ def build_regression_payload(args: argparse.Namespace) -> dict[str, Any]:
         ("ask_standards_clauses", command_ask, argparse.Namespace(text="查看网络安全法条款", execute=True, no_record=True, format="markdown"), {"contains": "标准规范条款检索"}),
         ("ask_vip_material", command_ask, argparse.Namespace(text="查看VIP理论必背材料", execute=False, no_record=True, format="markdown"), {"contains": "vip --kind theory-core"}),
         ("ask_sprint_material", command_ask, argparse.Namespace(text="查看金色考点冲刺资料", execute=False, no_record=True, format="markdown"), {"contains": "sprint-materials --kind gold-points"}),
+        ("ask_search_material", command_ask, argparse.Namespace(text="全资料检索 服务目录设计", execute=False, no_record=True, format="markdown"), {"contains": "study.py search"}),
+        ("ask_sprint_training", command_ask, argparse.Namespace(text="练5个130个活动", execute=False, no_record=True, format="markdown"), {"contains": "sprint-training cards --kind activities --count 5"}),
         ("ask_formal_practice", command_ask, argparse.Namespace(text="给我出2道第12章正式入库题", execute=False, no_record=True, format="markdown"), {"contains": "--tag 正式入库"}),
         ("ask_drill", command_ask, argparse.Namespace(text="按薄弱点给我出2道题", execute=False, no_record=True, format="markdown"), {"contains": "python scripts/study.py drill --count 2 --format markdown"}),
         ("ask_paper_reference", command_ask, argparse.Namespace(text="给我信息系统规划政务论文范文参考", execute=True, no_record=True, format="markdown"), {"contains": "内部论文专题参考"}),
@@ -4331,6 +5494,12 @@ def command_readiness(args: argparse.Namespace) -> int:
 
 
 def build_sprint_payload(args: argparse.Namespace) -> dict[str, Any]:
+    profile = load_learner_profile()
+    profile_info = profile_summary(profile)
+    practice_count = profile_practice_count(profile)
+    daily_minutes = profile_info["daily_minutes"]
+    compact_day = daily_minutes < 60
+    expanded_day = daily_minutes >= 120
     readiness = build_readiness_payload(args)
     days = max(1, int(args.days))
     focus_chapters = exam_focus_chapters()
@@ -4343,16 +5512,21 @@ def build_sprint_payload(args: argparse.Namespace) -> dict[str, Any]:
         if day % 3 == 1:
             day_tasks.append({"type": "coverage", "title": "补齐高频知识点", "command": "python scripts/study.py coverage --format markdown"})
             target = ",".join(str(chapter) for chapter in focus_chapters[:4])
-            day_tasks.append({"type": "practice", "title": "新版大纲核心章节练习", "command": f"python scripts/study.py start --chapters {target} --count 10 --format markdown"})
+            day_tasks.append({"type": "practice", "title": "新版大纲核心章节练习", "command": f"python scripts/study.py start --chapters {target} --count {practice_count} --format markdown"})
+            if expanded_day:
+                day_tasks.append({"type": "sprint_cards", "title": "冲刺背诵卡", "command": "python scripts/study.py sprint-training cards --count 5 --format markdown"})
         elif day % 3 == 2:
-            day_tasks.append({"type": "case", "title": "案例分析训练", "command": f"python scripts/study.py case start --chapters {case_chapters} --count 1 --format markdown"})
+            day_tasks.append({"type": "case", "title": "案例分析训练", "command": f"python scripts/study.py case start --chapters {case_chapters} --count {profile_case_count(profile)} --format markdown"})
             day_tasks.append({"type": "review", "title": "错题复习", "command": "python scripts/study.py review --format markdown"})
         else:
             topic = DEFAULT_PAPER_TOPIC if day % 6 == 3 else "技术与研发管理"
             day_tasks.append({"type": "paper", "title": "论文框架与草稿", "command": f"python scripts/study.py paper --topic {topic} --format markdown"})
-            day_tasks.append({"type": "mock", "title": "综合知识模拟", "command": "python scripts/study.py start --mode mock --format markdown"})
+            mock_command = "python scripts/study.py start --mode mock --format markdown" if expanded_day else f"python scripts/study.py past-exam start --count {practice_count} --format markdown"
+            day_tasks.append({"type": "mock", "title": "综合知识模拟" if expanded_day else "历年真题选择训练", "command": mock_command})
         if args.include_audit and day == 1:
             day_tasks.append({"type": "quality", "title": "题库质量审计", "command": "python scripts/study.py audit --format markdown"})
+        if compact_day:
+            day_tasks = day_tasks[:2]
         tasks.append({"day": day, "focus": day_tasks[0]["title"], "tasks": day_tasks})
     return {
         "days": days,
@@ -4362,6 +5536,8 @@ def build_sprint_payload(args: argparse.Namespace) -> dict[str, Any]:
         "method_chapters": method_chapters,
         "paper_chapters": paper_chapters,
         "case_chapters": case_chapters,
+        "profile": profile_info,
+        "practice_count": practice_count,
         "plan": tasks,
     }
 
@@ -4372,6 +5548,7 @@ def render_sprint_markdown(payload: dict[str, Any]) -> str:
         "",
         f"- 当前成熟度：{payload['readiness']['readiness_score']}/100",
         f"- 策略：{payload['strategy']}",
+        f"- 个人画像：每日 {payload['profile']['daily_minutes']} 分钟，{payload['profile']['study_load']}负荷，默认题量 {payload['practice_count']} 题",
         f"- 核心章节：{','.join(str(chapter) for chapter in payload['focus_chapters'])}",
         f"- 案例范围：第{payload['case_chapters']}章；论文范围：第{','.join(str(chapter) for chapter in payload['paper_chapters'])}章",
         "",
@@ -4493,12 +5670,54 @@ def is_formal_practice_request(text: str) -> bool:
     return any(word in text for word in formal_words) and any(word in text for word in practice_words)
 
 
+def is_search_request(text: str) -> bool:
+    if any(word in text for word in ("检索", "搜索", "查资料", "查询资料", "全资料", "资料里", "资料中", "哪里提到", "在哪个资料", "来源")):
+        return True
+    if any(word in text for word in ("帮我找", "找一下", "查一下")) and not any(word in text for word in ("条款", "真题", "资料清单", "目录")):
+        return True
+    return False
+
+
+def detect_search_source_type(text: str) -> str | None:
+    mapping = [
+        (("三色笔记", "高频笔记"), "three_color_notes"),
+        (("思维导图",), "mindmap"),
+        (("真题", "历年"), "past_exam"),
+        (("标准规范", "法规", "法律", "条款"), "standards_training"),
+        (("冲刺", "金色考点", "记忆口诀", "130个活动", "关键成功因素", "风险控制"), "sprint_material"),
+        (("VIP", "vip", "理论必背"), "vip_material"),
+        (("论文", "范文"), "paper_special"),
+        (("案例",), "case_study"),
+    ]
+    for words, source_type in mapping:
+        if any(word in text for word in words):
+            return source_type
+    return None
+
+
+def strip_search_markers(text: str) -> str:
+    value = text.strip()
+    for marker in ("全资料检索", "全资料搜索", "检索", "搜索", "查资料", "查询资料", "资料里", "资料中", "帮我找", "找一下", "查一下", "哪里提到", "在哪个资料"):
+        value = value.replace(marker, " ")
+    value = re.sub(r"\s+", " ", value).strip(" ：:")
+    return value or text.strip()
+
+
 def route_intent(text: str) -> dict[str, Any]:
     normalized = text.strip()
     count = extract_count(normalized)
     answer_info = answer_payload_from_text(normalized)
     if answer_info:
         return {"intent": "submit_latest", "command": "python scripts/study.py ask \"我的答案是 A B C D\" --format markdown", "execute": "submit_latest"}
+    if is_profile_update_request(normalized):
+        write = profile_write_requested(normalized)
+        write_part = " --write" if write else ""
+        return {
+            "intent": "profile_update",
+            "command": f"python scripts/study.py profile-update \"{normalized}\"{write_part} --format markdown",
+            "execute": "profile_update",
+            "write": write,
+        }
     if any(word in normalized for word in ("继续", "接着", "上次", "刚才", "没做完", "断点", "接着学", "恢复")):
         return {"intent": "continue", "command": "python scripts/study.py continue --format markdown", "execute": "continue"}
     if any(word in normalized for word in ("周报", "月报", "学习报告", "诊断报告", "考前诊断", "复盘报告")):
@@ -4506,6 +5725,8 @@ def route_intent(text: str) -> dict[str, Any]:
         return {"intent": "report", "command": f"python scripts/study.py report --period {period} --format markdown", "execute": "report", "period": period}
     if any(word in normalized for word in ("回归测试", "自检", "冒烟测试", "自动测试")):
         return {"intent": "regression", "command": "python scripts/study.py regression --format markdown", "execute": "regression"}
+    if any(word in normalized for word in ("个人画像", "备考画像", "学习画像", "学习设置", "我的设置", "我的目标", "备考目标")):
+        return {"intent": "profile", "command": "python scripts/study.py profile --format markdown", "execute": "profile"}
     if any(word in normalized for word in ("考试时间", "考试科目", "考试安排", "学习指南", "大纲分析", "考试大纲", "分值预测", "章节重点", "新版大纲")):
         return {"intent": "exam_guide", "command": "python scripts/study.py exam-guide --format markdown", "execute": "exam_guide"}
     if any(word in normalized for word in ("三色笔记", "背诵笔记", "高频笔记")):
@@ -4516,6 +5737,14 @@ def route_intent(text: str) -> dict[str, Any]:
         chapters = extract_chapters_from_text(normalized)
         chapter_part = f" --chapter {chapters}" if chapters and "," not in chapters and "-" not in chapters else ""
         return {"intent": "internal_material", "command": f"python scripts/study.py internal --kind mindmap{chapter_part} --format markdown", "execute": "internal_material", "kind": "mindmap", "chapter": chapters if chapters and "," not in chapters and "-" not in chapters else None}
+    if is_search_request(normalized):
+        query = strip_search_markers(normalized)
+        source_type = detect_search_source_type(normalized)
+        source_part = f" --source-type {source_type}" if source_type else ""
+        chapters = extract_chapters_from_text(normalized)
+        chapter_value = chapters if chapters and "," not in chapters and "-" not in chapters else None
+        chapter_part = f" --chapter {chapter_value}" if chapter_value else ""
+        return {"intent": "search", "command": f"python scripts/study.py search \"{query}\"{source_part}{chapter_part} --format markdown", "execute": "search", "query": query, "source_type": source_type, "chapter": int(chapter_value) if chapter_value else None}
     if any(word in normalized for word in ("VIP", "vip", "vip材料", "VIP材料", "理论必背", "一本通")):
         kind = "all"
         if any(word in normalized for word in ("理论必背", "案例论文必背", "必背知识点")):
@@ -4528,6 +5757,26 @@ def route_intent(text: str) -> dict[str, Any]:
             kind = "notes-summary"
         kind_part = "" if kind == "all" else f" --kind {kind}"
         return {"intent": "vip_material", "command": f"python scripts/study.py vip{kind_part} --format markdown", "execute": "vip_material", "kind": kind}
+    if any(word in normalized for word in ("冲刺", "金色考点", "记忆口诀", "临考突击", "押题", "模考题", "模拟题", "关键成功因素", "风险控制", "130个活动", "130 个活动", "规划冲刺资料", "马军")) and any(word in normalized for word in ("练", "训练", "背", "默写", "出题", "刷题", "采分点", "考我")):
+        kind = "all"
+        if any(word in normalized for word in ("记忆口诀", "口诀")):
+            kind = "mnemonic"
+        elif any(word in normalized for word in ("金色考点", "临考突击", "押题")):
+            kind = "gold-points"
+        elif any(word in normalized for word in ("模考题", "模拟题")):
+            kind = "mock-exam"
+        elif any(word in normalized for word in ("关键成功因素", "风险控制")):
+            kind = "csf-risk"
+        elif any(word in normalized for word in ("130个活动", "130 个活动", "活动")):
+            kind = "activities"
+        elif any(word in normalized for word in ("规划冲刺资料", "马军")):
+            kind = "sprint-guide"
+        kind_part = "" if kind == "all" else f" --kind {kind}"
+        if any(word in normalized for word in ("模考题", "模拟题", "选择题", "刷题", "出题")):
+            return {"intent": "sprint_training_start", "command": f"python scripts/study.py sprint-training start{kind_part} --count {count} --format markdown", "execute": "sprint_training_start", "kind": kind, "count": count}
+        if any(word in normalized for word in ("案例", "采分点", "主观题")):
+            return {"intent": "sprint_training_case", "command": f"python scripts/study.py sprint-training case{kind_part} --count {count} --format markdown", "execute": "sprint_training_case", "kind": kind, "count": count}
+        return {"intent": "sprint_training_cards", "command": f"python scripts/study.py sprint-training cards{kind_part} --count {count} --format markdown", "execute": "sprint_training_cards", "kind": kind, "count": count}
     if any(word in normalized for word in ("冲刺资料", "金色考点", "记忆口诀", "临考突击", "押题资料", "模考题", "模拟题资料", "关键成功因素", "风险控制", "130个活动", "130 个活动", "规划冲刺资料", "马军")):
         kind = "all"
         if any(word in normalized for word in ("记忆口诀", "口诀")):
@@ -4702,6 +5951,11 @@ def build_ask_payload(args: argparse.Namespace) -> dict[str, Any]:
         payload["result"] = build_report_payload(argparse.Namespace(period=route.get("period", "weekly"), format=args.format))
     elif intent == "regression":
         payload["result"] = build_regression_payload(argparse.Namespace(verbose=False, format=args.format))
+    elif intent == "profile":
+        payload["result"] = build_profile_payload(argparse.Namespace(format=args.format))
+    elif intent == "profile_update":
+        write_profile = bool(route.get("write", False)) and not bool(getattr(args, "no_record", False))
+        payload["result"] = build_profile_update_payload(argparse.Namespace(text=args.text, write=write_profile, format=args.format))
     elif intent == "exam_guide":
         payload["result"] = build_exam_guide_payload(argparse.Namespace(limit=8, format=args.format))
     elif intent == "internal_material":
@@ -4710,6 +5964,14 @@ def build_ask_payload(args: argparse.Namespace) -> dict[str, Any]:
         payload["result"] = build_vip_material_payload(argparse.Namespace(kind=route.get("kind", "all"), keyword=None, limit=10, preview_lines=8, format=args.format))
     elif intent == "sprint_material":
         payload["result"] = build_sprint_material_payload(argparse.Namespace(kind=route.get("kind", "all"), keyword=None, limit=10, preview_lines=8, format=args.format))
+    elif intent == "sprint_training_cards":
+        payload["result"] = build_sprint_training_cards_payload(argparse.Namespace(kind=route.get("kind", "all"), keyword=None, count=route.get("count", 5), seed=None, show_answer=False, format=args.format))
+    elif intent == "sprint_training_start":
+        payload["result"] = build_sprint_training_start_payload(argparse.Namespace(kind=route.get("kind", "all"), keyword=None, count=route.get("count", 5), seed=None, format=args.format))
+    elif intent == "sprint_training_case":
+        payload["result"] = build_sprint_training_case_payload(argparse.Namespace(kind=route.get("kind", "all"), keyword=None, count=route.get("count", 5), seed=None, show_answer=False, format=args.format))
+    elif intent == "search":
+        payload["result"] = build_search_payload(argparse.Namespace(query=route.get("query") or args.text, source_type=route.get("source_type"), chapter=route.get("chapter"), limit=8, format=args.format))
     elif intent == "backup_pdfs":
         payload["result"] = build_backup_pdf_payload(argparse.Namespace(category=route.get("category", "all"), year=route.get("year"), subject=route.get("subject"), limit=10, format=args.format))
     elif intent == "candidate_practice":
@@ -4801,6 +6063,10 @@ def render_ask_markdown(payload: dict[str, Any]) -> str:
         lines.append(render_report_markdown(result).rstrip())
     elif route["intent"] == "regression":
         lines.append(render_regression_markdown(result).rstrip())
+    elif route["intent"] == "profile":
+        lines.append(render_profile_markdown(result).rstrip())
+    elif route["intent"] == "profile_update":
+        lines.append(render_profile_update_markdown(result).rstrip())
     elif route["intent"] == "exam_guide":
         lines.append(render_exam_guide_markdown(result).rstrip())
     elif route["intent"] == "internal_material":
@@ -4809,6 +6075,14 @@ def render_ask_markdown(payload: dict[str, Any]) -> str:
         lines.append(render_vip_material_markdown(result).rstrip())
     elif route["intent"] == "sprint_material":
         lines.append(render_sprint_material_markdown(result).rstrip())
+    elif route["intent"] == "sprint_training_cards":
+        lines.append(render_sprint_training_cards_markdown(result).rstrip())
+    elif route["intent"] == "sprint_training_start":
+        lines.append(render_sprint_training_start_markdown(result).rstrip())
+    elif route["intent"] == "sprint_training_case":
+        lines.append(render_sprint_training_case_markdown(result).rstrip())
+    elif route["intent"] == "search":
+        lines.append(render_search_markdown(result).rstrip())
     elif route["intent"] == "backup_pdfs":
         lines.append(render_backup_pdf_markdown(result).rstrip())
     elif route["intent"] == "candidate_practice":
@@ -4952,6 +6226,16 @@ def build_parser() -> argparse.ArgumentParser:
     plan.add_argument("--format", choices=["json", "markdown"], default="json")
     plan.set_defaults(func=command_plan)
 
+    profile = subparsers.add_parser("profile", help="Show learner profile and personalization settings.")
+    profile.add_argument("--format", choices=["json", "markdown"], default="json")
+    profile.set_defaults(func=command_profile)
+
+    profile_update = subparsers.add_parser("profile-update", help="Preview or write learner profile updates from natural language.")
+    profile_update.add_argument("text")
+    profile_update.add_argument("--write", action="store_true", help="Write recognized non-sensitive fields into assets/profile/learner_profile.json.")
+    profile_update.add_argument("--format", choices=["json", "markdown"], default="json")
+    profile_update.set_defaults(func=command_profile_update)
+
     exam_guide = subparsers.add_parser("exam-guide", help="Show exam schedule, subject ranges, and chapter priorities from internal guide/syllabus.")
     exam_guide.add_argument("--limit", type=int, default=8)
     exam_guide.add_argument("--format", choices=["json", "markdown"], default="json")
@@ -4979,6 +6263,40 @@ def build_parser() -> argparse.ArgumentParser:
     sprint_materials.add_argument("--preview-lines", type=int, default=8)
     sprint_materials.add_argument("--format", choices=["json", "markdown"], default="json")
     sprint_materials.set_defaults(func=command_sprint_material)
+
+    sprint_training = subparsers.add_parser("sprint-training", help="Run structured training generated from sprint/cram materials.")
+    sprint_training_subparsers = sprint_training.add_subparsers(dest="sprint_training_command", required=True)
+    sprint_cards = sprint_training_subparsers.add_parser("cards", help="Practice recall cards from sprint materials.")
+    sprint_cards.add_argument("--kind", choices=list(SPRINT_KINDS), default="all")
+    sprint_cards.add_argument("--keyword", default=None)
+    sprint_cards.add_argument("--count", type=int, default=5)
+    sprint_cards.add_argument("--seed", type=int, default=None)
+    sprint_cards.add_argument("--show-answer", action="store_true")
+    sprint_cards.add_argument("--format", choices=["json", "markdown"], default="json")
+    sprint_cards.set_defaults(func=command_sprint_training_cards)
+    sprint_start = sprint_training_subparsers.add_parser("start", help="Start a sprint mock candidate choice-question session.")
+    sprint_start.add_argument("--kind", choices=list(SPRINT_KINDS), default="all")
+    sprint_start.add_argument("--keyword", default=None)
+    sprint_start.add_argument("--count", type=int, default=5)
+    sprint_start.add_argument("--seed", type=int, default=None)
+    sprint_start.add_argument("--format", choices=["json", "markdown"], default="json")
+    sprint_start.set_defaults(func=command_sprint_training_start)
+    sprint_case = sprint_training_subparsers.add_parser("case", help="Practice sprint case-analysis scoring points.")
+    sprint_case.add_argument("--kind", choices=list(SPRINT_KINDS), default="all")
+    sprint_case.add_argument("--keyword", default=None)
+    sprint_case.add_argument("--count", type=int, default=3)
+    sprint_case.add_argument("--seed", type=int, default=None)
+    sprint_case.add_argument("--show-answer", action="store_true")
+    sprint_case.add_argument("--format", choices=["json", "markdown"], default="json")
+    sprint_case.set_defaults(func=command_sprint_training_case)
+
+    search = subparsers.add_parser("search", help="Search across all indexed study materials with source citations.")
+    search.add_argument("query")
+    search.add_argument("--source-type", choices=list(SEARCH_SOURCE_TYPES), default=None)
+    search.add_argument("--chapter", type=int, default=None)
+    search.add_argument("--limit", type=int, default=8)
+    search.add_argument("--format", choices=["json", "markdown"], default="json")
+    search.set_defaults(func=command_search)
 
     backup_pdfs = subparsers.add_parser("backup-pdfs", help="List indexed PDFs imported from F:\\备份项目.")
     backup_pdfs.add_argument("--category", choices=["all", "past-exam", "standards", "mock"], default="all")

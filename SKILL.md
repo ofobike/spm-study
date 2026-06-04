@@ -1,6 +1,6 @@
 ---
 name: spm-study
-description: 软考高级系统规划与管理师（2025第2版）学习助手。用于系统规划与管理师、IT服务管理、ITIL、信息系统规划、云资源规划、信息安全规划、信息系统治理、项目管理、智慧城市、数字乡村、智能制造、企业数字化转型、新型消费等备考任务；支持自然语言一问一答、章节练习、正式入库题训练、2017-2024 历年真题结构化训练、案例分析主观题评分闭环、论文训练与评分、错题复习、知识点掌握度、每日计划、学习驾驶舱、冲刺计划、成熟度评分、周报/月报/考前诊断、题库质量审计修复、内部资料索引和候选资料提升入库。
+description: 软考高级系统规划与管理师（2025第2版）学习助手。用于系统规划与管理师、IT服务管理、ITIL、信息系统规划、云资源规划、信息安全规划、信息系统治理、项目管理、智慧城市、数字乡村、智能制造、企业数字化转型、新型消费等备考任务；支持自然语言一问一答、全资料本地检索与来源定位、章节练习、正式入库题训练、2017-2024 历年真题结构化训练、标准规范专项训练、冲刺资料训练化、案例分析主观题评分闭环、论文训练与评分、错题复习、知识点掌握度、每日计划、学习驾驶舱、冲刺计划、成熟度评分、周报/月报/考前诊断、题库质量审计修复、内部资料索引和候选资料提升入库。
 ---
 
 # 系统规划与管理师学习助手
@@ -13,7 +13,7 @@ description: 软考高级系统规划与管理师（2025第2版）学习助手�
 
 测试、演示、回归和试评分时使用 `--no-record`，避免污染 `assets/questions/progress.json`、`assets/questions/archive.json`、案例提交历史和论文提交历史。
 
-详细章节索引、内部资料清单、命令速查和维护规则见 `references/index.md`；内部 2025 新版资料总索引见 `references/internal/index.md`；VIP 补充资料索引见 `references/internal/vip-materials/index.md`；冲刺资料索引见 `references/internal/sprint-materials/index.md`。
+详细章节索引、内部资料清单、命令速查和维护规则见 `references/index.md`；内部 2025 新版资料总索引见 `references/internal/index.md`；VIP 补充资料索引见 `references/internal/vip-materials/index.md`；冲刺资料索引见 `references/internal/sprint-materials/index.md`；冲刺资料训练化索引见 `references/internal/sprint-materials/structured-training.md`。
 
 ## 当前资产
 
@@ -26,6 +26,9 @@ description: 软考高级系统规划与管理师（2025第2版）学习助手�
 - 06 案例专题已筛选 24 个正式案例背诵题入库，剩余采分点候选材料保留在 `references/internal/case-special/structured/`。
 - VIP 补充资料：`references/internal/vip-materials/`，当前索引 5 个 PDF，精选抽取 2 个 markdown：分章节练习题有答案版、案例论文理论必背；一本通、无答案练习题和三色笔记汇总版默认仅索引，避免重复和体量膨胀。
 - 冲刺补充资料：`references/internal/sprint-materials/`，当前索引 6 个 PDF 且均已抽取为可读 markdown；其中记忆口诀、金色考点、综合模考、关键成功因素/风险控制和 130 个活动由 EasyOCR 识别得到，仍作为补充资料源，不自动并入正式题库。
+- 全资料检索索引：`assets/search/index.json`，当前 10334 个本地资料片段，覆盖教材章节、正式题库、案例、真题、标准规范、内部资料、VIP、冲刺资料和训练化资产。
+- 冲刺训练库：`assets/questions/sprint_training.json`，当前 566 张背诵卡、15 道自编综合模考候选选择题、120 个案例采分点训练；来自冲刺资料 OCR/抽取文本，不等同正式题库或历年真题。
+- 个人备考画像：`assets/profile/learner_profile.json`，记录考试目标、每日可学时间、薄弱科目/章节、目标分数和学习偏好；`plan`、`dashboard`、`sprint` 会读取画像自动调整题量和任务优先级；自然语言“保存到画像：我每天能学1小时，论文最弱，优先保过”会走 `profile-update`。
 
 已接入的 7 类 2025 新版资料：
 - 01 学习指南：`references/internal/guide/`
@@ -44,6 +47,8 @@ description: 软考高级系统规划与管理师（2025第2版）学习助手�
 ```bash
 python scripts/study.py ask "今天我该学什么" --format markdown
 python scripts/study.py ask "给我出5道第12章正式入库题" --format markdown
+python scripts/study.py ask "全资料检索 服务目录设计" --format markdown
+python scripts/study.py ask "练5个130个活动" --format markdown
 python scripts/study.py ask "开始第12章正式案例背诵训练" --format markdown
 python scripts/study.py ask "我论文写好了帮我批" --format markdown
 ```
@@ -78,10 +83,21 @@ python scripts/study.py ask "给我出5道网络安全法标准规范题" --form
 python scripts/study.py ask "查看密码法条款" --format markdown
 ```
 
+全资料检索：
+
+```bash
+python scripts/study.py search "服务目录设计" --limit 8 --format markdown
+python scripts/study.py search "关键成功因素" --source-type sprint_material --format markdown
+python scripts/study.py ask "全资料检索 ISO20000 服务级别管理" --format markdown
+python scripts/study.py ask "查资料 第12章 服务目录设计" --format markdown
+```
+
 计划、掌握度和复习：
 
 ```bash
 python scripts/study.py dashboard --format markdown
+python scripts/study.py profile --format markdown
+python scripts/study.py profile-update "我每天能学1小时，论文最弱，优先保过" --format markdown
 python scripts/study.py plan --format markdown
 python scripts/study.py mastery --format markdown
 python scripts/study.py drill --count 5 --format markdown
@@ -111,6 +127,12 @@ python scripts/study.py vip --kind theory-core --format markdown
 python scripts/study.py ask "查看VIP理论必背材料" --format markdown
 python scripts/study.py sprint-materials --kind sprint-guide --format markdown
 python scripts/study.py ask "查看金色考点冲刺资料" --format markdown
+python scripts/study.py sprint-training cards --kind activities --count 5 --format markdown
+python scripts/study.py sprint-training cards --kind mnemonic --count 5 --show-answer --format markdown
+python scripts/study.py sprint-training start --kind mock-exam --count 5 --format markdown
+python scripts/study.py sprint-training case --kind csf-risk --count 3 --show-answer --format markdown
+python scripts/study.py ask "练5个130个活动" --format markdown
+python scripts/study.py ask "用关键成功因素做案例采分点训练" --format markdown
 python scripts/study.py candidate --chapter 12 --count 5 --format markdown
 python scripts/study.py recite --chapter 12 --count 5 --format markdown
 ```
@@ -129,7 +151,13 @@ python scripts/study.py recite --chapter 12 --count 5 --format markdown
 
 用户问 VIP 材料、VIP 理论必背、一本通、VIP 分章节练习题时，调用 `vip`；理论必背用 `vip --kind theory-core`，分章节练习题有答案版用 `vip --kind chapter-practice-answer`。VIP 资料当前是补充资料源，不自动等同正式题库。
 
-用户问冲刺资料、金色考点、记忆口诀、临考押题、综合模考、关键成功因素、风险控制、130个活动或马军规划冲刺资料时，调用 `sprint-materials`；这类资料是补充资料源和候选题源，不自动称为真题或正式题库。
+用户明确说“检索、搜索、查资料、全资料、资料里、哪里提到、在哪个资料”时，调用 `search`，必要时加 `--source-type` 或 `--chapter`；检索结果必须展示来源路径。
+
+用户问个人画像、备考画像、学习设置、我的目标或备考目标时，调用 `profile`。用户说“我每天能学1小时、论文最弱、优先保过、目标批次、考试日期、学习强度”等学习偏好时，调用 `profile-update` 先预览；用户明确说“保存到画像、更新画像、写入画像、设置、修改”时才写入。不要在画像中保存身份证、准考证、账号、密码、联系方式、邮箱、token 等敏感信息；检测到敏感信息时拦截写入。
+
+用户只是查看冲刺资料、金色考点、记忆口诀、临考押题、综合模考、关键成功因素、风险控制、130个活动或马军规划冲刺资料时，调用 `sprint-materials`；这类资料是补充资料源和候选题源，不自动称为真题或正式题库。
+
+用户要练冲刺资料、背口诀、默写130个活动、用关键成功因素做案例采分点训练、刷综合模考候选题时，调用 `sprint-training cards|case|start`；`sprint_training` 来自 OCR/抽取文本，是训练化候选库，不混入正式章节题库或历年真题。
 
 用户要练正式题库、新版习题正式练习、正式入库题时，调用 `start --tag 正式入库`；用户只是要看千题闯关、候选题、内部习题资料时，调用 `candidate`。
 
@@ -172,6 +200,15 @@ python scripts/import_sprint_materials.py --write --extract selected --format ma
 python scripts/import_sprint_materials.py --write --ocr small --format markdown
 python scripts/import_sprint_materials.py --write --ocr gold-points --format markdown
 python scripts/study.py sprint-materials --format markdown
+```
+
+更新冲刺资料训练库和全资料检索索引时，先训练化再刷新检索：
+
+```bash
+python scripts/build_sprint_training.py --write --format markdown
+python scripts/build_search_index.py --write --format markdown
+python scripts/study.py sprint-training cards --kind activities --count 3 --format markdown
+python scripts/study.py search "服务目录设计" --limit 3 --format markdown
 ```
 
 继续提升章节习题或案例专题时，先预览再写入：

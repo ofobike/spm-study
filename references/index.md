@@ -404,10 +404,13 @@ python scripts/import_past_exams.py --write --format markdown
 ### 使用建议
 
 - 考试导航和学习计划：优先读取 `references/internal/guide/exam-guide.json` 和 `references/internal/syllabus/syllabus-analysis.json`。
+- 个人化计划：先用 `python scripts/study.py profile --format markdown` 查看 `assets/profile/learner_profile.json`；学习偏好变化时用 `python scripts/study.py profile-update "我每天能学1小时，论文最弱，优先保过" --format markdown` 预览，确认后说“保存到画像：...”。`plan`、`dashboard`、`sprint` 会根据每日可学时间、薄弱科目和薄弱章节调整题量与任务顺序。
 - 高频复习：读取 `references/internal/three-color-notes/index.md` 定位章节三色笔记。
 - 章节速览：读取 `references/internal/mindmaps/index.md` 定位章节思维导图。
 - VIP 补充资料：使用 `python scripts/study.py vip --format markdown` 查看清单；理论必背用 `python scripts/study.py vip --kind theory-core --format markdown`。
 - 冲刺补充资料：使用 `python scripts/study.py sprint-materials --format markdown` 查看清单；金色考点用 `python scripts/study.py sprint-materials --kind gold-points --format markdown`；马军规划冲刺资料用 `python scripts/study.py sprint-materials --kind sprint-guide --format markdown`。
+- 全资料检索：使用 `python scripts/study.py search "服务目录设计" --format markdown` 跨教材、正式题库、真题、标准规范、内部资料、VIP 和冲刺资料检索，并返回来源路径。
+- 冲刺训练化：使用 `python scripts/study.py sprint-training cards --kind activities --count 5 --format markdown` 练 130 个活动背诵卡；使用 `python scripts/study.py sprint-training case --kind csf-risk --count 3 --format markdown` 做关键成功因素/风险控制案例采分点训练；使用 `python scripts/study.py sprint-training start --kind mock-exam --count 5 --format markdown` 做综合模考候选选择题。
 - 候选题预览：读取 `references/internal/chapter-practice/structured/index.md`，或使用 `python scripts/study.py candidate --chapter 12 --count 5 --format markdown`。
 - 正式入库章节题练习：使用 `python scripts/study.py start --chapters 12 --tag 正式入库 --count 5 --format markdown`。
 - 案例采分点预览：读取 `references/internal/case-special/structured/index.md`，或使用 `python scripts/study.py recite --chapter 12 --count 5 --format markdown`。
@@ -423,6 +426,11 @@ python scripts/import_past_exams.py --write --format markdown
 
 ```bash
 python scripts/study.py ask "今天我该学什么" --format markdown
+python scripts/study.py ask "查看我的备考画像" --format markdown
+python scripts/study.py ask "我每天能学1小时，论文最弱，优先保过" --format markdown
+python scripts/study.py ask "保存到画像：我每天能学1小时，论文最弱，优先保过" --format markdown
+python scripts/study.py ask "全资料检索 服务目录设计" --format markdown
+python scripts/study.py ask "练5个130个活动" --format markdown
 python scripts/study.py ask "给我出5道第12章正式入库题" --format markdown
 python scripts/study.py ask "我的答案是 A B C D A" --format markdown
 python scripts/study.py ask "继续刚才的练习" --format markdown
@@ -431,6 +439,19 @@ python scripts/study.py ask "查看2023年历年真题资料" --format markdown
 python scripts/study.py ask "给我出5道2022年真题" --format markdown
 python scripts/study.py ask "做2021年案例真题" --format markdown
 ```
+
+### 全资料检索
+
+```bash
+python scripts/study.py search "服务目录设计" --limit 8 --format markdown
+python scripts/study.py search "关键成功因素" --source-type sprint_material --format markdown
+python scripts/study.py search "网络安全法 等级保护" --source-type standards_training --format markdown
+python scripts/study.py search "第12章 服务级别协议" --chapter 12 --format markdown
+python scripts/study.py ask "全资料检索 ISO20000 服务级别管理" --format markdown
+python scripts/study.py ask "查资料 第12章 服务目录设计" --format markdown
+```
+
+检索索引：`assets/search/index.json`。当前索引 10334 个片段，覆盖教材章节、章节题库、案例题、历年真题、标准规范、内部资料、VIP、冲刺资料和冲刺训练化资产。更新资料后运行 `python scripts/build_search_index.py --write --format markdown` 刷新。
 
 ### 选择题与错题
 
@@ -455,10 +476,26 @@ python scripts/study.py submit --session <past_exam_session> --answers "A B C D 
 python scripts/study.py case submit --session <past_exam_case_session> --answers "pe_2021_h1_case1_q1=主观题答案..." --format markdown
 ```
 
+### 冲刺资料训练化
+
+```bash
+python scripts/study.py sprint-training cards --kind mnemonic --count 5 --format markdown
+python scripts/study.py sprint-training cards --kind activities --count 5 --show-answer --format markdown
+python scripts/study.py sprint-training case --kind csf-risk --count 3 --show-answer --format markdown
+python scripts/study.py sprint-training start --kind mock-exam --count 5 --format markdown
+python scripts/study.py submit --session <sprint_training_session> --answers "A B C D A" --format markdown
+python scripts/study.py ask "练5个130个活动" --format markdown
+python scripts/study.py ask "用关键成功因素做案例采分点训练" --format markdown
+```
+
+训练资产：`assets/questions/sprint_training.json`，索引：`references/internal/sprint-materials/structured-training.md`。当前包括 566 张背诵卡、15 道自编综合模考候选选择题、120 个案例采分点训练。该库来自冲刺资料 OCR/抽取文本，是补充训练库，不是历年真题，不混入正式章节题库。
+
 ### 计划、掌握度和报告
 
 ```bash
 python scripts/study.py dashboard --format markdown
+python scripts/study.py profile --format markdown
+python scripts/study.py profile-update "我每天能学1小时，论文最弱，优先保过" --format markdown
 python scripts/study.py plan --format markdown
 python scripts/study.py mastery --format markdown
 python scripts/study.py drill --count 5 --format markdown
@@ -470,6 +507,8 @@ python scripts/study.py report --period weekly --format markdown
 python scripts/study.py report --period monthly --format markdown
 python scripts/study.py report --period exam --format markdown
 ```
+
+个人画像文件：`assets/profile/learner_profile.json`。当前记录考试目标、目标批次/日期、每日可学时间、学习时段、薄弱科目、薄弱章节、目标分数和偏好模式；`profile-update` 支持从自然语言识别学习时间、薄弱科目/章节、阶段、策略、强度、考试日期/批次和目标分数。默认先预览，明确“保存到画像/更新画像/写入画像/设置/修改”才写入；检测到敏感身份、账号、密码、联系方式、邮箱、token 等信息时拦截写入。`plan` 会按每日可学时间自动调整默认题量和任务上限，`dashboard` 显示画像摘要，`sprint` 按学习负荷缩放每日安排。
 
 ### 案例与论文
 
@@ -509,6 +548,8 @@ python scripts/study.py regression --format markdown
 | `scripts/import_internal_materials.py` | 索引和按需抽取 2025 新版内部备考资料，输出到 `references/internal/` |
 | `scripts/import_vip_materials.py` | 索引和精选抽取 `F:\备份项目\vip材料`，输出到 `references/internal/vip-materials/` |
 | `scripts/import_sprint_materials.py` | 索引和精选抽取 `F:\备份项目` 下冲刺资料，输出到 `references/internal/sprint-materials/` |
+| `scripts/build_sprint_training.py` | 将冲刺资料 markdown 保守整理为背诵卡、案例采分点和综合模考候选题，输出 `assets/questions/sprint_training.json` |
+| `scripts/build_search_index.py` | 构建全资料本地检索索引，输出 `assets/search/index.json` |
 | `scripts/import_backup_pdfs.py` | 索引和抽取 `F:\备份项目` 中的历年真题、标准规范和模拟题 PDF |
 | `scripts/promote_internal_materials.py` | 将章节习题和案例专题候选资料经质量门禁后提升为正式题库 |
 | `scripts/enrich_question_metadata.py` | 为章节题库生成或刷新 difficulty、knowledge_point、section、source_ref、tags |
@@ -527,6 +568,8 @@ python scripts/study.py regression --format markdown
 7. 功能修改后至少运行 `scripts/validate_questions.py`、`scripts/study.py audit --format markdown`、`scripts/study.py regression --format markdown` 和 skill-creator 的 quick_validate。
 8. 导入内部资料、VIP 资料或冲刺资料后，不要直接把大体量 PDF 全文写入 `SKILL.md`；优先写入 `references/internal/`，并在需要时按专题读取。
 9. 冲刺资料、押题资料和模拟题不是历年真题；只有 OCR、解析、去重和质量门禁通过后，才可提升为模拟训练或候选题。
+10. 更新冲刺资料后，运行 `python scripts/build_sprint_training.py --write --format markdown` 刷新训练化资产，再运行 `python scripts/build_search_index.py --write --format markdown` 刷新全资料检索索引。
+11. 更新教材章节、内部资料、VIP、真题、标准规范或任何训练库后，刷新 `assets/search/index.json`，确保自然语言“全资料检索/查资料”能定位新内容。
 
 ## ZFX 资料工作流
 
