@@ -125,7 +125,7 @@ def is_past_exam_training_request(text: str) -> bool:
 
 
 def is_standards_training_request(text: str) -> bool:
-    if not any(word in text for word in ("标准规范", "规范库", "法规", "法律", "网络安全法", "密码法", "保密法", "ISO20000", "GB50462", "机房施工", "桌面及外围设备")):
+    if not any(word in text for word in ("标准规范", "规范库", "法规", "法律", "网络安全法", "密码法", "保密法", "招标投标法", "政府采购法", "ISO20000", "GB50462", "机房施工", "桌面及外围设备")):
         return False
     if any(word in text for word in ("资料", "索引", "清单", "PDF", "目录", "有哪些")):
         return False
@@ -133,7 +133,7 @@ def is_standards_training_request(text: str) -> bool:
 
 
 def is_standards_clause_request(text: str) -> bool:
-    standard_words = ("标准规范", "规范库", "法规", "法律", "网络安全法", "密码法", "保密法", "ISO20000", "GB50462", "机房施工", "桌面及外围设备")
+    standard_words = ("标准规范", "规范库", "法规", "法律", "网络安全法", "密码法", "保密法", "招标投标法", "政府采购法", "ISO20000", "GB50462", "机房施工", "桌面及外围设备")
     if any(word in text for word in ("资料", "索引", "清单", "PDF", "目录", "有哪些")):
         return False
     clause_words = ("条款", "条文", "原文", "摘要", "查看", "查询", "检索", "看看")
@@ -141,7 +141,7 @@ def is_standards_clause_request(text: str) -> bool:
 
 
 def detect_standard_document_from_text(text: str) -> str | None:
-    for keyword in ("网络安全法", "密码法", "保密法", "ISO20000", "GB50462", "机房施工", "桌面及外围设备", "政府采购评审", "信用管理"):
+    for keyword in ("网络安全法", "密码法", "保密法", "招标投标法", "政府采购法", "ISO20000", "GB50462", "机房施工", "桌面及外围设备", "政府采购评审", "信用管理"):
         if keyword.lower() in text.lower():
             return keyword
     return None

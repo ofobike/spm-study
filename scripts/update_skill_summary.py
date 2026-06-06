@@ -163,7 +163,7 @@ def source_type_summary(search_index: dict[str, Any]) -> str:
         (("chapter_question",), "正式题库"),
         (("case_study",), "案例"),
         (("past_exam", "past_exam_pdf", "past_exam_pdf_enhanced"), "真题"),
-        (("standards_training", "standards_pdf"), "标准规范"),
+        (("standards_training", "standards_pdf", "standards_pdf_enhanced"), "标准规范"),
         (("exam_guide", "mindmap", "paper_special", "syllabus", "three_color_notes", "chapter_practice", "case_special"), "内部资料"),
         (("mock_bank", "mock_bank_enhanced"), "模拟题库"),
         (("vip_material",), "VIP"),

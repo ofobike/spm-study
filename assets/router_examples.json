@@ -88,6 +88,22 @@
       "expected_output_contains": "standards start --document 网络安全法"
     },
     {
+      "name": "standards_training_tendering_law",
+      "text": "给我出2道招标投标法标准规范题",
+      "execute": false,
+      "expected_intent": "standards_training",
+      "expected_command_contains": "standards start --document 招标投标法",
+      "expected_output_contains": "standards start --document 招标投标法"
+    },
+    {
+      "name": "standards_clause_government_procurement_law",
+      "text": "查看政府采购法条款",
+      "execute": true,
+      "expected_intent": "standards_clauses",
+      "expected_command_contains": "standards clauses --document 政府采购法",
+      "expected_output_contains": "标准规范条款检索"
+    },
+    {
       "name": "standards_clause_lookup",
       "text": "查看网络安全法条款",
       "execute": true,
