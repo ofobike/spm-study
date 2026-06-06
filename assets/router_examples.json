@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "description": "Natural-language routing regression examples for scripts/study.py ask. Add high-risk wording here instead of hard-coding ask cases in study.py.",
+  "defaults": {
+    "format": "markdown",
+    "no_record": true,
+    "dry_run": false
+  },
+  "examples": [
+    {
+      "name": "dashboard_today",
+      "text": "今天我该学什么",
+      "execute": true,
+      "expected_intent": "dashboard",
+      "expected_command_contains": "dashboard",
+      "expected_output_contains": "学习驾驶舱"
+    },
+    {
+      "name": "plan_today",
+      "text": "给我安排今日计划",
+      "execute": true,
+      "expected_intent": "plan",
+      "expected_command_contains": "plan",
+      "expected_output_contains": "每日学习计划"
+    },
+    {
+      "name": "profile_show",
+      "text": "查看我的备考画像",
+      "execute": true,
+      "expected_intent": "profile",
+      "expected_command_contains": "profile",
+      "expected_output_contains": "个人备考画像"
+    },
+    {
+      "name": "profile_update_preview",
+      "text": "我每天能学1小时，论文最弱，优先保过",
+      "execute": true,
+      "expected_intent": "profile_update",
+      "expected_command_contains": "profile-update",
+      "expected_output_contains": "画像自然语言更新"
+    },
+    {
+      "name": "profile_update_command_preview_only",
+      "text": "保存到画像：我每天能学1小时，论文最弱，优先保过",
+      "execute": false,
+      "expected_intent": "profile_update",
+      "expected_command_contains": "profile-update",
+      "expected_output_contains": "profile-update"
+    },
+    {
+      "name": "backup_past_exam_lookup",
+      "text": "查看2023年历年真题资料",
+      "execute": true,
+      "expected_intent": "backup_pdfs",
+      "expected_command_contains": "backup-pdfs",
+      "expected_output_contains": "2023"
+    },
+    {
+      "name": "past_exam_choice_training",
+      "text": "给我出2道2022年真题",
+      "execute": false,
+      "expected_intent": "past_exam_choice",
+      "expected_command_contains": "past-exam start --year 2022",
+      "expected_output_contains": "past-exam start --year 2022"
+    },
+    {
+      "name": "past_exam_case_training",
+      "text": "做2021年案例真题",
+      "execute": false,
+      "expected_intent": "past_exam_case",
+      "expected_command_contains": "past-exam case --year 2021",
+      "expected_output_contains": "past-exam case --year 2021"
+    },
+    {
+      "name": "past_exam_paper_lookup",
+      "text": "查看2022年论文真题",
+      "execute": false,
+      "expected_intent": "past_exam_paper",
+      "expected_command_contains": "past-exam paper --year 2022",
+      "expected_output_contains": "past-exam paper --year 2022"
+    },
+    {
+      "name": "standards_training",
+      "text": "给我出2道网络安全法标准规范题",
+      "execute": false,
+      "expected_intent": "standards_training",
+      "expected_command_contains": "standards start --document 网络安全法",
+      "expected_output_contains": "standards start --document 网络安全法"
+    },
+    {
+      "name": "standards_clause_lookup",
+      "text": "查看网络安全法条款",
+      "execute": true,
+      "expected_intent": "standards_clauses",
+      "expected_command_contains": "standards clauses --document 网络安全法",
+      "expected_output_contains": "标准规范条款检索"
+    },
+    {
+      "name": "vip_theory_material",
+      "text": "查看VIP理论必背材料",
+      "execute": false,
+      "expected_intent": "vip_material",
+      "expected_command_contains": "vip --kind theory-core",
+      "expected_output_contains": "vip --kind theory-core"
+    },
+    {
+      "name": "sprint_gold_material",
+      "text": "查看金色考点冲刺资料",
+      "execute": false,
+      "expected_intent": "sprint_material",
+      "expected_command_contains": "sprint-materials --kind gold-points",
+      "expected_output_contains": "sprint-materials --kind gold-points"
+    },
+    {
+      "name": "search_material",
+      "text": "全资料检索 服务目录设计",
+      "execute": false,
+      "expected_intent": "search",
+      "expected_command_contains": "study.py search",
+      "expected_output_contains": "study.py search"
+    },
+    {
+      "name": "search_should_not_start_training",
+      "text": "查资料 第12章 服务目录设计",
+      "execute": false,
+      "expected_intent": "search",
+      "expected_command_contains": "study.py search",
+      "expected_output_contains": "study.py search"
+    },
+    {
+      "name": "sprint_cards_training",
+      "text": "练5个130个活动",
+      "execute": false,
+      "expected_intent": "sprint_training_cards",
+      "expected_command_contains": "sprint-training cards --kind activities --count 5",
+      "expected_output_contains": "sprint-training cards --kind activities --count 5"
+    },
+    {
+      "name": "sprint_case_training",
+      "text": "用关键成功因素做案例采分点训练",
+      "execute": false,
+      "expected_intent": "sprint_training_case",
+      "expected_command_contains": "sprint-training case --kind csf-risk",
+      "expected_output_contains": "sprint-training case --kind csf-risk"
+    },
+    {
+      "name": "formal_practice",
+      "text": "给我出2道第12章正式入库题",
+      "execute": false,
+      "expected_intent": "practice",
+      "expected_command_contains": "--tag 正式入库",
+      "expected_output_contains": "--tag 正式入库"
+    },
+    {
+      "name": "candidate_practice_preview",
+      "text": "看2道第12章千题闯关候选题",
+      "execute": false,
+      "expected_intent": "candidate_practice",
+      "expected_command_contains": "candidate --chapter 12",
+      "expected_output_contains": "candidate --chapter 12"
+    },
+    {
+      "name": "recitation_preview",
+      "text": "查看第12章案例背诵采分点",
+      "execute": false,
+      "expected_intent": "recitation",
+      "expected_command_contains": "recite --chapter 12",
+      "expected_output_contains": "recite --chapter 12"
+    },
+    {
+      "name": "formal_case_recitation_training",
+      "text": "开始第12章正式案例背诵训练",
+      "execute": false,
+      "expected_intent": "case_start",
+      "expected_command_contains": "case start --chapters 12 --source recitation",
+      "expected_output_contains": "case start --chapters 12 --source recitation"
+    },
+    {
+      "name": "weak_drill",
+      "text": "按薄弱点给我出2道题",
+      "execute": false,
+      "expected_intent": "drill",
+      "expected_command_contains": "python scripts/study.py drill --count 2",
+      "expected_output_contains": "python scripts/study.py drill --count 2"
+    },
+    {
+      "name": "paper_reference",
+      "text": "给我信息系统规划政务论文范文参考",
+      "execute": true,
+      "expected_intent": "paper_reference",
+      "expected_command_contains": "paper-ref --topic 信息系统规划 --scenario 政务",
+      "expected_output_contains": "内部论文专题参考"
+    },
+    {
+      "name": "paper_review_needs_input",
+      "text": "我论文写好了帮我批",
+      "execute": true,
+      "expected_intent": "paper_review",
+      "expected_command_contains": "paper submit",
+      "expected_output_contains": "请提供 --draft 文件或 --text 草稿内容"
+    },
+    {
+      "name": "answer_no_record",
+      "text": "我的答案是 A B C",
+      "execute": true,
+      "expected_intent": "submit_latest",
+      "expected_command_contains": "ask \"我的答案是 A B C D\"",
+      "expected_output_contains": "Recorded: False"
+    },
+    {
+      "name": "ask_start_no_record_no_session",
+      "text": "给我出2道第12章题",
+      "execute": true,
+      "expected_intent": "practice",
+      "expected_command_contains": "start --chapters 12 --count 2",
+      "expected_output_contains": "<dry-run>"
+    }
+  ]
+}

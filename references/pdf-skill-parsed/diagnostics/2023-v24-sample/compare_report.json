@@ -1,0 +1,299 @@
+{
+  "version": "4.8.0",
+  "format": "pdf",
+  "source_file": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+  "actual_file": "C:\\Users\\HSPCAD~1\\AppData\\Local\\Temp\\parse_candidates_c9s91_fz\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pages_1_to_3.pdf",
+  "start_page": 1,
+  "max_pages": 3,
+  "output_format": "md",
+  "generated_at": "2026-06-06 12:12:54",
+  "results": [
+    {
+      "parser": "pymupdf",
+      "status": "ok",
+      "seconds": 0.022,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-v24-sample\\pymupdf.md",
+      "error": null,
+      "chars": 1105,
+      "non_space_chars": 988,
+      "lines": 76,
+      "paragraphs": 4,
+      "headings": 0,
+      "chinese_chars": 683,
+      "cid_markers": 0,
+      "control_chars": 0,
+      "quality_score": 1.0,
+      "quality_label": "high",
+      "preview": "<!-- page 1 -->\n\n新\n－～\n古夼日：\n658661882\n珩1:r : 725873151、护\n708089362 \n: 宝店：\n脊欠\n._\n或\n新-%\n2023年5月系统规划与管理师\n老师寄语：\n由千时间仓促，难免有不足之处，后续发现有错误也会修正，大家可以参考看看。\n苦心人，天不负，三千越甲可吞吴！\n加油！\n一切皆有可能！\n上午－选择题\n【2023 年05 月第1 题】-!\n规身口堂信息系统综金知正\n1、香农用概率来定址描述信息的公式如下，其中H(x)表示X 的(_), Pi 是（—_)出现第1种状态的(_)\nH(x) = -L Pilogpi \nA 信息嫡\n事件\n概率\nB 总嫡\n单位\n概率\nC信息嫡\n单位\n概率\nD 总嫡\n单位\n度扯\n【参考答案】A\n【郑房新老师点评】历年反复考察。\n系规-P2-香农用概率来定址描述信息，给出了如下公式·\nH(X)=分兑logp;\nH(X)表示事件X 的信息嫡(df), Pi 是壅住出现第l 种状态的抵巠，二选_A.在二进制的情况下，对数的底是2, 此时信\n息嫡可以作为信息的度址，称为信息址，单位是比特(bit)。在没有任何先验知识的基础＿卜，人们对明天是否刮风，风力\n最大是多少是完全未知的，假如风力定义为从0级\n一直到7级\n【2023 年05 月第2 题】-!\n规身口堂信息系统综金知退|\n2、以信息化规划需求调研、现状分析为基"
+    },
+    {
+      "parser": "pdfminer",
+      "status": "ok",
+      "seconds": 0.25,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-v24-sample\\pdfminer.md",
+      "error": null,
+      "chars": 1149,
+      "non_space_chars": 988,
+      "lines": 75,
+      "paragraphs": 27,
+      "headings": 0,
+      "chinese_chars": 683,
+      "cid_markers": 0,
+      "control_chars": 0,
+      "quality_score": 1.0,
+      "quality_label": "high",
+      "preview": "<!-- page 1 -->\n\n<!-- page 2 -->\n\n<!-- page 3 -->\n\n新－ ～ 古夼日： 658661882 珩 1:r\n\n: 725873151、护\n\n708089362 \n\n: 宝店：\n\n脊欠 ._ 或\n\n新-�\n\n2023年5月系统规划与管理师\n\n老师寄语：\n\n由千时间仓促，难免有不足之处，后续发现有错误也会修正，大家可以参考看看。\n苦心人，天不负，三千越甲可吞吴！ 加油！ 一切皆有可能！\n\n上午－选择题\n\n【2023 年 05 月第 1 题】-! 规身口堂信息系统综金知正\n1、香农用概率来定址描述信息的公式如下，其中 H(x)表示 X 的(_), Pi 是（—_)出现第1种状态的(_)\n\nH(x) = - L Pilogpi \n\nA 信息嫡 事件 概率\nB 总嫡 单位 概率\nC信息嫡 单位 概率\nD 总嫡 单位 度扯\n\n【参考答案】 A\n【郑房新老师点评】历年反复考察。\n系规-P2-香农用概率来定址描述信息，给出了如下公式·\n\nH(X)= 分兑 logp;\n\nH(X)表示事件 X 的信息嫡(df), Pi 是壅住出现第 l 种状态的抵巠，二选_A.在二进制的情况下，对数的底是 2, 此时信\n息嫡可以作为信息的度址，称为信息址，单位是比特(bit)。在没有任何先验知识的基础＿卜，人们对明天是否刮风，风力\n最大是多少是完全未知的，假如风力定义为从"
+    },
+    {
+      "parser": "pdfplumber",
+      "status": "ok",
+      "seconds": 0.364,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-v24-sample\\pdfplumber.md",
+      "error": null,
+      "chars": 1126,
+      "non_space_chars": 988,
+      "lines": 51,
+      "paragraphs": 4,
+      "headings": 0,
+      "chinese_chars": 683,
+      "cid_markers": 0,
+      "control_chars": 0,
+      "quality_score": 1.0,
+      "quality_label": "high",
+      "preview": "<!-- page 1 -->\n\n新 －～ 古夼日： 658661882 珩 1:r : 725873151、护 708089362 : 宝店： 脊欠 ._ 或 新-�\n2023年5月系统规划与管理师\n老师寄语：\n由千时间仓促，难免有不足之处，后续发现有错误也会修正，大家可以参考看看。\n一\n苦心人，天不负，三千越甲可吞吴！ 加油！ 切皆有可能！\n上午－选择题\n【2023 年 05 月第 1 题】-! 规身口堂信息系统综金知正\n1、香农用概率来定址描述信息的公式如下，其中 H(x)表示 X 的(_), Pi 是（—_)出现第1种状态的(_)\nL\nH(x) = - Pilogpi\nA 信息嫡 事件 概率\nB 总嫡 单位 概率\nC信息嫡 单位 概率\nD 总嫡 单位 度扯\n【参考答案】 A\n【郑房新老师点评】历年反复考察。\n系规-P2-香农用概率来定址描述信息，给出了如下公式·\n分兑\nH(X)= logp;\nH(X)表示事件 X 的信息嫡(df), Pi 是壅住出现第l 种状态的抵巠，二选_A.在二进制的情况下，对数的底是2, 此时信\n息嫡可以作为信息的度址，称为信息址，单位是比特(bit)。在没有任何先验知识的基础＿卜，人们对明天是否刮风，风力\n一\n最大是多少是完全未知的，假如风力定义为从0级 直到7级\n【2023 年 05 月第 2 题】-! 规身口堂信息系统综金知退|\n2、以信息化规"
+    },
+    {
+      "parser": "liteparse",
+      "status": "ok",
+      "seconds": 0.109,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-v24-sample\\liteparse.md",
+      "error": null,
+      "chars": 1154,
+      "non_space_chars": 979,
+      "lines": 51,
+      "paragraphs": 10,
+      "headings": 0,
+      "chinese_chars": 674,
+      "cid_markers": 0,
+      "control_chars": 0,
+      "quality_score": 1.0,
+      "quality_label": "high",
+      "preview": "<!-- page 1 -->\n\n 新－ ～ 古夼日： 658661882 珩 1:r : 725873151、护 708089362 : 宝店： 脊欠 ._ 或 新-�\n 2023年5月系统规划与管理师\n老师寄语：\n 由千时间仓促，难免有不足之处，后续发现有错误也会修正，大家可以参考看看。\n 苦心人，天不负，三千越甲可吞吴！ 加油！ 一切皆有可能！\n\n 上午－选择题\n\n 【2023 年 05 月第 1 题】-! 堂信息系统综金知正\n 1、香农用概率来定址描述信息的公式如下，其中 H(x)表示 X 的(_), Pi 是（—_)出现第1种状态的(_)\n H(x) = - L Pilogpi\n\n A 信息嫡 事件 概率\n B 总嫡 单位 概率\n C信息嫡 单位 概率\n D总嫡 单位 度扯\n 【参考答案】 A\n 【郑房新老师点评】历年反复考察。\n 系规-P2-香农用概率来定址描述信息，给出了如下公式·\n H(X)=分兑 logp;\n\n H(X)表示事件 X 的信息嫡(df), Pi 是壅住出现第l 种状态的抵巠，二选_A.在二进制的情况下，对数的底是2, 此时信\n 息嫡可以作为信息的度址，称为信息址，单位是比特(bit)。在没有任何先验知识的基础＿卜，人们对明天是否刮风，风力\n 最大是多少是完全未知的，假如风力定义为从0级一直到7级\n\n 【2023 年 05 月第 2 题】-! 堂信息系"
+    },
+    {
+      "parser": "markitdown",
+      "status": "ok",
+      "seconds": 8.494,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-v24-sample\\markitdown.md",
+      "error": null,
+      "chars": 1096,
+      "non_space_chars": 952,
+      "lines": 69,
+      "paragraphs": 24,
+      "headings": 0,
+      "chinese_chars": 683,
+      "cid_markers": 0,
+      "control_chars": 0,
+      "quality_score": 1.0,
+      "quality_label": "high",
+      "preview": "新－ ～ 古夼日： 658661882 珩 1:r\n\n: 725873151、护\n\n708089362\n\n: 宝店：\n\n脊欠 ._ 或\n\n新-�\n\n2023年5月系统规划与管理师\n\n老师寄语：\n\n由千时间仓促，难免有不足之处，后续发现有错误也会修正，大家可以参考看看。\n苦心人，天不负，三千越甲可吞吴！ 加油！ 一切皆有可能！\n\n上午－选择题\n\n【2023 年 05 月第 1 题】-! 规身口堂信息系统综金知正\n1、香农用概率来定址描述信息的公式如下，其中 H(x)表示 X 的(_), Pi 是（—_)出现第1种状态的(_)\n\nH(x) = - L Pilogpi\n\nA 信息嫡 事件 概率\nB 总嫡 单位 概率\nC信息嫡 单位 概率\nD 总嫡 单位 度扯\n\n【参考答案】 A\n【郑房新老师点评】历年反复考察。\n系规-P2-香农用概率来定址描述信息，给出了如下公式·\n\nH(X)= 分兑 logp;\n\nH(X)表示事件 X 的信息嫡(df), Pi 是壅住出现第 l 种状态的抵巠，二选_A.在二进制的情况下，对数的底是 2, 此时信\n息嫡可以作为信息的度址，称为信息址，单位是比特(bit)。在没有任何先验知识的基础＿卜，人们对明天是否刮风，风力\n最大是多少是完全未知的，假如风力定义为从0级一 直到7级\n\n【2023 年 05 月第 2 题】-! 规身口堂信息系统综金知退|\n2、以信息化规划"
+    },
+    {
+      "parser": "pymupdf4llm",
+      "status": "ok",
+      "seconds": 17.397,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-v24-sample\\pymupdf4llm.md",
+      "error": null,
+      "chars": 4907,
+      "non_space_chars": 3857,
+      "lines": 53,
+      "paragraphs": 27,
+      "headings": 5,
+      "chinese_chars": 683,
+      "cid_markers": 0,
+      "control_chars": 0,
+      "quality_score": 0.939,
+      "quality_label": "high",
+      "preview": "(Dh **新－ ～ 古夼日** G **： 658661882 珩** 1:r : **725873151、护 708089362 : 宝店：** Ambame, **脊欠 ._ 或** Sib **新** (eis **-** \n\n## **2023年5月系统规划与管理师** \n\n老师寄语： \n\n由千时间仓促，难免有不足之处，后续发现有错误也会修正，大家可以参考看看。 bs % 一 苦心人，天不负，三千越甲可吞吴！ 加油！ 切皆有可能！ \n\n## **上午－选择题** \n\n- 【 **2023** 年 **05** 月第 **1** 题】 ! 规身口堂信息系统综金知正 \n\n1、香农用概 me 率来定址 a 描述信息的公式如下，其中 H(x)表示 X 的(_), Pi 是（—_)出现第1种状态的(_) \n\n## **H(x) = - Pilogpi** L \n\nA 信息嫡 事件 概率 B 总嫡 单位 概率 C信息嫡 单位 概率 D 总嫡 单位 度扯 8 【参考答案】 A \n\n【郑房新老师点评】历年反复考察。 \n\n· 系规-P2-香农 a 用概率来定址 BD 描述信息，给出了如下公式 \n\n## **H(X)=** 分兑 **logp;** \n\nH(X)表示事件 X 的信息嫡 LZ (df) _ , Pi 是壅住出现第 l 种状态的抵巠，二选_A.在二进制的情况下，对数的底是 = 2"
+    },
+    {
+      "parser": "ocr-tesseract",
+      "status": "ok",
+      "seconds": 29.426,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-v24-sample\\ocr-tesseract.md",
+      "error": null,
+      "chars": 6999,
+      "non_space_chars": 3836,
+      "lines": 193,
+      "paragraphs": 66,
+      "headings": 0,
+      "chinese_chars": 2756,
+      "cid_markers": 0,
+      "control_chars": 0,
+      "quality_score": 1.0,
+      "quality_label": "high",
+      "preview": "<!-- page 1 ocr -->\n\n(SA = 内 部 资 料 , 禁 止 传 播\n2023 年 5 月 系 统 规 划 与 管 理 师\n老 师 寄 语 :\n\n由 于 时 间 仓 促 , 难 免 有 不 足 之 处 , 后 续 发 现 有 错 误 也 会 修 正 , 大 家 可 以 参 考 看 看 。\n苦 心 人 , 天 不 负 , 三 千 越 甲 可 吞 明 ! 加 油 ! 一 切 皆 有 可 能 !\n\n上 午 - 选 择 题\n\n【2023 年 05 月 - 第 1 题 】-\n1、 香 农 用 喜 率 来 定 量 描 述 信 息 的 公 式 如 下 , 其 中 H(x) 表 示 x 的 (__),Pi 是 (C___) 出 现 第 i 种 状 态 的 (___)\n\nH(x) = - 》 Pilogp\n\nA 信 息 婧 S(t 概 率\n\nB 总 娉 “ 单 位 _ 概 率\n\nC 信 息 婧 单 位 _ 概 率\n\nD. 总 婧 “ 单 位 度 量\n\n【 参 考 答 案 】A\n\n【 郑 房 新 老 师 点 评 】 历 年 反 复 考 察 。\n\n系 规 -P2- 香 农 用 偷 率 来 定 量 描 述 信 息 , 给 出 了 如 下 公 式 :\nH(X)=-)' pilog p,\n\nH(X) 表 示 事 件 x 的 信 息 嫡 (d1l,Pi 是 事 件 出 现 第 i 种 状 态"
+    }
+  ],
+  "pairwise_similarity": [
+    {
+      "left": "pymupdf",
+      "right": "pdfminer",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9184
+    },
+    {
+      "left": "pymupdf",
+      "right": "pdfplumber",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9565
+    },
+    {
+      "left": "pymupdf",
+      "right": "liteparse",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9385
+    },
+    {
+      "left": "pymupdf",
+      "right": "markitdown",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9232
+    },
+    {
+      "left": "pymupdf",
+      "right": "pymupdf4llm",
+      "similarity_first_chars": 50000,
+      "similarity": 0.33
+    },
+    {
+      "left": "pymupdf",
+      "right": "ocr-tesseract",
+      "similarity_first_chars": 50000,
+      "similarity": 0.0911
+    },
+    {
+      "left": "pdfminer",
+      "right": "pdfplumber",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9371
+    },
+    {
+      "left": "pdfminer",
+      "right": "liteparse",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9249
+    },
+    {
+      "left": "pdfminer",
+      "right": "markitdown",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9764
+    },
+    {
+      "left": "pdfminer",
+      "right": "pymupdf4llm",
+      "similarity_first_chars": 50000,
+      "similarity": 0.3388
+    },
+    {
+      "left": "pdfminer",
+      "right": "ocr-tesseract",
+      "similarity_first_chars": 50000,
+      "similarity": 0.0918
+    },
+    {
+      "left": "pdfplumber",
+      "right": "liteparse",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9658
+    },
+    {
+      "left": "pdfplumber",
+      "right": "markitdown",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9433
+    },
+    {
+      "left": "pdfplumber",
+      "right": "pymupdf4llm",
+      "similarity_first_chars": 50000,
+      "similarity": 0.3431
+    },
+    {
+      "left": "pdfplumber",
+      "right": "ocr-tesseract",
+      "similarity_first_chars": 50000,
+      "similarity": 0.0948
+    },
+    {
+      "left": "liteparse",
+      "right": "markitdown",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9324
+    },
+    {
+      "left": "liteparse",
+      "right": "pymupdf4llm",
+      "similarity_first_chars": 50000,
+      "similarity": 0.3432
+    },
+    {
+      "left": "liteparse",
+      "right": "ocr-tesseract",
+      "similarity_first_chars": 50000,
+      "similarity": 0.0913
+    },
+    {
+      "left": "markitdown",
+      "right": "pymupdf4llm",
+      "similarity_first_chars": 50000,
+      "similarity": 0.3412
+    },
+    {
+      "left": "markitdown",
+      "right": "ocr-tesseract",
+      "similarity_first_chars": 50000,
+      "similarity": 0.0889
+    },
+    {
+      "left": "pymupdf4llm",
+      "right": "ocr-tesseract",
+      "similarity_first_chars": 50000,
+      "similarity": 0.129
+    }
+  ],
+  "recommendation": {
+    "parser": "ocr-tesseract",
+    "status": "ok",
+    "seconds": 29.426,
+    "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-v24-sample\\ocr-tesseract.md",
+    "error": null,
+    "chars": 6999,
+    "non_space_chars": 3836,
+    "lines": 193,
+    "paragraphs": 66,
+    "headings": 0,
+    "chinese_chars": 2756,
+    "cid_markers": 0,
+    "control_chars": 0,
+    "quality_score": 1.0,
+    "quality_label": "high",
+    "preview": "<!-- page 1 ocr -->\n\n(SA = 内 部 资 料 , 禁 止 传 播\n2023 年 5 月 系 统 规 划 与 管 理 师\n老 师 寄 语 :\n\n由 于 时 间 仓 促 , 难 免 有 不 足 之 处 , 后 续 发 现 有 错 误 也 会 修 正 , 大 家 可 以 参 考 看 看 。\n苦 心 人 , 天 不 负 , 三 千 越 甲 可 吞 明 ! 加 油 ! 一 切 皆 有 可 能 !\n\n上 午 - 选 择 题\n\n【2023 年 05 月 - 第 1 题 】-\n1、 香 农 用 喜 率 来 定 量 描 述 信 息 的 公 式 如 下 , 其 中 H(x) 表 示 x 的 (__),Pi 是 (C___) 出 现 第 i 种 状 态 的 (___)\n\nH(x) = - 》 Pilogp\n\nA 信 息 婧 S(t 概 率\n\nB 总 娉 “ 单 位 _ 概 率\n\nC 信 息 婧 单 位 _ 概 率\n\nD. 总 婧 “ 单 位 度 量\n\n【 参 考 答 案 】A\n\n【 郑 房 新 老 师 点 评 】 历 年 反 复 考 察 。\n\n系 规 -P2- 香 农 用 偷 率 来 定 量 描 述 信 息 , 给 出 了 如 下 公 式 :\nH(X)=-)' pilog p,\n\nH(X) 表 示 事 件 x 的 信 息 嫡 (d1l,Pi 是 事 件 出 现 第 i 种 状 态"
+  },
+  "diagnostics": [
+    "No obvious extraction-quality warning was detected from text-only heuristics."
+  ],
+  "quality_gate": {
+    "enabled": false,
+    "passed": true,
+    "min_quality": 0.0,
+    "fail_on_bad": false,
+    "reason": "ok",
+    "best_parser": "ocr-tesseract",
+    "best_quality_score": 1.0,
+    "best_quality_label": "high"
+  },
+  "ocr_fallback_requested": false,
+  "ocr_fallback_available": false
+}

@@ -294,6 +294,24 @@ ITIL、IT服务、SLA、OLA、服务目录、服务台、事件管理、问题�
 | 标准规范库 | 16 | IT 服务、信息安全、法律法规和标准规范原文 |
 | 模拟题库 | 24 | 章节模拟题和二轮模拟题，作为候选练习源 |
 
+### pdf-skill 增强解析
+
+增强解析结果：`references/pdf-skill-parsed/`，索引：`references/pdf-skill-parsed/index.md`。
+
+- 工具：`D:\表\pdf-skill\parse_pdf_compare.py`
+- 已解析：21 个历年真题 Markdown、24 个模拟题 Markdown
+- 诊断：`references/pdf-skill-parsed/diagnostics/` 保存 2023 两份问题 PDF 的 `compare_report` 和各 parser 样本文本
+- 检索：`build_search_index.py` 会索引增强解析正文，并跳过 `diagnostics/`，避免解析器报告污染资料检索
+- 边界：增强解析用于检索、人工核对和后续结构化补库；正式真题入库仍需 `scripts/import_past_exams.py` 保守解析和 `scripts/validate_questions.py` 校验
+
+常用命令：
+
+```powershell
+python D:\表\pdf-skill\parse_pdf_compare.py doctor --format pdf --json
+python D:\表\pdf-skill\parse_pdf_compare.py batch "F:\备份项目\2023年上半年" --parser pymupdf4llm --format md --output-dir "E:\AI\Skill\spm-study\spm-study\references\pdf-skill-parsed\past-exams-pymupdf4llm\2023年上半年"
+python scripts\build_search_index.py --write --format markdown
+```
+
 ### 标准规范结构化训练
 
 07 标准规范库已从“索引 + 文本抽取”升级为结构化训练资产：

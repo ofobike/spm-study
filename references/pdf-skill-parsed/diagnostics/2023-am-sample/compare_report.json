@@ -1,0 +1,299 @@
+{
+  "version": "4.8.0",
+  "format": "pdf",
+  "source_file": "F:\\备份项目\\2023年上半年\\23.05系统规划与管理师上午 真题空白卷+答案解析【耗时整理‖免费分享：CuNlOVe.cn】.pdf",
+  "actual_file": "C:\\Users\\HSPCAD~1\\AppData\\Local\\Temp\\parse_candidates__3lwp2cr\\23.05系统规划与管理师上午 真题空白卷+答案解析【耗时整理‖免费分享：CuNlOVe.cn】.pages_1_to_3.pdf",
+  "start_page": 1,
+  "max_pages": 3,
+  "output_format": "md",
+  "generated_at": "2026-06-06 12:12:39",
+  "results": [
+    {
+      "parser": "pymupdf",
+      "status": "ok",
+      "seconds": 0.016,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-am-sample\\pymupdf.md",
+      "error": null,
+      "chars": 2065,
+      "non_space_chars": 1863,
+      "lines": 73,
+      "paragraphs": 6,
+      "headings": 0,
+      "chinese_chars": 1299,
+      "cid_markers": 0,
+      "control_chars": 0,
+      "quality_score": 1.0,
+      "quality_label": "high",
+      "preview": "<!-- page 1 -->\n\n1/33\n2023年上半年系统规划与管理师上午真题及答案解析\n1.香农用概率来定量描述信息的公式如下，其中H(x)表示X的( )，Pi是( )出现第i种状态的( )。\nA.信息熵 事件 概率 B.总熵 单位 概率 C.信息熵 单位 概率 D.总熵 单位 度量\n2.信息传输模型中，( )负责信息的向外传播，( )负责信息的接收，( )负责信息的传输。\nA.信道 信宿 信源 B.信源 信宿 信道 C.信源 信道 信宿 D.信宿 信源 信道\n3.小明通过采购网站为自己的网店进了一批手机配件进行销售，小王在小明的网店买了2个手机配\n件，其中1个与自己手机不匹配，又通过二手平台卖给小白。该项活动电子商务模式开展的顺序是\n依次是( )。\nA.C2C、B2B、B2C B.B2B、C2C、C2B C.B2C、B2B、C2C D.B2B、B2C、C2C\n4.某团队承接A企业的开发项目，由于需求不清晰，该团队很难获得准确的用户需求。这种情况下\n适合采用的开发方法是( )。\nA.结构化法 B.面向对象法 C.原型法 D.顺序开发法\n5.以信息化规划需求调研、现状分析为基础，采取( )的方式，建立本企业业务架构。\nA.知识经验 B.标准化 C.标杆法 D.从上至下\n6.IT战略的组成不包括( )。\nA.使命 B.远景目标 C.策略路线 D.实施计划\n7.现状分析、( )、"
+    },
+    {
+      "parser": "pdfminer",
+      "status": "ok",
+      "seconds": 0.325,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-am-sample\\pdfminer.md",
+      "error": null,
+      "chars": 2119,
+      "non_space_chars": 1863,
+      "lines": 127,
+      "paragraphs": 58,
+      "headings": 0,
+      "chinese_chars": 1299,
+      "cid_markers": 0,
+      "control_chars": 2,
+      "quality_score": 1.0,
+      "quality_label": "high",
+      "preview": "<!-- page 1 -->\n\n<!-- page 2 -->\n\n<!-- page 3 -->\n\n2023年上半年系统规划与管理师上午真题及答案解析\n\n1.香农用概率来定量描述信息的公式如下，其中H(x)表示X的( )，Pi是( )出现第i种状态的( )。\n\nA.信息熵 事件 概率 B.总熵 单位 概率 C.信息熵 单位 概率 D.总熵 单位 度量\n\n2.信息传输模型中，( )负责信息的向外传播，( )负责信息的接收，( )负责信息的传输。\n\nA.信道 信宿 信源 B.信源 信宿 信道 C.信源 信道 信宿 D.信宿 信源 信道\n\n3.小明通过采购网站为自己的网店进了一批手机配件进行销售，小王在小明的网店买了2个手机配\n件，其中1个与自己手机不匹配，又通过二手平台卖给小白。该项活动电子商务模式开展的顺序是\n依次是( )。\n\nA.C2C、B2B、B2C B.B2B、C2C、C2B C.B2C、B2B、C2C D.B2B、B2C、C2C\n\n4.某团队承接A企业的开发项目，由于需求不清晰，该团队很难获得准确的用户需求。这种情况下\n适合采用的开发方法是( )。\n\nA.结构化法 B.面向对象法 C.原型法 D.顺序开发法\n\n5.以信息化规划需求调研、现状分析为基础，采取( )的方式，建立本企业业务架构。\n\nA.知识经验 B.标准化 C.标杆法 D.从上至下\n\n6.IT战略的组成不包括( "
+    },
+    {
+      "parser": "pdfplumber",
+      "status": "ok",
+      "seconds": 0.486,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-am-sample\\pdfplumber.md",
+      "error": null,
+      "chars": 2065,
+      "non_space_chars": 1863,
+      "lines": 71,
+      "paragraphs": 6,
+      "headings": 0,
+      "chinese_chars": 1299,
+      "cid_markers": 0,
+      "control_chars": 0,
+      "quality_score": 1.0,
+      "quality_label": "high",
+      "preview": "<!-- page 1 -->\n\n2023年上半年系统规划与管理师上午真题及答案解析\n1.香农用概率来定量描述信息的公式如下，其中H(x)表示X的( )，Pi是( )出现第i种状态的( )。\nA.信息熵 事件 概率 B.总熵 单位 概率 C.信息熵 单位 概率 D.总熵 单位 度量\n2.信息传输模型中，( )负责信息的向外传播，( )负责信息的接收，( )负责信息的传输。\nA.信道 信宿 信源 B.信源 信宿 信道 C.信源 信道 信宿 D.信宿 信源 信道\n3.小明通过采购网站为自己的网店进了一批手机配件进行销售，小王在小明的网店买了2个手机配\n件，其中1个与自己手机不匹配，又通过二手平台卖给小白。该项活动电子商务模式开展的顺序是\n依次是( )。\nA.C2C、B2B、B2C B.B2B、C2C、C2B C.B2C、B2B、C2C D.B2B、B2C、C2C\n4.某团队承接A企业的开发项目，由于需求不清晰，该团队很难获得准确的用户需求。这种情况下\n适合采用的开发方法是( )。\nA.结构化法 B.面向对象法 C.原型法 D.顺序开发法\n5.以信息化规划需求调研、现状分析为基础，采取( )的方式，建立本企业业务架构。\nA.知识经验 B.标准化 C.标杆法 D.从上至下\n6.IT战略的组成不包括( )。\nA.使命 B.远景目标 C.策略路线 D.实施计划\n7.现状分析、( )、差距分析和"
+    },
+    {
+      "parser": "liteparse",
+      "status": "ok",
+      "seconds": 0.169,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-am-sample\\liteparse.md",
+      "error": null,
+      "chars": 2140,
+      "non_space_chars": 1863,
+      "lines": 96,
+      "paragraphs": 31,
+      "headings": 0,
+      "chinese_chars": 1299,
+      "cid_markers": 0,
+      "control_chars": 0,
+      "quality_score": 1.0,
+      "quality_label": "high",
+      "preview": "<!-- page 1 -->\n\n 2023年上半年系统规划与管理师上午真题及答案解析\n\n 1.香农用概率来定量描述信息的公式如下，其中H(x)表示X的( )，Pi是( )出现第i种状态的( )。\n\nA.信息熵 事件 概率 B.总熵 单位 概率 C.信息熵 单位 概率 D.总熵 单位 度量\n\n2.信息传输模型中，( )负责信息的向外传播，( )负责信息的接收，( )负责信息的传输。\nA.信道 信宿 信源 B.信源 信宿 信道 C.信源 信道 信宿 D.信宿 信源 信道\n\n 3.小明通过采购网站为自己的网店进了一批手机配件进行销售，小王在小明的网店买了2个手机配\n 件，其中1个与自己手机不匹配，又通过二手平台卖给小白。该项活动电子商务模式开展的顺序是\n 依次是( )。\n A.C2C、B2B、B2C B.B2B、C2C、C2B C.B2C、B2B、C2C D.B2B、B2C、C2C\n\n 4.某团队承接A企业的开发项目，由于需求不清晰，该团队很难获得准确的用户需求。这种情况下\n 适合采用的开发方法是( )。\n A.结构化法 B.面向对象法 C.原型法 D.顺序开发法\n\n 5.以信息化规划需求调研、现状分析为基础，采取( )的方式，建立本企业业务架构。\n A.知识经验 B.标准化 C.标杆法 D.从上至下\n\n 6.IT战略的组成不包括( )。\n A.使命 B.远景目标 C.策略路线 D.实"
+    },
+    {
+      "parser": "markitdown",
+      "status": "ok",
+      "seconds": 3.619,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-am-sample\\markitdown.md",
+      "error": null,
+      "chars": 2068,
+      "non_space_chars": 1827,
+      "lines": 121,
+      "paragraphs": 55,
+      "headings": 0,
+      "chinese_chars": 1299,
+      "cid_markers": 0,
+      "control_chars": 2,
+      "quality_score": 1.0,
+      "quality_label": "high",
+      "preview": "2023年上半年系统规划与管理师上午真题及答案解析\n\n1.香农用概率来定量描述信息的公式如下，其中H(x)表示X的( )，Pi是( )出现第i种状态的( )。\n\nA.信息熵 事件 概率 B.总熵 单位 概率 C.信息熵 单位 概率 D.总熵 单位 度量\n\n2.信息传输模型中，( )负责信息的向外传播，( )负责信息的接收，( )负责信息的传输。\n\nA.信道 信宿 信源 B.信源 信宿 信道 C.信源 信道 信宿 D.信宿 信源 信道\n\n3.小明通过采购网站为自己的网店进了一批手机配件进行销售，小王在小明的网店买了2个手机配\n件，其中1个与自己手机不匹配，又通过二手平台卖给小白。该项活动电子商务模式开展的顺序是\n依次是( )。\n\nA.C2C、B2B、B2C B.B2B、C2C、C2B C.B2C、B2B、C2C D.B2B、B2C、C2C\n\n4.某团队承接A企业的开发项目，由于需求不清晰，该团队很难获得准确的用户需求。这种情况下\n适合采用的开发方法是( )。\n\nA.结构化法 B.面向对象法 C.原型法 D.顺序开发法\n\n5.以信息化规划需求调研、现状分析为基础，采取( )的方式，建立本企业业务架构。\n\nA.知识经验 B.标准化 C.标杆法 D.从上至下\n\n6.IT战略的组成不包括( )。\n\nA.使命 B.远景目标 C.策略路线 D.实施计划\n\n7.现状分析、( )、差距分析和( )是"
+    },
+    {
+      "parser": "pymupdf4llm",
+      "status": "ok",
+      "seconds": 6.786,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-am-sample\\pymupdf4llm.md",
+      "error": null,
+      "chars": 2157,
+      "non_space_chars": 1849,
+      "lines": 107,
+      "paragraphs": 54,
+      "headings": 1,
+      "chinese_chars": 1299,
+      "cid_markers": 0,
+      "control_chars": 0,
+      "quality_score": 1.0,
+      "quality_label": "high",
+      "preview": "## **2023年上半年系统规划与管理师上午真题及答案解析** \n\n- 1.香农用概率来定量描述信息的公式如下，其中H(x)表示X的( )，Pi是( )出现第i种状态的( )。 \n\n- A.信息熵 事件 概率 B.总熵 单位 概率 C.信息熵 单位 概率 D.总熵 单位 度量 \n\n- 2.信息传输模型中，( )负责信息的向外传播，( )负责信息的接收，( )负责信息的传输。 \n\n- A.信道 信宿 信源 B.信源 信宿 信道 C.信源 信道 信宿 D.信宿 信源 信道 \n\n- 3.小明通过采购网站为自己的网店进了一批手机配件进行销售，小王在小明的网店买了2个手机配 件，其中1个与自己手机不匹配，又通过二手平台卖给小白。该项活动电子商务模式开展的顺序是 依次是( )。 \n\nA.C2C、B2B、B2C B.B2B、C2C、C2B C.B2C、B2B、C2C D.B2B、B2C、C2C \n\n- 4.某团队承接A企业的开发项目，由于需求不清晰，该团队很难获得准确的用户需求。这种情况下 适合采用的开发方法是( )。 \n\n- A.结构化法 B.面向对象法 C.原型法 D.顺序开发法 \n\n- 5.以信息化规划需求调研、现状分析为基础，采取( )的方式，建立本企业业务架构。 \n\n- A.知识经验 B.标准化 C.标杆法 D.从上至下 \n\n- 6.IT战略的组成不包括( )。 \n\n- A.使命 B"
+    },
+    {
+      "parser": "ocr-tesseract",
+      "status": "ok",
+      "seconds": 14.299,
+      "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-am-sample\\ocr-tesseract.md",
+      "error": null,
+      "chars": 3533,
+      "non_space_chars": 1907,
+      "lines": 110,
+      "paragraphs": 43,
+      "headings": 0,
+      "chinese_chars": 1305,
+      "cid_markers": 0,
+      "control_chars": 0,
+      "quality_score": 1.0,
+      "quality_label": "high",
+      "preview": "<!-- page 1 ocr -->\n\n2023 年 上 半 年 系 统 规 划 与 管 理 师 上 午 真 题 及 答 案 解 析\n\n1. 香 农 用 概 率 来 定 量 描 述 信 息 的 公 式 如 下 , 其 中 H(x) 表 示 X 的 ( ),Pi 是 ( ) 出 现 第 种 状 态 的 ( )。\n\nH(x)=— 2p log.\n\nA. 信 息 熨 事 件 概 率 B. 总 熵 单 位 概 率 C. 信 息 熨 单 位 概 率 D. 总 熵 单 位 度 量\n\n2. 信 息 传 输 模 型 中 ,( ) 负 责 信 息 的 向 外 传 播 ,( ) 负 责 信 息 的 接 收 ,( ) 负 责 信 息 的 传 输 。\nA 信 道 信 宿 信 源 B. 信 源 信 宿 信 道 C. 信 源 信 道 信 宿 D. 信 宿 信 源 信 道\n\n3. 小 明 通 过 采 购 网 站 为 自 己 的 网 店 进 了 一 批 手 机 配 件 进 行 销 售 , 小 王 在 小 明 的 网 店 买 了 2 个 手 机 配\n件 , 其 中 1 个 与 自 己 手 机 不 匹 配 , 又 通 过 二 手 平 台 卖 给 小 白 。 该 项 活 动 电 子 商 务 模 式 开 展 的 顺 序 是\n依 次 是 ( )。\n\nA.C2C、B2B、B2C B.B2B、C2C、C2B _C.B2C、B"
+    }
+  ],
+  "pairwise_similarity": [
+    {
+      "left": "pymupdf",
+      "right": "pdfminer",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9675
+    },
+    {
+      "left": "pymupdf",
+      "right": "pdfplumber",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9918
+    },
+    {
+      "left": "pymupdf",
+      "right": "liteparse",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9741
+    },
+    {
+      "left": "pymupdf",
+      "right": "markitdown",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9436
+    },
+    {
+      "left": "pymupdf",
+      "right": "pymupdf4llm",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9356
+    },
+    {
+      "left": "pymupdf",
+      "right": "ocr-tesseract",
+      "similarity_first_chars": 50000,
+      "similarity": 0.314
+    },
+    {
+      "left": "pdfminer",
+      "right": "pdfplumber",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9436
+    },
+    {
+      "left": "pdfminer",
+      "right": "liteparse",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9645
+    },
+    {
+      "left": "pdfminer",
+      "right": "markitdown",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9878
+    },
+    {
+      "left": "pdfminer",
+      "right": "pymupdf4llm",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9439
+    },
+    {
+      "left": "pdfminer",
+      "right": "ocr-tesseract",
+      "similarity_first_chars": 50000,
+      "similarity": 0.6228
+    },
+    {
+      "left": "pdfplumber",
+      "right": "liteparse",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9822
+    },
+    {
+      "left": "pdfplumber",
+      "right": "markitdown",
+      "similarity_first_chars": 50000,
+      "similarity": 0.947
+    },
+    {
+      "left": "pdfplumber",
+      "right": "pymupdf4llm",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9417
+    },
+    {
+      "left": "pdfplumber",
+      "right": "ocr-tesseract",
+      "similarity_first_chars": 50000,
+      "similarity": 0.6295
+    },
+    {
+      "left": "liteparse",
+      "right": "markitdown",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9411
+    },
+    {
+      "left": "liteparse",
+      "right": "pymupdf4llm",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9234
+    },
+    {
+      "left": "liteparse",
+      "right": "ocr-tesseract",
+      "similarity_first_chars": 50000,
+      "similarity": 0.6261
+    },
+    {
+      "left": "markitdown",
+      "right": "pymupdf4llm",
+      "similarity_first_chars": 50000,
+      "similarity": 0.9553
+    },
+    {
+      "left": "markitdown",
+      "right": "ocr-tesseract",
+      "similarity_first_chars": 50000,
+      "similarity": 0.622
+    },
+    {
+      "left": "pymupdf4llm",
+      "right": "ocr-tesseract",
+      "similarity_first_chars": 50000,
+      "similarity": 0.5754
+    }
+  ],
+  "recommendation": {
+    "parser": "ocr-tesseract",
+    "status": "ok",
+    "seconds": 14.299,
+    "output_file": "E:\\AI\\Skill\\spm-study\\spm-study\\references\\pdf-skill-parsed\\diagnostics\\2023-am-sample\\ocr-tesseract.md",
+    "error": null,
+    "chars": 3533,
+    "non_space_chars": 1907,
+    "lines": 110,
+    "paragraphs": 43,
+    "headings": 0,
+    "chinese_chars": 1305,
+    "cid_markers": 0,
+    "control_chars": 0,
+    "quality_score": 1.0,
+    "quality_label": "high",
+    "preview": "<!-- page 1 ocr -->\n\n2023 年 上 半 年 系 统 规 划 与 管 理 师 上 午 真 题 及 答 案 解 析\n\n1. 香 农 用 概 率 来 定 量 描 述 信 息 的 公 式 如 下 , 其 中 H(x) 表 示 X 的 ( ),Pi 是 ( ) 出 现 第 种 状 态 的 ( )。\n\nH(x)=— 2p log.\n\nA. 信 息 熨 事 件 概 率 B. 总 熵 单 位 概 率 C. 信 息 熨 单 位 概 率 D. 总 熵 单 位 度 量\n\n2. 信 息 传 输 模 型 中 ,( ) 负 责 信 息 的 向 外 传 播 ,( ) 负 责 信 息 的 接 收 ,( ) 负 责 信 息 的 传 输 。\nA 信 道 信 宿 信 源 B. 信 源 信 宿 信 道 C. 信 源 信 道 信 宿 D. 信 宿 信 源 信 道\n\n3. 小 明 通 过 采 购 网 站 为 自 己 的 网 店 进 了 一 批 手 机 配 件 进 行 销 售 , 小 王 在 小 明 的 网 店 买 了 2 个 手 机 配\n件 , 其 中 1 个 与 自 己 手 机 不 匹 配 , 又 通 过 二 手 平 台 卖 给 小 白 。 该 项 活 动 电 子 商 务 模 式 开 展 的 顺 序 是\n依 次 是 ( )。\n\nA.C2C、B2B、B2C B.B2B、C2C、C2B _C.B2C、B"
+  },
+  "diagnostics": [
+    "No obvious extraction-quality warning was detected from text-only heuristics."
+  ],
+  "quality_gate": {
+    "enabled": false,
+    "passed": true,
+    "min_quality": 0.0,
+    "fail_on_bad": false,
+    "reason": "ok",
+    "best_parser": "ocr-tesseract",
+    "best_quality_score": 1.0,
+    "best_quality_label": "high"
+  },
+  "ocr_fallback_requested": false,
+  "ocr_fallback_available": false
+}

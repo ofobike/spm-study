@@ -29,6 +29,8 @@ SOURCE_RULES: list[tuple[str, str]] = [
     ("references/internal/paper-special/", "paper_special"),
     ("references/internal/chapter-practice/", "chapter_practice"),
     ("references/internal/case-special/", "case_special"),
+    ("references/pdf-skill-parsed/past-exams-", "past_exam_pdf_enhanced"),
+    ("references/pdf-skill-parsed/mock-bank-", "mock_bank_enhanced"),
     ("references/backup-pdfs/past-exams/", "past_exam_pdf"),
     ("references/backup-pdfs/standards/", "standards_pdf"),
     ("references/backup-pdfs/mock-bank/", "mock_bank"),
@@ -275,6 +277,8 @@ def collect_entries() -> list[dict[str, Any]]:
     entries: list[dict[str, Any]] = []
     for path in sorted((ROOT / "references").rglob("*.md")):
         if path.name.lower() == "readme.md":
+            continue
+        if "pdf-skill-parsed/diagnostics" in rel(path):
             continue
         entries.extend(iter_markdown_entries(path))
 

@@ -3,9 +3,9 @@
   "source": "references\\backup-pdfs\\manifest.json",
   "generated_from": "references/backup-pdfs/past-exams",
   "stats": {
-    "choice_questions": 415,
-    "case_studies": 20,
-    "case_subquestions": 72,
+    "choice_questions": 466,
+    "case_studies": 22,
+    "case_subquestions": 78,
     "paper_topics": 13,
     "years": [
       2017,
@@ -18,10 +18,10 @@
       2024
     ],
     "choice_answer_distribution": {
-      "A": 100,
-      "D": 89,
-      "B": 120,
-      "C": 106
+      "A": 110,
+      "D": 105,
+      "B": 131,
+      "C": 120
     },
     "warnings": {
       "2017年下半年\\2017年下半年系统规划与管理师真题（上午试题和答案解析）.pdf": [
@@ -64,6 +64,18 @@
         "choice_33: option_parse_failed",
         "choice_34: option_parse_failed",
         "choice_42: option_parse_failed"
+      ],
+      "pdf-skill-parsed\\past-exams-ocr\\2023年上半年\\2023.5系规划真题及解析-V2.4-ocr.md": [
+        "choice_35: answer_parse_failed",
+        "choice_55: answer_parse_failed",
+        "choice_19: option_parse_failed",
+        "choice_24: option_parse_failed",
+        "choice_26: option_parse_failed",
+        "choice_32: option_parse_failed",
+        "choice_65: option_parse_failed",
+        "choice_68: option_parse_failed",
+        "choice_71: option_parse_failed",
+        "choice_missing_after_enhanced_parse: 5,12,17,19,20,21,22,24,26,28,30,32,34,35,37,40,46,54,55,63,65,68,71"
       ]
     }
   },
@@ -11234,28 +11246,463 @@
       "period": "上半年",
       "subject": "综合知识",
       "number": 1,
-      "question": "香农用概率来定量描述信息的公式如下，其中H(x)表示X的( )，Pi是( )出现第i种状态的( )。",
+      "question": "香 农 用 喜 率 来 定 量 描 述 信 息 的 公 式 如 下 , 其 中 H(x) 表 示 x 的 ( ),Pi 是 (C___) 出 现 第 i 种 状 态 的 ( ) H(x) = - 》 Pilogp",
       "options": [
-        "A. 信息熵 事件 概率",
-        "B. 总熵 单位 概率",
-        "C. 信息熵 单位 概率",
-        "D. 总熵 单位 度量"
+        "A. 信 息 婧 S(t 概 率",
+        "B. 总 娉 “ 单 位 _ 概 率",
+        "C. 信 息 婧 单 位 _ 概 率",
+        "D. 总 婧 “ 单 位 度 量"
       ],
       "answer": "A",
-      "explanation": "历年真题解析来源于备份 PDF，原文解析可在 source_ref 中查看。",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
       "chapter": "历年真题",
       "source": "past_exam",
       "question_type": "single_choice",
       "difficulty": "medium",
-      "section": "2023上半年综合知识真题",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
       "knowledge_point": "历年真题综合知识",
-      "source_ref": "references/backup-pdfs/past-exams/23.05系统规划与管理师上午-真题空白卷+答案解析.md",
-      "source_pdf": "F:\\备份项目\\2023年上半年\\23.05系统规划与管理师上午 真题空白卷+答案解析【耗时整理‖免费分享：CuNlOVe.cn】.pdf",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
       "tags": [
         "历年真题",
         "综合知识",
         "2023",
-        "上半年"
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q02",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 2,
+      "question": "以 信 息 化 规 划 需 求 调 研 、 现 状 分 杰 为 基 础 , 采 取 ( ) 的 方 式 , 建 立 本 企 业 业 务 架 构",
+      "options": [
+        "A. 知 识 经 验",
+        "B. 标 准 化 修 ““",
+        "C. 标 杆 法",
+        "D. 从 上 至 下"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q03",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 3,
+      "question": "桅 团 队 承 接 A 企 业 的 开 发 项 目 , 由 于 需 求 不 清 唱 , 该 团 队 很 难 获 得 准 确 的 用 户 需 求 。 这 种 情 况 下 适 合 采 用 的 开 发 方 法 是 ( ) 。",
+      "options": [
+        "A. 结 构 化 法 _",
+        "B. 面 向 对 象 法 “",
+        "C. 原 型 法 “",
+        "D. 顺 序 开 发 法"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q04",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 4,
+      "question": "小 明 通 过 采 购 网 站 为 自 己 的 网 店 进 了 一 批 手 机 配 件 进 行 销 售 , 小 王 在 小 明 的 网 店 买 了 2 个 手 机 配 件 , 其 中 1 个 与 自 已 手 机 不 匹 配 , 又 通 过 二 手 平 台 卖 给 小 白 。 该 项 活 动 电 二 商 务 模 式 开 展 的 顺 序 是 依 次 是 ( ) 。",
+      "options": [
+        "A. C2C、B2B、B2C",
+        "B. B2B、C2C、C2B",
+        "C. B2C、 B2B. C2C",
+        "D. B2B. B2C, C2C"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q06",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 6,
+      "question": "现 状 分 析 、 〔《___) 、 差 距 分 析 和 ( ) 是 IT 战 略 规 划 的 核 心 组 成 要 素 。",
+      "options": [
+        "A. 战 略 分 析 “ 技 术 分 析",
+        "B. 竞 争 分 析 _技 术 分 析",
+        "C. 战 略 分 析 “ 路 径 分 析",
+        "D. 竞 争 分 析 路 径 分 析"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q07",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 7,
+      "question": "IT 战 略 的 组 成 不 包 括 (C___)",
+      "options": [
+        "A. 使 命",
+        "B. 远 景 目 标 “",
+        "C. 策 略 路 线",
+        "D. 实 施 计 划"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q08",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 8,
+      "question": "A 公 司 去 年 开 发 了 一 套 学 习 平 台 应 用 系 统 , 今 年 以 该 学 习 平 台 为 基 础 , 很 快 完 成 了 在 线 调 研 应 用 系 统 的 开 发 。 学 习 平 台 应 用 系 统 ( ) 的 〔C___) 提 高 了 在 线 调 研 应 用 系 统 的 研 发 效 率",
+      "options": [
+        "A. 对 象 模 式",
+        "B. 接 口 模 式",
+        "C. 需 求 复 用",
+        "D. 组 件 复 用"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q09",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 9,
+      "question": "在 ITIL 体 系 中 ,IT 服 务 生 命 周 期 的 阶 段 包 括 ( )",
+      "options": [
+        "A. 服 务 战 略 、 服 务 设 计 、 服 务 转 换 、 服 务 运 营 、 服 务 持 续 改 进",
+        "B. 策 划 、 实 施 、 检 查 、 改 进",
+        "C. 规 划 设 计 、 部 署 实 施 、 服 务 运 营 、 持 续 改 进 、 监 督 管 理",
+        "D. 规 划 与 组 织 、 系 统 获 得 和 实 施 、 交 付 与 支 持 、 信 息 系 统 运 行 性 能 监 控"
+      ],
+      "answer": "A",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q10",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 10,
+      "question": "软 件 测 试 是 针 对 程 序 的 行 为 , 在 ( ) 测 试 用 例 集 合 上 (C___) 验 证 是 否 达 到 预 期 的 行 为 。",
+      "options": [
+        "A. 有 限 , 动 态 “",
+        "B. 标 准 , 一 次 性",
+        "C. 标 准 , 动 态 “",
+        "D. 有 限 , 一 次 性"
+      ],
+      "answer": "A",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q11",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 11,
+      "question": "A 企 业 为 提 高 网 络 保 障 能 力 , 布 置 了 新 型 WEB 应 用 防 火 墙 , 启 用 访 问 控 制 及 入 侵 防 御 功 能 , 根 据 OsI 七 层 协 议 可 以 对 (C__) 进 行 防 护 。",
+      "options": [
+        "A. 2-4 层",
+        "B. 2-6 层",
+        "C. 1-7 层",
+        "D. 2-7 层"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q13",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 13,
+      "question": "〔___) 不 属 于 产 品 的 通 常 类 别 。",
+      "options": [
+        "A. 服 务",
+        "B. 软 件 _ “",
+        "C. 流 程 性 材 料",
+        "D. 资 源"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q14",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 14,
+      "question": "手 机 网 络 应 用 相 对 PC 端 网 络 应 用 的 优 势 特 点 东 包 括 C___)",
+      "options": [
+        "A. 接 入 移 动 性",
+        "B. 时 间 碎 片 性 “",
+        "C. 接 入 网 络 多 样 性 _",
+        "D. 随 身 携 带"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q15",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 15,
+      "question": "〔《___) 不 是 物 联 网 感 知 层 关 键 技 术 。",
+      "options": [
+        "A. ZigBee 传 输 技 术 _",
+        "B. RFID 射 频 技 术 _“",
+        "C. Web2.0 页 面 展 示 技 术",
+        "D. 二 维 码 技 术"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q16",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 16,
+      "question": "16 信 息 安 全 需 求 中 , 保 护 信 息 防 止 未 授 权 的 修 改 , 属 于 ( ) 需 求 。",
+      "options": [
+        "A. 完 整 性",
+        "B. 机 密 性 “",
+        "C. 可 用 性 _",
+        "D. 可 靠 性"
+      ],
+      "answer": "A",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q18",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 18,
+      "question": "棠 企 业 通 过 ( ) 技 术 , 加 强 态 势 感 知 安 全 管 理 平 台 的 数 据 采 集 能 力 。",
+      "options": [
+        "A. 数 据 抽 取",
+        "B. 非 结 构 化 数 据 存 储",
+        "C. 分 布 式 并 行 处 理",
+        "D. 数 据 关 联"
+      ],
+      "answer": "A",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
       ]
     },
     {
@@ -11346,6 +11793,1153 @@
         "综合知识",
         "2023",
         "上半年"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q23",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 23,
+      "question": "A 公 司 正 在 进 行 问 题 过 程 电 子 化 工 具 模 块 的 部 署 实 施 , 咨 询 专 家 建 议 问 题 管 理 应 该 与 事 件 管 理 、 配 置 管 理 等 模 块 相 关 联 , 应 确 保 ( ) 。",
+      "options": [
+        "A. 过 程 管 理 电 子 化 工 具 与 其 他 工 具 ( 如 呼 叫 中 心 系 统 ) 的 互 联 互 通",
+        "B. 规 划 设 计 中 的 过 程 KPI 如 何 通 过 电 子 化 工 具 直 接 获 取 , 芥 形 成 所 需 的 报 表",
+        "C. 在 电 子 化 工 具 中 各 个 过 程 与 其 他 管 理 过 程 之 间 接 口 的 实 现",
+        "D. 过 程 与 知 识 库 的 关 联 关 系 , 如 问 题 导 入 识 库 的 方 法 等"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q25",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 25,
+      "question": "〔___) 不 属 于 信 息 安 全 的 基 本 属 性",
+      "options": [
+        "A. 完 整 性 、 保 密 性 、 可 靠 性",
+        "B. 保 密 性 、 可 控 性 、 可 用 性",
+        "C. 完 整 性 、 可 控 性 、 可 用 性",
+        "D. 完 整 性 、 准 确 性 、 可 靠 性"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q27",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 27,
+      "question": "ers :1000g E38 Hi. “HEF PLES FG SEARIBIE a 为 18, 誓至冒丨害‖图中的上下子厂三苎冒丨冒‖线的范围二′…′ (_)",
+      "options": [
+        "A. 1000-1006g _",
+        "B. 994~1006g",
+        "C. 996~1004g “",
+        "D. 997~10038g"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q29",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 29,
+      "question": "柄 集 团 信 息 中 心 仅 服 务 于 该 集 团 信 息 化 业 务 , 提 供 运 维 支 持 、 咨 询 设 计 等 多 个 IT 服 务 项 目 的 交 付 , 该 管 理 架 FC_)",
+      "options": [
+        "A. 单 类 项 目 群 管 理 “",
+        "B. 多 类 项 目 群 管 理 “",
+        "C. 复 合 式 群 管 理",
+        "D. 组 合 类 项 目 群 管 理"
+      ],
+      "answer": "A",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q31",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 31,
+      "question": "ITSM 与 传 统 IT 管 理 比 较 , 不 正 确 的 是 (C___) 。",
+      "options": [
+        "A. 技 术 导 向 转 为 业 务 导 向",
+        "B. 技 术 专 家 转 为 知 识 库",
+        "C. 设 备 监 控 转 为 业 务 监 控",
+        "D. 运 维 管 理 由 被 动 转 为 主 动"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q33",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 33,
+      "question": "二 . 广 N [ 33 下 表 为 A 公 司 的 服 务 目 录 参 考 实 例 , 其 中 表 头 空 缺 ( 处 应 填 写 :( ) ® 回 回 @ 回 团 @ | 晚 应 和 口 4040101 网 络 设 备 包 括 放 陈 故 阿 排 查 : 现 场 运 程 Sx, 10/3045 应 急 相 应 排 查 服 务 、 可 提 供 各 739, 钟 , 到 达 现 服 务 设 备 维 倡 类 网 络 设 7x24 场 时 间 服 务 、 重 大 备 的 故 障 2/4/8/24 事 仲 保 障 排 查 及 处 小 时 , 故 障 服 务 理 解 决 服 解 诀 时 间 务 4/8/24/48",
+      "options": [
+        "A. 服 务 级 别 =",
+        "B. 服 务 方 式 “",
+        "C. 服 务 代 码 _",
+        "D. 服 务 时 间"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q36",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 36,
+      "question": "〈《___) 是 指 组 织 与 外 部 服 务 供 应 商 之 间 签 订 的 有 关 服 务 实 施 的 正 式 合 同 。",
+      "options": [
+        "A. 运 营 级 别 协 议 (Operational Level Agreement, OLA)",
+        "B. 支 持 合 同 (Underpinning Contract. UC)",
+        "C. 服 务 级 别 协 议 (Service Level Agreement SLA)",
+        "D. 运 维 级 别 协 议 (Maintain Level Agreement, MLA)"
+      ],
+      "answer": "B",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q38",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 38,
+      "question": "下 表 是 A 公 司 网 络 安 全 二 线 工 程 师 的 岗 位 要 求 说 明 , 其 中 表 头 名 称 选 择 合 理 的 为 (C___) 一 @ @ 回 网 络 安 全 二 线 工 程 师 其 备 5 年 以 上 网 对 分 配 的 故 障 工 针 对 不 符 合 升 级 单 及 时 相 应 解 二 线 要 求 的 故 障 络 安 全 运 维 支 持 经 验 决 , 并 提 供 故 障 工 单 可 以 退 回 一 报 告 线 处 理 至 少 有 CCIE 或 同 等 水 平 资 作 为 专 家 , 有 知 格 证 书 对 分 配 的 巡 检 工 识 库 中 为 解 决 方 单 按 时 完 成 任 案 打 分 评 审 的 权 务 , 并 提 供 巡 检 力 报 告",
+      "options": [
+        "A. DI QA A BOM",
+        "B. 〇 D 角 色 @) 职 责 @) 能 力 @ 权 利",
+        "C. G 〇 D 角 色 @) 能 力 @) 职 责 @ 权 利",
+        "D. G 〇 D 角 色 @) 能 力 @G) 权 利 @ 职 责"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q39",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 39,
+      "question": "(C___) 指 的 是 紧 密 结 合 应 急 管 理 工 作 实 应 急 演 练 原 则 中 , 紧 密 结 合 应 急 管 理 工 作 实 际 , 明 确 演 练 目 的 , 根 据 资 源 条 件 确 定 演 练 方 式 和 规 模 。",
+      "options": [
+        "A. 着 眼 实 战 、 讲 求 实 效",
+        "B. 结 合 实 际 、 合 理 定 位",
+        "C. 精 心 组 织 、 确 保 安 全",
+        "D. 统 筹 规 划 、 历 行 节 约"
+      ],
+      "answer": "B",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q41",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 41,
+      "question": "组 建 服 务 团 队 时 , 根 据 岗 位 说 明 书 中 对 人 员 的 知 识 、 (C___) 三 方 面 的 要 求 分 别 进 行 选 择 。",
+      "options": [
+        "A. 技 能 、 薪 资 “",
+        "B. 技 能 、 经 验 _",
+        "C. 学 历 、 经 验 __",
+        "D. 学 历 、 薪 资"
+      ],
+      "answer": "B",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q42",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 42,
+      "question": "关 于 运 维 目 标 的 描 述 中 , 符 合 SMART 原 则 的 是 : ( ) 。",
+      "options": [
+        "A. 今 年 6 月 底 实 现 呼 叫 中 心 首 次 解 决 率 不 低 于 90%",
+        "B. 明 年 安 全 运 维 工 作 效 率 实 现 极 大 提 升",
+        "C. 今 年 12 月 底 实 现 ERP 系 统 100% 的 可 靠 性",
+        "D. 第 一 个 服 务 五 年 计 划 , 实 现 运 维 人 员 突 破 式 增 长"
+      ],
+      "answer": "A",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q43",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 43,
+      "question": "A 公 司 由 于 规 模 不 大 , 选 择 将 其 企 业 应 用 部 署 在 第 三 方 公 有 云 上 , 针 对 A 公 司 基 础 设 施 服 务 模 式 的 判 断 , 正 确 的",
+      "options": [
+        "A. 业 务 外 包 、 远 程 支 持",
+        "B. IT 外 包 、 现 场 服 务 “",
+        "C. IT 外 包 、 远 程 支 持",
+        "D. 业 务 外 包 、 现 场 服 务"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q44",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 44,
+      "question": "44 IT 服 务 部 署 实 施 验 收 阶 段 的 关 键 成 功 因 素 不 包 括 (C___)",
+      "options": [
+        "A. 客 户 的 满 意 度",
+        "B. 部 署 实 施 的 投 入 产 出",
+        "C. 客 户 对 服 务 质 量 的 直 接 感 知 _",
+        "D. 服 务 级 别 协 议 的 完 成 情 况"
+      ],
+      "answer": "B",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q45",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 45,
+      "question": "在 进 行 可 用 性 需 求 识 别 的 过 程 中 , 要 将 客 户 的 业 务 需 求 转 化 为 IT 可 用 性 需 求 , 即 客 户 可 以 承 受 多 长 的 ( ) 以 及 从 业 务 角 度 分 析 ,IT 服 务 不 可 用 ( 或 质 量 下 降 )} 时 造 成 的 CD",
+      "options": [
+        "A. 停 机 时 间 满 意 度 下 降",
+        "B. 停 机 时 间 成 本 损 失 “",
+        "C. 性 能 下 降 时 间 满 意 度 下 降",
+        "D. 性 能 下 降 时 间 成 本 损 失"
+      ],
+      "answer": "B",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q47",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 47,
+      "question": "发 生 人 员 连 续 性 事 件 时 , 所 采 取 的 管 理 措 施 中 , 不 正 确 的 是 C__) 。",
+      "options": [
+        "A. 岗 位 交 接 及 培 训",
+        "B. 面 向 客 户 及 服 务 团 队 进 行 人 员 更 换 说 明",
+        "C. 面 向 供 应 商 及 相 关 第 三 方 进 行 接 口 关 系 变 更",
+        "D. 知 识 管 理"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q48",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 48,
+      "question": "关 于 连 续 性 和 可 用 性 管 理 工 作 的 描 述 , 正 确 的 个 数 有 ( ) 。 9 可 用 性 和 连 续 性 计 划 必 须 至 少 每 年 开 发 、 检 查 , 计 划 必 须 被 维 护 来 反 映 协 议 下 的 业 务 要 求 变 更 @ 业 务 环 境 发 生 任 何 变 更 时 , 可 用 性 和 连 续 性 计 划 都 应 被 重 新 测 试 @ 变 更 管 理 流 程 必 须 评 估 变 更 对 可 用 性 和 连 续 性 计 划 的 影 响 @ 计 划 之 外 发 生 的 不 可 用 情 况 , 必 须 被 调 查 并 采 取 合 适 的 行 动 @) 连 续 性 计 划 、 联 系 列 表 和 配 置 管 理 数 据 库 在 正 常 办 公 室 访 问 被 禁 止 时 必 须 仍 可 使 用 @ 进 续 性 计 划 必 须 被 测 试 , 以 保 证 与 业 务 的 需 求 一 致 @ 〇 所 有 的 连 续 性 计 划 的 测 试 必 须 被 记 录 , 对 测 试 失 败 3 次 以 上 的 必 须 产 生 行 动 计 划",
+      "options": [
+        "A. 2 个 “",
+        "B. 3 个 “",
+        "C. 4 个 “",
+        "D. 5 个"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q49",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 49,
+      "question": "针 对 服 务 报 告 管 理 的 描 述 , 不 正 确 的 是 (C___)",
+      "options": [
+        "A. 为 保 证 服 务 的 规 范 性 , 针 对 不 同 的 服 务 对 象 , 尼 可 能 统 一 服 务 报 告 模 版",
+        "B. 将 分 发 过 的 服 务 报 告 进 行 归 档 , 按 照 不 同 时 段 、 对 象 分 类 , 以 备 查 找",
+        "C. 在 服 务 报 告 提 供 时 , 因 服 务 需 求 发 生 变 化 , 应 该 及 时 更 新 服 务 报 告 模 板",
+        "D. 服 务 报 告 关 键 指 标 包 括 服 务 报 告 过 程 的 完 整 性 、 服 务 报 告 的 及 时 性 等"
+      ],
+      "answer": "A",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q50",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 50,
+      "question": "不 适 合 做 安 全 管 理 关 键 指 标 的 是 (C__) 。",
+      "options": [
+        "A. 安 全 事 件 次 数 _",
+        "B. 安 全 策 略 数 量 “",
+        "C. 高 危 安 全 漪 洞 个 数",
+        "D. 安 全 设 备 特 征 库 及 时 更 新 率"
+      ],
+      "answer": "B",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q51",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 51,
+      "question": "技 术 成 果 的 运 行 与 改 进 活 动 中 ,“ 通 过 沙 盘 或 模 拟 的 方 式 , 对 于 可 能 发 生 的 情 况 进 行 研 讨 , 最 终 对 技 术 研 究 成 果 给 予 改 进 建 议 与 评 价 “ 属 于 ( )",
+      "options": [
+        "A. 对 技 术 成 果 内 容 的 演 练 或 推 演",
+        "B. 对 技 术 成 果 进 行 培 训 和 知 识 转 移",
+        "C. 对 技 术 成 果 进 行 优 化 改 进",
+        "D. 对 技 术 成 果 进 行 转 化 应 用"
+      ],
+      "answer": "A",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q52",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 52,
+      "question": "52 备 件 管 理 主 要 活 动 包 括 备 件 申 请 、 ( ) 、 到 货 入 库 、 (C___) 、 报 废 。",
+      "options": [
+        "A. 采 购 折 旧",
+        "B. 领 用 签 收 “",
+        "C. 折 旧 签 收 “",
+        "D. 采 购 领 用"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q53",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 53,
+      "question": "〈《___) 不 属 于 服 务 台 工 作 内 容",
+      "options": [
+        "A. 响 应 呼 叫 请 求 “",
+        "B. 服 务 信 息 发 布 “",
+        "C. 备 品 备 件 管 理",
+        "D. 供 应 商 联 络"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q56",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 56,
+      "question": "IT 服 务 营 销 过 程 图 中 , 空 缺 位 置 内 容 应 为 : 服 务 达 成 阶 段 达 成 服 务 协 议 , 做 好 持 续 服 务 图 9.1 IT 服 务 营 销 过 程",
+      "options": [
+        "A. D 营 销 计 划 @ 需 求 确 认 阶 段 @) 完 善 方 案 整 改",
+        "B. 〇 D 营 销 计 划 @) 调 研 交 流 阶 段 @) 保 持 持 续 沟 通",
+        "C. ,GD 咨 询 计 划 @G) 需 求 确 认 阶 段 @) 完 善 方 案 整",
+        "D. 〇 咨 询 计 划 @) 方 案 论 证 阶 段 @) 保 挡 持 续 沟 通"
+      ],
+      "answer": "B",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q57",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 57,
+      "question": "关 于 客 户 关 系 管 理 中 增 值 服 务 原 则 的 描 述 , 不 正 确 的 是 ( ) 。",
+      "options": [
+        "A. 可 以 改 变 现 有 协 议 约 定 的 服 务 内 容",
+        "B. 增 值 服 务 贴 合 客 户 需 要",
+        "C. 增 值 服 务 投 入 在 可 接 受 的 范 围 内",
+        "D. 本 身 有 能 力 对 增 值 服 务 内 容 进 行 引 申"
+      ],
+      "answer": "A",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q58",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 58,
+      "question": "服 务 改 进 活 动 包 括 ( )",
+      "options": [
+        "A. 服 务 改 进 计 划 、 服 务 改 进 实 施 、 服 务 改 进 检 查",
+        "B. 服 务 改 进 设 计 、 服 务 改 进 实 施 、 服 务 改 进 检 查",
+        "C. 服 务 改 进 设 计 、 服 务 改 进 实 施 、 服 务 改 进 验 证",
+        "D. 服 务 改 进 计 划 、 服 务 改 进 检 查 、 服 务 改 进 验 证"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q59",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 59,
+      "question": "以 下 是 A 公 司 2022 年 全 年 知 识 库 数 据 统 计 , 相 关 年 度 考 核 指 标 计 算 不 正 确 的 是 : ( ) 。 2021 年 底 2022 年 底 2022 年 知 2022 年 知 , 2022 年 事 件 问 题 | 2022 年 事 知 识 条 目 数 | 知 识 条 目 数 , 识 被 引 用 数 识 淘 汰 数 , 转 化 知 识 条 目 数 , 件 问 题 数 数 值 1200 1500 500 300 100 800",
+      "options": [
+        "A. 知 识 利 用 率 为 33%",
+        "B. 知 识 淘 汰 率 为 25% “",
+        "C. 事 件 问 题 的 知 识 转 化 率 为 12.5%",
+        "D. 知 识 增 长 率 为 20%"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q60",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 60,
+      "question": "A 公 司 上 半 年 变 更 20 次 , 失 败 回 退 5 次 : 发 布 15 次 , 失 败 回 退 3 次 。 请 问 上 半 年 A 公 司 的 发 布 成 功 率 为 ( )",
+      "options": [
+        "A. 80%",
+        "B. 75%",
+        "C. 77% “",
+        "D. 85%"
+      ],
+      "answer": "A",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q61",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 61,
+      "question": "有 计 划 的 风 险 应 对 应 考 虑 到 风 险 的 重 要 性 、 (C__) 的 有 效 性 、 (C__》 的 及 时 性 、 (C__) 的 现 实 性 . 是 否 可 以 被 各 方 接 受 , 并 要 有 一 个 明 确 的 (C__) 。",
+      "options": [
+        "A. 管 理 “ 预 警 _ 技 术 “ 责 任 人",
+        "B. 成 本 应 对 “ 环 境 中 责 任 人",
+        "C. RA 预 警 _ 技 术 执 行 计 划",
+        "D. 管 理 应 对 “ 环 境 中 “ 执 行 计 划"
+      ],
+      "answer": "B",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q62",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 62,
+      "question": "〔《___) 不 属 于 风 险 定 量 分 析 的 输 入 。",
+      "options": [
+        "A. 更 新 的 风 险 记 录",
+        "B. 风 险 管 理 计 划 _“",
+        "C. 工 作 分 解 结 构 “",
+        "D. 实 现 成 本 目 标 的 可 能 性"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q64",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 64,
+      "question": "( ) 不 属 于 常 见 的 运 维 服 务 质 量 管 理 活 动",
+      "options": [
+        "A. 项 目 质 量 保 证",
+        "B. 风 险 识 别 “",
+        "C. 客 户 投 诉 管 理",
+        "D. 体 系 内 审 及 管 审"
+      ],
+      "answer": "B",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q66",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 66,
+      "question": "( ) 是 在 工 业 和 信 息 化 部 、 国 家 标 准 化 管 理 委 负 会 的 联 合 指 导 下 研 制 的 , 是 我 国 IT 服 务 行 业 最 佳 实 践 的 总 结 和 提 升 。",
+      "options": [
+        "A. COBIT",
+        "B. ITIL",
+        "C. ITSS",
+        "D. PMBOK"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q67",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 67,
+      "question": "国 家 标 准 的 制 定 有 一 套 正 常 程 序 , 分 为 预 阶 段 、 立 项 阶 段 、 ( ) 阶 段 、 征 求 意 见 阶 段 、 审 查 阶 段 、 批 准 阶 段 、 ( ) 阶 段 、 复 审 阶 段 及 废 止 阶 段",
+      "options": [
+        "A. 起 草 执 行",
+        "B. 调 研 执 行 “",
+        "C. 调 研 出 版",
+        "D. 起 草 出 版"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q69",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 69,
+      "question": "在 目 标 监 控 过 程 中 , 面 对 工 作 技 能 高 、 但 工 作 意 愿 较 低 员 工 , 当 发 现 目 标 达 成 有 偏 差 时 , 应 采 用 的 方 法 为",
+      "options": [
+        "A. 指 导 、 帮 助 “",
+        "B. 信 任 、 授 权 “",
+        "C. 关 心 、 尊 重",
+        "D. 纠 正 、 把 控"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q70",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 70,
+      "question": "职 业 道 德 的 含 义 不 包 括 (C___)",
+      "options": [
+        "A. 职 业 道 德 是 一 种 职 业 规 范 , 受 社 会 普 遍 的 认 可",
+        "B. 职 业 道 德 可 以 通 过 企 业 考 核 进 行 约 李",
+        "C. 职 业 道 德 是 长 期 以 来 自 然 形 成 的",
+        "D. 职 业 道 德 的 主 要 内 容 是 对 员 工 义 务 的 要 求"
+      ],
+      "answer": "B",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q72",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 72,
+      "question": "( ) is closet to Deming's definition of Quality",
+      "options": [
+        "A. Conformance to requirements",
+        "B. Fitness for use",
+        "C. Continuous improvement of products and services",
+        "D. Customer focus"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q73",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 73,
+      "question": "The IT service manager has learned that a software can improve the efficiency of current and future project tasks. Because the software is fresh to the Company. The engineer is not familiar with the software. The IT Service manager decides to send the highest level engineer to attend the external training course. The project manager uses _) risk strategies",
+      "options": [
+        "A. mitigation",
+        "B. enhancement",
+        "C. development",
+        "D. sharing"
+      ],
+      "answer": "C",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q74",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 74,
+      "question": "The process control charts areused 〈___)",
+      "options": [
+        "A. to graph what typically focuses on the preverit of a problem",
+        "B. to detect the problem",
+        "C. to reject the problem",
+        "D. to determine the acceptability of the sample"
+      ],
+      "answer": "B",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_am_q75",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "综合知识",
+      "number": 75,
+      "question": "Any one or any group of activities utilizing resources to transfer input to output can be viewed asa 《 ___)",
+      "options": [
+        "A. system",
+        "B. structure",
+        "C. procedure _—",
+        "D. process"
+      ],
+      "answer": "D",
+      "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+      "chapter": "历年真题",
+      "source": "past_exam",
+      "question_type": "single_choice",
+      "difficulty": "medium",
+      "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+      "knowledge_point": "历年真题综合知识",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "综合知识",
+        "2023",
+        "上半年",
+        "OCR抽取"
       ]
     },
     {
@@ -13411,6 +15005,100 @@
         "案例分析",
         "2022",
         "上半年"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_case1",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "案例分析",
+      "number": 1,
+      "title": "2023上半年案例试题1",
+      "scenario": "(2023 年 5 月 案 例 题 1】\n\n1、 小 李 是 跨 国 公 司 新 任 命 的 IT 服 务 经 理 , 帮 助 提 升 中 国 区 总 部 的 IT 服 务 管 理 水 平 。 中 国 区 总 部 的 运 维 管 理 体 系 运 营\n了 近 三 年 , 内 外 部 环 境 发 生 了 很 多 变 化 , 其 中 :\n\n(1) 内 部 变 化 包 挠 团 队 组 织 结 构 调 整 、 部 分 团 队 精 简 改 为 外 包 支 持 、IT 服 务 工 作 承 接 了 - 部 分 原 来 由 海 外 团 队 支 持 的 内 容\n等\n\n(2) 外 部 变 化 包 括 部 分 项 目 的 业 务 连 续 性 要 求 提 升 、 部 分 项 目 的 安 全 等 级 必 须 满 足 国 家 要 求 等\n\n小 李 计 划 先 从 服 务 级 别 管 理 入 手 , 调 查 需 要 更 新 完 善 的 内 容 , 小 李 制 定 的 服 务 级 别 跟 踪 表 如 下\n\n服 务 单 序 号 “ 颠 踏 日 | 压 务 压 务 内 容 浪 户 固 庞 际 晋 | 是 否 | 源 意 度\n期 目 录 名 称 应 达 成 | 评 价\n分 类\n20230308008 3 月 8 日 | 柜 面 | 提 供 泪 面 设 张土 5*8,10 |5#8, 15 G) 85 分\n运 维 | 备 的 维 护 支 分 钟 响 “ 分 钟 响\n服 务 | 持 应 应\n20230311054 B 月 11 @ 提 供 海 外 销 | 李 四 7*8, 10 |5*8, 5 分 | 吴 75 分\n日 售 系 统 的 维 分 钟 响 | 钟 响 应\n护 应\n20230319008 3 月 19 网 络 | 提 供 办 公 上 | 王 五 |7k24, 10 |7*8,20 “ 口 70 分\n日 运 维 “ | 网 的 维 护 支 分 钟 响 “ 分 钟 响\n服 务 | 持 | 应 应\n其 次 , 准 备 挑 选 几 个 关 键 核 心 的 过 程 , 如 事 件 管 理 、 变 更 管 理 等 , 确 认 是 否 需 要 优 化 提 升 .",
+      "questions": [
+        {
+          "id": "pe_2023_h1_case1_q1",
+          "question": "【 问 题 1】 (21 分 )\n\n(1) 请 补 充 服 务 级 别 跟 踪 表 , 将 1~3 正 确 的 内 容 填 写 在 答 题 纸 的 对 应 栏 内 。\n\n刨针对服务级别跟踪表收集到的情况， l′_菖'二寻寻!星【'I、Z苹}〖…提出f二I亡′鲁[G完寻i旱建1′〉〈`】",
+          "question_type": "subjective",
+          "score": 21,
+          "answer": "( 应 用 软 件 运 维 服 务 、 服 务 级 别 、 否 。\n\n(2) 进 行 人 员 培 训 ; 提 高 服 务 意 识 、 提 升 服 务 能 力 ; 更 新 服 务 目 录 ; 进 行 绩 效 考 核 ; 进 行 人 员 连 续 性 管 理 。",
+          "explanation": "2023 上半年案例答案来源为 pdf-skill 增强 OCR 解析；缺失或噪声处请结合 source_ref 原文人工核对。"
+        },
+        {
+          "id": "pe_2023_h1_case1_q2",
+          "question": "【 问 题 2) (8 分 )\n\n结 合 案 例 , 请 完 成 下 列 问 题 正 确 答 案 的 选 择 ( 请 将 正 确 选 项 填 写 在 答 题 纸 的 对 应 栏 内 )\n\n(1) 小 李 发 现 运 维 管 理 体 系 中 的 服 务 目 录 没 有 做 细 分 , 在 最 佳 实 践 中 , 服 务 目 录 建 议 分 为 应 用 照 务 目 录 和 ( )。\nA 外 包 服 务 目 录 B. 基 础 设 施 服 务 目 录 “C. 咨 询 服 务 目 录 D. 标 准 服 务 目 录\n\n(2) 下 列 内 外 部 的 变 化 , 一 般 无 需 对 服 务 目 录 做 调 整 的 是 ( )\n\nA. 产 生 新 的 服 务 需 求 B. 组 织 的 服 务 能 力 提 升 “C. 服 务 范 围 扩 大 D. 服 务 团 队 人 员 调 整\n\n(3) 小 李 发 现 在 事 件 管 理 过 程 中 , 事 件 升 级 的 策 略 不 明 确 , 下 列 情 况 应 该 及 时 升 级 事 件 级 别 的 是 ( 。\n\nG 团 队 技 术 能 力 不 足 @) 处 理 事 件 超 时 @) 业 务 影 响 恶 劣 @ 客 户 不 满 要 投 诉\n\nA Q 〇 0G) B8B@@ “c.@@ “ D. 以 上 全 部",
+          "question_type": "subjective",
+          "score": 8,
+          "answer": "(1) 更 新 服 务 目 录 并 管 理 服 务 级 别 变 更 ;\n\nC2) 监 控 服 务 级 别 协 议 执 行 情 况 ;\n\n(3) 对 关 键 指 标 进 行 管 理 : 服 务 目 录 定 义 的 完 整 性 、 服 务 级 别 协 议 的 规 范 性 、 服 务 级 别 考 核 评 估 机 制 的 有 效 性 和 完 整 性 。",
+          "explanation": "2023 上半年案例答案来源为 pdf-skill 增强 OCR 解析；缺失或噪声处请结合 source_ref 原文人工核对。"
+        },
+        {
+          "id": "pe_2023_h1_case1_q3",
+          "question": "【 问 题 3】 请 简 述 在 IT 服 务 运 营 的 流 程 中 , 服 务 级 别 管 理 应 执 行 的 事 项 。(6 分 )",
+          "question_type": "subjective",
+          "score": 6,
+          "answer": "",
+          "explanation": "2023 上半年案例答案来源为 pdf-skill 增强 OCR 解析；缺失或噪声处请结合 source_ref 原文人工核对。"
+        }
+      ],
+      "difficulty": "hard",
+      "total_score": 35,
+      "source": "past_exam",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "案例分析",
+        "2023",
+        "上半年",
+        "OCR抽取"
+      ]
+    },
+    {
+      "id": "pe_2023_h1_case2",
+      "year": 2023,
+      "period": "上半年",
+      "subject": "案例分析",
+      "number": 2,
+      "title": "2023上半年案例试题2",
+      "scenario": "(2023 年 5 月 案 例 题 2)\n\nX 公 司 主 营 运 维 服 务 业 务 , 上 一 年 度 客 户 满 意 度 明 显 下 降 , 为 寻 找 公 司 服 务 实 施 过 程 中 存 在 的 问 题 和 缺 陷 , 并 提\n供 服 务 改 进 活 动 有 效 实 施 的 目 标 和 方 向 , 保 证 组 织 的 服 务 质 量 稳 定 可 控 , 公 司 决 定 让 小 王 负 责 运 维 服 务 质 量 管 理 工 作 。\n小 王 首 先 对 公 司 最 重 要 的 三 个 运 维 项 目 进 行 质 量 评 价 , 收 集 的 部 分 数 据 如 下\n\n5\n\n数 据 项 A 项 目 B 项 目 cai\n\nMLR (3 4 3\n\n权 限 个 数\n\n工 # 王 尘 FHRIRT 尺 32 二\n\n数\n\nSRA. 讨 市 丁 5 1\n\n转 移 信 息 相 关 的 安 全 事\n\n件 数\n\n信 息 实 际 发 生 的 总 变 更 |56 84 32\n\n操 作 数\n\n而 应 盱 同 不 符 吊 颂 加 万 [24 28 27\n\n议 要 求 的 服 务 请 求 数 野\n\n志 的 服 务 请 汪 数 量 360 420 432\n\nFHUSHAGAR (PAAR SW. GSW LRART ee amo, 月 | 途 五 了 元 衍 的 荫 酮 百\n展 了 控 制 工 作 实 施 不 到 位 制 度 , 实 施 良 好\n\n取 得 特 定 资 秽 训 讳 的 厨 『 5 10\n\n务 工 程 师 数 野\n\n服 务 工 程 师 总 数 12 15 16\n\n取 得 信 息 技 术 服 务 相 关 |10 10 10\n\n专 业 本 科 及 以 上 学 历 的\n\n服 务 工 程 师 数 量\n\n小 王 通 过 分 析 评 价 结 果 , 找 到 运 维 服 务 质 量 缺 陷 , 策 划 本 年 度 的 运 维 服 务 质 量 管 理 的 内 以 提 升 运 维 服 务 质 量 , 质 量 管\n理 策 划 文 件 内 容 如 下 :\n\n1. 质 量 管 理 目 标\n名 称 目 标 项 目 标 值\n客 户 漪 意 度 乏 90%\n质 量 管 理 目 标 管 理 评 审 次 数 1 欣\n内 部 审 核 的 次 数 艺 1 次\n2. 质 量 管 理 活 动\n序 号 事 项\n1 | 内 审 员 培 训 需 求 收 集 | 内 审 员 培 训 的 需 求 收 集\n2 | 内 部 审 核 执 行 统 计 内 部 审 核 报 告 并 记 录 文 件\n3 | 管 理 评 审 制 度 优 化 根 据 考 核 需 求 , 制 定 管 理 评 审 制 度 并 定 期 优 化\n『 管 理 评 审 根 据 运 维 工 程 师 的 各 项 工 作 报 告 及 客 户 的 业 务 系 统 运\n行 状 态 进 行 考 评\n5 质 量 保 证 及 质 量 分 析 “ | 执 行 质 量 保 证 , 并 按 照 回 访 报 告 和 触 发 性 的 不 符 合 项 进\n行 分 析\n6 | 运 维 服 务 质 量 定 期 检 查 | 按 不 同 的 业 务 , 进 行 运 维 服 务 项 目 的 抽 样 检 查",
+      "questions": [
+        {
+          "id": "pe_2023_h1_case2_q1",
+          "question": "【 问 题 1】(8 分 )\n结 合 案 例 , 测 量 运 维 服 务 质 量 评 价 指 标 , 请 将 正 确 选 项 填 写 在 答 题 纸 的 对 应 栏 内 。\nA.A 项 目 BBA CCMA\n(1) 系 统 完 整 性 最 高 的 项 目 是 (1)\n(2) 服 务 及 时 性 可 能 最 高 的 项 目 是 (2)\n(3) 服 务 连 续 性 可 能 最 低 的 是 (3)\n(4) 人 员 专 业 性 最 低 的 项 目 是 (4)",
+          "question_type": "subjective",
+          "score": 8,
+          "answer": "(UB “(2)C “G)A (4)A\n\n【 郑 房 新 老 师 点 评 】\n\n解 析 :\n\n完 整 性 :Xx:1-MB,A= 与 非 授 权 篡 改 、 破 坏 和 转 移 信 息 相 关 的 安 全 事 件 数 B= 信 息 实 际 发 生 的 总 变 更 操 作 数 。\nA 项 目 =1-4/56=0.929 B 项 目 =1-2/84=0.976C 项 目 =1-1/32=0.969\n\n及 时 性 :X=l-A/B.A= 响 应 时 间 不 符 合 服 务 协 议 要 求 的 服 务 请 求 数 量 B= 总 的 服 务 请 求 数 量\n\nA 项 目 =1-24/360=0.933 B 项 目 =1-28/420=0.933C 项 目 =1-27/432=0.938\n\n连 续 性 :X=A/5。A 取 值 1,2,3,4,5\n\n1: 既 没 有 建 立 策 略 与 制 度 , 实 施 也 很 不 到 位\n\n2: 没 有 建 立 策 略 与 制 度 , 但 客 观 上 或 自 发 开 展 了 控 制 工 作\n\n3: 建 立 了 策 略 与 制 度 , 但 实 施 不 到 位\n\n4: 建 立 了 完 备 的 策 略 与 制 度 , 实 施 良 好\n\n5: 建 立 了 完 备 策 略 与 制 度 , 实 施 良 好 , 且 所 有 员 工 都 清 楚 并 理 解 策 略 与 制 度 要 求\n\nA 项 目 =2/5=0.4B 项 目 =3/5=0.6C 项 目 =4/5=0.8\n\n人 员 专 业 性 =X=X1*709% 6+X2*30%6\n\nXl=A/B。A= 取 得 的 相 应 专 业 资 格 认 证 的 服 务 工 程 师 数 量 。B= 服 务 工 程 师 的 总 数 。Xx2=C/B。C= 取 得 信 息 技 术 服 务 相 关 专\n业 本 科 及 以 上 学 历 的 服 务 工 程 师 数 量\n\nA 项 目 =3/12*70%+10/12*30%=0.175+0.25=0.425\n\nB 项 目 =5/15*70%+10/15*30%=O.233+0.2=0.433\n\nC 项 目 =10/16*70%+10/16*30%6=0.438+0.188=0.626",
+          "explanation": "2023 上半年案例答案来源为 pdf-skill 增强 OCR 解析；缺失或噪声处请结合 source_ref 原文人工核对。"
+        },
+        {
+          "id": "pe_2023_h1_case2_q2",
+          "question": "【 问 题 2】 (10 分 )\n\n(1) 结 合 案 例 , 指 出 两 处 小 王 所 缺 少 的 质 量 管 理 策 划 内 容 。\n\n(2) 请 帮 小 王 补 充 三 个 常 见 的 运 维 服 务 质 量 活 动 。",
+          "question_type": "subjective",
+          "score": 10,
+          "answer": "(1) 运 维 服 务 质 量 管 理 相 关 的 职 责 和 权 限 、 时 间 安 排 。\n\n(2)GQ 用 户 满 意 度 管 理 @) 质 量 文 化 和 质 量 教 育 @) 客 户 投 诉 管 理 。",
+          "explanation": "2023 上半年案例答案来源为 pdf-skill 增强 OCR 解析；缺失或噪声处请结合 source_ref 原文人工核对。"
+        },
+        {
+          "id": "pe_2023_h1_case2_q3",
+          "question": "【 问 题 3】(7 分 )\n\n小 王 计 划 通 过 实 施 PDCA 质 量 改 进 方 法 , 改 进 运 维 服 务 质 量 检 查 所 发 现 的 不 符 合 项 。 请 简 述 实 施 PDCA 质 量 改 进 的 步 骤",
+          "question_type": "subjective",
+          "score": 7,
+          "answer": "(1) 明 确 问 题\n\n(2) 掌 握 现 状\n\n(3) 分 析 问 题 产 生 的 原 因\n\nC4) 拟 订 对 策 并 实 施\n\n(5) 确 认 效 果\n\n(6) 防 止 问 题 再 发 生 并 标 准 化\n\n(7) 总 结",
+          "explanation": "2023 上半年案例答案来源为 pdf-skill 增强 OCR 解析；缺失或噪声处请结合 source_ref 原文人工核对。"
+        }
+      ],
+      "difficulty": "hard",
+      "total_score": 25,
+      "source": "past_exam",
+      "source_ref": "references/pdf-skill-parsed/past-exams-ocr/2023年上半年/2023.5系规划真题及解析-V2.4-ocr.md",
+      "source_pdf": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+      "tags": [
+        "历年真题",
+        "案例分析",
+        "2023",
+        "上半年",
+        "OCR抽取"
       ]
     },
     {

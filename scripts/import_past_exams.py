@@ -15,6 +15,13 @@ ROOT = Path(__file__).resolve().parents[1]
 MANIFEST_FILE = ROOT / "references" / "backup-pdfs" / "manifest.json"
 OUTPUT_FILE = ROOT / "assets" / "questions" / "past_exams.json"
 SUMMARY_FILE = ROOT / "references" / "backup-pdfs" / "past-exams" / "structured-summary.md"
+PDF_SKILL_PARSED_DIR = ROOT / "references" / "pdf-skill-parsed"
+ENHANCED_2023_V24_OCR = (
+    PDF_SKILL_PARSED_DIR
+    / "past-exams-ocr"
+    / "2023年上半年"
+    / "2023.5系规划真题及解析-V2.4-ocr.md"
+)
 
 
 NOISE_PATTERNS = (
@@ -42,6 +49,17 @@ NUMBERED_QUESTION_RE = re.compile(r"(?m)^\s*(\d+)[.、]\s*(?:[（(]([^）)]*分[
 OCR_QUESTION_START_RE = re.compile(r"(?m)^\s*(?:(\d{1,2}|[IiLl]0)[.、]?)\s*")
 OCR_CASE_HEADING_RE = re.compile(r"(?m)^\s*第([一二三四五六七八九十])题[。.:：]?\s*(.*)$")
 OCR_PAPER_HEADING_RE = re.compile(r"(?m)^\s*试题([一二三四五六七八九十])[:：]\s*(.*)$")
+ENHANCED_2023_CHOICE_HEADING_RE = re.compile(
+    r"(?m)^[【(\[]?\s*2023\s*年?\s*0?5\s*月?.{0,30}?第\s*(\d{1,2})\s*[题颜][^\n]*$"
+)
+ENHANCED_2023_ANSWER_RE = re.compile(r"【\s*参\s*考\s*答\s*案\s*】\s*([^\n]+)")
+ENHANCED_2023_CASE_HEADING_RE = re.compile(r"(?m)^[（(]\s*2023\s*年\s*5\s*月\s*案\s*例\s*题\s*(\d+)\s*[】)]\s*$")
+ENHANCED_2023_CASE_QUESTION_RE = re.compile(
+    r"(?m)^\s*[【\[]\s*问\s*题\s*(\d+)\s*[】)\]]?\s*(?:[（(](\d+)\s*分[）)])?\s*(.*)$"
+)
+ENHANCED_2023_CASE_ANSWER_RE = re.compile(
+    r"(?m)^\s*(?:答\s*案\s*解\s*析|参\s*考\s*答\s*案)\s*[【\[]\s*问\s*题\s*(\d+)\s*[】)\]]?"
+)
 
 
 def clean_text(text: str) -> str:
@@ -136,6 +154,57 @@ def normalize_ocr_answer(value: str) -> str | None:
     if token == "&":
         return "B"
     return token if token in {"A", "B", "C", "D"} else None
+
+
+def normalize_2023_enhanced_answer(value: str) -> str | None:
+    token = re.sub(r"[^A-Da-d0-9]", "", value).upper()
+    if token in {"A", "B", "C", "D"}:
+        return token
+    # The V2.4 OCR source commonly reads the 5th answer "B" as "6".
+    if token == "6":
+        return "B"
+    return None
+
+
+def normalize_enhanced_2023_text(text: str) -> str:
+    text = re.sub(r"(?m)^## Page \d+\s*$", "", text)
+    text = re.sub(r"(?m)^\s*[-·]\s*", "", text)
+    text = re.sub(r"[ \t]+", " ", text)
+    text = text.replace("（___)", "( )").replace("(___)", "( )").replace("(__)", "( )")
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
+def clean_enhanced_2023_field(text: str) -> str:
+    value = normalize_option_text(text)
+    value = re.sub(r"【\s*郑房新老师点评\s*】.*$", "", value).strip()
+    value = re.sub(r"\s+", " ", value)
+    return value.strip(" -_")
+
+
+def parse_inline_options(block: str) -> tuple[str, list[str]] | None:
+    compact = re.sub(r"\s+", " ", block).strip()
+    usable: list[re.Match[str]] = []
+    pattern = r"(?<![A-Za-z0-9])([ABCD])(?:\s*[-.、．]\s*|\s+)(?=\S)"
+    markers = list(re.finditer(pattern, compact))
+    for index, marker in enumerate(markers):
+        group = markers[index : index + 4]
+        if [item.group(1) for item in group] == list("ABCD"):
+            usable = group
+            break
+    if [marker.group(1) for marker in usable] != list("ABCD"):
+        return None
+
+    option_map: dict[str, str] = {}
+    for index, marker in enumerate(usable):
+        letter = marker.group(1)
+        start = marker.end()
+        end = usable[index + 1].start() if index + 1 < len(usable) else len(compact)
+        option_map[letter] = clean_enhanced_2023_field(compact[start:end])
+    if not all(option_text_quality(option_map[letter]) for letter in "ABCD"):
+        return None
+    question_text = clean_enhanced_2023_field(compact[: usable[0].start()])
+    return question_text, [f"{letter}. {option_map[letter]}" for letter in "ABCD"]
 
 
 def normalize_ocr_option_marker(value: str) -> str | None:
@@ -306,6 +375,94 @@ def parse_2024_ocr_choice_questions(item: dict[str, Any]) -> tuple[list[dict[str
                 "tags": ["历年真题", "综合知识", str(year), str(period or ""), "OCR抽取"],
             }
         )
+    return questions, warnings
+
+
+def load_enhanced_2023_item() -> dict[str, Any] | None:
+    if not ENHANCED_2023_V24_OCR.exists():
+        return None
+    return {
+        "year": 2023,
+        "period": "上半年",
+        "path": "F:\\备份项目\\2023年上半年\\2023.5系规划真题及解析(选择+案例）V2.4（参考答案）.pdf",
+        "markdown": str(ENHANCED_2023_V24_OCR.relative_to(ROOT)).replace("\\", "/"),
+        "relative_path": "pdf-skill-parsed\\past-exams-ocr\\2023年上半年\\2023.5系规划真题及解析-V2.4-ocr.md",
+    }
+
+
+def enhanced_2023_text() -> str:
+    return normalize_enhanced_2023_text(ENHANCED_2023_V24_OCR.read_text(encoding="utf-8", errors="ignore"))
+
+
+def split_enhanced_2023_choice_blocks(text: str) -> tuple[list[tuple[int, str, str]], list[str]]:
+    section = section_between(text, r"上\s*午\s*-\s*选\s*择\s*题", r"下\s*午\s*-\s*案\s*例\s*题")
+    matches = list(ENHANCED_2023_CHOICE_HEADING_RE.finditer(section))
+    rows: list[tuple[int, str, str]] = []
+    warnings: list[str] = []
+    for index, match in enumerate(matches):
+        number = int(match.group(1))
+        start = match.end()
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(section)
+        block = section[start:end].strip()
+        answer_match = ENHANCED_2023_ANSWER_RE.search(block)
+        if not answer_match:
+            warnings.append(f"choice_{number}: answer_missing")
+            continue
+        answer = normalize_2023_enhanced_answer(answer_match.group(1))
+        if not answer:
+            warnings.append(f"choice_{number}: answer_parse_failed")
+            continue
+        question_block = block[: answer_match.start()].strip()
+        question_block = re.sub(r"^\s*\d{1,2}\s*[、.]\s*", "", question_block)
+        rows.append((number, question_block, answer))
+    return rows, warnings
+
+
+def parse_enhanced_2023_choice_questions(item: dict[str, Any], text: str) -> tuple[list[dict[str, Any]], list[str]]:
+    questions: list[dict[str, Any]] = []
+    warnings: list[str] = []
+    rows, split_warnings = split_enhanced_2023_choice_blocks(text)
+    warnings.extend(split_warnings)
+    seen: set[int] = set()
+    for number, block, answer in rows:
+        if number in seen:
+            warnings.append(f"choice_{number}: duplicate_number")
+            continue
+        seen.add(number)
+        parsed = parse_options(block) or parse_inline_options(block) or parse_ocr_options(block)
+        if not parsed:
+            warnings.append(f"choice_{number}: option_parse_failed")
+            continue
+        question_text, options = parsed
+        if len(question_text) < 8:
+            warnings.append(f"choice_{number}: short_question")
+            continue
+        qid = f"pe_2023_h1_am_q{number:02d}"
+        questions.append(
+            {
+                "id": qid,
+                "year": 2023,
+                "period": "上半年",
+                "subject": "综合知识",
+                "number": number,
+                "question": question_text,
+                "options": options,
+                "answer": answer,
+                "explanation": "2023 上半年真题来源为 pdf-skill 增强 OCR 解析；原文解析请核对 source_ref。",
+                "chapter": "历年真题",
+                "source": "past_exam",
+                "question_type": "single_choice",
+                "difficulty": "medium",
+                "section": "2023上半年综合知识真题（pdf-skill增强OCR）",
+                "knowledge_point": "历年真题综合知识",
+                "source_ref": source_ref(item),
+                "source_pdf": item.get("path"),
+                "tags": ["历年真题", "综合知识", "2023", "上半年", "OCR抽取"],
+            }
+        )
+    missing = [number for number in range(1, 76) if number not in {item["number"] for item in questions}]
+    if missing:
+        warnings.append("choice_missing_after_enhanced_parse: " + ",".join(str(number) for number in missing))
     return questions, warnings
 
 
@@ -532,6 +689,130 @@ def split_2024_ocr_reference_answer(block: str) -> tuple[str, str]:
     if not match:
         return block.strip(), ""
     return block[: match.start()].strip(), block[match.end() :].strip()
+
+
+def split_enhanced_2023_case_blocks(text: str) -> list[tuple[int, str]]:
+    section = section_between(text, r"下\s*午\s*-\s*案\s*例\s*题")
+    matches = list(ENHANCED_2023_CASE_HEADING_RE.finditer(section))
+    blocks: list[tuple[int, str]] = []
+    for index, match in enumerate(matches):
+        start = match.start()
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(section)
+        blocks.append((int(match.group(1)), section[start:end].strip()))
+    return blocks
+
+
+def parse_enhanced_2023_case_answers(block: str) -> dict[str, str]:
+    refs: dict[str, str] = {}
+    matches = list(ENHANCED_2023_CASE_ANSWER_RE.finditer(block))
+    question_matches = list(ENHANCED_2023_CASE_QUESTION_RE.finditer(block))
+    for index, match in enumerate(matches):
+        number = match.group(1)
+        start = match.end()
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(block)
+        next_questions = [question.start() for question in question_matches if question.start() > match.end()]
+        if next_questions:
+            end = min(end, next_questions[0])
+        value = clean_text(block[start:end])
+        value = re.sub(r"(?m)^\s*【\s*郑房新老师点评\s*】.*$", "", value).strip()
+        if value:
+            if number not in refs or len(value) < len(refs[number]):
+                refs[number] = value
+    return refs
+
+
+def remove_enhanced_2023_case_answer_fragments(text: str) -> str:
+    lines: list[str] = []
+    skipping_answer = False
+    for raw_line in text.splitlines():
+        line = raw_line.strip()
+        if ENHANCED_2023_CASE_ANSWER_RE.search(line):
+            skipping_answer = True
+            continue
+        if skipping_answer:
+            if ENHANCED_2023_CASE_QUESTION_RE.match(line):
+                skipping_answer = False
+            else:
+                continue
+        lines.append(raw_line)
+    return clean_text("\n".join(lines))
+
+
+def parse_enhanced_2023_case_block(item: dict[str, Any], number: int, block: str) -> dict[str, Any] | None:
+    question_scan_block = block
+    answer_tail_match = re.search(r"(?m)^\s*答\s*案\s*解\s*析\s*$", block)
+    if answer_tail_match:
+        question_scan_block = block[: answer_tail_match.start()]
+    question_matches = [
+        match
+        for match in ENHANCED_2023_CASE_QUESTION_RE.finditer(question_scan_block)
+        if match.group(2) or clean_text(match.group(3) or "")
+    ]
+    if not question_matches:
+        return None
+    scenario_end = question_matches[0].start()
+    scenario = clean_text(block[:scenario_end])
+    scenario = re.sub(r"^\s*[（(]\s*2023\s*年\s*5\s*月\s*案例\s*题\s*\d+\s*[】)]\s*", "", scenario).strip()
+    if not scenario:
+        return None
+    reference_answers = parse_enhanced_2023_case_answers(block)
+    questions: list[dict[str, Any]] = []
+    for index, match in enumerate(question_matches):
+        question_number = match.group(1)
+        start = match.start()
+        end = question_matches[index + 1].start() if index + 1 < len(question_matches) else len(block)
+        if answer_tail_match:
+            end = min(end, answer_tail_match.start())
+        raw_question = remove_enhanced_2023_case_answer_fragments(block[start:end])
+        raw_question = re.sub(r"\n{2,}", "\n\n", raw_question)
+        if not raw_question:
+            continue
+        score = int(match.group(2)) if match.group(2) else parse_score(raw_question)
+        reference = reference_answers.get(question_number, "")
+        questions.append(
+            {
+                "id": f"pe_2023_h1_case{number}_q{question_number}",
+                "question": raw_question,
+                "question_type": "subjective",
+                "score": score,
+                "answer": reference,
+                "explanation": "2023 上半年案例答案来源为 pdf-skill 增强 OCR 解析；缺失或噪声处请结合 source_ref 原文人工核对。",
+            }
+        )
+    if not questions:
+        return None
+    fill_case_scores(questions)
+    total_score = sum(int(question.get("score") or 0) for question in questions) or 25
+    return {
+        "id": f"pe_2023_h1_case{number}",
+        "year": 2023,
+        "period": "上半年",
+        "subject": "案例分析",
+        "number": number,
+        "title": f"2023上半年案例试题{number}",
+        "scenario": scenario,
+        "questions": questions,
+        "difficulty": "hard",
+        "total_score": total_score,
+        "source": "past_exam",
+        "source_ref": source_ref(item),
+        "source_pdf": item.get("path"),
+        "tags": ["历年真题", "案例分析", "2023", "上半年", "OCR抽取"],
+    }
+
+
+def parse_enhanced_2023_case_studies(item: dict[str, Any], text: str) -> tuple[list[dict[str, Any]], list[str]]:
+    rows: list[dict[str, Any]] = []
+    warnings: list[str] = []
+    for number, block in split_enhanced_2023_case_blocks(text):
+        row = parse_enhanced_2023_case_block(item, number, block)
+        if row:
+            rows.append(row)
+        else:
+            warnings.append(f"case_{number}: parse_failed")
+    if not rows:
+        warnings.append("case_enhanced_2023: no_case_blocks")
+    return rows, warnings
 
 
 def parse_2024_case_reference_answers(answer_text: str) -> dict[str, str]:
@@ -770,6 +1051,24 @@ def dedupe_by_id(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return list(deduped.values())
 
 
+def add_enhanced_2023_rows(
+    choice_questions: list[dict[str, Any]],
+    case_studies: list[dict[str, Any]],
+    warnings: dict[str, list[str]],
+) -> None:
+    item = load_enhanced_2023_item()
+    if not item:
+        return
+    text = enhanced_2023_text()
+    choice_rows, choice_warnings = parse_enhanced_2023_choice_questions(item, text)
+    case_rows, case_warnings = parse_enhanced_2023_case_studies(item, text)
+    choice_questions.extend(choice_rows)
+    case_studies.extend(case_rows)
+    combined_warnings = [*choice_warnings, *case_warnings]
+    if combined_warnings:
+        warnings[item["relative_path"]] = combined_warnings[:30]
+
+
 def build_past_exam_bank() -> dict[str, Any]:
     manifest = load_manifest()
     files = [item for item in manifest.get("files", []) if item.get("category") == "past-exam" and item.get("markdown")]
@@ -794,6 +1093,7 @@ def build_past_exam_bank() -> dict[str, Any]:
             paper_topics.extend(rows)
             if warn:
                 warnings[item["relative_path"]] = warn[:20]
+    add_enhanced_2023_rows(choice_questions, case_studies, warnings)
     choice_questions = dedupe_by_id(choice_questions)
     case_studies = dedupe_by_id(case_studies)
     paper_topics = dedupe_by_id(paper_topics)
